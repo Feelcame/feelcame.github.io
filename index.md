@@ -3,5 +3,5 @@ layout: linker
 ---
 
 # Hello world!
-[LoL](/)
+[LoL](/)  
 [Google](http://google.com)
