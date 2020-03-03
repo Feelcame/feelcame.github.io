@@ -5,96 +5,93 @@
   <meta charset='utf-8'>
   <title>SmartSettings</title>
   <style>
-body {
-  background: #E9E5E2;
-}
+  body {
+    background: #E9E5E2;
+  }
 
-ul {
-  list-style: none;
-  margin: 0;
-  padding-left: 0;
-  margin-top: 25px;
-}
+  a.nav {
+    line-height: 300%;
+    text-decoration: none;
+    background: #30A896;
+    color: #fff;
+    margin: 5px;
+    padding: 10px;
+    font-family: arial;
+    border-radius: 5px;
+    -moz-transition: all 0.3s 0.01s ease;
+    -o-transition: all 0.3s 0.01s ease;
+    -webkit-transition: all 0.3s 0.01s ease;
+  }
 
-a {
-  text-decoration: none;
-  background: #30A896;
-  color: #fff;
-  padding: 10px;
-  font-family: arial;
-  border-radius: 4px;
-  -moz-transition: all 0.3s 0.01s ease;
-  -o-transition: all 0.3s 0.01s ease;
-  -webkit-transition: all 0.3s 0.01s ease;
-}
+  a:hover {
+    background: #1C85BB;
+  }
 
-a:hover {
-  background: #1C85BB;
-}
+  a.active {
+    background: #1C85BB;
+  }
 
-a.active {
-  background: #1C85BB;
-}
-
-li {
-  float: left;
-  margin-right: 5px;
-}
+  p {
+    margin: 5px;
+    padding: 5px;
+  }
   </style>
 </head>
 
 <body>
-  <ul>
-    <li><a class='' href='/'>User</a></li>
-    <li><a class='' href='/'>WiFi</a></li>
-    <li><a class='' href='/'>WiFi AP</a></li>
-    <li><a class='active' href='/clock'>Clock</a></li>
-    <li><a class='' href='/'>Alarm</a></li>
-    <li><a class='' href='/'>Sensors</a></li>
-    <li><a class='' href='/'>Remote sensors</a></li>
-  </ul><br><br>
+  <p>
+    <a class='nav' href='#/user'>User</a>
+    <a class='nav' href='#/wifi'>WiFi</a>
+    <a class='nav' href='#/wifiap'>WiFi&nbsp;AP</a>
+    <a class='nav active' href='#/clock'>Clock</a>
+    <a class='nav' href='#/alarm'>Alarm</a>
+    <a class='nav' href='#/sensors'>Sensors</a>
+    <a class='nav' href='#/remote'>Remote&nbsp;sensors</a>
+  </p>
   <hr>
-  <div>
-    <form name='clock' method='post' action='/'>
-      <p><input type='checkbox' name='NTPON' value='1' checked id='ntpon'><label for='ntpon'>Sync with time servers (NTP)</label></p>
-      <p><b>Date:</b><input type='date' name='DATE' max='2050-01-01' min='2018-01-01' value='2050-03-03'></p>
-      <p><b>Time:</b><input type='time' name='TIME' min='00:00' max='23:59' value='10:20' required></p>
-      <p><b>Time zone:</b><select class='timezone' name='ZONE' id='timezone' required>
-          <option value='-12.00'>(GMT -12:00) Eniwetok, Kwajalein</option>
-          <option value='-11.00'>(GMT -11:00) Midway Island, Samoa</option>
-          <option value='-10.00'>(GMT -10:00) Hawaii</option>
-          <option value='-9.00'>(GMT -9:00) Alaska</option>
-          <option value='-8.00'>(GMT -8:00) Pacific Time (US &amp; Canada)</option>
-          <option value='-7.00'>(GMT -7:00) Mountain Time (US &amp; Canada)</option>
-          <option value='-6.00'>(GMT -6:00) Central Time (US &amp; Canada), Mexico City</option>
-          <option value='-5.00'>(GMT -5:00) Eastern Time (US &amp; Canada), Bogota, Lima</option>
-          <option value='-4.00'>(GMT -4:00) Atlantic Time (Canada), Caracas, La Paz</option>
-          <option value='-3.50'>(GMT -3:-30) Newfoundland</option>
-          <option value='-3.00'>(GMT -3:00) Brazil, Buenos Aires, Georgetown</option>
-          <option value='-2.00'>(GMT -2:00) Mid-Atlantic</option>
-          <option value='-1.00'>(GMT -1:00) Azores, Cape Verde Islands</option>
-          <option value='0.00'>(GMT) Western Europe Time, London, Lisbon, Casablanca</option>
-          <option value='1.00'>(GMT +1:00) Brussels, Copenhagen, Madrid, Paris</option>
-          <option value='2.00' selected>(GMT +2:00) Kyiv, Kaliningrad, South Africa</option>
-          <option value='3.00'>(GMT +3:00) Baghdad, Riyadh, Moscow, St. Petersburg</option>
-          <option value='3.50'>(GMT +3:30) Tehran</option>
-          <option value='4.00'>(GMT +4:00) Abu Dhabi, Muscat, Baku, Tbilisi</option>
-          <option value='4.50'>(GMT +4:30) Kabul</option>
-          <option value='5.00'>(GMT +5:00) Ekaterinburg, Islamabad, Karachi, Tashkent</option>
-          <option value='5.50'>(GMT +5:30) Bombay, Calcutta, Madras, New Delhi</option>
-          <option value='5.75'>(GMT +5:45) Kathmandu</option>
-          <option value='6.00'>(GMT +6:00) Almaty, Dhaka, Colombo</option>
-          <option value='7.00'>(GMT +7:00) Bangkok, Hanoi, Jakarta</option>
-          <option value='8.00'>(GMT +8:00) Beijing, Perth, Singapore, Hong Kong</option>
-          <option value='9.00'>(GMT +9:00) Tokyo, Seoul, Osaka, Sapporo, Yakutsk</option>
-          <option value='9.50'>(GMT +9:30) Adelaide, Darwin</option>
-          <option value='10.00'>(GMT +10:00) Eastern Australia, Guam, Vladivostok</option>
-          <option value='11.00'>(GMT +11:00) Magadan, Solomon Islands, New Caledonia</option>
-          <option value='12.00'>(GMT +12:00) Auckland, Wellington, Fiji, Kamchatka</option>
-        </select><br><br></p>
-      <p><input type='submit' value='Submit'></p>
-    </form>
-  </div>
+  <p>
+    <div>
+      <form name='clock' method='post' action='/'>
+        <p><input type='checkbox' name='NTPON' value='1' checked id='ntpon'><label for='ntpon'>Sync with time servers (NTP)</label></p>
+        <p><b>Date:</b><input type='date' name='DATE' max='2050-01-01' min='2018-01-01' value='2050-03-03'></p>
+        <p><b>Time:</b><input type='time' name='TIME' min='00:00' max='23:59' value='10:20' required></p>
+        <p><b>Time zone:</b><select class='timezone' name='ZONE' id='timezone' required>
+            <option value='-12.00'>(GMT -12:00) Eniwetok, Kwajalein</option>
+            <option value='-11.00'>(GMT -11:00) Midway Island, Samoa</option>
+            <option value='-10.00'>(GMT -10:00) Hawaii</option>
+            <option value='-9.00'>(GMT -9:00) Alaska</option>
+            <option value='-8.00'>(GMT -8:00) Pacific Time (US &amp; Canada)</option>
+            <option value='-7.00'>(GMT -7:00) Mountain Time (US &amp; Canada)</option>
+            <option value='-6.00'>(GMT -6:00) Central Time (US &amp; Canada), Mexico City</option>
+            <option value='-5.00'>(GMT -5:00) Eastern Time (US &amp; Canada), Bogota, Lima</option>
+            <option value='-4.00'>(GMT -4:00) Atlantic Time (Canada), Caracas, La Paz</option>
+            <option value='-3.50'>(GMT -3:-30) Newfoundland</option>
+            <option value='-3.00'>(GMT -3:00) Brazil, Buenos Aires, Georgetown</option>
+            <option value='-2.00'>(GMT -2:00) Mid-Atlantic</option>
+            <option value='-1.00'>(GMT -1:00) Azores, Cape Verde Islands</option>
+            <option value='0.00'>(GMT) Western Europe Time, London, Lisbon, Casablanca</option>
+            <option value='1.00'>(GMT +1:00) Brussels, Copenhagen, Madrid, Paris</option>
+            <option value='2.00' selected>(GMT +2:00) Kyiv, Kaliningrad, South Africa</option>
+            <option value='3.00'>(GMT +3:00) Baghdad, Riyadh, Moscow, St. Petersburg</option>
+            <option value='3.50'>(GMT +3:30) Tehran</option>
+            <option value='4.00'>(GMT +4:00) Abu Dhabi, Muscat, Baku, Tbilisi</option>
+            <option value='4.50'>(GMT +4:30) Kabul</option>
+            <option value='5.00'>(GMT +5:00) Ekaterinburg, Islamabad, Karachi, Tashkent</option>
+            <option value='5.50'>(GMT +5:30) Bombay, Calcutta, Madras, New Delhi</option>
+            <option value='5.75'>(GMT +5:45) Kathmandu</option>
+            <option value='6.00'>(GMT +6:00) Almaty, Dhaka, Colombo</option>
+            <option value='7.00'>(GMT +7:00) Bangkok, Hanoi, Jakarta</option>
+            <option value='8.00'>(GMT +8:00) Beijing, Perth, Singapore, Hong Kong</option>
+            <option value='9.00'>(GMT +9:00) Tokyo, Seoul, Osaka, Sapporo, Yakutsk</option>
+            <option value='9.50'>(GMT +9:30) Adelaide, Darwin</option>
+            <option value='10.00'>(GMT +10:00) Eastern Australia, Guam, Vladivostok</option>
+            <option value='11.00'>(GMT +11:00) Magadan, Solomon Islands, New Caledonia</option>
+            <option value='12.00'>(GMT +12:00) Auckland, Wellington, Fiji, Kamchatka</option>
+          </select><br><br></p>
+        <p><input type='submit' value='Submit'></p>
+      </form>
+    </div>
+  </p>
 </body>
 
 </html>
