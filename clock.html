@@ -4,13 +4,20 @@
 <head>
   <meta charset='utf-8'>
   <title>SmartSettings</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.25">
   <style>
   body {
     background: #E9E5E2;
-    max-width: 900px;
+    max-width: 800px;
     margin: 0 auto;
-    padding: 0 0px;
+    padding: 5px 10px;
+	border: 1px dotted #a2a2a2;
+  }
+  
+  header {
+  margin: 0px auto;
+  //padding: 0 0px;
+  text-align:center;
   }
 
   a.nav {
@@ -43,7 +50,7 @@
 </head>
 
 <body>
-  <p>
+  <header>
     <a class='nav' href='#/user'>User</a>
     <a class='nav' href='#/wifi'>WiFi</a>
     <a class='nav' href='#/wifiap'>WiFi&nbsp;AP</a>
@@ -51,9 +58,9 @@
     <a class='nav' href='#/alarm'>Alarm</a>
     <a class='nav' href='#/sensors'>Sensors</a>
     <a class='nav' href='#/remote'>Remote&nbsp;sensors</a>
-  </p>
+  </header>
   <hr>
-  <p>
+  <main>
     <form name='clock' method='get' action='index.html'>
       <p><input type='checkbox' name='NTPON' value='1' checked id='ntpon'><label for='ntpon'>Sync with time servers (NTP)</label></p>
       <p><b>Date:</b><input type='date' name='DATE' max='2050-01-01' min='2018-01-01' value='2020-03-03'></p>
@@ -93,8 +100,14 @@
         </select><br><br></p>
       <p><input type='submit' value='Submit'></p>
     </form>
-  </p>
-  <p style="text-align:center"><img src="https://unsplash.it/500/550?image=116"></p>
+	<p id="info"></p>
+	<p style="text-align:center"><img src="https://unsplash.it/500/550?image=116"></p>
+	</main>
+  <aside></aside>
+  <hr>
+  <footer>
+  <p>&copy; 2020, RF-Engineering</p>
+  </footer>
 </body>
 
 </html>
