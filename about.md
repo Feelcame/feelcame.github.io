@@ -13,6 +13,11 @@
 Проверка. site.show_downloads? 
 {% if site.show_downloads %}Сработало!{% endif %}  
 
+Переменные. 
+site.copyright: {{ site.copyright | default: © }}; 
+site.github.owner_url: {{ site.github.owner_url }}; 
+site.github.owner_name: {{ site.github.owner_name }}.  
+
 Скрипт комментариев, который должен подгрузить iframe:  
 
 <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>
