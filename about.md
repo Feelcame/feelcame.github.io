@@ -25,7 +25,11 @@ site.show_downloads: {{ site.show_downloads }}.
 site.copyright: {{ site.copyright | default: © }};  
 site.github.owner_url: {{ site.github.owner_url }};  
 site.github.owner_name: {{ site.github.owner_name }};  
-site.layout: {{ site.layout }}.  
+site.layout: {{ site.layout }};  
+page.layout: {{ page.layout }};  
+
+Логическое "или":  
+page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }}.  
 
 Скрипт комментариев, который должен подгрузить iframe:  
 
