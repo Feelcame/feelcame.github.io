@@ -10,14 +10,14 @@ jjjj
 
 if site.github.is_project_page:  
 {% if site.github.is_project_page %}
-  <a href="{{ site.github.repository_url }}">Repository</a>
+  <a href="{{ site.github.repository_url }}">Repository</a>  
   если видно, значит да  
 {% endif %}
 
 if site.show_downloads?  
 {% if site.show_downloads %}
   если видно, значит да   
-  <a href="{{ site.github.tar_url }}" class="btn">Contacts.tar.gz</a>
+  <a href="{{ site.github.tar_url }}">Contacts.tar.gz</a>
 {% endif %}
 endif
 .
