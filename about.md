@@ -14,8 +14,8 @@
 {% if site.show_downloads %}Сработало!{% endif %}  
 
 Переменные логические:  
-{{ site.github.is_project_page }};  
-{{ site.show_downloads }};  
+site.github.is_project_page: {{ site.github.is_project_page }};  
+site.show_downloads: {{ site.show_downloads }}.  
 
 Переменные.  
 site.copyright: {{ site.copyright | default: © }};  
