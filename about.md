@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # about1
 Просто тестирую как работает Lykyll :)  
 
@@ -20,8 +24,8 @@ site.show_downloads: {{ site.show_downloads }}.
 Переменные.  
 site.copyright: {{ site.copyright | default: © }};  
 site.github.owner_url: {{ site.github.owner_url }};  
-site.github.owner_name: {{ site.github.owner_name }}.  
-
+site.github.owner_name: {{ site.github.owner_name }};  
+site.layout: {{ site.layout }}.  
 
 Скрипт комментариев, который должен подгрузить iframe:  
 
