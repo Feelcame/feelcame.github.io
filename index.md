@@ -1,5 +1,5 @@
 ---
-layout: linker
+layout: home
 ---
 
 # Hello world!
