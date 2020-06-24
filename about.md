@@ -3,8 +3,8 @@
 
 
 [Repository]({{ site.github.repository_url }})  
-[.zip]({{ site.github.zip_url }})  
-[.tar.gz]({{ site.github.tar_url }})  
+[Скачать.zip]({{ site.github.zip_url }})  
+[Скачать.tar.gz]({{ site.github.tar_url }})  
 .  
 .  
 Простая ссылка "a href": <a href="{{ site.github.zip_url }}">Видно?.zip</a>  
