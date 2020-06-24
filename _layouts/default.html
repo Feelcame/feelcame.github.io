@@ -22,13 +22,11 @@
       <a href="/" class="btn">&#127968; Home</a>
       <a href="/news/" class="btn">&#128512; News</a>
       <a href="/products/" class="btn">Products</a>
-      <a href="{{ site.github.zip_url }}" class="btn">Downloads.zip</a>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">Repository</a>
-      {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.github.tar_url }}" class="btn">Contacts.tar.gz</a>
+        <a href="/media" class="btn">Downloads</a>
       {% endif %}
+      <a href="{{ site.github.repository_url }}" class="btn">Repository</a>
+      <a href="/about" class="btn">Contacts</a>
       <a href="/about" class="btn">About</a>
     </header>
 
