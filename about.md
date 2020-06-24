@@ -1,7 +1,7 @@
 # about1
 Просто тестирую как работает Lykyll :)  
   
-Ссылки вида "site.github.repository_url". (подробнее смотри исходники)
+Ссылки вида "site.github.repository_url". (подробнее смотри исходники)  
 [Repository]({{ site.github.repository_url }})  
 [Скачать.zip]({{ site.github.zip_url }})  
 [Скачать.tar.gz]({{ site.github.tar_url }})  
