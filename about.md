@@ -13,10 +13,15 @@
 Проверка. site.show_downloads? 
 {% if site.show_downloads %}Сработало!{% endif %}  
 
+Переменные логические:  
+{{ site.github.is_project_page }};  
+{{ site.show_downloads }};  
+
 Переменные.  
 site.copyright: {{ site.copyright | default: © }};  
 site.github.owner_url: {{ site.github.owner_url }};  
 site.github.owner_name: {{ site.github.owner_name }}.  
+
 
 Скрипт комментариев, который должен подгрузить iframe:  
 
