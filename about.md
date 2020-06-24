@@ -13,9 +13,9 @@
 Проверка. site.show_downloads? 
 {% if site.show_downloads %}Сработало!{% endif %}  
 
-Переменные. 
-site.copyright: {{ site.copyright | default: © }}; 
-site.github.owner_url: {{ site.github.owner_url }}; 
+Переменные.  
+site.copyright: {{ site.copyright | default: © }};  
+site.github.owner_url: {{ site.github.owner_url }};  
 site.github.owner_name: {{ site.github.owner_name }}.  
 
 Скрипт комментариев, который должен подгрузить iframe:  
