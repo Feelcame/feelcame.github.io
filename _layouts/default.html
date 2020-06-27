@@ -52,11 +52,8 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <a href="#content">Skip to the content.</a>
+        <a href="#content" onclick="alert(event.type)">Top</a>
       </footer>
     </main>
-    <script>
-      if (window.location.hash == '#content'){ alert (1);}
-    </script>
   </body>
 </html>
