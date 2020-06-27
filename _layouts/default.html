@@ -52,7 +52,18 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-        <a href="#content" onclick="alert(event.type)">Top</a>
+		<a href="#content" onclick="showNav()">Top</button>
+
+<script>
+function showNav() {
+  var x = document.getElementsByClassName("btn");
+  var i;
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "block";
+  }
+}
+</script>
+
       </footer>
     </main>
   </body>
