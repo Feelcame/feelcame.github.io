@@ -19,17 +19,20 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/" class="btn">&#127968; Home</a>
-      <a href="/news/" class="btn">News</a>
-      <a href="/products/" class="btn">Products</a>
-      <a href="{{ site.github.zip_url }}" class="btn">Downloads.zip</a>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">Repository</a>
-      {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ site.github.tar_url }}" class="btn">Contacts.tar.gz</a>
-      {% endif %}
+      <a href="/" class="btn" id="home">&#127968; Home</a>
+      <a href="/news/" class="btn">&#128512; News</a>
+      <a href="/products/" class="btn">Products</a>
+      <a href="/dl" class="btn">Downloads</a>
+      <a href="{{ site.github.repository_url }}" class="btn">Repository</a>
+      <a href="/about" class="btn">Contacts</a>
       <a href="/about" class="btn">About</a>
+      {% endif %}
+      <div id="nav" style="">  
+      </div>
+      
+      
+      
     </header>
 
     <main id="content" class="main-content" role="main">
