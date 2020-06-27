@@ -27,7 +27,7 @@ site.github.owner_url: {{ site.github.owner_url }};
 site.github.owner_name: {{ site.github.owner_name }};  
 site.layout: {{ site.layout }};  
 page.layout: {{ page.layout }};  
-site.github.is_user_page: {{ page.site.github.is_user_page }};  
+site.is_user_page: {{ page.site.github.is_user_page }};  
 
 Логическое "или":  
 page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }};  
