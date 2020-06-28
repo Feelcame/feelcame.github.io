@@ -1,5 +1,7 @@
 ---
 layout: default
+type: Journal
+modified: 2020-06-29T00:26:53+03:00
 ---
 
 # about1
@@ -27,7 +29,7 @@ site.github.is_project_page: {{ site.github.is_project_page }};
 site.show_downloads: {{ site.show_downloads }};  
 
 Переменные.  
-site.copyright: {{ site.copyright | default: © }};  
+site.copyright: {{ site.copyright | default: :copyright: }};  
 site.github.owner_url: {{ site.github.owner_url }};  
 site.github.owner_name: {{ site.github.owner_name }};  
 site.layout: {{ site.layout }};  
