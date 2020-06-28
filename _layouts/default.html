@@ -14,12 +14,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
     @media all and (max-width: 575px) {
-      header .btn {
-        display: none;
-      }
-      header .btn#home {
-        display: block;
-      }
+      header .btn { display: none; }
+      header .btn#nav { display: block; }
     }
     </style>
   </head>
@@ -40,7 +36,7 @@
       <a href="/about" class="btn" >About</a>
       {% endif %}
       </div>
-      <a href="#" class="btn" onclick="document.getElementsById('nav').style.display='block';">Navigation</a>
+      <a href="#" id="nav" class="btn" onclick="document.getElementsById('nav').style.display='block';">Navigation</a>
     </header>
 
     <main id="content" class="main-content" role="main">
