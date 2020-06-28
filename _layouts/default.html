@@ -13,8 +13,29 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <style>
+	    
+ a#vverh {
+ display: block;
+ position: fixed;
+ margin-left: -100%; /* своё значение */ 
+ margin-left: calc(-100% - 0em); /* вместо 7em своё значение */
+ padding: 100% 1% 0 99%;
+ bottom: 0;
+ font: 11px/100% Arial, Helvetica, sans-serif;
+ text-decoration: none;
+ color: #bbb;
+ -webkit-transition: 1s;
+ transition: 1s;
+}
+a#vverh:before {
+ position: absolute;
+ content: url(http://linker.pp.ua/assets/img/strelka.png);
+ margin: -55px 0 0 -12px;
+}
+a#vverh:hover {color: #000; background-color: rgba(0,0,0,.3);}
+
+  
     header #navButton { display: none; }
-    
     @media all and (max-width: 575px) {
       header #nav { display: none; }
       header #navButton { display: block; }
@@ -49,7 +70,7 @@
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-		<a href="#content" class=""goTop onclick="showNav()">Top</button>
+		<a href="#content" id="vverh" onclick="showNav()">Top</button>
 
 <script>
 function showNav() {
