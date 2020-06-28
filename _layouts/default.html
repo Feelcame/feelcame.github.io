@@ -43,6 +43,7 @@ a#vverh:hover {color: #000; background-color: rgba(0,0,0,.3);}
     </style>
   </head>
   <body>
+<a href="#content" id="vverh" onclick="showNav()">Top</button>
     <a id="skip-to-content" href="#content">Там чуточку выше появилась навигация</a>
 
     <header class="page-header" role="banner">
@@ -70,16 +71,13 @@ a#vverh:hover {color: #000; background-color: rgba(0,0,0,.3);}
         {% if site.github.is_project_page %}
           <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
         {% endif %}
-		<a href="#content" id="vverh" onclick="showNav()">Top</button>
-
-<script>
-function showNav() {
-	document.getElementById('nav').style.display='block'; 
-	document.getElementById('navButton').style.display='none';
-}
-</script>
-
       </footer>
     </main>
-  </body>
+<script>
+function showNav() {
+document.getElementById('nav').style.display='block'; 
+document.getElementById('navButton').style.display='none';
+}
+</script>
+</body>
 </html>
