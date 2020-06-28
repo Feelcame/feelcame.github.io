@@ -2,7 +2,7 @@
 layout: linker
 ---
 
-# для тестов
+# для тестов mgit
 ## Hello world!
 [LoL](/)  
 [Google](http://google.com)
