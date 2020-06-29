@@ -19,20 +19,19 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <a href="#" id="navButton" class="btn" onclick="showNav();">Показать навигацию</a>
       {% if site.show_downloads %}
-      <a href="/" class="btn" id="home">&#127968; Home</a>
-      <a href="/news/" class="btn">&#128512; News</a>
-      <a href="/products/" class="btn">Products</a>
-      <a href="/dl" class="btn">Downloads</a>
-      <a href="{{ site.github.repository_url }}" class="btn">Repository</a>
-      <a href="/about" class="btn">Contacts</a>
-      <a href="/about" class="btn">About</a>
+      <div id="nav" style="">
+      <a href="/" class="btn" id="home">&#127968; Главная</a>
+      <a href="/news/" class="btn">&#128512; Новости</a>
+      <a href="/products/" class="btn">Продукты</a>
+      <a href="/dl" class="btn">Загрузки</a>
+      <a href="{{ site.github.repository_url }}" class="btn">Репозиторий</a>
+      <a href="/about" class="btn">Контакты</a>
+      <a href="/about" class="btn" >О нас!</a>
       {% endif %}
-      <div id="nav" style="">  
       </div>
-      
-      
-      
+
     </header>
 
     <main id="content" class="main-content" role="main">
