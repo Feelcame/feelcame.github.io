@@ -5,11 +5,11 @@ title: Production
 
 # Prod
 
-  .  этот сайт [linker.pp.ua](http://linker.pp.ua)
-  .  другой сайт сайт [lister.pp.ua](http://lister.pp.ua)
-  .  Канал про фильмы [FilmsRM](https://t.me/FilmsRM)
-  .  Канал про софт [FeelSoft](https://t.me/FeelSoft)
-  .  Коллекция книг по электронике [g-docs](#)
+* этот сайт [linker.pp.ua](http://linker.pp.ua)  
+* другой сайт сайт [lister.pp.ua](http://lister.pp.ua)  
+* Канал про фильмы [FilmsRM](https://t.me/FilmsRM)  
+* Канал про софт [FeelSoft](https://t.me/FeelSoft)  
+* Коллекция книг по электронике [g-docs](#)  
   .  
   .  
   .  
