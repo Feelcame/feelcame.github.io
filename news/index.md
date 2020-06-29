@@ -4,7 +4,7 @@ created: 2020-06-29T11:55:58+03:00
 modified: 2020-06-29T11:55:58+03:00
 ---
 
-# News index
+# Новости тут!
 * 
 * [S-Parameter Analyzer](./200624_spa.md)
 * [Парсер markoown](./200409_md_to_html.md)
