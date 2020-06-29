@@ -1,9 +1,9 @@
 ---
 modified: 2020-06-24T23:59:38+03:00
-title: Production
+title: Продукты
 ---
 
-# Prod
+# Прикольные штуки, которые я слелал или делаю сейчас
 
 * этот сайт [linker.pp.ua](http://linker.pp.ua)  
 * другой сайт сайт [lister.pp.ua](http://lister.pp.ua)  
