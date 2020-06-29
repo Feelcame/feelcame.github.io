@@ -5,7 +5,6 @@ modified: 2020-06-29T11:55:58+03:00
 ---
 
 # Новости тут!
-* 
 * [S-Parameter Analyzer](./200624_spa.md)
 * [Парсер markoown](./200409_md_to_html.md)
 * [Разработка прог Android](200628_android_dev.md)
