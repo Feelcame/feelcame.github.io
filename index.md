@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Главная
+title: Linker
 modified: 2020-06-29T00:24:08+03:00
 ---
 
