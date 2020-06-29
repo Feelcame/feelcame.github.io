@@ -10,8 +10,9 @@ modified: 2020-06-29T00:19:30+03:00
 Также рекомендую посмотеть [альтернативный каталог](https://t.me/feelsoft) от автора сайта.  
 
 Сколько лучших программ Вам показать?  
-Прожки на каждый день:
-@FeelSoft
+
+Windows. | [10](#win10) | [30](#win30) | [60](#win60) | [100](#win100) | [Все!](#winALL)  
+Android. | [10](#a10) | [30](#a10) | [60](#a10) | [100](#a10) | [Все!](#a10)  
 
 [📞 Офис](https://t.me/joinchat/AAAAAFHUthjco1aL8s6xGw)  
 [🎥 Мультимедиа](https://t.me/joinchat/AAAAAE9c0F6m9wLX2V-RrQ)  
@@ -23,6 +24,3 @@ modified: 2020-06-29T00:19:30+03:00
 [🚛 Драйверы](https://t.me/joinchat/AAAAAFL3QA8fhgJ6cLwnmQ)  
 [💣](https://t.me/joinchat/FseSdQ_nR7hHRKjsDAffsw) [Разработка](https://t.me/joinchat/AAAAAFPYSVVsf6RTBjHNQQ)  
 [⌚️ @FeelSoftAn](https://t.me/FeelSoftAn)
-
-Windows. | [10](#win10) | [30](#win30) | [60](#win60) | [100](#win100) | [Все!](#winALL)  
-Android. | [10](#a10) | [30](#a10) | [60](#a10) | [100](#a10) | [Все!](#a10)  
