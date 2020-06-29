@@ -7,7 +7,7 @@ modified: 2020-06-29T00:24:54+03:00
 # Фильмецы
 
 Список ботов в телеграме для просмотра фильмов:
-* [@FilmsRM](https://t.me/рееFilmsRM) - только лучшие фильмы
+* [@FilmsRM](https://t.me/FilmsRM) - только лучшие фильмы
 * [@MotherMoviesBot](https://t.me/MotherMoviesBot) - Подберу фильмы на твой вкус.
 * [@kinomanbot](https://t.me/kinomanbot) - инлайн поиск инфы + ссылки на онлайнкинотеатры
 * [@online_filmy](ohttps://t.me/online_filmy) - выкладывают фильмы иногда
