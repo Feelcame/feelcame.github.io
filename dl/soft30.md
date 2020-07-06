@@ -1,22 +1,22 @@
 ---
 created: 2020-07-05T15:39:32+03:00
-modified: 2020-07-05T15:55:48+03:00
+modified: 2020-07-06T23:04:06+03:00
 title: Софт топ 10
 ---
 
 Самые важные 10 программ на компе
 
 
-**:telephone_receiver: Офис**
+**Офис**
 1. Word
 1. Excel
 1. PowerPoint
 
-**:movie_camera: Мультимедиа**
+**Мультимедиа**
 1. PotPlayer
 1. AIMP
 
-**:earth_americas: Интернет**
+**Интернет**
 1. Browser
 1. Adblock
 
@@ -24,28 +24,30 @@ title: Софт топ 10
 1. Adblock
 1. DarkReader
 
-**:kiss: Общение**
+**Общение**
 1. Telegram
 1. Thunderbird
 
-**🇺🇦 Система**
+**Система**
 1. total  commander
 1. Uninstall tool
 
-**:closed_lock_with_key: Безопасность**
+**Безопасность**
 1. Unchecky
 1. AdwCleaner
 
-**:minidisc: USB/CD/DVD**
+**USB/CD/DVD**
 1. Rufus
 1. Nero
 
-**:articulated_lorry: Драйверы**
+**Драйверы**
 1. Snappy Driver Installer
 1. На видяху
 
-**[:bomb:](#) Разработка**
+**Разработка**
 1. Notepad++
 1. Arduino
 
-**[:watch: @FeelSoftAn](https://t.me/FeelSoftAn)**
+
+### [Смотрите топ 100 программ](soft100.md)
+### [А также для Android](https://t.me/FeelSoftAn)
