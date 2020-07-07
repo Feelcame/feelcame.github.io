@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-07-06T23:10:35+03:00
+modified: 2020-07-07T20:54:43+03:00
 ---
 
 # Прожки  
@@ -13,8 +13,8 @@ modified: 2020-07-06T23:10:35+03:00
 
 Сколько лучших программ Вам показать?  
 
-Windows. | [10](#soft10) | [30](soft30.md) | [60](#soft60) | [100](win100.md) | [Все!](https://t.me/feelsoft)  
-Android. | [10](#a10) | [30](#a10) | [60](#a10) | [100](#a10) | [Все!](#a10)  
+Windows | [30](soft30.md) | [100](win100.md) | [Все!](https://t.me/feelsoft)  
+Android | [30](#a30) | [100](#a100) | [Все!](#all)  
 
 
 [Офис](https://t.me/joinchat/AAAAAFHUthjco1aL8s6xGw)  
