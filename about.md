@@ -1,16 +1,27 @@
 ---
 layout: default
 type: Journal
-modified: 2020-06-29T00:26:53+03:00
+modified: 2020-07-10T13:59:54+03:00
 ---
 
-# about1
-Просто тестирую как работает Lykyll :)  
+# О нас 
 
-Сделать:  
-- [x] Сворачиваемую навигацию для телефонов  
-- [ ] Кнопочку "вверх" чтобы летала справа внизу  
-- [ ] Чтобы нажатие кнопки вверх разворачивало навигацию и оповещало об этом строкой над "content"  
+Сайт для себя. 
+Целью ставится быстрый доступ к годному контенту.
+
+Если у Вас есть вопросы или предложения, прошу писать в телеграм или на почту:
+feelcame.at.ya.ru
+https://t.me/feelcame
+
+Также, если Вам очень нравится собранная здесь информация, вы можете скинуть мне на вкусняшки:
+* [На кофе](https://t.me/feelpowerbot?start=tea)
+* [На пончик](https://t.me/feelpowerbot?start=tea)
+* [На торт](https://t.me/feelpowerbot?start=tea)
+* [На Jameson ](https://t.me/feelpowerbot?start=tea)
+* [На дальнейшие разботки](https://t.me/feelpowerbot?start=tea)
+
+
+
 
 Ссылки вида "site.github.repository_url". (подробнее смотри исходники)  
 [Repository]({{ site.github.repository_url }})  
