@@ -1,7 +1,7 @@
 ---
 layout: default
 type: Journal
-modified: 2020-07-10T14:26:04+03:00
+modified: 2020-07-10T15:22:47+03:00
 ---
 
 # О нас 
@@ -13,7 +13,7 @@ modified: 2020-07-10T14:26:04+03:00
 feelcame.at.ya.ru
 https://t.me/feelcame
 
-Также, если Вам очень нравится собранная здесь информация, вы можете скинуть мне на вкусняшки:
+Также, если Вам очень нравится собранная здесь информация, можете скинуть мне на вкусняшки:
 * [На кофе](https://t.me/feelpowerbot?start=tea)
 * [На пончик](https://t.me/feelpowerbot?start=tea)
 * [На торт](https://t.me/feelpowerbot?start=tea)
