@@ -1,7 +1,7 @@
 ---
 layout: default
 type: Journal
-modified: 2020-07-10T21:18:58+03:00
+modified: 2020-07-10T21:21:23+03:00
 ---
 
 # О нас
@@ -10,8 +10,8 @@ modified: 2020-07-10T21:18:58+03:00
 Целью ставится быстрый доступ к годному контенту.
 
 Если у Вас есть вопросы или предложения, прошу писать в телеграм или на почту:  
-[Feelcame(at)ya.ru](mailto:mljaaa@ya.ru)  
-[Feelcame(at)t.me](https://t.me/feelcame)
+[Feelcame (at) ya.ru](mailto:mljaaa@ya.ru)  
+[Feelcame (at) t.me](https://t.me/feelcame)
 
 Также, если Вам очень нравится собранная здесь информация, можете скинуть мне на вкусняшки:  
 * [На кофе :coffee:](https://t.me/feelpowerbot?start=tea)
