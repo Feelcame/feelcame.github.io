@@ -1,19 +1,13 @@
 ---
 created: 2020-06-30T21:32:11+03:00
-modified: 2020-06-30T22:34:46+03:00
+modified: 2020-07-13T00:34:50+03:00
 title: Переменные Jekyll
 ---
 
+# About 
 Здесь немножко о переменных, которые использует компилятор страниц на GitHub Pages.
 .
-.
-# about1
 Просто тестирую как работает Lykyll :)  
-
-Сделать:  
-- [x] Сворачиваемую навигацию для телефонов  
-- [ ] Кнопочку "вверх" чтобы летала справа внизу  
-- [ ] Чтобы нажатие кнопки вверх разворачивало навигацию и оповещало об этом строкой над "content"  
 
 Ссылки вида "site.github.repository_url". (подробнее смотри исходники)  
 [Repository]({{ site.github.repository_url }})  
@@ -40,8 +34,4 @@ page.layout: {{ page.layout }};
 site.github.is_user_page: {{ site.github.is_user_page }};  
 
 Логическое "или":  
-page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }};  
-
-Скрипт комментариев, который должен подгрузить iframe:  
-
-<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>
+page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }};
