@@ -1,29 +1,21 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-07-11T10:29:39+03:00
+modified: 2020-07-16T01:48:06+03:00
 ---
 
 # Прожки  
-Весь предоставленный контент вы скачиваете на свой страх и риск.  
 
-Сколько лучших программ Вам показать?  
+Вы сами выбираете сколько наиоднейших программ увидите!
+  
+Программы  для windows:
+Показать лучшие: |  [ТОП 30](soft30.md) | [ТОП 100](soft100.md) | [Вся коллекция!](https://t.me/feelsoft)  
 
-Windows | [30](soft30.md) | [100](win100.md) | [Все!](https://t.me/feelsoft)  
-Android | [30](#a30) | [100](#a100) | [Все!](#all)  
+Программы Android:
+Лучшее на Android: | [топ 30](#a30) | [топ 100](#a100) | [Вся коллекция!](https://t.me/feelsoftan)  
 
+Весь предоставленный контент вы скачиваете на свой страх и риск.
 
 Для загрузки нужно быть подписанным на канал в телеграм, иначе ссылки не будут работать.  
 
-Также рекомендую посмотеть [альтернативный каталог](https://t.me/feelsoft) от автора сайта.  
-
-[Офис](https://t.me/joinchat/AAAAAFHUthjco1aL8s6xGw)  
-[Мультимедиа](https://t.me/joinchat/AAAAAE9c0F6m9wLX2V-RrQ)  
-[Интернет](https://t.me/joinchat/AAAAAE2IYcNIAvKBaCN5HA)  
-[Общение](https://t.me/joinchat/AAAAAFe6-vYjcd_85zXW3A)  
-[Система](https://t.me/joinchat/AAAAAFQXTU0pDabIGNXCIA)  
-[Безопасность](https://t.me/joinchat/AAAAAFaCsJCHsnFDm9EPPg)  
-[CD/DVD](https://t.me/joinchat/AAAAAFiM3xLqsjsYBFNWSQ)  
-[Драйверы](https://t.me/joinchat/AAAAAFL3QA8fhgJ6cLwnmQ)  
-[Разработка](https://t.me/joinchat/AAAAAFPYSVVsf6RTBjHNQQ)  
-[@FeelSoftAn](https://t.me/FeelSoftAn)
+Также рекомендую посмотеть альтернативный [каталог в телеге](https://t.me/feelsoft) от автора сайта.
