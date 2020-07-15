@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-07-16T01:53:36+03:00
+modified: 2020-07-16T01:55:38+03:00
 ---
 
 # Прожки  
@@ -23,3 +23,5 @@ modified: 2020-07-16T01:53:36+03:00
 И архив файлов:  
 [Windows](https://t.me/feelsoft)  
 [**Android**](https://t.me/feelsoftan)
+
+[**Donate!**](/beta/donate.md)
