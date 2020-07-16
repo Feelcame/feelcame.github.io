@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Linker
-modified: 2020-06-29T00:24:08+03:00
+modified: 2020-07-16T13:30:38+03:00
 ---
 
 #  Главная
@@ -18,6 +18,3 @@ modified: 2020-06-29T00:24:08+03:00
 
 ## Интересные ресурсы:
 http://tegos.ru
-
-
-<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>
