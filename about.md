@@ -1,7 +1,7 @@
 ---
 layout: default
 created: 2020-05-10T21:39:06+03:00
-modified: 2020-07-10T21:39:06+03:00
+modified: 2020-07-16T13:27:53+03:00
 title: О нас
 ---
 
@@ -15,11 +15,11 @@ title: О нас
 [Feelcame (at) t.me](https://t.me/feelcame)
 
 Также, если Вам очень нравится собранная здесь информация, можете скинуть мне на вкусняшки:  
-* [На кофе :coffee:](https://t.me/feelpowerbot?start=tea)
-* [На пончик :doughnut:](https://t.me/feelpowerbot?start=tea)
-* [На торт :cake:](https://t.me/feelpowerbot?start=tea)
-* [На Jameson :tumbler_glass:](https://t.me/feelpowerbot?start=tea)
-* [На дальнейшие разботки :video_game:](https://t.me/feelpowerbot?start=tea)
+* [На кофе](https://t.me/feelpowerbot?start=tea) :coffee:  
+* [На пончик](https://t.me/feelpowerbot?start=tea) :doughnut:
+* [На торт](https://t.me/feelpowerbot?start=tea) :cake:
+* [На Jameson](https://t.me/feelpowerbot?start=tea) :tumbler_glass:
+* [На дальнейшие разботки](https://t.me/feelpowerbot?start=tea)  :video_game:
 
 
 Скрипт комментариев через телегу:  
