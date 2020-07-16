@@ -1,18 +1,14 @@
 ---
 layout: default
 created: 2020-05-10T21:39:06+03:00
-modified: 2020-07-16T13:27:53+03:00
+modified: 2020-07-17T01:00:41+03:00
 title: О нас
 ---
 
-# Контакты
+# О нас
 
 Сайт для себя.  
 Целью ставится быстрый доступ к годному контенту.
-
-Если у Вас есть вопросы или предложения, прошу писать в телеграм или на почту:  
-[Feelcame (at) ya.ru](mailto:mljaaa@ya.ru)  
-[Feelcame (at) t.me](https://t.me/feelcame)
 
 Также, если Вам очень нравится собранная здесь информация, можете скинуть мне на вкусняшки:  
 * [На кофе](https://t.me/feelpowerbot?start=tea) :coffee:  
@@ -20,6 +16,12 @@ title: О нас
 * [На торт](https://t.me/feelpowerbot?start=tea) :cake:
 * [На Jameson](https://t.me/feelpowerbot?start=tea) :tumbler_glass:
 * [На дальнейшие разботки](https://t.me/feelpowerbot?start=tea)  :video_game:
+
+# Контакты
+
+Если у Вас есть вопросы или предложения, прошу писать в телеграм или на почту:  
+[Feelcame (at) ya.ru](mailto:feelcame@ya.ru)  
+[Feelcame (at) t.me](https://t.me/feelcame)
 
 
 Скрипт комментариев через телегу:  
