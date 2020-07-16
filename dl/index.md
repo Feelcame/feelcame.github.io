@@ -29,7 +29,7 @@ modified: 2020-07-16T13:39:53+03:00
 [Книги](../dl/books.md) | и многое другое
 
 .
-| First Header  | Second Header |
+| First Header  Second Header |
 |:------------- |:---------------:|
 | [Кино](./kino.md) | [Софт](./soft.md) |  
 | [Музыка](./music.md) | [Видео](./video.md)|   
@@ -37,7 +37,7 @@ modified: 2020-07-16T13:39:53+03:00
 | [Книги](../dl/books.md) | ... |
 
 
-
+||
 |:------------- |:---------------:|
 [Кино](./kino.md) | [Софт](./soft.md)
 [Музыка](./music.md) | [Видео](./video.md)
