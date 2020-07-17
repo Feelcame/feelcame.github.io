@@ -51,3 +51,6 @@ title: Софт топ 100
 
 ### [Смотрите топ 100 программ](soft100.md)
 ### [А также для Android](https://t.me/FeelSoftAn)
+
+
+<script async src="https://telegram.org/js/telegram-widget.js?9" data-telegram-post="feelsoft/131" data-width="100%"></script>
