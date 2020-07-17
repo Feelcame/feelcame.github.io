@@ -24,6 +24,7 @@ layout: linker
 
 Авторизация через тележку, без ввода номера.  
 <https://t.me/feelmus/33>  
+<tg://resolve?domain=feelmus&post=33>
 
 Сами комментарии:  
 <https://comments.app/view/Xxd-ANAd>  
