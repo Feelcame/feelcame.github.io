@@ -30,11 +30,11 @@ layout: linker
 
 
 **iframe от канала:** <https://comments.app/view/Xxd-ANAd>   
-<iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none;"></iframe>  
+<iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none; height: 800px;"></iframe>  
 
 
 **iframe от канала embedded:** <https://comments.app/view/Xxd-ANAd>   
-<iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none;"></iframe>  
+<iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none; height: 800px;"></iframe>  
 
 
 **iframe от сайта:** <https://comments.app/view?website=zuRUPyyL&page_url=https%3A%2F%2Flinker.pp.ua>  
