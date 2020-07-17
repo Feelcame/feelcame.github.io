@@ -18,6 +18,7 @@ title: Видосики тут
 <center><iframe src="https://www.youtube.com/embed/jN1fA6zupOM?start=0;autoplay=1;rel=0" width="960" height="540" frameborder="0" allowfullscreen="true"></iframe></center>
 
 
-|ccc|
-|---|
-|xxx|
+|Видосик|
+|:---:|
+|[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/jN1fA6zupOM/0.jpg)](http://www.youtube.com/watch?v=jN1fA6zupOM)|
+|<https://developers.google.com/youtube/player_parameters?hl=ru>|
