@@ -8,7 +8,11 @@ title: Donate
 
 Для этого действия требуется оплата. Пожалуйста, перейдите по ссылке ниже и отправьте мне на саморазвитие. 
 
+[**Перейти к оплате**](https://send.monobank.ua/jar/2Zk6tzkyGd){:target="_blank" align="center"}
+
 [**Перейти к оплате**](https://send.monobank.ua/jar/2Zk6tzkyGd){:target="_blank"}
+
+[**Перейти к оплате**](https://send.monobank.ua/jar/2Zk6tzkyGd){:align="center"}
 
 Уже оплатил? Тогда переходи сюда:  
 [Перейти в Google диск](#){:target="_blank"}  
