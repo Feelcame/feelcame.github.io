@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# для тестов mgit
+# Для тестов
 ## Hello world!
 [LoL](/beta)  
 [Google](http://google.com)
@@ -23,7 +23,7 @@ layout: default
 |03|04|
 
 Авторизация без ввода номера.  
-[Через Telegram](tg://resolve?domain=feelmus&post=33) или [через чайт]:https://t.me/feelmus/33  
+[Через Telegram](tg://resolve?domain=feelmus&post=33) или [через чайт]: https://t.me/feelmus/33  
 
 Для канала:  
 <https://comments.app/view/Xxd-ANAd>  
