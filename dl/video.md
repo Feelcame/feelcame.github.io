@@ -18,3 +18,6 @@ title: Видосики тут
 <center><iframe src="https://www.youtube.com/embed/jN1fA6zupOM?start=0;autoplay=1;rel=0" width="960" height="540" frameborder="0" allowfullscreen="true"></iframe></center>
 
 
+|ccc|
+|---|
+|xxx|
