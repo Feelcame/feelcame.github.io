@@ -23,13 +23,17 @@ layout: linker
 |03|04|
 
 Авторизация через тележку, без ввода номера.  
-<https://t.me/feelmus/31>  
+<https://t.me/feelmus/33>  
 
 Сами комментарии:  
 <https://comments.app/view/Xxd-ANAd>  
 
 
 **iframe от канала:** <https://comments.app/view/Xxd-ANAd>   
+<iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none; height: 182px;"></iframe>  
+
+
+**iframe от канала embedded:** <https://comments.app/view/Xxd-ANAd>   
 <iframe src="https://comments.app/view/Xxd-ANAd" width="100%" height="0" frameborder="0" scrolling="no" style="overflow: hidden; border: none; height: 182px;"></iframe>  
 
 
