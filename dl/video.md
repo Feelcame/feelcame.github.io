@@ -10,7 +10,7 @@ title: Видосики тут
 
 
 
-[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/jN1fA6zupOM/0.jpg)](http://www.youtube.com/watch?v=jN1fA6zupOM)
+[![ALT-ТЕКСТ ИЗОБРАЖЕНИЯ](http://img.youtube.com/vi/jN1fA6zupOM/0.jpg)](http://www.youtube.com/watch?v=jN1fA6zupOM)  
 <https://developers.google.com/youtube/player_parameters?hl=ru>
 
 ---
