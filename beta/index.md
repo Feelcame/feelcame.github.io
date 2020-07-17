@@ -29,5 +29,6 @@ layout: default
 <https://comments.app/view/Xxd-ANAd>  
 
 
-**Комментарии:**  [_быстрая авторизация_](tg://resolve?domain=feelmus&post=33) или [_через сайт_](https://t.me/feelmus/33) 
+**Комментарии:**  [_быстрая авторизация_](tg://resolve?domain=feelmus&post=33) или [_через сайт_](https://t.me/feelmus/33)
 <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>  
+[_Быстрая авторизация](tg://resolve?domain=feelmus&post=33)  или  [_через сайт_](https://t.me/feelmus/33) 
