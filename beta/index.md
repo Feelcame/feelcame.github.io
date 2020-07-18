@@ -44,9 +44,9 @@ layout: default
 
 5  
 
-|
+x 
 :-|-
-|
+x
 
 6  
 
