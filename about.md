@@ -32,7 +32,7 @@ title: О нас
         <input type="hidden" name="thread_id" value="Kr6L30uQ">
       </form>
       <div class="bc-comment-login">
-        <div class="accent-bg-hover bc-comment-login-btn"><a href="tg://resolve?domain=linker_authorize&post=2">Логин через телегу</a></div>
+        <div class="accent-bg-hover bc-comment-login-btn"><a href="tg://resolve?domain=linker_authorize&post=2">Логин через телегу</a> zzz</div>
       </div>
     </div>
   </div>
