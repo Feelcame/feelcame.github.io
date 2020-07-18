@@ -18,9 +18,9 @@ layout: default
 |Одна строка|  
 |:-:|
 
-|  |02|
+|  |  |
 |:-|-:|
-|03|  |
+|  |  |
 
 Авторизация без ввода номера:  
 [Через Telegram](tg://resolve?domain=feelmus&post=33) или [через чайт](https://t.me/feelmus/33)  
