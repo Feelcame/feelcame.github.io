@@ -68,11 +68,6 @@ x |x
 | x 
 
 
-Авторизация без ввода номера:  
-[Через Telegram](tg://resolve?domain=feelmus&post=33) или [через чайт](https://t.me/feelmus/33)  
-
-Для канала:  
-<https://comments.app/view/Xxd-ANAd>  
 
 
 **Комментарии:**
