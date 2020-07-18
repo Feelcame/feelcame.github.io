@@ -38,7 +38,7 @@ layout: default
 
 4  
 
-  | z 
+ z | z 
 :-|-:  
   |  
 
