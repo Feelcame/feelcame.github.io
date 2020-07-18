@@ -34,6 +34,11 @@ layout: default
 :-|-:
 |
 
+|
+:-|-
+|
+
+
 Авторизация без ввода номера:  
 [Через Telegram](tg://resolve?domain=feelmus&post=33) или [через чайт](https://t.me/feelmus/33)  
 
