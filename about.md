@@ -19,10 +19,11 @@ title: О нас
 
 # Контакты
 
-Если у Вас есть вопросы или предложения, прошу писать в телеграм или на почту:  
+Если у тебя есть вопросы или предложения, прошу писать в телеграм или на почту:  
 [Feelcame (at) ya.ru](mailto:feelcame@ya.ru)  
 [Feelcame (at) t.me](https://t.me/feelcame)
 
 
-Скрипт комментариев через телегу:  
+**Комментарии**  
 <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>
+Попробуй  [*быструю авторизацию*](tg://resolve?domain=feelmus&post=33)
