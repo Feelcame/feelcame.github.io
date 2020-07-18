@@ -38,15 +38,15 @@ layout: default
 
 4  
 
- z | z 
+  | z 
 :-|-:  
-  |  
+ z |  
 
 5  
 
-x 
+x |
 :-|-
-x
+x |
 
 6  
 
