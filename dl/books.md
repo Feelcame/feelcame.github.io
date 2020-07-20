@@ -1,6 +1,6 @@
 ---
 title: Книжки
-modified: 2020-07-20T16:13:32+03:00
+modified: 2020-07-20T16:14:34+03:00
 ---
 
 # Книги
@@ -13,7 +13,7 @@ modified: 2020-07-20T16:13:32+03:00
 - <https://fb2-epub.ru/>  
 - <https://booknet.com/uk>  
 - <https://fantasy-worlds.org/>  
-+ <http://allking.club/>  
+- <http://allking.club/>  
 - <https://bubluoteka.org/>  
 
 1. 111
