@@ -91,7 +91,7 @@ comments: true
 
 
 
-<img width="1024px"/> | 
+xxxxxxx | 
 :---:|:---:
 [![][logo]<br>**Кино**](./kino.md)   | [![][logo]<br>**Софт**](./soft.md)
 [![][logo]<br>**Музыка**](./music.md)| [![][logo]<br>**Видео**](./video.md)
