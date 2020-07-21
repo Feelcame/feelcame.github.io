@@ -8,93 +8,15 @@ comments: true
 [LoL](/beta)  
 [Google](http://google.com)
 
-1 | 2
-:-|-:
-3 | 4
-
-таблица без ничего. просто под этим тестом написал `:-`
-:-
-
-
-|Одна строка|  
-|:-:|
-
-1
-
-| 1 |  |
-|:-|-:|
-| 1 |  |
-
-2   
-
-| | |
-|:-|-:|
-| | |
-
-3   
-
-|||
-|:-|-:|
-||ччч|
-
-4  
-
-  | z 
-:-|-:  
- z |  
-
-5  
-
-x |x
-:-|-
-x |x
-
-6  одна колонка, центр
-
-| x 
--|:-:
-| x 
-
-7  одна колонка, деф
-
-| x 
--|-
-| x 
-
-
-8  одна колонка, без верха
-
-|  
--|-
-| x 
-
-8  одна колонка, без низа
-
-|  
--|-
-| <img width="1024/"> 
-
-
-9  одна колонка, центр
-
-|
--|:-:
-|Заголовок типа<br><img width="1024"/>
- 
- 
- 10  одна колонка, центр
-
-|Заголовок типа<img width="1024" height="0" />
+|<img width="1024px" height="0px" />Заголовок типа
 -|:-:
 | А тут подзаголовок
- 
- 11  одна колонка, центр
+
 
 |<img width="1024px" height="0px" />Заголовок типа
--|-:|
+-|:-:|
 | А тут подзаголовок
- 
- 
+
 [![][logo]<br>**Кино**](./kino.md) | [![][logo]<br>**Софт**](./soft.md)
 :---:|:---:
 [![][logo]<br>**Музыка**](./music.md)| [![][logo]<br>**Видео**](./video.md)
@@ -103,25 +25,9 @@ x |x
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
 
-**Комментарии:**
-<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>  
-Попробуй  [*быструю авторизацию*](tg://resolve?domain=feelmus&post=33)
-
-
-
-
-***
-
-
-***
-
-
-zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
-
-***
 
 конец статьи
 
-
+***
 
 
