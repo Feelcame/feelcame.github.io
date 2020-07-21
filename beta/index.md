@@ -9,7 +9,7 @@ comments: true
 [Google](http://google.com)
 
 |<img width="1024px" height="0px" />Заголовок типа
-:-:|-
+-:|-
 | А тут подзаголовок zzzzz
 
 vvv
