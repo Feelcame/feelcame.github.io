@@ -83,7 +83,7 @@ comments: true
 
 Контент
 
-|<img width="1024px" height="0px" />Заголовок типа
+|<img width="1024px" />Заголовок типа
 :-:|-
 | А тут подзаголовок
 
@@ -91,12 +91,13 @@ comments: true
 
 
 
-<img width="512"/> | <img width="512"/>
+<img width="1024px"/> | 
 :---:|:---:
 [![][logo]<br>**Кино**](./kino.md)   | [![][logo]<br>**Софт**](./soft.md)
 [![][logo]<br>**Музыка**](./music.md)| [![][logo]<br>**Видео**](./video.md)
 [![][logo]<br>**Аудио**](./audio.md) | [![][logo]<br>**Картинки**](./images.md) 
 [![][logo]<br>**Книги**](./books.md) | [![][logo]<br>**и многое другое**](#other)
+<img width="512px"/> | <img width="512px"/>
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
 
