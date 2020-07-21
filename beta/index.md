@@ -55,7 +55,7 @@ comments: true
 
 
 :-:|
-|А тут подзаголовок <img width="1024px"/>
+А тут подзаголовок <br><img width="1024px"/> |
 
 
 
