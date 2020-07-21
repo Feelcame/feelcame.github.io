@@ -9,17 +9,13 @@ comments: true
 [Google](http://google.com)
 
 |<img width="1024px" height="0px" />Заголовок типа
--:|-
+-|-
 | А тут подзаголовок zzzzz
 
 vvv
 
-***
-
-vvv
-
 |<img width="1024px" height="0px" />Заголовок типа
--|:-:|
+:-:|-
 | А тут подзаголовок
 
 [![][logo]<br>**Кино**](./kino.md) | [![][logo]<br>**Софт**](./soft.md)
