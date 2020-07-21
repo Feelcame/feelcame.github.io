@@ -83,7 +83,7 @@ comments: true
 
 Контент
 
-|<img width="1024px"/>Заголовок типа<br><img width="1024px"/>
+|Заголовок типа<br><img width="1024px"/>
 :-:|-
 | А тут подзаголовок
 
@@ -91,9 +91,8 @@ comments: true
 
 
 
-
-:---:|:---:
 [![][logo]<br>**Кино**](./kino.md)   | [![][logo]<br>**Софт**](./soft.md)
+:---:|:---:
 [![][logo]<br>**Музыка**](./music.md)| [![][logo]<br>**Видео**](./video.md)
 [![][logo]<br>**Аудио**](./audio.md) | [![][logo]<br>**Картинки**](./images.md) 
 [![][logo]<br>**Книги**](./books.md) | [![][logo]<br>**и многое другое**](#other)
