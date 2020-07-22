@@ -6,7 +6,7 @@ modified: 2020-07-19T11:20:15+03:00
 
 # Кодик
 
-200722 [Сыылки на шпаргалки по markdown](./200722_markdown.md)
+200722 [Сыылки на шпаргалки по markdown](./200722_markdown.md)  
 200715 [Шпаргалка по markdown](./200715_md_шпаргалка.md)  
 200630 [Переменные GitHub Pages](./200630-gh-pages-vars.md)  
 200630 [Пример markdown текста](./200630-md-example.md)  
