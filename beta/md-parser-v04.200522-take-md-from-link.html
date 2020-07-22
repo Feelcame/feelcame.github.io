@@ -142,7 +142,7 @@ function parseMd(md){
   
 }
 
-//Заменяем часть тела документа на текст из урл
+//Заменяем часть тела документа на текст из урл. Закодировать тут: http://4qr.xyz
 document.getElementById('markdown').innerHTML = atob(decodeURIComponent(window.location.search.substring(1).replace(/-/g,'\+').replace(/_/g,'\/')));
 
 var rawMode = false;

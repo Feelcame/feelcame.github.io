@@ -56,8 +56,8 @@ function parseMd(md){
 }
 
 var rawMode = false;
-    mdEl = document.getElementById('markdown'),
-    outputEl = document.getElementById('output-html'),
+    mdEl = document.querySelector('markdown'),
+    outputEl = document.querySelector('markdown'),
     parse = function(){
       outputEl[rawMode ? "innerText" : "innerHTML"] = parseMd(mdEl.innerText);
     };

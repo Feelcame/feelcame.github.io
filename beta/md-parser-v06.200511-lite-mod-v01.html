@@ -1,23 +1,11 @@
-<!DOCTYPE html>
-<html lang="en" >
-<head>
-  <meta charset="UTF-8">
-  <title>111CodePen - JavaScript Markdown Parser</title>
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic'>
-  <link rel="stylesheet" href="./css/md-parser.css">
-
-</head>
-<body>
-<!-- partial:index.partial.html -->
-<a href="#" id="raw-switch" class="raw-switch">Raw: <span></span></a>
-<aside id="markdown" contenteditable>
-Is this an alternative h1?
+<aside id="markdown">
+Is this an alternative h1? Русский текст на месте?
 =================
   
-It sure is, and this is an alternative h2 syntax
+Alt h2 syntax Русский текст
 ---------------------------------------
   
-# hi1
+# hi1 Русский текст на месте!
 ## hi2
 ### hi3
 #### hi4
@@ -75,17 +63,17 @@ Gotta love some inline `{}` objects and other code like `window.getMonkeys`.
 #### Single lined
   
 1. hi dude
-2. how are ya?
+1. how are ya?
 
-* u good?
+* u good? vvvv
 * yeah right?
   
 But I mean how awesome are **cats** though with their *furry* fur and everything?
 Pretty awesome right?
 </aside>
 <section id="output-html"></section>
-<!-- partial -->
-  <script  src="./js/md-parser.js"></script>
+<script  src="./src/md-parser6.js"></script>
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic'>
+<link rel="stylesheet" href="./src/md-parser6.css">
 
-</body>
-</html>
+
