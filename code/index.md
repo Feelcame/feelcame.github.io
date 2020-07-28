@@ -47,5 +47,5 @@ comments: false
 1. [200715 Шпаргалка по markdown](./200715_md_шпаргалка.md)  
 1. [200630 Переменные GitHub Pages](./200630-gh-pages-vars.md)  
 1. [200630 Пример markdown текста](./200630-md-example.md)  
-1. [200628 Разработка прог Android](200628_android_разработка.md)
+1. [200628 Разработка прог Android](200628_android_разработка.md)  
 {: reversed="reversed"}
