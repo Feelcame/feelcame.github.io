@@ -5,47 +5,21 @@ modified: 2020-07-19T11:20:15+03:00
 comments: false
 ---
 
-# Кодик
-
-200728 [Интересные CMS](./200728_cms.md)  
-200722 [Ссылки на шпаргалки по markdown](./200722_markdown.md)  
-200715 [Шпаргалка по markdown](./200715_md_шпаргалка.md)  
-200630 [Переменные GitHub Pages](./200630-gh-pages-vars.md)  
-200630 [Пример markdown текста](./200630-md-example.md)  
-200628 [Разработка прог Android](200628_android_разработка.md)  
-
-
-# Кодик. чисто ссылки
-
-[200728 Интересные CMS](./200728_cms.md)  
-[200722 Ссылки на шпаргалки по markdown](./200722_markdown.md)  
-[200715 Шпаргалка по markdown](./200715_md_шпаргалка.md)  
-[200630 Переменные GitHub Pages](./200630-gh-pages-vars.md)  
-[200630 Пример markdown текста](./200630-md-example.md)  
-[200628 Разработка прог Android](200628_android_разработка.md)  
-
 # Тестовые страницы
 
+1. 200801 [Title](./Link.md)  
+1. ггммдд [Проверка](../beta)  
 
-200801 [Title](./Link.md)  
-ггммдд [Для проверки](../beta)  
+# Статьи
 
-# Кодик. Маркеры
-
-* [200728 cms.md](./200728_cms.md)  
-* [200722 Ссылки на шпаргалки по markdown](./200722_markdown.md)  
-* [200715 Шпаргалка по markdown](./200715_md_шпаргалка.md)  
-* [20063 Переменные GitHub Pages](./200630-gh-pages-vars.md)  
-* [200630 Пример markdown текста](./200630-md-example.md)  
-* [200628 Разработка прог Android](200628_android_разработка.md)
-
-
-# Кодик. Нумерация
-
-1. 200728 [Разные cms системы](./200728_cms.md)  
-1. 200722 [Ссылки на шпаргалки по markdown](./200722_markdown.md)  
-1. 200715 [Шпаргалка по markdown](./200715_md_шпаргалка.md)  
-1. 200630 [Переменные GitHub Pages](./200630-gh-pages-vars.md)  
-1. 200630 [Пример markdown текста](./200630-md-example.md)  
-1. 200628 [Разработка прог Android](200628_android_разработка.md)
+1. 200728 [Разные интересные cms системы](./200728_cms.md)
+1. 200722 [Ссылки на шпаргалки по markdown](./200722_markdown.md)
+1. 200715 [Шпаргалка по markdown](./200715_md_шпаргалка.md)
+1. 200630 [Переменные GitHub Pages](./200630-gh-pages-vars.md)
+1. 200630 [Пример markdown текста](./200630-md-example.md)
+1. 200628 [Разработка прог Android](200628_android_разработка.md)  
 {: reversed="reversed"}
+
+
+
+<script src="https://gist.github.com/Feelcame/9256b67bec50d4a763a7823d95dc45d4.js"></script>
