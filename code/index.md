@@ -7,7 +7,7 @@ comments: false
 
 # Тестовые страницы
 
-1. 200801 [Title](./Link.md)  
+1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)  
 
 # Статьи
