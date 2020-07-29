@@ -56,7 +56,7 @@ comments: true
 
 |без заголовка  
 |и с простым синтаксисом, плюс только одна строка  
-{: style="text-align: center"}
+{: width="100%" style="text-align: center"}
 
 7 без нижней палки
 
