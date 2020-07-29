@@ -8,14 +8,6 @@ comments: true
 [LoL](/beta)  
 [Google](http://google.com)
 
----
-title: Загрузки
-comments: true
-modified: 2020-07-19T11:16:48+03:00
-created: 2020-05-16T13:39:53+03:00
----
-
-
 1 палка слева
 
 |<img width="1024px" height="0px" />Заголовок типа
