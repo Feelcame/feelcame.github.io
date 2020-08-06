@@ -1,6 +1,6 @@
 ---
 created: 2020-08-07T01:27:56+03:00
-modified: 2020-08-07T01:30:34+03:00
+modified: 2020-08-07T01:33:23+03:00
 ---
 
 # Темы wordpress
@@ -8,6 +8,6 @@ modified: 2020-08-07T01:30:34+03:00
 WordPress themes
 
 1. https://alx.media/themes/
-1. Gg
-1. Vv
-1.
+1. G
+1. H
+{: reversed="reversed"}
