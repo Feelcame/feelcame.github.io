@@ -1,6 +1,6 @@
 ---
 title: Загрузки
-comments: true
+comments: false
 modified: 2020-08-01T14:23:35+03:00
 created: 2020-05-16T13:39:53+03:00
 ---
@@ -14,7 +14,7 @@ created: 2020-05-16T13:39:53+03:00
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Альт текст логотипа"
 
 
-
+<!--
 Все прикольные штуки.
 Страницы списком:
 * [Кино](./kino.md)
@@ -24,3 +24,4 @@ created: 2020-05-16T13:39:53+03:00
 * [Аудио](./audio.md)
 * [Картинки](./images.md)
 * [Книги](./books.md)
+-->
