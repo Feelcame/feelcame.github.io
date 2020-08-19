@@ -3,7 +3,9 @@ layout: home
 title: Linker
 modified: 2020-07-16T13:31:13+03:00
 ---
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png){: style=text-align:center}  
+
+![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+{: style="text-align:center"}
 
 ## Для продолжения выбери интересующий раздел выше
 Да, именно так этот сайт и работает. Это не блог и не комерческий проект. Стоковый дизайн не помешает сделать размещенную здесь информацию максимально полезной для пользователя. Так что, Welcome!
