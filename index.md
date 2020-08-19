@@ -4,7 +4,7 @@ title: Linker
 modified: 2020-07-16T13:31:13+03:00
 ---
 
-![](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![](./arrow-home.png)
 {: style="text-align:center"}
 
 ## Для продолжения выбери интересующий раздел выше
