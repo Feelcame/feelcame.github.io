@@ -5,6 +5,7 @@ created: 200907
 
 ### Структура файлов twitter bootstrap
 
+```
 bootstrap/  
 ├── css/  
 │   ├── bootstrap-grid.css  
@@ -28,3 +29,4 @@ bootstrap/
     ├── bootstrap.js.map  
     ├── bootstrap.min.js  
     └── bootstrap.min.js.map  
+```
