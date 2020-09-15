@@ -1,6 +1,6 @@
 ---
 created: 2020-08-07T01:27:56+03:00
-modified: 2020-09-15T23:36:42+03:00
+modified: 2020-09-15T23:38:50+03:00
 comments: true
 ---
 
@@ -18,5 +18,6 @@ comments: true
 
 
 ### Другие полезности
-* Создание плагина
+* [Создание плагина](https://wp-kama.ru/handbook/plugin/osnovy)
+* М
 *
