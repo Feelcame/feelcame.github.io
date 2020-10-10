@@ -1,10 +1,11 @@
 ---
 title: Загрузки
 comments: false
-modified: 2020-08-01T14:23:35+03:00
+modified: 2020-10-11T00:56:28+03:00
 created: 2020-05-16T13:39:53+03:00
 ---
 
+# Выбирай загрузки на свой вкус:
 [![logo]<br>**Кино**](./kino.md)                         |[![logo]<br>**Музыка**](./music.md)
 :---:|:---:
 [![logo]<br>**Софт Windows**](./soft.md)                 |[![logo]<br>**Софт Android**](./soft.md)
