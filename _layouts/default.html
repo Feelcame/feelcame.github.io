@@ -26,9 +26,7 @@
 		{{ content }}
 		{% if page.comments | default: site.comments %}
 		<p>
-			<b>Комментарии:</b>
-			<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>  
-		<div id="tgLoginBtn">Попробуй <a href="tg://resolve?domain=linker_ua&post=2">быструю авторизацию</a></div>
+			{% include comments.inc.html %}
 		</p>
 		{% endif %}
 		<footer class="site-footer">
