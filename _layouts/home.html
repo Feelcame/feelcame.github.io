@@ -16,20 +16,12 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.show_downloads %}
-      <div id="nav" style="">
-      <a href="/" class="btn" id="home">&#127968; Главная</a>
-      <a href="/news/" class="btn">&#128512; Новости</a>
-      <a href="/products/" class="btn">Продукты</a>
-      <a href="/dl" class="btn">Загрузки</a>
-      <a href="/code/" class="btn">Разработка</a>
-      <a href="/about" class="btn">О нас</a>
-      <a href="/donate" class="btn" >Задонать!</a>
-      {% endif %}
-      </div>
+	<header class="page-header" role="banner">
+		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+		{% include header.inc.html %}
+		{% if site.show_downloads %}{% endif %}
+	</header>
 
     </header>
 
