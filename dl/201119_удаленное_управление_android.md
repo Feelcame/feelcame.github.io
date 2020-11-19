@@ -1,5 +1,5 @@
 ---
-title: уд. управл. android
+title: удаленка для android
 created: 201119
 ---
 ### удаленное управление android
