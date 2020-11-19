@@ -1,51 +1,47 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "ru-RU" }}">
-  <head>
-
-    {% if site.google_analytics %}
-      <script async src="http://t.me/?{{ site.google_analytics }}"></script>
-    {% endif %}
-    <meta charset="UTF-8">
-
-{% seo %}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+	{% if site.google_analytics %}
+	<script async src="http://t.me/?{{ site.google_analytics }}"></script>
+	{% endif %}
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#157878">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<link rel="stylesheet" href="{{ '/assets/custom.css?v=' | append: site.github.build_revision | relative_url }}">
 	<style></style>
-  </head>
-  <body>
-    <a href="#content" id="vverh" onclick="showNav()"></a>
-    <a id="skip-to-content" href="#content">Там чуточку выше появилась навигация</a>
-
-    <header class="page-header" role="banner">
-	<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-	<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-	{% include header.inc.html %}
-	{% if site.show_downloads %}{% endif %}
-    </header>
-
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
-      {% if page.comments | default: site.comments %}
-      <p><b>Комментарии:</b>
-      <script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>  
-      <div id="tgLoginBtn">Попробуй <a href="tg://resolve?domain=linker_ua&post=2">быструю авторизацию</a></div>
-      </p>
-      {% endif %}
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-      </footer>
-    </main>
-<script>
-function showNav() {
-document.getElementById('nav').style.display='block'; 
-document.getElementById('navButton').style.display='none';
-}
-</script>
+</head>
+<body>
+	<a href="#content" id="vverh" onclick="showNav()"></a>
+	<a id="skip-to-content" href="#content">Там чуточку выше появилась навигация</a>
+	<header class="page-header" role="banner">
+		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+		{% include header.inc.html %}
+		{% if site.show_downloads %}{% endif %}
+	</header>
+	<main id="content" class="main-content" role="main">
+		{{ content }}
+		{% if page.comments | default: site.comments %}
+		<p>
+			<b>Комментарии:</b>
+			<script async src="https://comments.app/js/widget.js?2" data-comments-app-website="zuRUPyyL" data-limit="5"></script>  
+		<div id="tgLoginBtn">Попробуй <a href="tg://resolve?domain=linker_ua&post=2">быструю авторизацию</a></div>
+		</p>
+		{% endif %}
+		<footer class="site-footer">
+			{% if site.github.is_project_page %}
+			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+			{% endif %}
+		</footer>
+	</main>
+	<script>
+		function showNav() {
+		document.getElementById('nav').style.display='block'; 
+		document.getElementById('navButton').style.display='none';
+		}
+	</script>
 </body>
 </html>
