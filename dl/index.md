@@ -7,8 +7,8 @@ created: 2020-05-16T13:39:53+03:00
 
 # Выбирай загрузки на свой вкус:
 
-[![logo]](./kino.md) | [![logo]](./music.md) | [![logo]](./soft.md) | [![logo]](./soft.md) | [![logo]](./books.md)
-:-:|:-:
+[![logo]](./kino.md) | [![logo]](./music.md) | [![logo]](./soft.md) | [![logo]](./soft.md)
+:-:|:-:|:-:|:-:
 [**Кино**](./kino.md) | [**Музыка**](./music.md) | [**Софт**](./soft.md) | [**Книги**](./books.md)
 
 
