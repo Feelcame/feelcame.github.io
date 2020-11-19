@@ -19,7 +19,7 @@ modified: 2020-07-17T01:00:41+03:00
 ### Контакты
 
 Если у тебя есть вопросы или предложения, прошу писать в телеграм или на почту:  
-[**Feelcame (at) ya.ru**](https://t.me/feelcame)
-[**Feelcame (at) t.me**](https://t.me/feelcame)
+- [**Feelcame (at) ya.ru**](https://t.me/feelcame)  
+- [**Feelcame (at) t.me**](https://t.me/feelcame)
 
 
