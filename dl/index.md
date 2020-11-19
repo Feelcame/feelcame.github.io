@@ -6,6 +6,7 @@ created: 2020-05-16T13:39:53+03:00
 ---
 
 # Выбирай загрузки на свой вкус:
+
 [![logo]<br>**Кино**](./kino.md)   | [![][logo]<br>**Софт**](./soft.md)
 :-:|:-:
 [![logo]<br>**Музыка**](./music.md)| [![][logo]<br>**Видео**](./video.md)
@@ -13,7 +14,7 @@ created: 2020-05-16T13:39:53+03:00
 [![logo]<br>**Книги**](./books.md) | [![][logo]<br>**и многое другое**](#other)
 <img width="512px"/> | <img width="512px"/>
 
-[logo]:../icon48.png "Текст лого"
+[logo]:../assets/icon48.png "Текст лого"
 
 
 <!--
