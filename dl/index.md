@@ -1,13 +1,13 @@
 ---
 title: Загрузки
 comments: false
-modified: 2020-11-26T02:48:49+02:00
+modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
 ---
 
 ### Выбирай загрузки на свой вкус:
 
-[![logo]](./kino.md) | [![logo]](./kino.md) | [![logo]](./kino.md) | [![logo]](./kino.md)
+[![logo]](./kino.md) | [![logo]](./music.md) | [![logo]](./soft.md) | [![logo]](./books.md)
 :-:|:-:|:-:|:-:
 [**Кино**](./kino.md) | [**Музыка**](./music.md) | [**Софт**](./soft.md) | [**Книги**](./books.md)
 
