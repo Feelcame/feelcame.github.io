@@ -24,94 +24,94 @@ Android - @FeelSoftAn
 Аддоны Chrome - @FeelSoftAddons
 
 1️⃣ #МЕДИА 
-PotPlayer - #videoplayer
-AIMP - #audioplayer  #aimp
-AIMP Remote Control Plugin - #aimp
-Audacity - #Audacity #recorder
-XnView - #photoviewer
-FastStone Capture -  #Screenshoter
-Bandicam - #Screenshoter
-Bandicut - #VideoEditor
-Paint.Net - #Paint
-Adobe Photoshop - #Photoshop
-MakeMKV - #Converter
-Equalizer APO - #audiotools
-Virtual Audio Cable - #audiotools
+1. PotPlayer
+1. AIMP - #audioplayer  #aimp
+1. AIMP Remote Control Plugin - #aimp
+1. Audacity - #Audacity #recorder
+1. XnView - #photoviewer
+1. FastStone Capture -  #Screenshoter
+1. Bandicam - #Screenshoter
+1. Bandicut - #VideoEditor
+1. Paint.Net - #Paint
+1. Adobe Photoshop - #Photoshop
+1. MakeMKV - #Converter
+1. Equalizer APO - #audiotools
+1. Virtual Audio Cable - #audiotools
 
 2️⃣ #ИНТЕРНЕТ 
-Chrome – #chrome
-Расширения хром - #addons
+1. Chrome – #chrome
+1. Расширения хром - #addons 
 или @FeelSoftAddons
-Firefox – #firefox
-Download Master – #downloader
-uTorrent 2.2.1 – #torrent
-qBittorrent – #torrent
-NetWorx – #networx
-OpenVPN - #vpn
-AnyDesk - #remoteControl
+1. Firefox – #firefox
+1. Download Master – #downloader
+1. uTorrent 2.2.1 – #torrent
+1. qBittorrent – #torrent
+1. NetWorx – #networx
+1. OpenVPN - #vpn
+1. AnyDesk - #remoteControl
 
 3️⃣ #ОФИС и #ОБЩЕНИЕ 
-Telegram - #telega
-А также боты - #bots
-Skype - #skype
-Mozilla Thunderbird - #thunderbird
-Motepad++ - #npp
-Microsoft Office - #office
-STDU Viewer - #stdu
-ABYY Fine Reader - #finereader
+1. Telegram - #telega
+1. А также боты - #bots
+1. Skype - #skype
+1. Mozilla Thunderbird - #thunderbird
+1. Motepad++ - #npp
+1. Microsoft Office - #office
+1. STDU Viewer - #stdu
+1. ABYY Fine Reader - #finereader
 
 4️⃣ #ФАЙЛЫ 
-Total Commander PowerPack - #FileManager
-Uninstall Tool - #uninstaller
-Geek Uninstaller - #uninstaller
-Your Uninstaller - #uninstaller
-7-zip - #archiver
-WinRar - #archiver
-WinDirStat - #DirStat
-HxD Hex Editor - #hex
-Duplicate File Detector - #duplicate
+1. Total Commander PowerPack - #FileManager
+1. Uninstall Tool - #uninstaller
+1. Geek Uninstaller - #uninstaller
+1. Your Uninstaller - #uninstaller
+1. 7-zip - #archiver
+1. WinRar - #archiver
+1. WinDirStat - #DirStat
+1. HxD Hex Editor - #hex
+1. Duplicate File Detector - #duplicate
 
 5️⃣ #СИСТЕМА 
-Mouse without Borders - #RemoteControl
-Unified Remote - #RemoteControl
-CrystalDiskInfo - #CrystalDisk
-CrystalDiskMark - #CrystalDisk
-Furmark - #benchmark
-CPU-Z - #benchmark
-AIDA64 - #benchmark
-HWinfo - #SysMon
-Moo0 Bottleneck - #SysMon
--System Explorer - #SysMon
--Start8 - #Start8
+1. Mouse without Borders - #RemoteControl
+1. Unified Remote - #RemoteControl
+1. CrystalDiskInfo - #CrystalDisk
+1. CrystalDiskMark - #CrystalDisk
+1. Furmark - #benchmark
+1. CPU-Z - #benchmark
+1. AIDA64 - #benchmark
+1. HWinfo - #SysMon
+1. Moo0 Bottleneck - #SysMon
+1. System Explorer - #SysMon
+1. Start8 - #Start8
 
 6️⃣ #БЕЗОПАСНОСТЬ 
-Unchecky - #unchecky
-Virustotal Uploader - #virustotal
-AdwCleaner - #adwcleaner
-Dr.Web CureIt - #anvir
-Loader by Daz - #activator
-KMS Auto Lite - #activator
+1. Unchecky - #unchecky
+1. Virustotal Uploader - #virustotal
+1. AdwCleaner - #adwcleaner
+1. Dr.Web CureIt - #anvir
+1. Loader by Daz - #activator
+1. KMS Auto Lite - #activator
 
 7️⃣ #USB/CD/DVD
-Rufus - #win2usb
-UltraISO - #Iso
-WinSetupFromUSB - #win2usb
-HP USB Format tool - #formatter
-+Victoria - #Victoria
-+Acronis True Image - #LiveCD #clonedrive
-RusLive / ZverDVD - #LiveCD
-Windows 7/10 - #win
-BOOTICE - #bootice
-WinNTSetup - #winNTSetup
-Easy BCD - #bcd
+1. Rufus - #win2usb
+1. UltraISO - #Iso
+1. WinSetupFromUSB - #win2usb
+1. HP USB Format tool - #formatter
+1. Victoria - #Victoria
+1. Acronis True Image - #LiveCD #clonedrive
+1. RusLive / ZverDVD - #LiveCD
+1. Windows 7/10 - #win
+1. BOOTICE - #bootice
+1. WinNTSetup - #winNTSetup
+1. Easy BCD - #bcd
 
 8️⃣ #ДРАЙВЕРЫ 
-Snappy Driver Installer - #driverpack
-Double Driver - #driverbackup
-Microsoft Visual C++ - #VisualC
-RuntimePack_Lite - #Runtime
-DirectX - #directX
-NetFramework - #Net
+1. Snappy Driver Installer - #driverpack
+1. Double Driver - #driverbackup
+1. Microsoft Visual C++ - #VisualC
+1. RuntimePack_Lite - #Runtime
+1. DirectX - #directX
+1. NetFramework - #Net
 
 
 1. 201010 [Редакторы PDF](./201010_Редакторы_PDF.md)
