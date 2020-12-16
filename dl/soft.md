@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-12-16T21:10:58+02:00
+modified: 2020-12-16T21:12:07+02:00
 ---
 
 # Прожки для всех  
@@ -44,7 +44,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. OpenVPN
 1. AnyDesk
 
-### #ОФИС и #ОБЩЕНИЕ 
+## #ОФИС и #ОБЩЕНИЕ 
 1. Telegram
 1. А также боты
 1. Skype
@@ -54,7 +54,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. STDU Viewer
 1. ABYY Fine Reader
 
-4⃣ #ФАЙЛЫ 
+## #ФАЙЛЫ 
 1. Total Commander PowerPack
 1. Uninstall Tool
 1. Geek Uninstaller
@@ -65,7 +65,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. HxD Hex Editor
 1. Duplicate File Detector
 
-5⃣ #СИСТЕМА 
+## #СИСТЕМА 
 1. Mouse without Borders - #RemoteControl
 1. Unified Remote - #RemoteControl
 1. CrystalDiskInfo - #CrystalDisk
@@ -78,7 +78,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. System Explorer - #SysMon
 1. Start8 - #Start8
 
-6⃣ #БЕЗОПАСНОСТЬ 
+## #БЕЗОПАСНОСТЬ 
 1. Unchecky - #unchecky
 1. Virustotal Uploader - #virustotal
 1. AdwCleaner - #adwcleaner
@@ -86,7 +86,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. Loader by Daz - #activator
 1. KMS Auto Lite - #activator
 
-7⃣ #USB/CD/DVD
+## #USB/CD/DVD
 1. Rufus - #win2usb
 1. UltraISO - #Iso
 1. WinSetupFromUSB - #win2usb
@@ -99,7 +99,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. WinNTSetup - #winNTSetup
 1. Easy BCD - #bcd
 
-8⃣ #ДРАЙВЕРЫ 
+## #ДРАЙВЕРЫ 
 1. Snappy Driver Installer - #driverpack
 1. Double Driver - #driverbackup
 1. Microsoft Visual C++ - #VisualC
@@ -107,7 +107,7 @@ modified: 2020-12-16T21:10:58+02:00
 1. DirectX - #directX
 1. NetFramework - #Net
 
-
+## Подборки 
 1. 201010 [Редакторы PDF](./201010_Редакторы_PDF.md)
 1. 201010 [Редакторы_PDF](./201010_Редакторы_PDF.md)
 
