@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-10-11T01:02:52+03:00
+modified: 2020-12-16T19:06:22+02:00
 ---
 
 # Прожки для всех  
@@ -16,62 +16,62 @@ modified: 2020-10-11T01:02:52+03:00
 
 
 ## Windows
-✅  НАВИГАЦИЯ ПО КАНАЛУ  ✅
+:white_check_mark:  НАВИГАЦИЯ ПО КАНАЛУ  :white_check_mark:
 
  (https://t.me/c/1202559222/105)Необходимое - #super
 Для профи: #pro #extra
 Android - @FeelSoftAn
 Аддоны Chrome - @FeelSoftAddons
 
-1️⃣ #МЕДИА 
+1⃣ #МЕДИА 
 1. PotPlayer
-1. AIMP - #audioplayer  #aimp
-1. AIMP Remote Control Plugin - #aimp
-1. Audacity - #Audacity #recorder
-1. XnView - #photoviewer
-1. FastStone Capture -  #Screenshoter
-1. Bandicam - #Screenshoter
-1. Bandicut - #VideoEditor
-1. Paint.Net - #Paint
-1. Adobe Photoshop - #Photoshop
-1. MakeMKV - #Converter
-1. Equalizer APO - #audiotools
-1. Virtual Audio Cable - #audiotools
+1. AIMP
+1. AIMP Remote Control Plugin
+1. Audacity
+1. XnView
+1. FastStone Capture
+1. Bandicam
+1. Bandicut
+1. Paint.Net
+1. Adobe Photoshop
+1. MakeMKV
+1. Equalizer APO
+1. Virtual Audio Cable
 
-2️⃣ #ИНТЕРНЕТ 
-1. Chrome – #chrome
-1. Расширения хром - #addons 
+2⃣ #ИНТЕРНЕТ 
+1. Chrome
+1. Расширения хром
 или @FeelSoftAddons
-1. Firefox – #firefox
-1. Download Master – #downloader
-1. uTorrent 2.2.1 – #torrent
-1. qBittorrent – #torrent
-1. NetWorx – #networx
-1. OpenVPN - #vpn
-1. AnyDesk - #remoteControl
+1. Firefox
+1. Download Master
+1. uTorrent 2.2.1
+1. qBittorrent
+1. NetWorx
+1. OpenVPN
+1. AnyDesk
 
-3️⃣ #ОФИС и #ОБЩЕНИЕ 
-1. Telegram - #telega
-1. А также боты - #bots
-1. Skype - #skype
-1. Mozilla Thunderbird - #thunderbird
-1. Motepad++ - #npp
-1. Microsoft Office - #office
-1. STDU Viewer - #stdu
-1. ABYY Fine Reader - #finereader
+3⃣ #ОФИС и #ОБЩЕНИЕ 
+1. Telegram
+1. А также боты
+1. Skype
+1. Mozilla Thunderbird
+1. Motepad++
+1. Microsoft Office
+1. STDU Viewer
+1. ABYY Fine Reader
 
-4️⃣ #ФАЙЛЫ 
-1. Total Commander PowerPack - #FileManager
-1. Uninstall Tool - #uninstaller
-1. Geek Uninstaller - #uninstaller
-1. Your Uninstaller - #uninstaller
-1. 7-zip - #archiver
-1. WinRar - #archiver
-1. WinDirStat - #DirStat
-1. HxD Hex Editor - #hex
-1. Duplicate File Detector - #duplicate
+4⃣ #ФАЙЛЫ 
+1. Total Commander PowerPack
+1. Uninstall Tool
+1. Geek Uninstaller
+1. Your Uninstaller
+1. 7-zip
+1. WinRar
+1. WinDirStat
+1. HxD Hex Editor
+1. Duplicate File Detector
 
-5️⃣ #СИСТЕМА 
+5⃣ #СИСТЕМА 
 1. Mouse without Borders - #RemoteControl
 1. Unified Remote - #RemoteControl
 1. CrystalDiskInfo - #CrystalDisk
@@ -84,7 +84,7 @@ Android - @FeelSoftAn
 1. System Explorer - #SysMon
 1. Start8 - #Start8
 
-6️⃣ #БЕЗОПАСНОСТЬ 
+6⃣ #БЕЗОПАСНОСТЬ 
 1. Unchecky - #unchecky
 1. Virustotal Uploader - #virustotal
 1. AdwCleaner - #adwcleaner
@@ -92,7 +92,7 @@ Android - @FeelSoftAn
 1. Loader by Daz - #activator
 1. KMS Auto Lite - #activator
 
-7️⃣ #USB/CD/DVD
+7⃣ #USB/CD/DVD
 1. Rufus - #win2usb
 1. UltraISO - #Iso
 1. WinSetupFromUSB - #win2usb
@@ -105,7 +105,7 @@ Android - @FeelSoftAn
 1. WinNTSetup - #winNTSetup
 1. Easy BCD - #bcd
 
-8️⃣ #ДРАЙВЕРЫ 
+8⃣ #ДРАЙВЕРЫ 
 1. Snappy Driver Installer - #driverpack
 1. Double Driver - #driverbackup
 1. Microsoft Visual C++ - #VisualC
