@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-12-16T19:06:22+02:00
+modified: 2020-12-16T21:05:07+02:00
 ---
 
 # Прожки для всех  
@@ -16,14 +16,8 @@ modified: 2020-12-16T19:06:22+02:00
 
 
 ## Windows
-:white_check_mark:  НАВИГАЦИЯ ПО КАНАЛУ  :white_check_mark:
 
- (https://t.me/c/1202559222/105)Необходимое - #super
-Для профи: #pro #extra
-Android - @FeelSoftAn
-Аддоны Chrome - @FeelSoftAddons
-
-1⃣ #МЕДИА 
+**#МЕДИА**
 1. PotPlayer
 1. AIMP
 1. AIMP Remote Control Plugin
@@ -38,7 +32,7 @@ Android - @FeelSoftAn
 1. Equalizer APO
 1. Virtual Audio Cable
 
-2⃣ #ИНТЕРНЕТ 
+**#ИНТЕРНЕТ**
 1. Chrome
 1. Расширения хром
 или @FeelSoftAddons
