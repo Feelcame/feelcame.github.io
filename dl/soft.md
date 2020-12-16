@@ -1,7 +1,7 @@
 ---
 title: Софт для загрузки
 created: 2020-06-29T00:19:30+03:00
-modified: 2020-12-16T21:07:10+02:00
+modified: 2020-12-16T21:07:53+02:00
 ---
 
 # Прожки для всех  
@@ -15,9 +15,9 @@ modified: 2020-12-16T21:07:10+02:00
 - [**Android**](https://t.me/feelSoftAn)  
 
 
-## Windows
+# Windows
 
-### #МЕДИА
+## #МЕДИА
 1. PotPlayer
 1. AIMP
 1. AIMP Remote Control Plugin
