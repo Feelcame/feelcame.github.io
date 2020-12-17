@@ -12,7 +12,7 @@ created: 2020-05-16T13:39:53+03:00
 [**Кино**](./kino.md) | [**Музыка**](./music.md) | [**Софт**](./soft.md) | [**Книги**](./books.md)
 
 
-<p style = "position: sticky; line-height: 300%; bottom: 0; min-height: 1em; background: #FCC; display: flex; justify-content: space-evenly; flex-direction: row;">
+<p style = "line-height: 300%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
 <a href="./kino.md">😄Кино</a>
 <a href="./music.md">😄Музыка</a>
 <a href="./soft.md">😄Софт</a>
