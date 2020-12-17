@@ -15,7 +15,7 @@ modified: 2020-12-16T21:12:07+02:00
 - [**Android**](https://t.me/feelSoftAn)  
 
 
-# Windows
+# **Windows**
 
 ## #МЕДИА
 1. PotPlayer
@@ -32,7 +32,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. Equalizer APO
 1. Virtual Audio Cable
 
-## **#ИНТЕРНЕТ**
+## #ИНТЕРНЕТ
 1. Chrome
 1. Расширения хром
 или @FeelSoftAddons
@@ -66,50 +66,48 @@ modified: 2020-12-16T21:12:07+02:00
 1. Duplicate File Detector
 
 ## #СИСТЕМА 
-1. Mouse without Borders - #RemoteControl
-1. Unified Remote - #RemoteControl
-1. CrystalDiskInfo - #CrystalDisk
-1. CrystalDiskMark - #CrystalDisk
-1. Furmark - #benchmark
-1. CPU-Z - #benchmark
-1. AIDA64 - #benchmark
-1. HWinfo - #SysMon
-1. Moo0 Bottleneck - #SysMon
-1. System Explorer - #SysMon
-1. Start8 - #Start8
+1. Mouse without Borders
+1. Unified Remote
+1. CrystalDiskInfo
+1. CrystalDiskMark
+1. Furmark
+1. CPU-Z
+1. AIDA64
+1. HWinfo
+1. Moo0 Bottleneck
+1. System Explorer
+1. Start8
 
 ## #БЕЗОПАСНОСТЬ 
-1. Unchecky - #unchecky
-1. Virustotal Uploader - #virustotal
-1. AdwCleaner - #adwcleaner
-1. Dr.Web CureIt - #anvir
-1. Loader by Daz - #activator
-1. KMS Auto Lite - #activator
+1. Unchecky
+1. Virustotal Uploader
+1. AdwCleaner
+1. Dr.Web CureIt
+1. Loader by Daz
+1. KMS Auto Lite
 
 ## #USB/CD/DVD
-1. Rufus - #win2usb
-1. UltraISO - #Iso
-1. WinSetupFromUSB - #win2usb
-1. HP USB Format tool - #formatter
-1. Victoria - #Victoria
-1. Acronis True Image - #LiveCD #clonedrive
-1. RusLive / ZverDVD - #LiveCD
-1. Windows 7/10 - #win
-1. BOOTICE - #bootice
-1. WinNTSetup - #winNTSetup
-1. Easy BCD - #bcd
+1. Rufus
+1. UltraISO
+1. WinSetupFromUSB
+1. HP USB Format tool
+1. Victoria
+1. Acronis True Image
+1. RusLive / ZverDVD
+1. Windows 7/10
+1. BOOTICE
+1. WinNTSetup
+1. Easy BCD
 
 ## #ДРАЙВЕРЫ 
-1. Snappy Driver Installer - #driverpack
-1. Double Driver - #driverbackup
-1. Microsoft Visual C++ - #VisualC
-1. RuntimePack_Lite - #Runtime
-1. DirectX - #directX
-1. NetFramework - #Net
+1. Snappy Driver Installer
+1. Double Driver
+1. Microsoft Visual C++
+1. RuntimePack_Lite
+1. DirectX
+1. NetFramework
 
-## Подборки 
-1. 201010 [Редакторы PDF](./201010_Редакторы_PDF.md)
-1. 201010 [Редакторы_PDF](./201010_Редакторы_PDF.md)
+
 
 
 Windows | Android
