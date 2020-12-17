@@ -107,7 +107,15 @@ modified: 2020-12-16T21:12:07+02:00
 1. DirectX
 1. NetFramework
 
-
+<details><summary>Для Android</summary>
+&mdash; ## #ДРАЙВЕРЫ 
+1. Snappy Driver Installer
+1. Double Driver
+1. Microsoft Visual C++
+1. RuntimePack_Lite
+1. DirectX
+1. NetFramework<br><br>
+</details>
 
 
 Windows | Android
