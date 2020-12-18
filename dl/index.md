@@ -8,9 +8,9 @@ created: 2020-05-16T13:39:53+03:00
 ### Выбирай загрузки на свой вкус:
 
 <p style = "line-height: 300%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
-<a href="./kino">😄Кино</a>
-<a href="./music">😄Музыка</a>
-<a href="./soft">😄Софт</a>
+<a href="./kino">😄Кино</a> | 
+<a href="./music">😄Музыка</a> | 
+<a href="./soft">😄Софт</a> | 
 <a href="./books">😄Книги</a>
 </p>
 
