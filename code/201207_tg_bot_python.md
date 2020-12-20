@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-21T01:06:06+02:00
+modified: 2020-12-21T01:06:38+02:00
 ---
 
 # # Бот телеграм на python
@@ -25,13 +25,13 @@ modified: 2020-12-21T01:06:06+02:00
 ## где захостить
 
 * <https://www.alwaysdata.com/en/pricing/>
-* <http://Heroku.com>
+* <http://Heroku.com>  
 Не полностью бесплатный, но хороший
-* localhost + <http://ngrok.com>
+* localhost + <http://ngrok.com>  
 Проброс портов за нат, можно сказать тоннель. Есть бесплатный тариф с ограничением в 40 одновременных подключений или чего-то такое
-* [google app engine](https://cloud.google.com/appengine/docs/python/)
+* [google app engine](https://cloud.google.com/appengine/docs/python/)  
 Бесплатно на три месяца
 * <https://www.pythonanywhere.com/>
-* [amazon aws](https://aws.amazon.com/ru/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsm.page-all-free-tier=2)
+* [amazon aws](https://aws.amazon.com/ru/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsm.page-all-free-tier=2)  
 Бесплатно на год
 *
