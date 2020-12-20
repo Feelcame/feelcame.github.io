@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-21T01:14:22+02:00
+modified: 2020-12-21T01:16:30+02:00
 ---
 
 # # Бот телеграм на python
@@ -35,6 +35,6 @@ modified: 2020-12-21T01:14:22+02:00
 * <https://www.pythonanywhere.com/>
 * [amazon aws](https://aws.amazon.com/ru/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsm.page-all-free-tier=2)
 Бесплатно на год  
-* Гг [ho.ua](http://go.ua)  
+* [ho.ua](http://go.ua)  
    есть впс
-*
+* Рр
