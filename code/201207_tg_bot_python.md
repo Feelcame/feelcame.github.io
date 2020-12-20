@@ -1,5 +1,8 @@
+---
+modified: 2020-12-21T00:39:04+02:00
+---
 
-## Бот телеграм на python
+# # Бот телеграм на python
 
 * <http://developer.alexanderklimov.ru/python/common.php>
 * <https://habr.com/ru/post/448310/>
@@ -17,3 +20,8 @@
 * <https://mastergroosha.github.io/telegram-tutorial/docs/lesson_02/>
 * <https://www.edsd.ru/ru/o_kompanii/novosti/zavtrak-programmista>
 * <>
+
+## где захостить
+
+* <https://www.alwaysdata.com/en/pricing/>
+*
