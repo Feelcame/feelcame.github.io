@@ -1,9 +1,10 @@
 ---
-modified: 2020-12-21T00:39:04+02:00
+modified: 2020-12-21T00:41:35+02:00
 ---
 
 # # Бот телеграм на python
 
+## Инфа как использовать bot-api через python
 * <http://developer.alexanderklimov.ru/python/common.php>
 * <https://habr.com/ru/post/448310/>
 * <https://habr.com/ru/post/442800/>
