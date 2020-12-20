@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-21T00:41:35+02:00
+modified: 2020-12-21T01:02:00+02:00
 ---
 
 # # Бот телеграм на python
@@ -25,4 +25,9 @@ modified: 2020-12-21T00:41:35+02:00
 ## где захостить
 
 * <https://www.alwaysdata.com/en/pricing/>
+* <http://Heroku.com>
+* localhost + <http://ngrok.com>
+* [google app engine](https://cloud.google.com/appengine/docs/python/)
+* <https://www.pythonanywhere.com/>
+* amazon aws
 *
