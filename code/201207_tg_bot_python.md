@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-21T02:17:26+02:00
+modified: 2020-12-21T02:18:45+02:00
 ---
 
 # # Бот телеграм на python
@@ -35,6 +35,6 @@ modified: 2020-12-21T02:17:26+02:00
 * <https://www.pythonanywhere.com/>
 * [amazon aws](https://aws.amazon.com/ru/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsm.page-all-free-tier=2)
 Бесплатно на год  
-* [ho.ua](http://go.ua)
-   есть впс
+* [ho.ua](http://go.ua)   есть впс
+* <https://www.openshift.com/products/online/>
 * У heroku есть бесплатные инстансы, amazon дает aws на год попробовать, у GoogleCloud есть бесплатные инстансы и дают на год попробовать платный, тоже MicrosoftAzure, RedHat OpenShift. У всех этих облачных платформ есть шаблоны для Go. То есть попробовать вы можете просто бесплатно. А вообще вопрос не релевантен тегу Go, выбирайте себе облако или VPS в соответствии бюджету и хотелкам, как и с любой другой серверной технологией.
