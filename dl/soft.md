@@ -20,8 +20,8 @@ modified: 2020-12-16T21:12:07+02:00
 привет [![logo]](kino.md), как твои дела?
 
 ## #МЕДИА
-1. PotPlayer - official - gdrive - telegram
-1. AIMP - official - gdrive - [![][logo]](https://t.me/FeelSoftWin/145) - [![logo]](kino.md)
+1. PotPlayer - [![tg]](https://t.me/FeelSoftWin/145) - [![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) - [![of]](http://potplayer.ru/download/)
+1. AIMP - official - gdrive - 
 1. AIMP Remote Control Plugin
 1. Audacity
 1. XnView
@@ -112,13 +112,12 @@ modified: 2020-12-16T21:12:07+02:00
 
 
 
-[![logo]](https://t.me)
 
 [tg]: ../assets/telegram16.png "Скачать из телеги"
 
-[logo]: ../assets/telegram16.png "Скачать из телеги"
+[gd]: ../assets/googledrive16.png "Скачать из гугл-диска по 'прямой' ссылке"
 
-
+[of]: ../assets/web16.png "Сираничка загрузки на оффициальном сайте"
 
 
 <details><summary>Для Android</summary>
