@@ -115,6 +115,8 @@ modified: 2020-12-16T21:12:07+02:00
 
 [gd]: ../assets/googledrive16.png "Скачать из гугл-диска по 'прямой' ссылке"
 
+[home]: ../assets/website24.png "Загрузить файл с официального сайта"
+
 [of]: ../assets/website16.png "Сираничка загрузки на оффициальном сайте"
 
 [nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
