@@ -19,7 +19,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 ## #МЕДИА
 1. PotPlayer - official - gdrive - telegram
-1. AIMP - official - gdrive - [![logo]](https://t.me/FeelSoftWin/145)
+1. AIMP - official - gdrive - [![][logo]](https://t.me/FeelSoftWin/145)
 1. AIMP Remote Control Plugin
 1. Audacity
 1. XnView
