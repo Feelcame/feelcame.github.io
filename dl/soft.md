@@ -17,9 +17,11 @@ modified: 2020-12-16T21:12:07+02:00
 
 # **Windows**
 
+привет [![logo]](kino.md), как твои дела?
+
 ## #МЕДИА
 1. PotPlayer - official - gdrive - telegram
-1. AIMP - official - gdrive - [![][logo]](https://t.me/FeelSoftWin/145)
+1. AIMP - official - gdrive - [![][logo]](https://t.me/FeelSoftWin/145) - [![logo]](kino.md)
 1. AIMP Remote Control Plugin
 1. Audacity
 1. XnView
@@ -111,7 +113,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 
 [![logo]](https://t.me)
-[logo]: ../assets/telegram64.png "Скачать из телеги"
+[tg]: ../assets/telegram64.png "Скачать из телеги"
 
 
 
