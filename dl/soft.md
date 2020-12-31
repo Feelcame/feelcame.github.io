@@ -19,12 +19,12 @@ modified: 2020-12-16T21:12:07+02:00
 
 ## #МЕДИА
 1. PotPlayer ... 
-[![tg]](https://t.me/FeelSoftWin/145) ... 
-[![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) ... 
-[![of]](http://potplayer.ru/download/)
+[![telega]](https://t.me/FeelSoftWin/145) ... 
+[![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) ... 
+[![web]](http://potplayer.ru/download/)
 1. AIMP ... 
 [![home]](http://potplayer.ru/download/) ... 
-[![of]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) ... 
+[![цуи]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) ... 
 [![telega]](https://t.me/FeelSoftWin/145) ... 
 [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 1. AIMP Remote Control Plugin
@@ -118,17 +118,21 @@ modified: 2020-12-16T21:12:07+02:00
 
 
 
-[tg]: ../assets/telegram16.png "Скачать из телеги"
+[telega]: ../assets/telegram16.png "Скачать из телеги"
 
-[gdrive]: ../assets/googledrive16.png "Скачать из гугл-диска по 'прямой' ссылке"
+[gdrive]: ../assets/googledrive16.png "Скачать из гугл-диска по прямой ссылке"
 
-[home]: ../assets/home16.png "Загрузить файл с официального сайта"
+[home]: ../assets/home16.png "Файл с официального сайта"
 
-[of]: ../assets/website16.png "Сираничка загрузки на оффициальном сайте"
+[web]: ../assets/website16.png "Сираничка загрузки на официальном сайте"
 
 [nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
 
 [rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
+
+[bibl]: ../assets/rutracker16.png "Из сайта biblprog"
+
+[softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 
 <details><summary>Для Android</summary>
