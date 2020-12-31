@@ -151,7 +151,8 @@ Windows | Android
 **Программы Android:**  
 [топ 30](#a30) | [топ 100](#a100) | [**Вся коллекция!**](../beta/donate.md)  
 
-
+привет [![logo2]](kino.md), как твои дела?
+[logo2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
 
 ***
 
