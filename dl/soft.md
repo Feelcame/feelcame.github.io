@@ -114,7 +114,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 [![logo]](https://t.me)
 [tg]: ../assets/telegram64.png "Скачать из телеги"
-
+[logo]: ../assets/telegram64.png "Скачать из телеги"
 
 
 
