@@ -117,7 +117,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 [gd]: ../assets/googledrive16.png "Скачать из гугл-диска по 'прямой' ссылке"
 
-[of]: ../assets/web16.png "Сираничка загрузки на оффициальном сайте"
+[of]: ../assets/website16.png "Сираничка загрузки на оффициальном сайте"
 
 
 <details><summary>Для Android</summary>
