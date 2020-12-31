@@ -19,7 +19,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 ## #МЕДИА
 1. PotPlayer - [![tg]](https://t.me/FeelSoftWin/145) - [![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) - [![of]](http://potplayer.ru/download/)
-1. AIMP - [![tg]](https://t.me/FeelSoftWin/145) - [![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) - [![of]](http://potplayer.ru/download/)
+1. AIMP - [![home]](http://potplayer.ru/download/) - [![of]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) - [![tg]](https://t.me/FeelSoftWin/145) - [![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 1. AIMP Remote Control Plugin
 1. Audacity
 1. XnView
