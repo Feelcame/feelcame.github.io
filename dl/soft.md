@@ -17,8 +17,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 # **Windows**
 
-привет [![logo]](kino.md), как твои дела?
-
 ## #МЕДИА
 1. PotPlayer - [![tg]](https://t.me/FeelSoftWin/145) - [![gd]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) - [![of]](http://potplayer.ru/download/)
 1. AIMP - official - gdrive - 
@@ -118,6 +116,10 @@ modified: 2020-12-16T21:12:07+02:00
 [gd]: ../assets/googledrive16.png "Скачать из гугл-диска по 'прямой' ссылке"
 
 [of]: ../assets/website16.png "Сираничка загрузки на оффициальном сайте"
+
+[nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
+
+[rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
 
 
 <details><summary>Для Android</summary>
