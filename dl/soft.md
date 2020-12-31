@@ -124,7 +124,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 [home]: ../assets/home16.png "Файл с официального сайта"
 
-[web]: ../assets/website16.png "Сираничка загрузки на официальном сайте"
+[web]: ../assets/download16.png "Сираничка загрузки на официальном сайте"
 
 [nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
 
