@@ -120,7 +120,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 [telega]: ../assets/telegram16.png "Скачать из телеги"
 
-[gdrive]: ../assets/googledrive16.png "Скачать из гугл-диска по прямой ссылке"
+[gdrive]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
 
 [home]: ../assets/home16.png "Файл с официального сайта"
 
