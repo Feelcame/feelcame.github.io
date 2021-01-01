@@ -18,10 +18,10 @@ modified: 2020-12-16T21:12:07+02:00
 # **Windows**
 
 ## #МЕДИА
-1. PotPlayer - 
-[![telega]](https://t.me/FeelSoftWin/145) ... 
-[![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe) ... 
-[![web]](http://potplayer.ru/download/)
+1. PotPlayer 
+ .. [![telega]](https://t.me/FeelSoftWin/145)
+ .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
+ .. [![web]](http://potplayer.ru/download/)
 1. AIMP - 
 [![home]](http://potplayer.ru/download/) ... 
 [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) ... 
