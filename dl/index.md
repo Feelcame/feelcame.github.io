@@ -19,7 +19,7 @@ created: 2020-05-16T13:39:53+03:00
     background: #30A896;
     color: #fff;
     margin: 4px;
-    padding-inline: 20px;
+    padding: 0px 20px;
     font-family: arial;
     border-radius: 5px;
     -moz-transition: all 0.3s 0.01s ease;
