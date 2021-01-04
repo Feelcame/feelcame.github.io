@@ -4,6 +4,19 @@ comments: false
 modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
 ---
+<table>
+  
+  <tbody style="width:100%;display:table;">
+    <tr>
+      <td><a href="./kino">😄Кино</a></td>
+      <td><a href="./music">😄Музыка</a></td>
+      <td><a href="./soft">😄Софт</a></td>
+      <td><a href="./books">😄Книги</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
 
 <p style = "line-height: 300%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
 <a href="./kino">😄Кино</a> | 
