@@ -6,7 +6,7 @@ created: 2020-05-16T13:39:53+03:00
 ---
 <table>
   
-  <tbody style="width:100%;display:table;">
+  <tbody style="width:100%;display:table;text-align:center;">
     <tr>
       <td><a href="./kino">😄Кино</a></td>
       <td><a href="./music">😄Музыка</a></td>
