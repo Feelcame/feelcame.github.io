@@ -4,6 +4,7 @@ comments: false
 modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
 ---
+
 <table><tbody style="width:100%;display:table;text-align:center;"><tr>
   <td><a href="./kino"><b>Кино</b></a></td>
   <td><a href="./music"><b>Музыка</b></a></td>
@@ -11,7 +12,7 @@ created: 2020-05-16T13:39:53+03:00
   <td><a href="./books"><b>Книги</b></a></td>
 </tr></tbody></table>
 
-<!--  -->
+<!--  
 <style>
 .big {
     /*line-height: 300%;*/
@@ -34,7 +35,7 @@ created: 2020-05-16T13:39:53+03:00
 <a class="big" href="./soft">Софт</a> 
 <a class="big" href="./books">Книги</a> 
 </p>
-
+-->
 
 ***
 
