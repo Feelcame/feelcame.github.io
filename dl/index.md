@@ -4,27 +4,22 @@ comments: false
 modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
 ---
-<table>
-  
-  <tbody style="width:100%;display:table;text-align:center;">
-    <tr>
-      <td><a href="./kino">😄Кино</a></td>
-      <td><a href="./music">😄Музыка</a></td>
-      <td><a href="./soft">😄Софт</a></td>
-      <td><a href="./books">😄Книги</a></td>
-    </tr>
-  </tbody>
-</table>
+<table><tbody style="width:100%;display:table;text-align:center;"><tr>
+  <td><a href="./kino"><b>Кино</b></a></td>
+  <td><a href="./music"><b>Музыка</b></a></td>
+  <td><a href="./soft"><b>Софт</b></a></td>
+  <td><a href="./books"><b>Книги</b></a></td>
+</tr></tbody></table>
 
 <!--  -->
 <style>
 .big {
-    //line-height: 300%;
+    /*line-height: 300%;*/
     text-decoration: none;
     background: #30A896;
     color: #fff;
     margin: 4px;
-    padding: 10px;
+    padding-right, padding-left: 20px;
     font-family: arial;
     border-radius: 5px;
     -moz-transition: all 0.3s 0.01s ease;
