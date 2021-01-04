@@ -18,11 +18,27 @@ created: 2020-05-16T13:39:53+03:00
 
 ---
 
+<style>
+.big {
+    line-height: 300%;
+    text-decoration: none;
+    background: #30A896;
+    color: #fff;
+    margin: 4px;
+    padding: 10px;
+    font-family: arial;
+    border-radius: 5px;
+    -moz-transition: all 0.3s 0.01s ease;
+    -o-transition: all 0.3s 0.01s ease;
+    -webkit-transition: all 0.3s 0.01s ease;
+}
+</style>
+
 <p style = "line-height: 300%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
-<a href="./kino">😄Кино</a> | 
-<a href="./music">😄Музыка</a> | 
-<a href="./soft">😄Софт</a> | 
-<a href="./books">😄Книги</a>
+<a class="big" href="./kino">😄Кино</a> | 
+<a class="big" href="./music">😄Музыка</a> | 
+<a class="big" href="./soft">😄Софт</a> | 
+<a class="big" href="./books">😄Книги</a>
 </p>
 
 ***
