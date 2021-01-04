@@ -165,4 +165,4 @@ modified: 2021-01-04T20:44:23+02:00
 Таблица | ссылка1
 -|:-
 Строка первая | ссылка 2
-{: display: table style="width:100%;"}
+{: style="width:100%;display:table;"}
