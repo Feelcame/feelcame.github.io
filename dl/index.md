@@ -16,11 +16,10 @@ created: 2020-05-16T13:39:53+03:00
   </tbody>
 </table>
 
----
-
+<!--  -->
 <style>
 .big {
-    line-height: 300%;
+    //line-height: 300%;
     text-decoration: none;
     background: #30A896;
     color: #fff;
@@ -40,6 +39,7 @@ created: 2020-05-16T13:39:53+03:00
 <a class="big" href="./soft">😄Софт</a> | 
 <a class="big" href="./books">😄Книги</a>
 </p>
+
 
 ***
 
