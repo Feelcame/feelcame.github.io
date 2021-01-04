@@ -28,7 +28,7 @@ created: 2020-05-16T13:39:53+03:00
 }
 </style>
 
-<p style = "line-height: 300%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
+<p style = "line-height: 200%; min-height: 1em; display: flex; justify-content: space-evenly; flex-direction: row;">
 <a class="big" href="./kino">😄Кино</a> 
 <a class="big" href="./music">😄Музыка</a> 
 <a class="big" href="./soft">😄Софт</a> 
