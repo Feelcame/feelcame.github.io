@@ -18,11 +18,11 @@ modified: 2020-12-16T21:12:07+02:00
 # **Windows**
 
 ## #МЕДИА
-1. PotPlayer 
+1. PotPlayer &#8207;
  .. [![home]](http://www.aimp.ru/?do=download&os=windows)
  .. [![telega]](https://t.me/FeelSoftWin/149)
  .. [![gdrive]](https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM)
-1. AIMP 
+1. AIMP &#8207;
  .. [![home]](http://potplayer.ru/download/)
  .. [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
  .. [![telega]](https://t.me/FeelSoftWin/145)
