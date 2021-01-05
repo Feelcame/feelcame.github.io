@@ -135,16 +135,26 @@ modified: 2020-12-16T21:12:07+02:00
 [softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 
-<details><summary>Для Android</summary>
-&mdash; ## #ДРАЙВЕРЫ 
-1. Snappy Driver Installer
-1. Double Driver
-1. Microsoft Visual C++
-1. RuntimePack_Lite
-1. DirectX
-1. NetFramework<br><br>
+PotPlayer <details><summary>Скачать</summary>
+  Страница загрузки<br>  
+  Официальео<br>
+  Телеграм<br> 
+  Гугл диск<br>
 </details>
 
+PotPlayer <details><summary></summary>
+  Страница загрузки<br>  
+  Официальео<br>
+  Телеграм<br> 
+  Гугл диск<br>
+</details>
+
+<details><summary>PotPlayer</summary>
+  Страница загрузки<br>  
+  Официальео<br>
+  Телеграм<br> 
+  Гугл диск<br>
+</details>
 
 Название | ссылки
 -|-
