@@ -135,14 +135,15 @@ modified: 2020-12-16T21:12:07+02:00
 [softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 
-PotPlayer <details><summary>Скачать</summary>
-  Страница загрузки<br>  
-  Официальео<br>
-  Телеграм<br> 
-  Гугл диск<br>
+<details><summary>Медиа</summary>
+1. RusLive / ZverDVD <br>
+1. Windows 7/10 <br>
+1. BOOTICE <br>
+1. WinNTSetup <br>
+1. Easy BCD <br>
 </details>
 
-PotPlayer <details><summary></summary>
+PotPlayer<details><summary></summary>
   Страница загрузки<br>  
   Официальео<br>
   Телеграм<br> 
