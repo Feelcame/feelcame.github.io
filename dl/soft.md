@@ -174,7 +174,13 @@ modified: 2020-12-16T21:12:07+02:00
 </p></details>
 
 
-Do you see {::comment}this text{:/comment}?
+Do you see {::comment}**this text**{:/comment}?
+
+{% comment %} 
+1. These commments will not 
+1. include inside the source.
+{% endcomment %}
+
 
 <!-- 
 
