@@ -1,3 +1,4 @@
+# This is configuration file
 title: Linker
 description: <a href="/" style="color:white; font-weight:bold">Linker</a>. Тут годный контент
 comments: true
@@ -5,4 +6,6 @@ show_downloads: true
 google_analytics: false
 theme: jekyll-theme-cayman
 copyright: © 2018+
-rem-markdown: CommonMarkGhPages
+markdown: kramdown
+#markdown: CommonMarkGhPages
+highlighter: rouge
