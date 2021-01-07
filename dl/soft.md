@@ -174,13 +174,20 @@ modified: 2020-12-16T21:12:07+02:00
 </p></details>
 
 
+коммент1
+
 Do you see {::comment}**this text**{:/comment}?
+
+ком2
 
 {% comment %} 
 1. These commments will not 
 1. include inside the source.
 {% endcomment %}
 
+коммент3
+
+{#здесь многострочные комментарии#}
 
 <!-- 
 
