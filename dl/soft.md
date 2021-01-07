@@ -117,7 +117,7 @@ modified: 2020-12-16T21:12:07+02:00
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
 **AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-<details><summary>Спойлер summary</summary>Описание под спойлером</details> | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
 
@@ -166,8 +166,12 @@ modified: 2020-12-16T21:12:07+02:00
 > Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)
 > Все предложения писать в группу канала или мне в телеграм <http://linker.pp.ua/about>
 
-Тексд до спойлера
-<details><summary>Спойлер summary</summary>Описание под спойлером</details>
+<details><summary>Спойлер summary</summary>
+ 
+* Описание под спойлером
+* Описание под спойлером
+* Описание под спойлером
+</details>
 
 <!-- 
 
