@@ -7,6 +7,11 @@ google_analytics: false
 theme: jekyll-theme-cayman
 copyright: © 2018+
 markdown: kramdown
-#markdown: CommonMarkGhPages
-#markdown: GFM
 highlighter: rouge
+#markdown: GFM
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "tables"]
+
+
