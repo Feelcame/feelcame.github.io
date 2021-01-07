@@ -168,14 +168,24 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | ссылки
 -|-
-**PotPlayer** | [![home]][potplayerhome] . [![telega]](https://t.me/FeelSoftWin/149) [![gdrive]](https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM)
+**PotPlayer** | [![home]][pothome] . [![telega]](pottg) [![gdrive]](potgdrive)
 **AIMP** | [![home]](http://www.aimp.ru/?do=download&os=windows) [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) [![telega]](https://t.me/FeelSoftWin/145) [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 {: style="width:100%;display:table;"}
 
+***
 
+[test link1][MEDIA]
+[test link2][hm]
+[test link3][]
 
-[potplayerhome]: http://potplayer.ru/download/ "Страница загрузки на оффициальном сайте"
+***
 
+[MEDIA]: #media  [hm]: #home [hd]: #home_download [tg]: #telegram [gd]: #gdrive [nnm]: #nnmclub [rt]: #rutracker [bp]: #biblprog [sp]: #softportal
+[pothm]: http://potplayer.ru/download/
+[pottg]: https://t.me/FeelSoftWin/149
+[potgd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
+
+[aimphm]: 
 
 
 
