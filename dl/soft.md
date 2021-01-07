@@ -132,6 +132,8 @@ modified: 2020-12-16T21:12:07+02:00
 {: style="width:100%;display:table;"}
 
 
+<style> table { width: 100%; display: table; } </style>
+
 ## **#интернет**
 
 Название | Cсылки
@@ -146,7 +148,8 @@ modified: 2020-12-16T21:12:07+02:00
 **NetWorx** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **OpenVPN** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **AnyDesk** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-{: style="width:100%;display:table;"}
+
+
 
 ## **##офис и #общение**
 
@@ -161,6 +164,7 @@ modified: 2020-12-16T21:12:07+02:00
 **STDU Viewer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **ABYY Fine Reader** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
+
 
 ## **#файлы**
 
@@ -177,6 +181,7 @@ modified: 2020-12-16T21:12:07+02:00
 **HxD Hex Editor** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Duplicate File Detector** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
+
 
 ## **#система**
 
@@ -196,6 +201,7 @@ modified: 2020-12-16T21:12:07+02:00
 **-Start8** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
+
 ## **#безопасность**
 
 Название | Cсылки
@@ -208,6 +214,7 @@ modified: 2020-12-16T21:12:07+02:00
 **Loader by Daz** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **KMS Auto Lite** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
+
 
 ## **#usb/cd/dvd**
 
@@ -227,6 +234,7 @@ modified: 2020-12-16T21:12:07+02:00
 **Easy BCD** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
+
 ## **#драйверы**
 
 Название | Cсылки
@@ -239,6 +247,7 @@ modified: 2020-12-16T21:12:07+02:00
 **DirectX** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **NetFramework** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
+
 
 
 [//]: # "МЕДИА"
