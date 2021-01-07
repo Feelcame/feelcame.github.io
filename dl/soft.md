@@ -166,27 +166,25 @@ modified: 2020-12-16T21:12:07+02:00
 
 ---
 
+### ***Медиа***
+
 Название | ссылки
 -|-
-**PotPlayer** | [![home]][pothm] . [![telega]](pottg) [![gdrive]](potgdrive)
-**AIMP** | [![home]](http://www.aimp.ru/?do=download&os=windows) [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe) [![telega]](https://t.me/FeelSoftWin/145) [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
+**PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
+**AIMP** | [![home]][aimphp] / [![web]][aimphd] / [![telega]][aimptg] / [![gdrive]][aimpgd]
 {: style="width:100%;display:table;"}
 
-***
-
-[test link1][MEDIA]
-[test link2][hm]
-[test link3][aimphm]
 
 ***
 
-[MEDIA]: #media  [hm]: #home [hd]: #home_download [tg]: #telegram [gd]: #gdrive [nnm]: #nnmclub [rt]: #rutracker [bp]: #biblprog [sp]: #softportal
-[pothm]: http://potplayer.ru/download/
+[//]: #  **MEDIA**  [hp]: #home [hd]: #home_download [tg]: #telegram [gd]: #gdrive [nnm]: #nnmclub [rt]: #rutracker [bp]: #biblprog [sp]: #softportal
+[pothp]: http://potplayer.ru/download/
 [pottg]: https://t.me/FeelSoftWin/149
 [potgd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
-
-[aimphm]: #home
-
+[pothd]: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+[aimphp]: http://www.aimp.ru/?do=download&os=windows
+[aimptg]: https://t.me/FeelSoftWin/145
+[aimpgd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 
 
 
