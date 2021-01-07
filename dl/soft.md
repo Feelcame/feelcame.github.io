@@ -4,6 +4,8 @@ created: 2020-06-29T00:19:30+03:00
 modified: 2020-12-16T21:12:07+02:00
 ---
 
+<style> .table { width: 100%; display: table; } </style>
+
 ## Прожки не для всех на каждый день
 
 *Все программы отобраны вручную и проверены на личном опыте.*
@@ -132,7 +134,7 @@ modified: 2020-12-16T21:12:07+02:00
 {: style="width:100%;display:table;"}
 
 
-<style> table { width: 100%; display: table; } </style>
+
 
 ## **#интернет**
 
@@ -148,7 +150,7 @@ modified: 2020-12-16T21:12:07+02:00
 **NetWorx** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **OpenVPN** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **AnyDesk** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-
+{: class="table"}
 
 
 ## **##офис и #общение**
