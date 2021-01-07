@@ -113,7 +113,7 @@ modified: 2020-12-16T21:12:07+02:00
 ## **#медиа**
 
 Название | Cсылки
--|-
+---------|:------
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
 **AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -174,7 +174,7 @@ modified: 2020-12-16T21:12:07+02:00
 </p></details>
 
 
-
+{::comment}this text{:/comment}
 
 <!-- 
 
