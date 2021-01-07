@@ -189,7 +189,8 @@ modified: 2020-12-16T21:12:07+02:00
 
 ## TEST
 
-[![][gdrive]][testgd]
+[![gdrive]][testgd]
+
 [testgd]: https://google.com
 
 ---
