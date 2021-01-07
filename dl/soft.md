@@ -162,59 +162,19 @@ modified: 2020-12-16T21:12:07+02:00
 
 ***
 
-> Весь предоставленный контент вы скачиваете на свой страх и риск. 
-> Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)
-> Все предложения писать в группу канала или мне в телеграм <http://linker.pp.ua/about>
+> Весь предоставленный контент вы скачиваете на свой страх и риск.  
+> Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)  
+> Все предложения писать в группу канала или мне в телеграм [Контакты](../about)  
 
-<details><summary>Спойлер summary</summary>
- 
- 
+<details><summary>Спойлер summary</summary><p>
+
 1) Описание под спойлером
 1) Описание под спойлером
 1) Описание под спойлером
-</details>
-
-## collapsible markdown?
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
-
- <details><summary> nest2 </summary><blockquote>
-
-a
-b
-c
-</blockquote></details>
-
-
-<details><summary> nest2 </summary><blockquote>
-
-~~~
-file1
-file2
-file3
-~~~
-</blockquote></details>
+</p></details>
 
 
 
-<details>
-  <summary>Click to expand!</summary>
-  
-```python
-def func():
-    return 'hello, world!'
-```
-</details>
 
 <!-- 
 
