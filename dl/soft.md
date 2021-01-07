@@ -4,20 +4,12 @@ created: 2020-06-29T00:19:30+03:00
 modified: 2020-12-16T21:12:07+02:00
 ---
 
-# Прожки не для всех на каждый день
+## Прожки не для всех на каждый день
 
 *Все программы отобраны вручную и проверены на личном опыте.*
 *Только ты сам выбираешь каким софтом пользоваться!*
 
-Подписывайтесь на телеграм канал:  
-- [**Новости**](https://t.me/feelSoft)  
-- [**Windows**](https://t.me/feelSoftWin)  
-- [**Android**](https://t.me/feelSoftAn)  
-
-
-# **Windows**
-
-## **#МЕДИА**
+## **#медиа**
 1. PotPlayer &#8207;
  .. [![home]](http://www.aimp.ru/?do=download&os=windows)
  .. [![telega]](https://t.me/FeelSoftWin/149)
@@ -39,7 +31,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. Equalizer APO
 1. Virtual Audio Cable
 
-## #ИНТЕРНЕТ
+## **#интернет**
 1. Chrome
 1. Расширения хром
 или @FeelSoftAddons
@@ -51,7 +43,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. OpenVPN
 1. AnyDesk
 
-## #ОФИС и #ОБЩЕНИЕ 
+## **#офис и #общение**
 1. Telegram
 1. А также боты
 1. Skype
@@ -61,7 +53,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. STDU Viewer
 1. ABYY Fine Reader
 
-## #ФАЙЛЫ 
+## **#файлы** 
 1. Total Commander PowerPack
 1. Uninstall Tool
 1. Geek Uninstaller
@@ -72,7 +64,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. HxD Hex Editor
 1. Duplicate File Detector
 
-## #СИСТЕМА 
+## **#система** 
 1. Mouse without Borders
 1. Unified Remote
 1. CrystalDiskInfo
@@ -85,7 +77,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. System Explorer
 1. Start8
 
-## #БЕЗОПАСНОСТЬ 
+## **#безопасность**
 1. Unchecky
 1. Virustotal Uploader
 1. AdwCleaner
@@ -93,7 +85,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. Loader by Daz
 1. KMS Auto Lite
 
-## #USB/CD/DVD
+## **#usb/cd/dvd**
 1. Rufus
 1. UltraISO
 1. WinSetupFromUSB
@@ -106,7 +98,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. WinNTSetup
 1. Easy BCD
 
-## #Драйверы
+## **#драйверы**
 1. Snappy Driver Installer
 1. Double Driver
 1. Microsoft Visual C++
@@ -114,42 +106,9 @@ modified: 2020-12-16T21:12:07+02:00
 1. DirectX
 1. NetFramework
 
-
-
-
-
-
-
-<details><summary>Медиа</summary>
-1. RusLive / ZverDVD <br>
-1. Windows 7/10 <br>
-1. BOOTICE <br>
-1. WinNTSetup <br>
-1. Easy BCD <br>
-</details>
-
-
 ---
 
-## **#test**
-1. PotPlayer &#8207;
- .. [![home]](http://www.aimp.ru/?do=download&os=windows)
- .. [![telega]](https://t.me/FeelSoftWin/149)
- .. [![gdrive]](https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM)
-1. AIMP &#8207;
- .. [![home]](http://potplayer.ru/download/)
- .. [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
- .. [![telega]](https://t.me/FeelSoftWin/145)
- .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 
-
----
-
-**Список со спойлером**
-* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
-* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
-
----
 
 ## **#медиа**
 
@@ -195,36 +154,35 @@ modified: 2020-12-16T21:12:07+02:00
 
 ***
 
-> Весь предоставленный контент вы скачиваете на свой страх и риск.  
-> Для загрузки нужно быть подписанным на канал в телеграм, иначе ссылки не будут работать.
+## Полезные ссылки
+
+Подписывайтесь на телеграм каналы:  
+- [**Новости**](https://t.me/feelSoft)  
+- [**Windows**](https://t.me/feelSoftWin)  
+- [**Android**](https://t.me/feelSoftAn)  
 
 
 
+> Весь предоставленный контент вы скачиваете на свой страх и риск. 
+> Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)
+> Все предложения писать в группу канала или мне в телеграм <http://t.me/rfeecat>
 
-
-
+Тексд до спойлера
+<details><summary>Спойлер summary</summary>Описание под спойлером</details>
 
 <!-- 
+
+**Список со спойлером**
+* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
+* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
+
+---
 
 ## TEST
 
 [![gdrive]][testgd]
 
 [testgd]: https://google.com
-
----
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
