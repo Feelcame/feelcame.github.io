@@ -20,9 +20,7 @@ modified: 2020-12-16T21:12:07+02:00
  .. [![telega]](https://t.me/FeelSoftWin/145)
  .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 1. AIMP Remote Control Plugin
-1. <details><summary>Audacity  <a href="#">скачать</a> </summary>
-Описание программы на несколько строк с использованием синтаксиса хтмл
-</details>
+1. <details><summary>Audacity  <a href="#">скачать</a> </summary>Описание программы на несколько строк с использованием синтаксиса хтмл  <a href="#">скачать</a></details>
 1. XnView
 1. FastStone Capture
 1. Bandicam
