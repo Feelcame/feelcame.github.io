@@ -195,6 +195,9 @@ b
 c
 </blockquote></details>
 
+
+<details><summary> nest2 </summary><blockquote>
+
 ~~~
 file1
 file2
@@ -203,7 +206,7 @@ file3
 </blockquote></details>
 
 
-## A collapsible section with markdown
+
 <details>
   <summary>Click to expand!</summary>
   
