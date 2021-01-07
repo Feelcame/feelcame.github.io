@@ -157,7 +157,7 @@ modified: 2020-12-16T21:12:07+02:00
 -|-
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
