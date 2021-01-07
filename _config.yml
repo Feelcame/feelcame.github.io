@@ -5,4 +5,4 @@ show_downloads: true
 google_analytics: false
 theme: jekyll-theme-cayman
 copyright: © 2018+
-markdown: CommonMarkGhPages
+rem-markdown: CommonMarkGhPages
