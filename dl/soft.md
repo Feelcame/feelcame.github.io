@@ -31,84 +31,7 @@ modified: 2020-12-16T21:12:07+02:00
 1. Equalizer APO
 1. Virtual Audio Cable
 
-## **#интернет**
-1. Chrome
-1. Расширения хром
-или @FeelSoftAddons
-1. Firefox
-1. Download Master
-1. uTorrent 2.2.1
-1. qBittorrent
-1. NetWorx
-1. OpenVPN
-1. AnyDesk
-
-## **#офис и #общение**
-1. Telegram
-1. А также боты
-1. Skype
-1. Mozilla Thunderbird
-1. Motepad++
-1. Microsoft Office
-1. STDU Viewer
-1. ABYY Fine Reader
-
-## **#файлы** 
-1. Total Commander PowerPack
-1. Uninstall Tool
-1. Geek Uninstaller
-1. Your Uninstaller
-1. 7-zip
-1. WinRar
-1. WinDirStat
-1. HxD Hex Editor
-1. Duplicate File Detector
-
-## **#система** 
-1. Mouse without Borders
-1. Unified Remote
-1. CrystalDiskInfo
-1. CrystalDiskMark
-1. Furmark
-1. CPU-Z
-1. AIDA64
-1. HWinfo
-1. Moo0 Bottleneck
-1. System Explorer
-1. Start8
-
-## **#безопасность**
-1. Unchecky
-1. Virustotal Uploader
-1. AdwCleaner
-1. Dr.Web CureIt
-1. Loader by Daz
-1. KMS Auto Lite
-
-## **#usb/cd/dvd**
-1. Rufus
-1. UltraISO
-1. WinSetupFromUSB
-1. HP USB Format tool
-1. Victoria
-1. Acronis True Image
-1. RusLive / ZverDVD
-1. Windows 7/10
-1. BOOTICE
-1. WinNTSetup
-1. Easy BCD
-
-## **#драйверы**
-1. Snappy Driver Installer
-1. Double Driver
-1. Microsoft Visual C++
-1. RuntimePack_Lite
-1. DirectX
-1. NetFramework
-
 ---
-
-
 
 ## **#медиа**
 
@@ -194,9 +117,9 @@ modified: 2020-12-16T21:12:07+02:00
 **CPU-Z** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **AIDA64** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **HWinfo** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Moo0 Bottleneck** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**-System Explorer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**-Start8** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+Moo0 Bottleneck | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+System Explorer | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+Start8 | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
 
@@ -222,7 +145,7 @@ modified: 2020-12-16T21:12:07+02:00
 **WinSetupFromUSB** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **HP USB Format tool** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **+Victoria** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**+Acronis** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Acronis** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **RusLive / ZverDVD** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Windows 7/10** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **WinNTSetup** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -265,11 +188,11 @@ modified: 2020-12-16T21:12:07+02:00
 [rt]: #rutracker
 
 
-[//]: # "Иконки"
+{% comment %} Иконки {% endcomment %}
 [telega]: ../assets/telegram16.png "Скачать из телеги"
 [gdrive]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
-[home]: ../assets/home16.png "Файл с официального сайта"
-[web]: ../assets/download16.png "Сираничка загрузки на официальном сайте"
+[home]: ../assets/home16.png "Сираничка загрузки на официальном сайте"
+[web]: ../assets/download16.png "Файл с официального сайта"
 [nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
 [rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
 [bibl]: ../assets/rutracker16.png "Из сайта biblprog"
@@ -322,6 +245,87 @@ modified: 2020-12-16T21:12:07+02:00
 [testgd]: https://google.com
 
 ---
+
+
+## **#интернет**
+1. Chrome
+1. Расширения хром
+или @FeelSoftAddons
+1. Firefox
+1. Download Master
+1. uTorrent 2.2.1
+1. qBittorrent
+1. NetWorx
+1. OpenVPN
+1. AnyDesk
+
+## **#офис и #общение**
+1. Telegram
+1. А также боты
+1. Skype
+1. Mozilla Thunderbird
+1. Motepad++
+1. Microsoft Office
+1. STDU Viewer
+1. ABYY Fine Reader
+
+## **#файлы** 
+1. Total Commander PowerPack
+1. Uninstall Tool
+1. Geek Uninstaller
+1. Your Uninstaller
+1. 7-zip
+1. WinRar
+1. WinDirStat
+1. HxD Hex Editor
+1. Duplicate File Detector
+
+## **#система** 
+1. Mouse without Borders
+1. Unified Remote
+1. CrystalDiskInfo
+1. CrystalDiskMark
+1. Furmark
+1. CPU-Z
+1. AIDA64
+1. HWinfo
+1. Moo0 Bottleneck
+1. System Explorer
+1. Start8
+
+## **#безопасность**
+1. Unchecky
+1. Virustotal Uploader
+1. AdwCleaner
+1. Dr.Web CureIt
+1. Loader by Daz
+1. KMS Auto Lite
+
+## **#usb/cd/dvd**
+1. Rufus
+1. UltraISO
+1. WinSetupFromUSB
+1. HP USB Format tool
+1. Victoria
+1. Acronis True Image
+1. RusLive / ZverDVD
+1. Windows 7/10
+1. BOOTICE
+1. WinNTSetup
+1. Easy BCD
+
+## **#драйверы**
+1. Snappy Driver Installer
+1. Double Driver
+1. Microsoft Visual C++
+1. RuntimePack_Lite
+1. DirectX
+1. NetFramework
+
+
+---
+
+
 
 Windows | Android
 :-:|:-:
