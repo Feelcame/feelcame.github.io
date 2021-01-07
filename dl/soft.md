@@ -174,7 +174,19 @@ modified: 2020-12-16T21:12:07+02:00
 1) Описание под спойлером
 </details>
 
+## collapsible markdown?
 
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
 
  <details><summary> nest2 </summary><blockquote>
 
