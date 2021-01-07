@@ -166,46 +166,19 @@ modified: 2020-12-16T21:12:07+02:00
 > Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)  
 > Все предложения писать в группу канала или мне в телеграм [Контакты](../about)  
 
-<details><summary>Спойлер summary</summary><p>
 
+
+
+
+
+{% comment %} 
+
+<details><summary>Спойлер summary</summary><p>
 1) Описание под спойлером
 1) Описание под спойлером
 1) Описание под спойлером
 </p></details>
 
-
-коммент1
-
-Do you see {::comment}**this text**{:/comment}?
-
-ком2
-
-{% comment %} 
-1. These commments will not 
-1. include inside the source.
-{% endcomment %}
-
-коммент3
-
-{#  здесь многострочные комментарии  #}
-
-
-коммент4
-
-{#
-здесь многострочные комментарии
-#}
-
-
-<!-- 
-
-**Список со спойлером**
-* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
-* <details><summary>PotPlayer</summary>  Страница загрузки<br>    Официальео<br>  Телеграм<br>   Гугл диск<br></details>
-
----
-
-## TEST
 
 [![gdrive]][testgd]
 
@@ -215,18 +188,15 @@ Do you see {::comment}**this text**{:/comment}?
 
 Windows | Android
 :-:|:-:
- [**топ-30**](soft30.md) | [**топ-30**](soft30.md) 
+[**топ-30**](soft30.md) | [**топ-30**](soft30.md) 
 [**топ-100**](soft100.md) | [**топ-100**](soft100.md)
 [**Вся коллекция!**](../donate.md) | [**Вся коллекция!**](../donate.md)
 
-***
 
 **Программы  для windows:** | [**топ-30**](soft30.md) | [**топ-100**](soft100.md) | [**Вся коллекция!**](../donate.md)
 :---|:---:|:---:|:---:
 **Программы Android:** | [**топ 30**](#a30) | [**топ 100**](#a100) | [**Вся коллекция!**](../donate.md)
 
-
-***
 
 **Программы  для windows:**    
 [топ-30](soft30.md) | [топ-100](soft100.md) | [**Вся коллекция!**](../beta/donate.md)  
@@ -234,8 +204,7 @@ Windows | Android
 **Программы Android:**  
 [топ 30](#a30) | [топ 100](#a100) | [**Вся коллекция!**](../beta/donate.md)  
 
-привет [![logo2]](kino.md), как твои дела?
-[logo2]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
 
--->
+
+{% endcomment %}
 
