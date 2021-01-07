@@ -168,9 +168,37 @@ modified: 2020-12-16T21:12:07+02:00
 
 <details><summary>Спойлер summary</summary>
  
-* Описание под спойлером
-* Описание под спойлером
-* Описание под спойлером
+ 
+1) Описание под спойлером
+1) Описание под спойлером
+1) Описание под спойлером
+</details>
+
+
+
+ <details><summary> nest2 </summary><blockquote>
+
+a
+b
+c
+</blockquote></details>
+
+~~~
+file1
+file2
+file3
+~~~
+</blockquote></details>
+
+
+## A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+```python
+def func():
+    return 'hello, world!'
+```
 </details>
 
 <!-- 
