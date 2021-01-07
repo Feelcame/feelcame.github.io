@@ -188,7 +188,7 @@ Start8 | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 [rt]: #rutracker
 
 
-{% comment %} Иконки {% endcomment %}
+[//]: # "Иконки"
 [telega]: ../assets/telegram16.png "Скачать из телеги"
 [gdrive]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
 [home]: ../assets/home16.png "Сираничка загрузки на официальном сайте"
@@ -197,7 +197,7 @@ Start8 | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 [rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
 [bibl]: ../assets/rutracker16.png "Из сайта biblprog"
 [softp]: ../assets/rutracker16.png "Из сайта Softportal"
-
+{% comment %} Иконки {% endcomment %}
 
 ### Полезные ссылки
 
