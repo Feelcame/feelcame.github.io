@@ -118,17 +118,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 
 
-[telega]: ../assets/telegram16.png "Скачать из телеги"
-
-[gdrive]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
-
-[home]: ../assets/home16.png "Файл с официального сайта"
-
-[web]: ../assets/download16.png "Сираничка загрузки на официальном сайте"
-[nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
-[rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
-[bibl]: ../assets/rutracker16.png "Из сайта biblprog"
-[softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 
 <details><summary>Медиа</summary>
@@ -172,8 +161,8 @@ modified: 2020-12-16T21:12:07+02:00
 **Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
-[//]: # "#MEDIA  [hp]: home [hd]: home_download [tg]: telegram [gd]: gdrive [nn]: nnmclub [rt]: rutracker [bp]: biblprog [sp]: softportal"
-[//]: # "ffff"
+
+[//]: # "МЕДИА"
 [pothp]: http://potplayer.ru/download/
 [pottg]: https://t.me/FeelSoftWin/149
 [potgd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
@@ -183,6 +172,7 @@ modified: 2020-12-16T21:12:07+02:00
 [aimpgd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 
 
+[//]: # "Пример ссылок на загрузку"
 [hp]: #home_page
 [hd]: #home_download
 [tg]: #telegram
@@ -191,6 +181,17 @@ modified: 2020-12-16T21:12:07+02:00
 [sp]: #softportal
 [nn]: #nnmclub
 [rt]: #rutracker
+
+
+[//]: # "Иконки"
+[telega]: ../assets/telegram16.png "Скачать из телеги"
+[gdrive]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
+[home]: ../assets/home16.png "Файл с официального сайта"
+[web]: ../assets/download16.png "Сираничка загрузки на официальном сайте"
+[nnm]: ../assets/nnm16.png "Торрент трекер Noname club"
+[rtr]: ../assets/rutracker16.png "Торрент трекер Rutracker"
+[bibl]: ../assets/rutracker16.png "Из сайта biblprog"
+[softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 ***
 
