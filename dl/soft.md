@@ -113,11 +113,131 @@ modified: 2020-12-16T21:12:07+02:00
 ## **#медиа**
 
 Название | Cсылки
----------|:------
+---------|:-------
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
 **AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Audacity** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**XnView** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**FastStone Capture** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Bandicam** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Bandicut** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**HandBrake** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Paint.Net** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Adobe Photoshop** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**MakeMKV** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Equalizer APO** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Virtual Audio Cable** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+
+## **#интернет**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Chrome** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Расширения хром** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Firefox** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Download Master** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**uTorrent 2.2.1** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**qBittorrent** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**NetWorx** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**OpenVPN** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AnyDesk** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **##офис и #общение**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Telegram** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Skype** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Mozilla Thunderbird** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Motepad++** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Microsoft Office** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**STDU Viewer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**ABYY Fine Reader** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **#файлы**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Total Commander PowerPack** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Uninstall Tool** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Geek Uninstaller** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Your Uninstaller** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**7-zip** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**WinRar** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**WinDirStat** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**HxD Hex Editor** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Duplicate File Detector** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **#система**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Mouse without Borders** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Unified Remote** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**CrystalDiskInfo** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**CrystalDiskMark** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Furmark** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**CPU-Z** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AIDA64** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**HWinfo** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Moo0 Bottleneck** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**-System Explorer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**-Start8** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **#безопасность**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Unchecky** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AdwCleaner** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**VirusTotal Uploader** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Dr.Web CureIt** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Loader by Daz** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**KMS Auto Lite** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **#usb/cd/dvd**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**UltraISO** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Rufus** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**WinSetupFromUSB** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**HP USB Format tool** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**+Victoria** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**+Acronis** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**RusLive / ZverDVD** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Windows 7/10** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**WinNTSetup** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**BOOTICE** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Easy BCD** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+{: style="width:100%;display:table;"}
+
+## **#драйверы**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Snappy Driver Installer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Double Driver** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Microsoft Visual C++** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**RuntimePack_Lite** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**DirectX** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**NetFramework** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
 
@@ -129,7 +249,6 @@ modified: 2020-12-16T21:12:07+02:00
 [aimphp]: http://www.aimp.ru/?do=download&os=windows
 [aimptg]: https://t.me/FeelSoftWin/145
 [aimpgd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
-
 
 [//]: # "Пример ссылок на загрузку"
 [hp]: #home_page
@@ -172,6 +291,17 @@ modified: 2020-12-16T21:12:07+02:00
 
 
 {% comment %} 
+
+
+## **#Example**
+
+Название | Cсылки
+---------|:-------
+**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+
+{: style="width:100%;display:table;"}
+
+
 
 <details><summary>Спойлер summary</summary><p>
 1) Описание под спойлером
