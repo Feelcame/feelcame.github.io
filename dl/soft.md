@@ -117,7 +117,7 @@ modified: 2020-12-16T21:12:07+02:00
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
 **AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+<details><summary>Спойлер summary</summary>Описание под спойлером</details> | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
 
@@ -152,16 +152,15 @@ modified: 2020-12-16T21:12:07+02:00
 [bibl]: ../assets/rutracker16.png "Из сайта biblprog"
 [softp]: ../assets/rutracker16.png "Из сайта Softportal"
 
-***
 
-## Полезные ссылки
+### Полезные ссылки
 
 Подписывайтесь на телеграм каналы:  
 - [**Новости**](https://t.me/feelSoft)  
 - [**Windows**](https://t.me/feelSoftWin)  
 - [**Android**](https://t.me/feelSoftAn)  
 
-
+***
 
 > Весь предоставленный контент вы скачиваете на свой страх и риск. 
 > Некоторые ссылки могут перестать работать по не зависящим от админа паричинам. В этом случае, уж извините, придется загуглить самостоятельно ;-)
