@@ -20,7 +20,9 @@ modified: 2020-12-16T21:12:07+02:00
  .. [![telega]](https://t.me/FeelSoftWin/145)
  .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
 1. AIMP Remote Control Plugin
-1. Audacity
+1. <details><summary>Audacity  <a href="#">скачать</a> </summary>
+Описание программы на несколько строк с использованием синтаксиса хтмл
+</details>
 1. XnView
 1. FastStone Capture
 1. Bandicam
@@ -138,7 +140,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Chrome** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Расширения хром** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Firefox** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -157,7 +158,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Telegram** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Skype** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Mozilla Thunderbird** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -172,7 +172,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Total Commander PowerPack** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Uninstall Tool** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Geek Uninstaller** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -189,7 +188,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Mouse without Borders** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Unified Remote** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **CrystalDiskInfo** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -208,7 +206,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Unchecky** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **AdwCleaner** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **VirusTotal Uploader** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -222,7 +219,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **UltraISO** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Rufus** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **WinSetupFromUSB** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -241,7 +237,6 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Snappy Driver Installer** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Double Driver** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Microsoft Visual C++** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -313,6 +308,9 @@ modified: 2020-12-16T21:12:07+02:00
 {: style="width:100%;display:table;"}
 
 
+<details><summary>Название  <a href="#">скачать</a> </summary>
+Описание программы на несколько строк с использованием синтаксиса хтмл
+</details>
 
 <details><summary>Спойлер summary</summary><p>
 1) Описание под спойлером
