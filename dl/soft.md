@@ -9,29 +9,6 @@ modified: 2020-12-16T21:12:07+02:00
 *Все программы отобраны вручную и проверены на личном опыте.*
 *Только ты сам выбираешь каким софтом пользоваться! А мы поможем с ассортиментом ;-)*
 
-## **#медиа**
-1. PotPlayer &#8207;
- .. [![home]](http://www.aimp.ru/?do=download&os=windows)
- .. [![telega]](https://t.me/FeelSoftWin/149)
- .. [![gdrive]](https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM)
-1. AIMP &#8207;
- .. [![home]](http://potplayer.ru/download/)
- .. [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
- .. [![telega]](https://t.me/FeelSoftWin/145)
- .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
-1. AIMP Remote Control Plugin
-1. <details><summary>Audacity  <a href="#">скачать</a> </summary>Описание программы на несколько строк с использованием синтаксиса хтмл  <a href="#">скачать</a></details>
-1. XnView
-1. FastStone Capture
-1. Bandicam
-1. Bandicut
-1. Paint.Net
-1. Adobe Photoshop
-1. MakeMKV
-1. Equalizer APO
-1. Virtual Audio Cable
-
----
 
 ## **#медиа**
 
@@ -40,7 +17,6 @@ modified: 2020-12-16T21:12:07+02:00
 **PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
 **AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Audacity** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **XnView** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **FastStone Capture** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
@@ -213,7 +189,30 @@ Start8 | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 > Все предложения писать в группу канала или мне в телеграм [Контакты](../about)  
 
 
+***
 
+
+## **#медиа**
+1. PotPlayer &#8207;
+ .. [![home]](http://www.aimp.ru/?do=download&os=windows)
+ .. [![telega]](https://t.me/FeelSoftWin/149)
+ .. [![gdrive]](https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM)
+1. AIMP &#8207;
+ .. [![home]](http://potplayer.ru/download/)
+ .. [![web]](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+ .. [![telega]](https://t.me/FeelSoftWin/145)
+ .. [![gdrive]](https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe)
+1. AIMP Remote Control Plugin
+1. <details><summary>Audacity  <a href="#">скачать</a> </summary>Описание программы на несколько строк с использованием синтаксиса хтмл  <a href="#">скачать</a></details>
+1. XnView
+1. FastStone Capture
+1. Bandicam
+1. Bandicut
+1. Paint.Net
+1. Adobe Photoshop
+1. MakeMKV
+1. Equalizer APO
+1. Virtual Audio Cable
 
 
 
