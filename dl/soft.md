@@ -176,9 +176,6 @@ modified: 2020-12-16T21:12:07+02:00
 **Example** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
-
-[MEDIA]: #MEDIA  [hp]: #home [hd]: #home_download [tg]: #telegram [gd]: #gdrive [nn]: #nnmclub [rt]: #rutracker [bp]: #biblprog [sp]: #softportal
-
 [//]: # "#MEDIA  [hp]: home [hd]: home_download [tg]: telegram [gd]: gdrive [nn]: nnmclub [rt]: rutracker [bp]: biblprog [sp]: softportal"
 [//]: # "ffff"
 [pothp]: http://potplayer.ru/download/
