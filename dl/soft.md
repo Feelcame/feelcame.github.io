@@ -176,7 +176,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 [test link1][MEDIA]
 [test link2][hm]
-[test link3][]
+[test link3][aimphm]
 
 ***
 
@@ -185,7 +185,7 @@ modified: 2020-12-16T21:12:07+02:00
 [pottg]: https://t.me/FeelSoftWin/149
 [potgd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
 
-[aimphm]: 
+[aimphm]: #home
 
 
 
