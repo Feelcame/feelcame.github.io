@@ -8,4 +8,5 @@ theme: jekyll-theme-cayman
 copyright: © 2018+
 markdown: kramdown
 #markdown: CommonMarkGhPages
+#markdown: GFM
 highlighter: rouge
