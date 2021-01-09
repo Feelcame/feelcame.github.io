@@ -1,6 +1,6 @@
 ---
 created: 2020-06-30T21:32:11+03:00
-modified: 2021-01-09T21:11:42+02:00
+modified: 2021-01-09T21:16:39+02:00
 title: Переменные Jekyll
 ---
 
@@ -42,3 +42,6 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 Вот официальная документация как им пользоваться: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
 
 Также стоит знать что кроме "жидких" скриптов для ещё большей кастомизации генератор можно настраивать в файле конфига _config.yaml. Вплоть до того, что можно изменить парсер markdown файлов. Стандартный, кстати, называется kramdown. Его официальная документация [google]
+
+
+А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
