@@ -36,11 +36,12 @@ modified: 2020-12-16T21:12:07+02:00
 [pot_hd]: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
 [pot_tg]: https://t.me/FeelSoftWin/149
 [pot_gd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
-[Aimp_hp]: http://www.aimp.ru/?do=download&os=windows
+[AIMP_hp]: http://www.aimp.ru/?do=download&os=windows
 [aimp_tg]: https://t.me/FeelSoftWin/145
 [aimp_gd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 [AimpRC_hp]: http://aimpremote.blogspot.com/p/downloads-ru.html
-[AimpRC_hd]: https://drive.google.com/uc?export=download&id=11FumIlZefMBsJCAB0hEMpor4yrlPOyYx
+[aimprc_hd]: https://drive.google.com/uc?export=download&id=11FumIlZefMBsJCAB0hEMpor4yrlPOyYx
+[aimprc_tg]: https://t.me/FeelSoftWin/182
 [Audacity_hp]: http://biblprog.org.ua/ru/audacity/download
 [XnView_hp]: http://xnview.com/en/xnviewmp/#downloads
 [FastStone_hp]: https://rutracker.net/forum/viewtopic.php?t=5575737
@@ -72,8 +73,8 @@ modified: 2020-12-16T21:12:07+02:00
 
 <style> #table { width: 100%; display: table; } </style>
 
-[//]: # "Интернет"
-[Chrome_hp]: #
+[//]: # "ИНТЕРЕНЕТ"
+[Chrome_hp]: http://google.com/chrome/
 [Addons_hp]: #
 [Firefox_hp]: #
 [DM_hp]: #
@@ -82,7 +83,15 @@ modified: 2020-12-16T21:12:07+02:00
 [NetWorx_hp]: #
 [VPN_hp]: #
 [AnyDesk_hp]: #
-
+[//]: # "Пример ссылок на загрузку"
+[_hp]: #home_page
+[_hd]: #home_download
+[_tg]: #https://t.me/FeelSoftWin/109
+[_gd]: #https://docs.google.com/uc?export=download&id=0
+[_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
+[_sp]: #http://softportal.com/get-32168
+[_nn]: #http://nnmclub.to/forum/viewtopic.php?t=0
+[_rt]: #https://rutracker.org/forum/viewtopic.php?t=0
 
 
 ## **##офис и #общение**
@@ -176,13 +185,23 @@ Start8 | [![home]][_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **NetFramework** | [![home]][_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 {: style="width:100%;display:table;"}
 
+[//]: # "Драйверы"
+[_hp]: #home_page
+[_hd]: #home_download
+[_tg]: #https://t.me/FeelSoftWin/109
+[_gd]: #https://docs.google.com/uc?export=download&id=0
+[_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
+[_sp]: #http://softportal.com/get-32168
+[_nn]: #http://nnmclub.to/forum/viewtopic.php?t=0
+[_rt]: #https://rutracker.org/forum/viewtopic.php?t=0
+
 
 
 [//]: # "Пример ссылок на загрузку"
 [_hp]: #home_page
 [_hd]: #home_download
 [_tg]: #telegram
-[_gd]: #google_drive
+[_gd]: #https://docs.google.com/uc?export=download&id=
 [_bp]: #biblprog
 [_sp]: #softportal
 [_nn]: #nnmclub
