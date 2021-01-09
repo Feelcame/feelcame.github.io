@@ -14,22 +14,44 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**PotPlayer** | [![home]][pothp] . [![web]][pothd] . [![telega]][pottg] . [![gdrive]][potgd]
+**PotPlayer** | [![home]][potHp] . [![web]][potHd] . [![telega]][potTg] . [![gdrive]][potGd]
 **AIMP** | [![home]][aimphp] . [![telega]][aimptg] . [![gdrive]][aimpgd]
-**AIMP Remote Control Plugin** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Audacity** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**XnView** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**FastStone Capture** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Bandicam** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Bandicut** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**HandBrake** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AIMP Remote Control** | [![home]][AimpRC_hp] . [![web]][aimprc_hd] . [![telega]][tg] . [![gdrive]][gd]
+**Audacity** | [![home]][AudacityHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**XnView** | [![home]][XnViewhp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**FastStone Capture** | [![home]][FastStonehp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Bandicam** | [![home]][Bandicamhp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Bandicut** | [![home]][Bandicuthp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**HandBrake** | [![home]][HandBrakehp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **Paint.Net** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Adobe Photoshop** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Adobe Photoshop** | [![home]][Photoshophp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 **MakeMKV** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Equalizer APO** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Virtual Audio Cable** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Equalizer APO** | [![home]][EQhp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Virtual Audio Cable** | [![home]][VAChp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
+
+[//]: # "МЕДИА"
+[PotHp]: http://potplayer.ru/download/
+[potHd]: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+[potTg]: https://t.me/FeelSoftWin/149
+[potGd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
+[AimpHp]: http://www.aimp.ru/?do=download&os=windows
+[aimpTg]: https://t.me/FeelSoftWin/145
+[aimpGd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
+[AimpRC_hp]: http://aimpremote.blogspot.com/p/downloads-ru.html
+[AimpRC_hd]: https://drive.google.com/uc?export=download&id=11FumIlZefMBsJCAB0hEMpor4yrlPOyYx
+[AudacityHp]: http://biblprog.org.ua/ru/audacity/download
+[XnViewHp]: http://xnview.com/en/xnviewmp/#downloads
+[FastStoneHp]: https://rutracker.net/forum/viewtopic.php?t=5575737
+[BandicamHp]: http://rutracker.org/forum/viewtopic.php?t=5535458
+[BandicutHp]: #
+[HandBrakHp]: https://handbrake.fr/downloads.php
+[PaintHp]: http://paintnet.ru/download/
+[PhotoshopHp]: http://nnmclub.to/forum/viewtopic.php?t=789974
+[MKVhp]: https://www.makemkv.com/download/
+[EQhp]: http://sourceforge.net/projects/equalizerapo
+[VAChp]: http://rutracker.org/forum/viewtopic.php?t=2832534
 
 
 
@@ -37,18 +59,30 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Chrome** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Расширения хром** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Firefox** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**Download Master** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**uTorrent 2.2.1** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**qBittorrent** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**NetWorx** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**OpenVPN** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
-**AnyDesk** | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Chrome** | [![home]][ChromeHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Расширения хром** | [![home]][AddonsHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Firefox** | [![home]][FirefoxHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**Download Master** | [![home]][DMhp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**uTorrent 2.2.1** | [![home]][uThp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**qBittorrent** | [![home]][qBitHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**NetWorx** | [![home]][NetWorxHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**OpenVPN** | [![home]][VPNhp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
+**AnyDesk** | [![home]][AnyDeskHp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: id="table"}
 
 <style> #table { width: 100%; display: table; } </style>
+
+[//]: # "Интернет"
+[ChromeHp]: #
+[AddonsHp]: #
+[FirefoxHp]: #
+[DMhp]: #
+[uThp]: #
+[qBitHp]: #
+[NetWorxHp]: #
+[VPNhp]: #
+[AnyDeskHp]: #
+
 
 
 ## **##офис и #общение**
@@ -143,15 +177,6 @@ Start8 | [![home]][hp] . [![web]][hd] . [![telega]][tg] . [![gdrive]][gd]
 {: style="width:100%;display:table;"}
 
 
-
-[//]: # "МЕДИА"
-[pothp]: http://potplayer.ru/download/
-[pottg]: https://t.me/FeelSoftWin/149
-[potgd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
-[pothd]: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
-[aimphp]: http://www.aimp.ru/?do=download&os=windows
-[aimptg]: https://t.me/FeelSoftWin/145
-[aimpgd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 
 [//]: # "Пример ссылок на загрузку"
 [hp]: #home_page
