@@ -16,18 +16,18 @@ modified: 2020-12-16T21:12:07+02:00
 ---------|:-------
 **PotPlayer** | [![hp]][pot_hp] . [![hd]][pot_hd] . [![tg]][pot_tg] . [![gd]][pot_gd] 
 **AIMP** | [![hp]][aimp_hp] . [![hd]][aimp_hd] . [![tg]][aimp_tg] . [![gd]][aimp_gd]
-**AIMP Remote Control** | [![hp]][AimpRC_hp] . [![hd]][aimprc_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Audacity** | [![hp]][Audacity_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**XnView** | [![hp]][XnView_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**FastStone Capture** | [![hp]][FastStone_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Bandicam** | [![hp]][Bandicam_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**AIMP Remote Control** | [![hp]][AimpRC_hp] . [![hd]][aimprc_hd] . [![tg]][AimpRC_tg] . [![gd]][AimpRC_gd]
+**Audacity** | [![hp]][Audacity_hp] . [![hd]][Audacity_hd] . [![tg]][Audacity_tg] . [![gd]][Audacity_gd]
+**XnView** | [![hp]][XnView_hp] . [![hd]][XnView_hd] . [![tg]][XnView_tg] . [![gd]][XnView_gd]
+**FastStone Capture** | [![hp]][FastStone_hp] . [![hd]][FastStone_hd] . [![tg]][FastStone_tg] . [![gd]][FastStone_gd]
+**Bandicam** | [![hp]][Bandicam_hp] . [![hd]][Bandicam_hd] . [![tg]][_tg] . [![gd]][Bandicam_gd]
 **Bandicut** | [![hp]][Bandicut_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Paint.Net** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Paint.Net** | [![hp]][Paint_hp] . [![hd]][Paint_hd] . [![tg]][Paint_tg] . [![gd]][Paint_gd]
 **Adobe Photoshop** | [![hp]][Photoshop_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**MakeMKV** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**HandBrake** | [![hp]][HandBrake_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Equalizer APO** | [![hp]][EQ_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Virtual Audio Cable** | [![hp]][VAC_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**MakeMKV** | [![hp]][MKV_hp] . [![hd]][_hd] . [![tg]][MKV_tg] . [![gd]][MKV_gd]
+**HandBrake** | [![hp]][HandBrake_hp] . [![hd]][_hd] . [![tg]][HandBrake_tg] . [![gd]][HandBrake_gd]
+**Equalizer APO** | [![hp]][EQ_hp] . [![hd]][_hd] . [![tg]][EQ_tg] . [![gd]][EQ_gd]
+**Virtual Audio Cable** | [![hp]][VAC_hp] . [![hd]][_hd] . [![tg]][VAC_tg] . [![gd]][VAC_gd]
 {: style="width:100%;display:table;"}
 
 
