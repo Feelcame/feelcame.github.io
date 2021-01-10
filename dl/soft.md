@@ -20,7 +20,7 @@ modified: 2020-12-16T21:12:07+02:00
 **Audacity** | [![hp]][Audacity_hp] . [![hd]][_hd] . [![tg]][Audacity_tg] . [![gd]][Audacity_gd]
 **XnView** | [![hp]][XnView_hp] . [![hd]][_hd] . [![tg]][XnView_tg] . [![gd]][XnView_gd]
 **FastStone Capture** | [![hp]][FastStone_hp] . [![hd]][_hd] . [![tg]][FastStone_tg] . [![gd]][FastStone_gd]
-**Bandicam** | [![hp]][Bandicam_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][Bandicam_gd]
+**Bandicam** | [![hp]][Bandicam_hp] . [![hd]][_hd] . [![tg]][Bandicam_tg] . [![gd]][Bandicam_gd]
 **Bandicut** | [![hp]][Bandicut_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **Paint.Net** | [![hp]][Paint_hp] . [![hd]][_hd] . [![tg]][Paint_tg] . [![gd]][Paint_gd]
 **Adobe Photoshop** | [![hp]][Photoshop_hp] . [![hd]][_hd] . [![tg]][Photoshop_tg] . [![gd]][Photoshop_gd]
