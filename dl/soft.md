@@ -23,7 +23,7 @@ modified: 2020-12-16T21:12:07+02:00
 **Bandicam** | [![hp]][Bandicam_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][Bandicam_gd]
 **Bandicut** | [![hp]][Bandicut_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **Paint.Net** | [![hp]][Paint_hp] . [![hd]][_hd] . [![tg]][Paint_tg] . [![gd]][Paint_gd]
-**Adobe Photoshop** | [![hp]][Photoshop_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Adobe Photoshop** | [![hp]][Photoshop_hp] . [![hd]][_hd] . [![tg]][Photoshop_tg] . [![gd]][Photoshop_gd]
 **MakeMKV** | [![hp]][MKV_hp] . [![hd]][_hd] . [![tg]][MKV_tg] . [![gd]][MKV_gd]
 **HandBrake** | [![hp]][HandBrake_hp] . [![hd]][_hd] . [![tg]][HandBrake_tg] . [![gd]][HandBrake_gd]
 **Equalizer APO** | [![hp]][EQ_hp] . [![hd]][_hd] . [![tg]][EQ_tg] . [![gd]][EQ_gd]
@@ -59,7 +59,7 @@ modified: 2020-12-16T21:12:07+02:00
 [Bandicut_hp]: #
 [Paint_hp]: http://paintnet.ru/download/
 [Paint_tg]: https://t.me/FeelSoftWin/168
-[Paint_gd]: #https://docs.google.com/uc?export=download&id=1oxYpFJke_c0ZPS1chgxxoHm_TBCXf6XB
+[Paint_gd]: https://docs.google.com/uc?export=download&id=1oxYpFJke_c0ZPS1chgxxoHm_TBCXf6XB
 [Photoshop_hp]: http://nnmclub.to/forum/viewtopic.php?t=789974
 [Photoshop_tg]: https://t.me/FeelSoftWin/191
 [Photoshop_gd]: https://docs.google.com/uc?export=download&id=1fL_XkcP4oQ1ru1Eiqabd1HNj-_FcXpGZ
