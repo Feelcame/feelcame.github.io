@@ -14,8 +14,8 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**PotPlayer** | [![home]][pot_hp] . [![web]][pot_hd] . [![telega]][pot_tg] . [![gdrive]][pot_gd]
-**AIMP** | [![home]][aimp_hp] . [![telega]][aimp_tg] . [![gdrive]][aimp_gd]
+**PotPlayer** | [![home]][pot_hp] . [![web]][pot_hd] . [![telega]][pot_tg] . [![gdrive]][pot_gd] 
+**AIMP** | [![home]][aimp_hp] . [![web]][aimp_hd] . [![telega]][aimp_tg] . [![gdrive]][aimp_gd]
 **AIMP Remote Control** | [![home]][AimpRC_hp] . [![web]][aimprc_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Audacity** | [![home]][Audacity_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **XnView** | [![home]][XnView_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
@@ -37,6 +37,7 @@ modified: 2020-12-16T21:12:07+02:00
 [pot_tg]: https://t.me/FeelSoftWin/149
 [pot_gd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
 [AIMP_hp]: http://www.aimp.ru/?do=download&os=windows
+[AIMP_hd]: https://www.aimp.ru/?do=download.file&id=4
 [AIMP_tg]: https://t.me/FeelSoftWin/145
 [AIMP_gd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 [AimpRC_hp]: http://aimpremote.blogspot.com/p/downloads-ru.html
