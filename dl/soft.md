@@ -14,20 +14,20 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**PotPlayer** | [![hp]][pot_hp] . [![hd]][pot_hd] . [![tg]][pot_tg] . [![gd]][pot_gd] 
-**AIMP** | [![hp]][aimp_hp] . [![hd]][aimp_hd] . [![tg]][aimp_tg] . [![gd]][aimp_gd]
-**AIMP Remote Control** | [![hp]][AimpRC_hp] . [![hd]][aimprc_hd] . [![tg]][AimpRC_tg] . [![gd]][AimpRC_gd]
-**Audacity** | [![hp]][Audacity_hp] . [![hd]][_hd] . [![tg]][Audacity_tg] . [![gd]][Audacity_gd]
-**XnView** | [![hp]][XnView_hp] . [![hd]][_hd] . [![tg]][XnView_tg] . [![gd]][XnView_gd]
-**FastStone Capture** | [![hp]][FastStone_hp] . [![hd]][_hd] . [![tg]][FastStone_tg] . [![gd]][FastStone_gd]
-**Bandicam** | [![hp]][Bandicam_hp] . [![hd]][_hd] . [![tg]][Bandicam_tg] . [![gd]][Bandicam_gd]
-**Bandicut** | [![hp]][Bandicut_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Paint.Net** | [![hp]][Paint_hp] . [![hd]][_hd] . [![tg]][Paint_tg] . [![gd]][Paint_gd]
-**Adobe Photoshop** | [![hp]][Photoshop_hp] . [![hd]][_hd] . [![tg]][Photoshop_tg] . [![gd]][Photoshop_gd]
-**MakeMKV** | [![hp]][MKV_hp] . [![hd]][_hd] . [![tg]][MKV_tg] . [![gd]][MKV_gd]
-**HandBrake** | [![hp]][HandBrake_hp] . [![hd]][_hd] . [![tg]][HandBrake_tg] . [![gd]][HandBrake_gd]
-**Equalizer APO** | [![hp]][EQ_hp] . [![hd]][_hd] . [![tg]][EQ_tg] . [![gd]][EQ_gd]
-**Virtual Audio Cable** | [![hp]][VAC_hp] . [![hd]][_hd] . [![tg]][VAC_tg] . [![gd]][VAC_gd]
+**PotPlayer** | [![tg]][pot_tg] . [![gd]][pot_gd]  . [![hp]][pot_hp] . [![hd]][pot_hd]
+**AIMP** | [![tg]][aimp_tg] . [![gd]][aimp_gd] . [![hp]][aimp_hp] . [![hd]][aimp_hd]
+**AIMP Remote Control** | [![tg]][AimpRC_tg] . [![gd]][AimpRC_gd] . [![hp]][AimpRC_hp] . [![hd]][aimprc_hd]
+**Audacity** | [![tg]][Audacity_tg] . [![gd]][Audacity_gd] . [![hp]][Audacity_hp]
+**XnView** | [![tg]][XnView_tg] . [![gd]][XnView_gd] . [![hp]][XnView_hp]
+**FastStone Capture** | [![tg]][FastStone_tg] . [![gd]][FastStone_gd] . [![hp]][FastStone_hp]
+**Bandicam** | [![tg]][Bandicam_tg] . [![gd]][Bandicam_gd] . [![hp]][Bandicam_hp]
+**Bandicut** | [![hp]][Bandicut_hp]
+**Paint.Net** | [![hp]][Paint_hp] . [![tg]][Paint_tg] . [![gd]][Paint_gd]
+**Adobe Photoshop** | [![tg]][Photoshop_tg] . [![gd]][Photoshop_gd] . [![hp]][Photoshop_hp]
+**MakeMKV** | [![tg]][MKV_tg] . [![gd]][MKV_gd] . [![hp]][MKV_hp]
+**HandBrake** | [![tg]][HandBrake_tg] . [![gd]][HandBrake_gd] . [![hp]][HandBrake_hp]
+**Equalizer APO** | [![tg]][EQ_tg] . [![gd]][EQ_gd] . [![hp]][EQ_hp]
+**Virtual Audio Cable** | [![tg]][VAC_tg] . [![gd]][VAC_gd] . [![hp]][VAC_hp] 
 {: style="width:100%;display:table;"}
 
 
