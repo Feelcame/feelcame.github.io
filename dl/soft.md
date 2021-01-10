@@ -293,12 +293,6 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 {% comment %} 
 
 
-## **#Example**
-
-Название | Cсылки
----------|:-------
-**Example** | [![hp]][hp] . [![hd]][hd] . [![tg]][tg] . [![gd]][gd]
-
 {: style="width:100%;display:table;"}
 
 
