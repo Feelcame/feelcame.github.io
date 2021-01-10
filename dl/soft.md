@@ -113,15 +113,6 @@ modified: 2020-12-16T21:12:07+02:00
 [NetWorx_hp]: #
 [VPN_hp]: #
 [AnyDesk_hp]: #
-[//]: # "Пример ссылок на загрузку"
-[_hp]: #home_page
-[_hd]: #home_download
-[_tg]: #
-[_gd]: #https://docs.google.com/uc?export=download&id=0
-[_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
-[_sp]: #http://softportal.com/get-32168
-[_nn]: #http://nnmclub.to/forum/viewtopic.php?t=0
-[_rt]: #https://rutracker.org/forum/viewtopic.php?t=0
 
 
 ## **#офис и #общение**
@@ -214,17 +205,6 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **DirectX** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **NetFramework** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 {: style="width:100%;display:table;"}
-
-[//]: # "Драйверы"
-[_hp]: #home_page
-[_hd]: #home_download
-[_tg]: #
-[_gd]: #https://docs.google.com/uc?export=download&id=0
-[_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
-[_sp]: #http://softportal.com/get-32168
-[_nn]: #http://nnmclub.to/forum/viewtopic.php?t=0
-[_rt]: #https://rutracker.org/forum/viewtopic.php?t=0
-
 
 
 [//]: # "Пример ссылок на загрузку"
