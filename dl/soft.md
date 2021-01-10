@@ -22,10 +22,10 @@ modified: 2020-12-16T21:12:07+02:00
 **FastStone Capture** | [![home]][FastStone_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Bandicam** | [![home]][Bandicam_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Bandicut** | [![home]][Bandicut_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
-**HandBrake** | [![home]][HandBrake_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Paint.Net** | [![home]][_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Adobe Photoshop** | [![home]][Photoshop_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **MakeMKV** | [![home]][_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
+**HandBrake** | [![home]][HandBrake_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Equalizer APO** | [![home]][EQ_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 **Virtual Audio Cable** | [![home]][VAC_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 {: style="width:100%;display:table;"}
@@ -37,23 +37,52 @@ modified: 2020-12-16T21:12:07+02:00
 [pot_tg]: https://t.me/FeelSoftWin/149
 [pot_gd]: https://docs.google.com/uc?export=download&id=1m2yC2C5yY2l7-8lzDP5aCH4xZp8jDnEM
 [AIMP_hp]: http://www.aimp.ru/?do=download&os=windows
-[aimp_tg]: https://t.me/FeelSoftWin/145
-[aimp_gd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
+[AIMP_tg]: https://t.me/FeelSoftWin/145
+[AIMP_gd]: https://docs.google.com/uc?export=download&id=1ZAu9vUOz_cBKK7yaI7Tkx5wFitOAjeGe
 [AimpRC_hp]: http://aimpremote.blogspot.com/p/downloads-ru.html
-[aimprc_hd]: https://drive.google.com/uc?export=download&id=11FumIlZefMBsJCAB0hEMpor4yrlPOyYx
-[aimprc_tg]: https://t.me/FeelSoftWin/182
+[AimpRC_hd]: https://drive.google.com/uc?export=download&id=11FumIlZefMBsJCAB0hEMpor4yrlPOyYx
+[AimpRC_tg]: https://t.me/FeelSoftWin/182
+[AimpRC_gd]: https://docs.google.com/uc?export=download&id=1QFPMxAES5z2HoJl3gpoWiuLiAvcxYV91
 [Audacity_hp]: http://biblprog.org.ua/ru/audacity/download
+[Audacity_tg]: https://t.me/FeelSoftWin/169
+[Audacity_gd]: #https://docs.google.com/uc?export=download&id=1WMGMacAsy5b467MPGgYQlfVtj6egLieT
 [XnView_hp]: http://xnview.com/en/xnviewmp/#downloads
+[XnView_tg]: https://t.me/FeelSoftWin/249
+[XnView_gd]: #https://docs.google.com/uc?export=download&id=138y_F2Mne2qK71La_OPT99K_PTWhtd6A
 [FastStone_hp]: https://rutracker.net/forum/viewtopic.php?t=5575737
+[FastStone_tg]: https://t.me/FeelSoftWin/187
+[FastStone_gd]: #https://docs.google.com/uc?export=download&id=14Qa0Zpx23cK48QasoLmCW9D5MxLmbeqo
 [Bandicam_hp]: http://rutracker.org/forum/viewtopic.php?t=5535458
+[Bandicam_tg]: https://t.me/FeelSoftWin/189
+[Bandicam_gd]: #https://docs.google.com/uc?export=download&id=1o6OX17dxFfT0tE9x5l1eb67_W5i4lX7-
 [Bandicut_hp]: #
-[HandBrake_hp]: https://handbrake.fr/downloads.php
 [Paint_hp]: http://paintnet.ru/download/
+[Paint_tg]: https://t.me/FeelSoftWin/168
+[Paint_gd]: #https://docs.google.com/uc?export=download&id=1oxYpFJke_c0ZPS1chgxxoHm_TBCXf6XB
 [Photoshop_hp]: http://nnmclub.to/forum/viewtopic.php?t=789974
+[Photoshop_tg]: https://t.me/FeelSoftWin/191
+[Photoshop_gd]: https://docs.google.com/uc?export=download&id=1fL_XkcP4oQ1ru1Eiqabd1HNj-_FcXpGZ
 [MKV_hp]: https://www.makemkv.com/download/
+[MKV_tg]: https://t.me/FeelSoftWin/154
+[MKV_gd]: https://docs.google.com/uc?export=download&id=1F5woB5KpxNsP8FczlTUQ94SawyDJAG9j
+[HandBrake_hp]: https://handbrake.fr/downloads.php
+[HandBrake_tg]: https://t.me/FeelSoftWin/252
+[HandBrake_gd]: #https://docs.google.com/uc?export=download&id=1zKGeyXe31p-V8sb9h2d6NJ61WOFH0tuD
 [EQ_hp]: http://sourceforge.net/projects/equalizerapo
+[EQ_tg]: https://t.me/FeelSoftWin/172
+[EQ_gd]: https://docs.google.com/uc?export=download&id=1wEnZ1XEo_5IrVjF_wuvDFyLyDYPIs6WX
 [VAC_hp]: http://rutracker.org/forum/viewtopic.php?t=2832534
-
+[VAC_tg]: https://t.me/FeelSoftWin/193
+[VAC_gd]: #https://docs.google.com/uc?export=download&id=1T4mX-X3kpaLaIp4h7q7gBQrzwKA3My97
+[//]: # "Пример ссылок на загрузку"
+[_hp]: #
+[_hd]: #
+[_tg]: #
+[_gd]: #https://docs.google.com/uc?export=download&id=
+[_bp]: #
+[_sp]: #
+[_nn]: #
+[_rt]: #
 
 
 ## **#интернет**
@@ -86,7 +115,7 @@ modified: 2020-12-16T21:12:07+02:00
 [//]: # "Пример ссылок на загрузку"
 [_hp]: #home_page
 [_hd]: #home_download
-[_tg]: #https://t.me/FeelSoftWin/109
+[_tg]: #
 [_gd]: #https://docs.google.com/uc?export=download&id=0
 [_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
 [_sp]: #http://softportal.com/get-32168
@@ -188,7 +217,7 @@ Start8 | [![home]][_hp] . [![web]][_hd] . [![telega]][_tg] . [![gdrive]][_gd]
 [//]: # "Драйверы"
 [_hp]: #home_page
 [_hd]: #home_download
-[_tg]: #https://t.me/FeelSoftWin/109
+[_tg]: #
 [_gd]: #https://docs.google.com/uc?export=download&id=0
 [_bp]: #https://biblprog.org.ua/ru/winsetupfromusb/download
 [_sp]: #http://softportal.com/get-32168
