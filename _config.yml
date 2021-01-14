@@ -15,3 +15,6 @@ highlighter: rouge
 #  extensions: ["strikethrough", "autolink", "tables"]
 
 
+plugins:
+  - jemoji
+💡 If you are 
