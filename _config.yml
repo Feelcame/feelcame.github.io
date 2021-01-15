@@ -17,4 +17,6 @@ highlighter: rouge
 
 plugins:
   - jemoji
+  - jekyll-paginate
+  - jekyll-gist
 
