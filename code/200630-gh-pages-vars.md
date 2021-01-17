@@ -43,12 +43,12 @@ title: Как создается сайт на Github Pages. Простой сл
 Пример такого цикла:
 ```
 <ul>
-  {% for post in site.posts %}
+  { % for post in site.posts %}
     <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2><a href="{ { post.url }}">{ { post.title }}</a></h2>
+      { { post.excerpt }}
     </li>
-  {% endfor %}
+  { % endfor %}
 </ul>
 ```
 Ссылка на источник: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
