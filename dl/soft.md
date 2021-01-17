@@ -16,7 +16,7 @@ modified: 2020-12-16T21:12:07+02:00
 ## **#медиа**
 
 Название | Cсылки
----------|:-------{: style="width:30%}
+---------|:-------
 **PotPlayer** | [![tg]][pot_tg] . [![gd]][pot_gd]  . [![hp]][pot_hp] . [![hd]][pot_hd]
 **AIMP** | [![tg]][aimp_tg] . [![gd]][aimp_gd] . [![hp]][aimp_hp] . [![hd]][aimp_hd]
 **AIMP Remote Control** | [![tg]][AimpRC_tg] . [![gd]][AimpRC_gd] . [![hp]][AimpRC_hp] . [![hd]][aimprc_hd]
@@ -134,7 +134,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 ## **#файлы**
 
-Название | Cсылки {: style="width:30%}
+Название | Cсылки
 ---------|:-------
 **Total Commander PowerPack** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **Uninstall Tool** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
@@ -152,7 +152,7 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Mouse without Borders** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd] {: style="width:30%}
+**Mouse without Borders** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **Unified Remote** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **CrystalDiskInfo** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 **CrystalDiskMark** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
