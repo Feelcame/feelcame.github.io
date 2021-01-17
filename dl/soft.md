@@ -93,15 +93,15 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Chrome** | [![hp]][Chrome_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Расширения хром** | [![hp]][Addons_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Firefox** | [![hp]][Firefox_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Download Master** | [![hp]][DM_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**uTorrent 2.2.1** | [![hp]][uT_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**qBittorrent** | [![hp]][qBit_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**NetWorx** | [![hp]][NetWorx_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**OpenVPN** | [![hp]][VPN_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**AnyDesk** | [![hp]][AnyDesk_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Chrome** | [![tg]][Chrome_tg] . [![gd]][Chrome_gd] . [![hp]][Chrome_hp] . [![hd]][Chrome_hd]
+**Расширения хром** | [![tg]][Addons_tg] . [![gd]][Addons_gd] . [![hp]][Addons_hp] . [![hd]][Addons_hd]
+**Firefox** | [![tg]][Firefox_tg] . [![gd]][Firefox_gd] . [![hp]][Firefox_hp] . [![hd]][Firefox_hd]
+**Download Master** | [![tg]][DM_tg] . [![gd]][DM_gd] . [![hp]][DM_hp] . [![hd]][DM_hd]
+**uTorrent 2.2.1** | [![tg]][uTorrent_tg] . [![gd]][uTorrent_gd] . [![hp]][uTorrent_hp] . [![hd]][uTorrent_hd]
+**qBittorrent** | [![tg]][qBit_tg] . [![gd]][qBit_gd] . [![hp]][qBit_hp] . [![hd]][qBit_hd]
+**NetWorx** | [![tg]][NetWorx_tg] . [![gd]][NetWorx_gd] . [![hp]][NetWorx_hp] . [![hd]][NetWorx_hd]
+**OpenVPN** | [![tg]][VPN_tg] . [![gd]][VPN_gd] . [![hp]][VPN_hp] . [![hd]][VPN_hd]
+**AnyDesk** | [![tg]][AnyDesk_tg] . [![gd]][AnyDesk_gd] . [![hp]][AnyDesk_hp] . [![hd]][AnyDesk_hd]
 {: id="table"}
 
 <style> #table { width: 100%; display: table; } </style>
@@ -122,13 +122,13 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Telegram** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Skype** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Mozilla Thunderbird** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Motepad++** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Microsoft Office** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**STDU Viewer** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**ABYY Fine Reader** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Telegram** | [![tg]][Tg_tg] . [![gd]][Tg_gd] . [![hp]][Tg_hp] . [![hd]][Tg_hd]
+**Skype** | [![tg]][Skype_tg] . [![gd]][Skype_gd] . [![hp]][Skype_hp] . [![hd]][Skype_hd]
+**Mozilla Thunderbird** | [![tg]][mail_tg] . [![gd]][mail_gd] . [![hp]][mail_hp] . [![hd]][mail_hd]
+**Motepad++** | [![tg]][npp_tg] . [![gd]][npp_gd] . [![hp]][npp_hp] . [![hd]][npp_hd]
+**Microsoft Office 2007** | [![tg]][Office7_tg] . [![gd]][Office7_gd] . [![hp]][Office7_hp] . [![hd]][Office7_hd]
+**STDU Viewer** | [![tg]][STDU_tg] . [![gd]][STDU_gd] . [![hp]][STDU_hp] . [![hd]][STDU_hd]
+**ABYY Fine Reader** | [![tg]][ABYY_tg] . [![gd]][ABYY_gd] . [![hp]][ABYY_hp] . [![hd]][ABYY_hd]
 {: style="width:100%;display:table;"}
 
 
@@ -136,15 +136,15 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Total Commander PowerPack** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Uninstall Tool** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Geek Uninstaller** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Your Uninstaller** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**7-zip** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**WinRar** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**WinDirStat** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**HxD Hex Editor** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Duplicate File Detector** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Total Commander PowerPack** | [![tg]][Total_tg] . [![gd]][Total_gd] . [![hp]][Total_hp] . [![hd]][Total_hd]
+**Uninstall Tool** | [![tg]][_tg] . [![gd]][_gd] . [![hp]][_hp] . [![hd]][_hd]
+**Geek Uninstaller** | [![tg]][_tg] . [![gd]][_gd] . [![hp]][_hp] . [![hd]][_hd]
+**Your Uninstaller** | [![tg]][_tg] . [![gd]][_gd] . [![hp]][_hp] . [![hd]][_hd]
+**7-zip** | [![tg]][7z_tg] . [![gd]][7z_gd] . [![hp]][7z_hp] . [![hd]][7z_hd]
+**WinRar** | [![tg]][WinRar_tg] . [![gd]][WinRar_gd] . [![hp]][WinRar_hp] . [![hd]][WinRar_hd]
+**WinDirStat** | [![tg]][DirStat_tg] . [![gd]][DirStat_gd] . [![hp]][DirStat_hp] . [![hd]][DirStat_hd]
+**HxD Hex Editor** | [![tg]][HxD_tg] . [![gd]][HxD_gd] . [![hp]][HxD_hp] . [![hd]][HxD_hd]
+**Duplicate File Detector** | [![tg]][DupDet_tg] . [![gd]][DupDet_gd] . [![hp]][DupDet_hp] . [![hd]][DupDet_hd]
 {: style="width:100%;display:table;"}
 
 
@@ -152,17 +152,17 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Mouse without Borders** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Unified Remote** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**CrystalDiskInfo** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**CrystalDiskMark** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Furmark** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**CPU-Z** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**AIDA64** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**HWinfo** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-Moo0 Bottleneck | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-System Explorer | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Mouse without Borders** | [![tg]][MwB_tg] . [![gd]][MwB_gd] . [![hp]][MwB_hp] . [![hd]][MwB_hd]
+**Unified Remote** | [![tg]][UniRem_tg] . [![gd]][UniRem_gd] . [![hp]][UniRem_hp] . [![hd]][UniRem_hd]
+**CrystalDiskInfo** | [![tg]][DiskInfo_tg] . [![gd]][DiskInfo_gd] . [![hp]][DiskInfo_hp] . [![hd]][DiskInfo_hd]
+**CrystalDiskMark** | [![tg]][DiskMark_tg] . [![gd]][DiskMark_gd] . [![hp]][v_hp] . [![hd]][DiskMark_hd]
+**Furmark** | [![tg]][Furmark_tg] . [![gd]][v_gd] . [![hp]][v_hp] . [![hd]][v_hd]
+**CPU-Z** | [![tg]][CpuZ_tg] . [![gd]][CpuZ_gd] . [![hp]][CpuZ_hp] . [![hd]][CpuZ_hd]
+**AIDA64** | [![tg]][Aida_tg] . [![gd]][Aida_gd] . [![hp]][Aida_hp] . [![hd]][Aida_hd]
+**HWinfo** | [![tg]][HWinfo_tg] . [![gd]][HWinfo_gd] . [![hp]][HWinfo_hp] . [![hd]][v_hd]
+**Moo0 Bottleneck** | [![tg]][Moo0_tg] . [![gd]][Moo0_gd] . [![hp]][Moo0_hp] . [![hd]][Moo0_hd]
+**System Explorer** | [![tg]][TaskMan_tg] . [![gd]][TaskMan_gd] . [![hp]][TaskMan_hp] . [![hd]][TaskMan_hd]
+**Start8** | [![tg]][Start8_tg] . [![gd]][Start8_gd] . [![hp]][Start8_hp] . [![hd]][Start8_hd]
 {: style="width:100%;display:table;"}
 
 
@@ -170,12 +170,12 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 
 Название | Cсылки
 ---------|:-------
-**Unchecky** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**AdwCleaner** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**VirusTotal Uploader** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Dr.Web CureIt** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Loader by Daz** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**KMS Auto Lite** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Unchecky** | [![tg]][Unchecky_tg] . [![gd]][Unchecky_gd] . [![hp]][Unchecky_hp] . [![hd]][Unchecky_hd]
+**AdwCleaner** | [![tg]][AdwCleaner_tg] . [![gd]][AdwCleaner_gd] . [![hp]][AdwCleaner_hp] . [![hd]][AdwCleaner_hd]
+**VirusTotal Uploader** | [![tg]][VT_tg] . [![gd]][VT_gd] . [![hp]][VT_hp] . [![hd]][VT_hd]
+**Dr.Web CureIt** | [![tg]][CureIt_tg] . [![gd]][CureIt_gd] . [![hp]][CureIt_hp] . [![hd]][CureIt_hd]
+**Loader by Daz** | [![tg]][Loader7_tg] . [![gd]][Loader7_gd] . [![hp]][Loader7_hp] . [![hd]][Loader7_hd]
+**KMS Auto Lite** | [![tg]][KMS_tg] . [![gd]][KMS_gd] . [![hp]][KMS_hp] . [![hd]][KMS_hd]
 {: style="width:100%;display:table;"}
 
 
@@ -183,17 +183,17 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 
 Название | Cсылки
 ---------|:-------
-**UltraISO** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Rufus** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**WinSetupFromUSB** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**HP USB Format tool** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**+Victoria** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Acronis** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**RusLive / ZverDVD** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Windows 7/10** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**WinNTSetup** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**BOOTICE** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Easy BCD** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**UltraISO** | [![tg]][Uiso_tg] . [![gd]][Uiso_gd] . [![hp]][Uiso_hp] . [![hd]][Uiso_hd]
+**Rufus** | [![tg]][Rufus_tg] . [![gd]][Rufus_gd] . [![hp]][Rufus_hp] . [![hd]][Rufus_hd]
+**WinSetupFromUSB** | [![tg]][WinUSB_tg] . [![gd]][WinUSB_gd] . [![hp]][WinUSB_hp] . [![hd]][WinUSB_hd]
+**HP USB Format tool** | [![tg]][USBFormat_tg] . [![gd]][USBFormat_gd] . [![hp]][USBFormat_hp] . [![hd]][USBFormat_hd]
+**+Victoria** | [![tg]][Victoria_tg] . [![gd]][Victoria_gd] . [![hp]][Victoria_hp] . [![hd]][Victoria_hd]
+**Acronis** | [![tg]][Acronis_tg] . [![gd]][Acronis_gd] . [![hp]][Acronis_hp] . [![hd]][Acronis_hd]
+**RusLive / ZverDVD** | [![tg]][RusLive_tg] . [![gd]][RusLive_gd] . [![hp]][RusLive_hp] . [![hd]][RusLive_hd]
+**Windows 7/10** | [![tg]][Windows_tg] . [![gd]][Windows_gd] . [![hp]][Windows_hp] . [![hd]][Windows_hd]
+**WinNTSetup** | [![tg]][NTSetup_tg] . [![gd]][NTSetup_gd] . [![hp]][NTSetup_hp] . [![hd]][NTSetup_hd]
+**BOOTICE** | [![tg]][BOOTICE_tg] . [![gd]][BOOTICE_gd] . [![hp]][BOOTICE_hp] . [![hd]][BOOTICE_hd]
+**Easy BCD** | [![tg]][EasyBCD_tg] . [![gd]][EasyBCD_gd] . [![hp]][EasyBCD_hp] . [![hd]][EasyBCD_hd]
 {: style="width:100%;display:table;"}
 
 
@@ -201,12 +201,12 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 
 Название | Cсылки
 ---------|:-------
-**Snappy Driver Installer** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Double Driver** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**Microsoft Visual C++** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**RuntimePack_Lite** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**DirectX** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
-**NetFramework** | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
+**Snappy Driver Installer** | [![tg]][Snappy_tg] . [![gd]][Snappy_gd] . [![hp]][Snappy_hp] . [![hd]][Snappy_hd]
+**Double Driver** | [![tg]][DD_tg] . [![gd]][DD_gd] . [![hp]][DD_hp] . [![hd]][DD_hd]
+**Microsoft Visual C++** | [![tg]][VisualC_tg] . [![gd]][VisualC_gd] . [![hp]][VisualC_hp] . [![hd]][VisualC_hd]
+**RuntimePack_Lite** | [![tg]][Runtime_tg] . [![gd]][Runtime_gd] . [![hp]][Runtime_hp] . [![hd]][Runtime_hd]
+**DirectX** | [![tg]][DirectX_tg] . [![gd]][DirectX_gd] . [![hp]][DirectX_hp] . [![hd]][DirectX_hd]
+**NetFramework** | [![tg]][Net_tg] . [![gd]][Net_gd] . [![hp]][Net_hp] . [![hd]][Net_hd]
 {: style="width:100%;display:table;"}
 
 
