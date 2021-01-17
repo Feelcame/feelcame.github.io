@@ -242,7 +242,8 @@ Start8 | [![hp]][_hp] . [![hd]][_hd] . [![tg]][_tg] . [![gd]][_gd]
 
 ***
 
-## **#медиа** {: .no_toc}
+## **#медиа**  
+{: .no_toc}
 1. PotPlayer &#8207;
  .. [![hp]](http://www.aimp.ru/?do=download&os=windows)
  .. [![tg]](https://t.me/FeelSoftWin/149)
