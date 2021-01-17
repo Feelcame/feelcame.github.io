@@ -19,8 +19,8 @@ title: Как создается сайт на Github Pages. Простой сл
 * CommonMarkGhPages (как на самом гитхаб)
 * (добавить)
 
-Рекомендую почитать официальную документацию на Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>
-И документацию на kramdown: <https://kramdown.gettalong.org/converter/html.html>
+Рекомендую почитать официальную документацию на Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
+И документацию на kramdown: <https://kramdown.gettalong.org/converter/html.html>  
 
 ## Liquid скриптинг
 
@@ -28,8 +28,8 @@ title: Как создается сайт на Github Pages. Простой сл
 
 Так вот, для настройки страниц можно (и нужно) использовать так называемые Liquid-скрипты. Это как голый код на PHP или Ruby, но он предподготовленный и можно использовать только те функции, которые уже заданы и разрешены. При любой ошибке в файле конфигурации перестанет собираться сайт, а при ошибке скипта жидкого скрипта в странице - он будет интерпретировани как обычный текст.  
 
-**Официальная джокументация:** <https://shopify.github.io/liquid/basics/operators/#order-of-operations>
-Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
+**Официальная джокументация:** <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
+Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
 
 Пример такого "жидкого скрипта" в слеующем параграфе
 
@@ -49,7 +49,7 @@ title: Как создается сайт на Github Pages. Простой сл
   {% endfor %}
 </ul>
 ```
-Ссылка на источник: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>
+Ссылка на источник: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
 
 ## Модули
 
