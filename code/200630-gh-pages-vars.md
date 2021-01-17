@@ -19,8 +19,9 @@ title: Как создается сайт на Github Pages. Простой сл
 * CommonMarkGhPages (как на самом гитхаб)
 * (добавить)
 
-Рекомендую почитать официальную документацию на Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-И документацию на kramdown: <https://kramdown.gettalong.org/converter/html.html>  
+**Рекомендую почитать официальную документацию**
+* на Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
+* И на kramdown: <https://kramdown.gettalong.org/converter/html.html>  
 
 ## Liquid скриптинг
 
@@ -28,8 +29,9 @@ title: Как создается сайт на Github Pages. Простой сл
 
 Так вот, для настройки страниц можно (и нужно) использовать так называемые Liquid-скрипты. Это как голый код на PHP или Ruby, но он предподготовленный и можно использовать только те функции, которые уже заданы и разрешены. При любой ошибке в файле конфигурации перестанет собираться сайт, а при ошибке скипта жидкого скрипта в странице - он будет интерпретировани как обычный текст.  
 
-**Официальная джокументация:** <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
-Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
+**Официальная джокументация:** 
+* Из первоисточника: <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
+* Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
 
 Пример такого "жидкого скрипта" в слеующем параграфе
 
@@ -63,6 +65,11 @@ plugins:
   - jekyll-gist
 ```
 
+На Github Pages поддерживается строго ограниченный список модулей: <ссылка>
+
+## Мини-справочник
+
+(заполнить)
 
 ## Более ранние заметки:
 
@@ -95,6 +102,7 @@ site.github.is_user_page: {{ site.github.is_user_page }};
 Логическое "или":  
 page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }};
 
+## Дополнительно
 
 Как оказалось, github использует jekyll для генерации страниц. А тот в свою очередь может использовать так называемые liquid скриптинг за авторством shopify. 
 Вот официальная документация как им пользоваться: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
