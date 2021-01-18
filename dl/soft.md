@@ -24,7 +24,7 @@ modified: 2020-12-16T21:12:07+02:00
 **XnView** | [![tg]][XnView_tg] . [![gd]][XnView_gd] . [![hp]][XnView_hp]
 **FastStone Capture** | [![tg]][FastStone_tg] . [![gd]][FastStone_gd] . [![hp]][FastStone_hp]
 **Bandicam** | [![tg]][Bandicam_tg] . [![gd]][Bandicam_gd] . [![hp]][Bandicam_hp]
-**Bandicut** | [![hp]][Bandicut_hp]
+**Bandicut** | [![tg]][Bandicam_tg] . [![gd]][Bandicam_gd] . [![hp]][Bandicut_hp]
 **Paint.Net** | [![tg]][Paint_tg] . [![gd]][Paint_gd] . [![hp]][Paint_hp]
 **Adobe Photoshop** | [![tg]][Photoshop_tg] . [![gd]][Photoshop_gd] . [![hp]][Photoshop_hp]
 **MakeMKV** | [![tg]][MKV_tg] . [![gd]][MKV_gd] . [![hp]][MKV_hp]
