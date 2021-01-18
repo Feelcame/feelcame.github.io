@@ -355,34 +355,34 @@ modified: 2020-12-16T21:12:07+02:00
 
 [//]: # "#безопасность"
 [//]: # "Unchecky"
-[Unchecky_tg]: #
+[Unchecky_tg]: https://t.me/FeelSoftWin/160
 [Unchecky_gd]: #
-[Unchecky_hp]: #
+[Unchecky_hp]: https://unchecky.com/
 [Unchecky_hd]: #
 [//]: # "AdwCleaner"
-[AdwClean_tg]: #
-[AdwClean_gd]: #
+[AdwClean_tg]: https://t.me/FeelSoftWin/159
+[AdwClean_gd]: https://ru.malwarebytes.com/adwcleaner/
 [AdwClean_hp]: #
 [AdwClean_hd]: #
 [//]: # "VirusTotal Uploader"
-[VT_tg]: #
+[VT_tg]: https://t.me/FeelSoftWin/150
 [VT_gd]: #
-[VT_hp]: #
+[VT_hp]: http://virustotal.com/ru/documentation/desktop-applications/windows-uploader
 [VT_hd]: #
 [//]: # "Dr.Web CureIt"
-[CureIt_tg]: #
+[CureIt_tg]: https://t.me/FeelSoftWin/242
 [CureIt_gd]: #
-[CureIt_hp]: #
+[CureIt_hp]: http://free.drweb.ru/download+cureit+free/
 [CureIt_hd]: #
 [//]: # "Loader by Daz"
-[Loader7_tg]: #
+[Loader7_tg]: https://t.me/FeelSoftWin/156
 [Loader7_gd]: #
-[Loader7_hp]: #
+[Loader7_hp]: https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz
 [Loader7_hd]: #
 [//]: # "KMS Auto Lite"
-[KMS_tg]: #
+[KMS_tg]: https://t.me/FeelSoftWin/155
 [KMS_gd]: #
-[KMS_hp]: #
+[KMS_hp]: http://nnmclub.to/forum/tracker.php?nm=KMSAuto
 [KMS_hd]: #
 
 ## **#usb/cd/dvd**
@@ -473,34 +473,34 @@ modified: 2020-12-16T21:12:07+02:00
 
 [//]: # "#драйверы"
 [//]: # "Snappy Driver Installer"
-[Snappy_tg]: #
+[Snappy_tg]: https://t.me/FeelSoftWin/141
 [Snappy_gd]: #
-[Snappy_hp]: #
+[Snappy_hp]: http://sdi-tool.org/download/
 [Snappy_hd]: #
 [//]: # "Double Driver"
-[DD_tg]: #
+[DD_tg]: https://t.me/FeelSoftWin/152
 [DD_gd]: #
-[DD_hp]: #
+[DD_hp]: http://softportal.com/get-4248-double-driver.html
 [DD_hd]: #
 [//]: # "Microsoft Visual C++"
-[VisualC_tg]: #
+[VisualC_tg]: https://t.me/FeelSoftWin/209
 [VisualC_gd]: #
-[VisualC_hp]: #
+[VisualC_hp]: http://rutracker.org/forum/viewtopic.php?t=4594892
 [VisualC_hd]: #
 [//]: # "RuntimePack_Lite"
-[Runtime_tg]: #
+[Runtime_tg]: https://t.me/FeelSoftWin/206
 [Runtime_gd]: #
-[Runtime_hp]: #
+[Runtime_hp]: http://nnmclub.to/forum/viewtopic.php?t=1279253
 [Runtime_hd]: #
 [//]: # "DirectX"
-[DirectX_tg]: #
+[DirectX_tg]: https://t.me/FeelSoftWin/207
 [DirectX_gd]: #
-[DirectX_hp]: #
+[DirectX_hp]: http://rutracker.org/forum/viewtopic.php?t=2725793
 [DirectX_hd]: #
 [//]: # "NetFramework"
-[Net_tg]: #
+[Net_tg]: https://t.me/FeelSoftWin/208
 [Net_gd]: #
-[Net_hp]: #
+[Net_hp]: http://rutracker.org/forum/viewtopic.php?t=3808372
 [Net_hd]: #
 
 
