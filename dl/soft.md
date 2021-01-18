@@ -106,16 +106,52 @@ modified: 2020-12-16T21:12:07+02:00
 
 <style> #table { width: 100%; display: table; } </style>
 
-[//]: # "ИНТЕРЕНЕТ"
+[//]: # "ИНТЕРНЕТ"
+[//]: # "Chrome"
+[Chrome_tg]: #
+[Chrome_gd]: #
 [Chrome_hp]: http://google.com/chrome/
+[Chrome_hd]: #
+[//]: # "Расширения хром"
+[Addons_tg]: #
+[Addons_gd]: #
 [Addons_hp]: #
+[Addons_hd]: #
+[//]: # "Firefox"
+[Firefox_tg]: #
+[Firefox_gd]: #
 [Firefox_hp]: #
+[Firefox_hd]: #
+[//]: # "Download Master"
+[DM_tg]: #
+[DM_gd]: #
 [DM_hp]: #
-[uT_hp]: #
+[DM_hd]: #
+[//]: # "uTorrent 2.2.1"
+[uTorrent_tg]: #
+[uTorrent_gd]: #
+[uTorrent_hp]: #
+[uTorrent_hd]: #
+[//]: # "qBittorrent"
+[qBit_tg]: #
+[qBit_gd]: #
 [qBit_hp]: #
+[qBit_hd]: #
+[//]: # "NetWorx"
+[NetWorx_tg]: #
+[NetWorx_gd]: #
 [NetWorx_hp]: #
+[NetWorx_hd]: #
+[//]: # "OpenVPN"
+[VPN_tg]: #
+[VPN_gd]: #
 [VPN_hp]: #
+[VPN_hd]: #
+[//]: # "AnyDesk"
+[AnyDesk_tg]: #
+[AnyDesk_gd]: #
 [AnyDesk_hp]: #
+[AnyDesk_hd]: #
 
 
 ## **#офис и #общение**
@@ -131,6 +167,42 @@ modified: 2020-12-16T21:12:07+02:00
 **ABYY Fine Reader** | [![tg]][ABYY_tg] . [![gd]][ABYY_gd] . [![hp]][ABYY_hp] . [![hd]][ABYY_hd]
 {: style="width:100%;display:table;"}
 
+[//]: # "#офис и #общение"
+[//]: # "Telegram"
+[Tg_tg]: #
+[Tg_gd]: #
+[Tg_hp]: #
+[Tg_hd]: #
+[//]: # "Skype"
+[Skype_tg]: #
+[Skype_gd]: #
+[Skype_hp]: #
+[Skype_hd]: #
+[//]: # "Mozilla Thunderbird"
+[mail_tg]: #
+[mail_gd]: #
+[mail_hp]: #
+[mail_hd]: #
+[//]: # "Motepad++"
+[npp_tg]: #
+[npp_gd]: #
+[npp_hp]: #
+[npp_hd]: #
+[//]: # "Microsoft Office 2007"
+[Office7_tg]: #
+[Office7_gd]: #
+[Office7_hp]: #
+[Office7_hd]: #
+[//]: # "STDU Viewer"
+[STDU_tg]: #
+[STDU_gd]: #
+[STDU_hp]: #
+[STDU_hd]: #
+[//]: # "ABYY Fine Reader"
+[ABYY_tg]: #
+[ABYY_gd]: #
+[ABYY_hp]: #
+[ABYY_hd]: #
 
 ## **#файлы**
 
@@ -147,6 +219,52 @@ modified: 2020-12-16T21:12:07+02:00
 **Duplicate File Detector** | [![tg]][DupDet_tg] . [![gd]][DupDet_gd] . [![hp]][DupDet_hp] . [![hd]][DupDet_hd]
 {: style="width:100%;display:table;"}
 
+[//]: # "#файлы"
+[//]: # "Total Commander PowerPack"
+[Total_tg]: #
+[Total_gd]: #
+[Total_hp]: #
+[Total_hd]: #
+[//]: # "Uninstall Tool"
+[UniTool_tg]: #
+[UniTool_gd]: #
+[UniTool_hp]: #
+[UniTool_hd]: #
+[//]: # "Geek Uninstaller"
+[Geek_tg]: #
+[Geek_gd]: #
+[Geek_hp]: #
+[Geek_hd]: #
+[//]: # "Your Uninstaller"
+[YourUni_tg]: #
+[YourUni_gd]: #
+[YourUni_hp]: #
+[YourUni_hd]: #
+[//]: # "7-zip"
+[7z_tg]: #
+[7z_gd]: #
+[7z_hp]: #
+[7z_hd]: #
+[//]: # "WinRar"
+[WinRar_tg]: #
+[WinRar_gd]: #
+[WinRar_hp]: #
+[WinRar_hd]: #
+[//]: # "WinDirStat"
+[DirStat_tg]: #
+[DirStat_gd]: #
+[DirStat_hp]: #
+[DirStat_hd]: #
+[//]: # "HxD Hex Editor"
+[HxD_tg]: #
+[HxD_gd]: #
+[HxD_hp]: #
+[HxD_hd]: #
+[//]: # "Duplicate File Detector"
+[DupDet_tg]: #
+[DupDet_gd]: #
+[DupDet_hp]: #
+[DupDet_hd]: #
 
 ## **#система**
 
@@ -165,6 +283,62 @@ modified: 2020-12-16T21:12:07+02:00
 **Start8** | [![tg]][Start8_tg] . [![gd]][Start8_gd] . [![hp]][Start8_hp] . [![hd]][Start8_hd]
 {: style="width:100%;display:table;"}
 
+[//]: # "#система"
+[//]: # "Mouse without Borders"
+[MwoB_tg]: #
+[MwoB_gd]: #
+[MwoB_hp]: #
+[MwoB_hd]: #
+[//]: # "Unified Remote"
+[UniRem_tg]: #
+[UniRem_gd]: #
+[UniRem_hp]: #
+[UniRem_hd]: #
+[//]: # "CrystalDiskInfo"
+[DiskInfo_tg]: #
+[DiskInfo_gd]: #
+[DiskInfo_hp]: #
+[DiskInfo_hd]: #
+[//]: # "CrystalDiskMark"
+[DiskMark_tg]: #
+[DiskMark_gd]: #
+[DiskMark_hp]: #
+[DiskMark_hd]: #
+[//]: # "Furmark"
+[Furmark_tg]: #
+[Furmark_gd]: #
+[Furmark_hp]: #
+[Furmark_hd]: #
+[//]: # "CPU-Z"
+[CpuZ_tg]: #
+[CpuZ_gd]: #
+[CpuZ_hp]: #
+[CpuZ_hd]: #
+[//]: # "AIDA64"
+[Aida64_tg]: #
+[Aida64_gd]: #
+[Aida64_hp]: #
+[Aida64_hd]: #
+[//]: # "HWinfo"
+[HWinfo_tg]: #
+[HWinfo_gd]: #
+[HWinfo_hp]: #
+[HWinfo_hd]: #
+[//]: # "Moo0 Bottleneck"
+[Moo0_tg]: #
+[Moo0_gd]: #
+[Moo0_hp]: #
+[Moo0_hd]: #
+[//]: # "System Explorer"
+[TaskMan_tg]: #
+[TaskMan_gd]: #
+[TaskMan_hp]: #
+[TaskMan_hd]: #
+[//]: # "Start8"
+[Start8_tg]: #
+[Start8_gd]: #
+[Start8_hp]: #
+[Start8_hd]: #
 
 ## **#безопасность**
 
@@ -178,6 +352,37 @@ modified: 2020-12-16T21:12:07+02:00
 **KMS Auto Lite** | [![tg]][KMS_tg] . [![gd]][KMS_gd] . [![hp]][KMS_hp] . [![hd]][KMS_hd]
 {: style="width:100%;display:table;"}
 
+[//]: # "#безопасность"
+[//]: # "Unchecky"
+[Unchecky_tg]: #
+[Unchecky_gd]: #
+[Unchecky_hp]: #
+[Unchecky_hd]: #
+[//]: # "AdwCleaner"
+[AdwClean_tg]: #
+[AdwClean_gd]: #
+[AdwClean_hp]: #
+[AdwClean_hd]: #
+[//]: # "VirusTotal Uploader"
+[VT_tg]: #
+[VT_gd]: #
+[VT_hp]: #
+[VT_hd]: #
+[//]: # "Dr.Web CureIt"
+[CureIt_tg]: #
+[CureIt_gd]: #
+[CureIt_hp]: #
+[CureIt_hd]: #
+[//]: # "Loader by Daz"
+[Loader7_tg]: #
+[Loader7_gd]: #
+[Loader7_hp]: #
+[Loader7_hd]: #
+[//]: # "KMS Auto Lite"
+[KMS_tg]: #
+[KMS_gd]: #
+[KMS_hp]: #
+[KMS_hd]: #
 
 ## **#usb/cd/dvd**
 
@@ -196,6 +401,62 @@ modified: 2020-12-16T21:12:07+02:00
 **Easy BCD** | [![tg]][EasyBCD_tg] . [![gd]][EasyBCD_gd] . [![hp]][EasyBCD_hp] . [![hd]][EasyBCD_hd]
 {: style="width:100%;display:table;"}
 
+[//]: # "#usb/cd/dvd"
+[//]: # "UltraISO"
+[Uiso_tg]: #
+[Uiso_gd]: #
+[Uiso_hp]: #
+[Uiso_hd]: #
+[//]: # "Rufus"
+[Rufus_tg]: #
+[Rufus_gd]: #
+[Rufus_hp]: #
+[Rufus_hd]: #
+[//]: # "WinSetupFromUSB"
+[WinUSB_tg]: #
+[WinUSB_gd]: #
+[WinUSB_hp]: #
+[WinUSB_hd]: #
+[//]: # "HP USB Format tool"
+[USBFormat_tg]: #
+[USBFormat_gd]: #
+[USBFormat_hp]: #
+[USBFormat_hd]: #
+[//]: # "Victoria"
+[Victoria_tg]: #
+[Victoria_gd]: #
+[Victoria_hp]: #
+[Victoria_hd]: #
+[//]: # "Acronis"
+[Acronis_tg]: #
+[Acronis_gd]: #
+[Acronis_hp]: #
+[Acronis_hd]: #
+[//]: # "RusLive / ZverDVD"
+[RusLive_tg]: #
+[RusLive_gd]: #
+[RusLive_hp]: #
+[RusLive_hd]: #
+[//]: # "Windows 7/10"
+[Windows_tg]: #
+[Windows_gd]: #
+[Windows_hp]: #
+[Windows_hd]: #
+[//]: # "WinNTSetup"
+[NTSetup_tg]: #
+[NTSetup_gd]: #
+[NTSetup_hp]: #
+[NTSetup_hd]: #
+[//]: # "BOOTICE"
+[BOOTICE_tg]: #
+[BOOTICE_gd]: #
+[BOOTICE_hp]: #
+[BOOTICE_hd]: #
+[//]: # "Easy BCD"
+[EasyBCD_tg]: #
+[EasyBCD_gd]: #
+[EasyBCD_hp]: #
+[EasyBCD_hd]: #
 
 ## **#драйверы**
 
@@ -208,6 +469,42 @@ modified: 2020-12-16T21:12:07+02:00
 **DirectX** | [![tg]][DirectX_tg] . [![gd]][DirectX_gd] . [![hp]][DirectX_hp] . [![hd]][DirectX_hd]
 **NetFramework** | [![tg]][Net_tg] . [![gd]][Net_gd] . [![hp]][Net_hp] . [![hd]][Net_hd]
 {: style="width:100%;display:table;"}
+
+[//]: # "#драйверы"
+[//]: # "Snappy Driver Installer"
+[Snappy_tg]: #
+[Snappy_gd]: #
+[Snappy_hp]: #
+[Snappy_hd]: #
+[//]: # "Double Driver"
+[DD_tg]: #
+[DD_gd]: #
+[DD_hp]: #
+[DD_hd]: #
+[//]: # "Microsoft Visual C++"
+[VisualC_tg]: #
+[VisualC_gd]: #
+[VisualC_hp]: #
+[VisualC_hd]: #
+[//]: # "RuntimePack_Lite"
+[Runtime_tg]: #
+[Runtime_gd]: #
+[Runtime_hp]: #
+[Runtime_hd]: #
+[//]: # "DirectX"
+[DirectX_tg]: #
+[DirectX_gd]: #
+[DirectX_hp]: #
+[DirectX_hd]: #
+[//]: # "NetFramework"
+[Net_tg]: #
+[Net_gd]: #
+[Net_hp]: #
+[Net_hd]: #
+
+
+
+
 
 
 [//]: # "Пример ссылок на загрузку"
