@@ -270,13 +270,13 @@ modified: 2020-12-16T21:12:07+02:00
 
 Название | Cсылки
 ---------|:-------
-**Mouse without Borders** | [![tg]][MwB_tg] . [![gd]][MwB_gd] . [![hp]][MwB_hp] . [![hd]][MwB_hd]
+**Mouse without Borders** | [![tg]][MwoB_tg] . [![gd]][MwoB_gd] . [![hp]][MwoB_hp] . [![hd]][MwoB_hd]
 **Unified Remote** | [![tg]][UniRem_tg] . [![gd]][UniRem_gd] . [![hp]][UniRem_hp] . [![hd]][UniRem_hd]
 **CrystalDiskInfo** | [![tg]][DiskInfo_tg] . [![gd]][DiskInfo_gd] . [![hp]][DiskInfo_hp] . [![hd]][DiskInfo_hd]
 **CrystalDiskMark** | [![tg]][DiskMark_tg] . [![gd]][DiskMark_gd] . [![hp]][DiskMark_hp] . [![hd]][DiskMark_hd]
 **Furmark** | [![tg]][Furmark_tg] . [![gd]][Furmark_gd] . [![hp]][Furmark_hp] . [![hd]][Furmark_hd]
 **CPU-Z** | [![tg]][CpuZ_tg] . [![gd]][CpuZ_gd] . [![hp]][CpuZ_hp] . [![hd]][CpuZ_hd]
-**AIDA64** | [![tg]][Aida_tg] . [![gd]][Aida_gd] . [![hp]][Aida_hp] . [![hd]][Aida_hd]
+**AIDA64** | [![tg]][Aida64_tg] . [![gd]][Aida64_gd] . [![hp]][Aida64_hp] . [![hd]][Aida64_hd]
 **HWinfo** | [![tg]][HWinfo_tg] . [![gd]][HWinfo_gd] . [![hp]][HWinfo_hp] . [![hd]][HWinfo_hd]
 **Moo0 Bottleneck** | [![tg]][Moo0_tg] . [![gd]][Moo0_gd] . [![hp]][Moo0_hp] . [![hd]][Moo0_hd]
 **System Explorer** | [![tg]][TaskMan_tg] . [![gd]][TaskMan_gd] . [![hp]][TaskMan_hp] . [![hd]][TaskMan_hd]
@@ -345,7 +345,7 @@ modified: 2020-12-16T21:12:07+02:00
 Название | Cсылки
 ---------|:-------
 **Unchecky** | [![tg]][Unchecky_tg] . [![gd]][Unchecky_gd] . [![hp]][Unchecky_hp] . [![hd]][Unchecky_hd]
-**AdwCleaner** | [![tg]][AdwCleaner_tg] . [![gd]][AdwCleaner_gd] . [![hp]][AdwCleaner_hp] . [![hd]][AdwCleaner_hd]
+**AdwCleaner** | [![tg]][AdwClean_tg] . [![gd]][AdwClean_gd] . [![hp]][AdwClean_hp] . [![hd]][AdwClean_hd]
 **VirusTotal Uploader** | [![tg]][VT_tg] . [![gd]][VT_gd] . [![hp]][VT_hp] . [![hd]][VT_hd]
 **Dr.Web CureIt** | [![tg]][CureIt_tg] . [![gd]][CureIt_gd] . [![hp]][CureIt_hp] . [![hd]][CureIt_hd]
 **Loader by Daz** | [![tg]][Loader7_tg] . [![gd]][Loader7_gd] . [![hp]][Loader7_hp] . [![hd]][Loader7_hd]
