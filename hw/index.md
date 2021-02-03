@@ -7,6 +7,7 @@ modified: 2020-12-17T00:52:47+02:00
 
 ## Статьи по теме разработки/эксплуатации hardware
 1. [i](./)
+1. [RFID](./210203-RFID.md)
 1. [Подборка ссылок по Eagle cad](./201221_eagle_info.md)
 1. [i](./) 
 {: reversed="reversed"}
