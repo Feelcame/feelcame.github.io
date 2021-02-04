@@ -1,5 +1,5 @@
 ---
-modified: 2020-12-21T02:18:45+02:00
+modified: 2021-02-05T00:09:34+02:00
 ---
 
 # # Бот телеграм на python
@@ -20,7 +20,7 @@ modified: 2020-12-21T02:18:45+02:00
 * <https://github.com/MasterGroosha/telegram-tutorial>
 * <https://mastergroosha.github.io/telegram-tutorial/docs/lesson_02/>
 * <https://www.edsd.ru/ru/o_kompanii/novosti/zavtrak-programmista>
-* <>
+* <https://github.com/jmcampanini/django-starter>
 
 ## где захостить
 
