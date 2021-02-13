@@ -12,7 +12,7 @@ Django - набор инструментов для развертывания h
 
 ## Важные ссылки
 * [Официальный сайт](https://www.djangoproject.com/)
-* Установка
+* [Почему Django](https://ru.hexlet.io/blog/posts/pochemu-django-luchshiy-freymvork-dlya-razrabotki-saytov)
 
 ## Уроки
 * [Видосик от howdyho](https://www.youtube.com/watch?v=w4nrT7emiVc)
