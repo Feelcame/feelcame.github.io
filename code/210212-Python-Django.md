@@ -18,8 +18,10 @@ Django - набор инструментов для развертывания h
 * [Видосик от howdyho](https://www.youtube.com/watch?v=w4nrT7emiVc)
 * [learndjango](https://learndjango.com/)
 
-## Заготовки для сайта
+## Заготовки для сайта и примеры
 * [DjangoX](https://github.com/wsvincent/djangox)
+* <https://www.djangosites.org/with-source/>
+* <https://djbook.ru/forum/forum/13/>
 
 ## Хостинг
 * [heroku](https://www.heroku.com/)
