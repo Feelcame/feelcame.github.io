@@ -22,7 +22,7 @@ Django - набор инструментов для развертывания h
 * [learndjango](https://learndjango.com/)
 * [Проект Django Girls](https://tutorial.djangogirls.org/ru/)
 * [Уроки на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
-* [Книга Дронова по Django 2.2]()
+* [Книга Дронова по Django 2.2](https://rutracker.org/forum/viewtopic.php?t=5966162)
 
 ## Заготовки для сайта и примеры
 * [DjangoX](https://github.com/wsvincent/djangox)
