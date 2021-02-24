@@ -14,6 +14,8 @@ modified: 2021-02-24T01:40:22+02:00
 * [Официальный сайт](https://www.djangoproject.com/)
 * [Почему Django](https://ru.hexlet.io/blog/posts/pochemu-django-luchshiy-freymvork-dlya-razrabotki-saytov)
 * [Официальная документация](https://docs.djangoproject.com/en/2.2/)
+* [Доки от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
+* [Неофициальная документация](https://djbook.ru/rel3.0/index.html)
 
 
 ## Уроки
@@ -22,14 +24,11 @@ modified: 2021-02-24T01:40:22+02:00
 * [Проект Django Girls](https://tutorial.djangogirls.org/ru/)
 * [Уроки на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 * [Книга Дронова по Django 2.2](https://rutracker.org/forum/viewtopic.php?t=5966162)
-* [Доки от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
-
 
 ## Заготовки для сайта и примеры
 * [DjangoX](https://github.com/wsvincent/djangox)
 * <https://www.djangosites.org/with-source/>
 * <https://djbook.ru/forum/forum/13/>
-
 * [Демка Django от Heroku](https://github.com/heroku/python-getting-started)
 * [Несколлько усложненный пример для heroku](https://github.com/heroku/heroku-buildpack-python)
 
