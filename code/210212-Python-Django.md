@@ -28,6 +28,9 @@ Django - набор инструментов для развертывания �
 * <https://www.djangosites.org/with-source/>
 * <https://djbook.ru/forum/forum/13/>
 
+* [Демка Django от Heroku](https://github.com/heroku/python-getting-started)
+* [Несколлько усложненный пример для heroku](https://github.com/heroku/heroku-buildpack-python)
+
 ## Хостинг
 * [heroku](https://www.heroku.com/)
 * pythonanywhere
