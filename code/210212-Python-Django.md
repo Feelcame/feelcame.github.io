@@ -37,3 +37,4 @@ Django - набор инструментов для развертывания �
 * wps
 * amazon aws
 * google engine
+* localhosty + ngrock
