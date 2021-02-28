@@ -20,3 +20,5 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
 
+kramdown:
+  parse_span_html: true
