@@ -13,7 +13,6 @@ modified: 2020-12-16T21:12:07+02:00
 <details><summary>Сегодня в программе</summary>
 **лол**
 </details>
-{: parse_span_html: true} 
 
 
 * Table of Content  
