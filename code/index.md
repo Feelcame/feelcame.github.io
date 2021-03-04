@@ -6,11 +6,23 @@ title: '# Кодинг'
 
 **Статьи про разработку всяких интересных штук**
 
+1. [Android](./Android.md)
+1. [Arduino](./Arduino.md)
+1. [CMS](./CMS.md)
+1. [Golang](./Golang.md)
+1. [HTML](./HTML.md)
+1. [Markdown](./Markdown.md)
+1. [Python](./Python.md)
+1. [Python-Django](./Python-Django.md)
+1. [Telegram-боты](./Telegram-боты.md)
+1. [Как-учиться](./Как-учиться.md)
+
+
 <!--
 1. ггммдд [название](./)
 1. ггммдд [название](./)
 1. ггммдд [название](./)
--->
+
 
 1. 210212 [Python-Django](./210212-Python-Django.md)
 1. 210123 [Курсы программирования для самых маленьких](./210123-кодинг-начало.md)
@@ -39,6 +51,22 @@ title: '# Кодинг'
 1. 200630 [Пример markdown текста](./200630-md-example.md)
 1. 200628 [Разработка прог Android](200628_android_разработка.md)  
 {: reversed="reversed"}
+-->
+
+# IDE's + редакторы кода
+- [**Visual Studio Code**](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
+- Visual Studio
+- Visual basic studio
+- Eclipse
+- Lazarus
+- Arduino IDE
+- Processing
+
+На телефон
+- AIDE
+- Acode
+-
 
 
 ## Тестовые страницы
@@ -73,23 +101,7 @@ title: '# Кодинг'
 * Умная техника. Программируем МК
 * Связь с миром. Интерфейсы
 
-# IDE's + редакторы кода
-- [**Visual Studio Code**](https://code.visualstudio.com/)
-- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
-- Visual Studio
-- Visual basic studio
-- Eclipse
-- Lazarus
-- Arduino IDE
-- Processing
-
-На телефон
-- AIDE
-- Acode
--
-
-
 ***
 
-> Будем считать, что здесь публикуются новости сайта. Хотя на самом деле я скорее выкладываю сюда просто полезные заметки от себя и для себя, что скорее блог или канал. Но мне так больше нравится. И пусть остаётся :-)
-> Если будете копировать что-то отсюда - сообщите мне об этом, я буду щаслив узнать что кому-то принес пользу ;-)
+> Надеюсь тебе понравились статьи. Я их собиралд много лет и только для себя. Стало хотеться поделиться с миром годными вещами. Так что цени это :-)
+> Если будете копировать что-то отсюда - сообщите об этом в комментах, я буду щаслив узнать что кому-то принес пользу ;-)
