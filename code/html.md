@@ -8,6 +8,13 @@ modified: 2021-03-04T00:34:10+02:00
 1. <https://webref.ru/>
 1. <https://webreff.ru/>
 
+## HTML JS CSS
+
+1. <https://puzzleweb.ru/javascript/element_innerhtml.php>
+1. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
+1. <https://learn.javascript.ru/searching-elements-dom>
+1. <>
+
 
 ## Фреймворки
 
