@@ -1,12 +1,22 @@
 ---
 layout: default
+title: Блог и новости
 ---
 
-<h1>Articles</h1>
+# Все статьи
+{% for post in site.posts %}
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+{% endfor %}
+
+Коллекции:
+
+```
 {% for post in site.categories.articles %}
     <time>{{ post.date | date: "%b %-d, %Y" }}</time>
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
+```
 
 <ul>
   {% for post in site.posts %}
