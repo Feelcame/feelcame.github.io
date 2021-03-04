@@ -73,6 +73,22 @@ title: '# Кодинг'
 * Умная техника. Программируем МК
 * Связь с миром. Интерфейсы
 
+# IDE's + редакторы кода
+- [**Visual Studio Code**](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
+- Visual Studio
+- Visual basic studio
+- Eclipse
+- Lazarus
+- Arduino IDE
+- Processing
+
+На телефон
+- AIDE
+- Acode
+-
+
+
 ***
 
 > Будем считать, что здесь публикуются новости сайта. Хотя на самом деле я скорее выкладываю сюда просто полезные заметки от себя и для себя, что скорее блог или канал. Но мне так больше нравится. И пусть остаётся :-)
