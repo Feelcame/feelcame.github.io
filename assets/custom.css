@@ -37,3 +37,10 @@ header #navButton {
 		display: block;
 	}
 }
+
+
+summary {
+  font-weight: 700;
+  cursor: pointer;
+   border-bottom: 1px dotted; 
+}
