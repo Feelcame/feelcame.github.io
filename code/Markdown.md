@@ -111,3 +111,12 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 
 
 А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
+
+
+
+## Собираю тут ссылки на шпаргалки про markdown
+
+* <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
+* <https://devhints.io/jekyll-github>
+* 
+*
