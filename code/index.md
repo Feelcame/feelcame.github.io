@@ -1,10 +1,8 @@
 ---
 created: 2020-06-29T22:23:22+03:00
 modified: 2021-02-24T01:49:59+02:00
-title:
+title: Статьи про разработку прог
 ---
-
-**Статьи про разработку всяких интересных штук**
 
 1. [Android](./Android.md)
 1. [Arduino](./Arduino.md)
@@ -17,8 +15,30 @@ title:
 1. [Telegram-боты](./Telegram-боты.md)
 1. [Как-учиться](./Как-учиться.md)
 
+## Тестовые страницы
+
+1. 200801 [Title](./index.md)  
+1. ггммдд [Проверка](../beta)
+
+## Как писать? IDE's + редакторы кода
+- [**Visual Studio Code**](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
+- Visual Studio
+- Visual basic studio
+- Eclipse
+- Lazarus
+- Arduino IDE
+- Processing
+
+На телефон
+- AIDE
+- Acode
+-
+
 
 <!--
+## Ссылки по теме:
+
 1. ггммдд [название](./)
 1. ггммдд [название](./)
 1. ггммдд [название](./)
@@ -53,55 +73,8 @@ title:
 {: reversed="reversed"}
 -->
 
-# IDE's + редакторы кода
-- [**Visual Studio Code**](https://code.visualstudio.com/)
-- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
-- Visual Studio
-- Visual basic studio
-- Eclipse
-- Lazarus
-- Arduino IDE
-- Processing
-
-На телефон
-- AIDE
-- Acode
--
-
-
-## Тестовые страницы
-
-1. 200801 [Title](./index.md)  
-1. ггммдд [Проверка](../beta)
-
-* Содержание
-{:toc}
-
-# Подразделы
-
-## База
-* Кодинг'. С чего начать?
-
-## Web-разработка backend
-* Python django
-
-## Web-разработка front
-* Html база
-* Сборка статики jekyll
-
-## Десктопное ПО
-* Go начало
-* Как сделать gui
-* ccc
-
-## Мобильный программы
-* Программы для Android
-
-## Микроконтроллеры и IoT
-* Умная техника. Программируем МК
-* Связь с миром. Интерфейсы
 
 ***
-
-> Надеюсь тебе понравились статьи. Я их собиралд много лет и только для себя. Стало хотеться поделиться с миром годными вещами. Так что цени это :-)
+> Надеюсь тебе понравились статьи. Я их собирал много лет и только для себя. Стало хотеться поделиться с миром годными вещами. Так что цени это :-)
+> 
 > Если будете копировать что-то отсюда - сообщите об этом в комментах, я буду щаслив узнать что кому-то принес пользу ;-)
