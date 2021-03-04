@@ -6,10 +6,10 @@ created: 2020-05-16T13:39:53+03:00
 ---
 
 <table><tbody style="width:100%;display:table;text-align:center;"><tr>
-  <td><a href="./kino"><b>Кино</b></a></td>
-  <td><a href="./music"><b>Музыка</b></a></td>
   <td><a href="./soft"><b>Софт</b></a></td>
   <td><a href="./books"><b>Книги</b></a></td>
+  <td><a href="./music"><b>Музыка</b></a></td>
+  <td><a href="./kino"><b>Кино</b></a></td>
 </tr></tbody></table>
 
 <!--  
