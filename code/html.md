@@ -16,6 +16,18 @@ modified: 2021-03-04T00:34:10+02:00
 1. <>
 
 
+## Севрисы комментариев на статический сайт
+
+**Севрисы комментариев:**  
+1. <https://github.com/utterance/utterances>  
+1. <https://github.com/gitalk/gitalk>  
+1. <https://github.com/meteorlxy/vssue>
+
+1. <https://www.hypercomments.com/>
+1. <https://gitlab.com/commento/commento>  
+
+*** 
+
 ## Фреймворки
 
 ### Структура файлов twitter bootstrap
