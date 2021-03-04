@@ -11,12 +11,12 @@ modified: 2020-12-16T21:12:07+02:00
 *Только ты сам выбираешь каким софтом пользоваться! А мы поможем с ассортиментом ;-)*
 
 <details markdown="1"><summary>Сегодня в программе</summary>
-**лол**
+* Table of Content  
+{: toc}
 </details>
 
 
-* Table of Content  
-{: toc}
+
 
 
 ## **#медиа**
