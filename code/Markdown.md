@@ -4,6 +4,13 @@ modified: 2021-01-09T21:16:39+02:00
 title: Как создается сайт на Github Pages. Простой сложный Jekyll
 ---
 
+## Предисловвие
+Здесь краткая инфа по markdown - упрощенному языку разметки документов.
+Он компилится в HTML. Но в нескомпилированном виде сохраняет человекочитаемость.
+
+* Навигация по разделам
+{:toc}
+
 ## Общее
 
 Здесь немножко о переменных и других програмных фишках, которые использует компилятор страниц на GitHub Pages.
@@ -118,7 +125,7 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 
 * <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
 * <https://devhints.io/jekyll-github>
-* 
+* [Jekyll for GitHub pages cheatsheet](https://devhints.io/jekyll-github)
 *
 
 
