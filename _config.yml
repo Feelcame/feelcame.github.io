@@ -22,3 +22,4 @@ plugins:
 
 kramdown:
   parse_span_html: true
+  parse_block_html: false
