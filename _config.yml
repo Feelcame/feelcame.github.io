@@ -13,7 +13,7 @@ highlighter: rouge
 #commonmark:
 #  options: ["SMART", "FOOTNOTES"]
 #  extensions: ["strikethrough", "autolink", "tables"]
-
+# baseurl: feelcame.gitgub.io/linker.pp.ua
 
 plugins:
   - jemoji
