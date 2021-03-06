@@ -4,10 +4,11 @@ title: Блог и новости
 ---
 
 # Все статьи
-1. {: reversed="reversed"}
+
 {% for post in site.posts %}
-{{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
+1. {: reversed="reversed"}{{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
 {% endfor %}
+
 
 {% comment %}
 <!--
