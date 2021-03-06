@@ -2,12 +2,13 @@
 title: Книжки
 modified: 2020-07-20T16:15:05+03:00
 ---
+{% include downloads-header.inc.html %}
 
-# Книги
+**Книги**
 
 Только интересная литература
 
-я там обещала список сайтов-библиотек:
+список сайтов-библиотек:
 - <https://flibusta.site/>  
 - <https://litnet.com/ru>  
 - <https://fb2-epub.ru/>  
@@ -15,17 +16,3 @@ modified: 2020-07-20T16:15:05+03:00
 - <https://fantasy-worlds.org/>  
 - <http://allking.club/>  
 - <https://bubluoteka.org/>  
-
-1. 111
-1. 33
-1. 666
-
-
-+ Ггг
-+ Шшш
-+ Шшш
-
-- шшш
-- 888
-- щщщ
--
