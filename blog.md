@@ -6,7 +6,8 @@ title: Блог и новости
 # Все статьи
 
 {% for post in site.posts %}
-1. {: reversed="reversed"}{{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
+{: reversed="reversed"}
+1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
 {% endfor %}
 
 
