@@ -6,7 +6,9 @@ title: Блог и новости
 # Все статьи
 
 <ol reversed="reversed">
-  <li>{{ post.date | date: "%y%m%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% for post in site.posts %}
+<li>{{ post.date | date: "%y%m%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endfor %}
 </ol>
 
 
@@ -16,7 +18,7 @@ title: Блог и новости
 <!--
 
 {% for post in site.posts %}
-1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]()  
+1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
 {% endfor %}
 
 <time>{{ post.date | date: "%b %-d, %Y" }}</time>
