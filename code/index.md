@@ -4,16 +4,16 @@ modified: 2021-02-24T01:49:59+02:00
 title: Статьи про разработку прог
 ---
 
-1. ## [Android](./Android.md)
+1. # [Android](./Android.md)
 1. ## [Arduino](./Arduino.md)
-1. ## [CMS](./CMS.md)
-1. ## [Golang](./Golang.md)
-1. ## [HTML](./HTML.md)
-1. ## [Markdown](./Markdown.md)
-1. ## [Python](./Python.md)
-1. ## [Python-Django](./Python-Django.md)
-1. ## [Telegram-боты](./Telegram-боты.md)
-1. ## [Как-учиться](./Как-учиться.md)
+1. ### [CMS](./CMS.md)
+1. #### [Golang](./Golang.md)
+1. ##### [HTML](./HTML.md)
+1. ###### [Markdown](./Markdown.md)
+1. [Python](./Python.md)
+1. [Python-Django](./Python-Django.md)
+1. [Telegram-боты](./Telegram-боты.md)
+1. [Как-учиться](./Как-учиться.md)
 
 ## Тестовые страницы
 
