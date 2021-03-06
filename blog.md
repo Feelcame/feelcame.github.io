@@ -7,10 +7,11 @@ title: Блог и новости
 
 {% for post in site.posts %}
 1. {{ post.date | date: "%b %-d, %Y" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})
-{% endfor %}
 {: reversed="reversed"}
+{% endfor %}
 
 {% comment %}
+<!--
 
 
 <time>{{ post.date | date: "%b %-d, %Y" }}</time>
@@ -28,4 +29,5 @@ title: Блог и новости
 {% endfor %}
 ~~~
 
+-->
 {% endcomment %}
