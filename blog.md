@@ -8,9 +8,9 @@ title: Блог и новости
 <ol reversed="reversed">
 {% for post in site.posts %}
   <li>
-    {{ post.date | date: "%y%m%d" }} 
+    {{ post.date | date: "%y%m%d" | default: "ггммдд" }} 
       <a href="{{ post.url | prepend: site.baseurl }}">
-        {{ page.title | default: site.title | default: site.github.repository_name }}
+        {{ post.title | default: "Новая запись" }}
       </a>
   </li>
 {% endfor %}
