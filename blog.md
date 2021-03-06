@@ -9,7 +9,8 @@ title: Блог и новости
 {{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
 {% endfor %}
 
-{% comment %}<!--
+{% comment %}
+<!--
 
 <time>{{ post.date | date: "%b %-d, %Y" }}</time>
 <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
@@ -22,4 +23,5 @@ title: Блог и новости
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
 
--->{% endcomment %}
+-->
+{% endcomment %}
