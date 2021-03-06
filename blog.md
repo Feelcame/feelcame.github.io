@@ -5,14 +5,19 @@ title: Блог и новости
 
 # Все статьи
 
-{% for post in site.posts %}
-{: reversed="reversed"}
-1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
-{% endfor %}
+<ol reversed="reversed">
+  <li>{{ post.date | date: "%y%m%d" }} <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+</ol>
+
+
 
 
 {% comment %}
 <!--
+
+{% for post in site.posts %}
+1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]()  
+{% endfor %}
 
 <time>{{ post.date | date: "%b %-d, %Y" }}</time>
 <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
