@@ -8,8 +8,5 @@ comments: true
 
 **Музячка**
 
-
-
-
 <audio controls="" autoplay="" name="media"><source src="https://noasrv.caster.fm:10001/stream" type="audio/mpeg"></audio>
 
