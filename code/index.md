@@ -4,23 +4,22 @@ modified: 2021-02-24T01:49:59+02:00
 title: Статьи про разработку прог
 ---
 
-1. # [Android](./Android.md)
-1. ## [Arduino](./Arduino.md)
-1. ### [CMS](./CMS.md)
-1. #### [Golang](./Golang.md)
-1. ##### [HTML](./HTML.md)
-1. ###### [Markdown](./Markdown.md)
+1. [Android](./Android.md)
+1. [Arduino](./Arduino.md)
+1. [CMS](./CMS.md)
+1. [Golang](./Golang.md)
+1. [HTML](./HTML.md)
+1. [Markdown](./Markdown.md)
 1. [Python](./Python.md)
 1. [Python-Django](./Python-Django.md)
 1. [Telegram-боты](./Telegram-боты.md)
 1. [Как-учиться](./Как-учиться.md)
 
-## Тестовые страницы
 
+## Как писать? IDE's + редакторы кода
 1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)
 
-## Как писать? IDE's + редакторы кода
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
 - Visual Studio
@@ -35,7 +34,7 @@ title: Статьи про разработку прог
 - Acode
 -
 
-
+{% comment %}
 <!--
 ## Ссылки по теме:
 
@@ -72,7 +71,7 @@ title: Статьи про разработку прог
 1. 200628 [Разработка прог Android](200628_android_разработка.md)  
 {: reversed="reversed"}
 -->
-
+{% endcomment %}
 
 ***
 > Надеюсь тебе понравились статьи. Я их собирал много лет и только для себя. Стало хотеться поделиться с миром годными вещами. Так что цени это :-)
