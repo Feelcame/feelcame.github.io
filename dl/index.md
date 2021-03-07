@@ -38,7 +38,7 @@ tags: загрузки downloads
   {% endfor %}
 </ol>
 
-## статьи блога ({{ site.tags.spa | first }})
+## статьи блога
 <ol reversed="reversed">
   {% for post in site.tags.spa %}
     <li>{{ post.date | date: "%y%m%d" }}
