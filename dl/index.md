@@ -24,13 +24,13 @@ created: 2020-05-16T13:39:53+03:00
 
 
 ### статьи блога: #загрузки
-<ul>
+<ol reversed="reversed">
 {% for post in site.tags.загрузуи %}
-    <li>{{ post.created | date: "%b %-d, %Y" }}
+    <li>{{ post.created | date: "%y%m%d" }}
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
     </li>
 {% endfor %}
-</ul>
+</ol>
 
 ***
 
