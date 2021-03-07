@@ -24,7 +24,7 @@ tags: загрузки downloads
 {: reversed="reversed"}
 
 
-## статьи с тегом: {{ page.tags }}
+## статьи с тегом: {{ page.tags[0] }} (0)
 <ol reversed="reversed">
   {% for tag in site.tags %}
     {% if tag[0] == "загрузки" %}
