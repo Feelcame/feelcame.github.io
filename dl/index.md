@@ -14,7 +14,7 @@ tags: загрузки
 </tr></tbody></table>
 
 
-### Статьи по теме:
+## Статьи по теме:
 
 1. ггммдд [название](./)
 1. 201126 [поделиться-большим-файлом](./201126_поделиться-большим-файлом.md)
@@ -24,14 +24,26 @@ tags: загрузки
 {: reversed="reversed"}
 
 
-### статьи блога: #загрузки
+## статьи блога: #загрузки
 <ol reversed="reversed">
-  {% for post in site.tags.загрузки %}
+  {% for post in site.tags.загрузки[1] %}
     <li>{{ post.date | date: "%y%m%d" }}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
     </li>
   {% endfor %}
 </ol>
+
+---
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
+
 
 ***
 
