@@ -3,6 +3,7 @@ title: Загрузки
 comments: false
 modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
+tags: загрузки
 ---
 
 <table><tbody style="width:100%;display:table;text-align:center;"><tr>
@@ -25,7 +26,7 @@ created: 2020-05-16T13:39:53+03:00
 
 ### статьи блога: #загрузки
 <ol reversed="reversed">
-{% for post in site.tags.загрузуи %}
+{% for post in site.tags.загрузки %}
     <li>{{ post.created | date: "%y%m%d" }}
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
     </li>
