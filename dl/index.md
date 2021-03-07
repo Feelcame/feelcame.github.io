@@ -38,9 +38,9 @@ tags: загрузки downloads
   {% endfor %}
 </ol>
 
-## статьи блога (new)
+## статьи блога ({{ site.tags.spa }})
 <ol reversed="reversed">
-  {% for post in site.tags.загрузки %}
+  {% for post in site.tags.spa %}
     <li>{{ post.date | date: "%y%m%d" }}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
     </li>
