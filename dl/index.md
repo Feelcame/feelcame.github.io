@@ -24,7 +24,7 @@ tags: загрузки
 {: reversed="reversed"}
 
 
-## статьи блога: #загрузки
+## статьи блога: #загрузки (норм)
 <ol reversed="reversed">
   {% for tag in site.tags %}
     {% if tag[0] == "загрузки" %}
@@ -36,6 +36,16 @@ tags: загрузки
     {% endif %}
   {% endfor %}
 </ol>
+
+## статьи блога (new)
+<ol reversed="reversed">
+  {% for post in site.tags.загрузки %}
+    <li>{{ post.date | date: "%y%m%d" }}
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
+    </li>
+  {% endfor %}
+</ol>
+
 
 ## все теги
 
