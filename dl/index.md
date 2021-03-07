@@ -24,7 +24,7 @@ tags: загрузки downloads
 {: reversed="reversed"}
 
 
-## статьи с тегом: {{ page.tags | split " " | first }} (split)
+## статьи с тегом: #загрузки
 <ol reversed="reversed">
   {% for tag in site.tags %}
     {% if tag[0] == "загрузки" %}
@@ -38,7 +38,7 @@ tags: загрузки downloads
   {% endfor %}
 </ol>
 
-## статьи блога ({{ site.tags.spa }})
+## статьи блога ({{ site.tags.spa | first }})
 <ol reversed="reversed">
   {% for post in site.tags.spa %}
     <li>{{ post.date | date: "%y%m%d" }}
