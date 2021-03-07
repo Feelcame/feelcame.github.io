@@ -38,7 +38,7 @@ tags: загрузки downloads
   {% endfor %}
 </ol>
 
-## статьи блога {{ site.tags.git[0].title }}
+## статьи блога
 <ol reversed="reversed">
   {% for post in site.tags.git %}
     <li>{{ post.date | date: "%y%m%d" }}
