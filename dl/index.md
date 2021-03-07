@@ -35,7 +35,7 @@ tags: загрузки
 
 ## все теги
 
-{% for tag in site.tags %}
+{% for tag in site.tags.загрузки %}
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
