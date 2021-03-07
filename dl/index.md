@@ -26,7 +26,7 @@ tags: загрузки
 
 ## статьи блога: #загрузки
 <ol reversed="reversed">
-  {% for tag in site.tags.загрузки %}
+  {% for post in site.tags.загрузки[0] %}
     <li>{{ post.date | date: "%y%m%d" }}
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
     </li>
