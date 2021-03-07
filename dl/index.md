@@ -3,7 +3,7 @@ title: Загрузки
 comments: false
 modified: 2020-12-14T11:13:31+02:00
 created: 2020-05-16T13:39:53+03:00
-tags: загрузки
+tags: загрузки downloads
 ---
 
 <table><tbody style="width:100%;display:table;text-align:center;"><tr>
@@ -24,7 +24,7 @@ tags: загрузки
 {: reversed="reversed"}
 
 
-## статьи с тегом {{ page.tags }}
+## статьи с тегом: {{ page.tags }}
 <ol reversed="reversed">
   {% for tag in site.tags %}
     {% if tag[0] == "загрузки" %}
