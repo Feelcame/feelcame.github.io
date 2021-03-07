@@ -35,7 +35,7 @@ tags: загрузки
   {% endfor %}
 </ol>
 
----
+## все теги
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
