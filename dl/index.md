@@ -48,7 +48,7 @@ tags: загрузки downloads
 </ol>
 
 ## инклюд
-{% include similartags.inc.html tags=page.tags %}
+{% include similar.inc.html tags=page.tags %}
 
 ## все теги
 
