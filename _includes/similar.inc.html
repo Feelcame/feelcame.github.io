@@ -1,9 +1,5 @@
-
 {% assign tag_first = "загрузки downloads" | split: " " | first %}
-
-<h5>({{ tag_first }})</h5>
-
-<ol reversed="reversed">
+<ol reversed="">
   {% for tag in site.tags %}
     {% if tag[0] == tag_first %}
       {% for post in tag[1] %}
