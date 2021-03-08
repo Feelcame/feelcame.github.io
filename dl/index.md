@@ -1,7 +1,7 @@
 ---
 title: Загрузки
 comments: false
-modified: 2020-12-14T11:13:31+02:00
+modified: 2021-03-08T23:55:56+02:00
 created: 2020-05-16T13:39:53+03:00
 tags: загрузки downloads
 ---
@@ -47,6 +47,8 @@ tags: загрузки downloads
   {% endfor %}
 </ol>
 
+## инклюд
+{% include similartags.inc.md tags="загрузки" %}
 
 ## все теги
 
