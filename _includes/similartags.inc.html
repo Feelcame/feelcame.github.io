@@ -1,5 +1,7 @@
 
-<h4>передано: {{ include.tags }}.</h4>
+
+
+<h4>передано: {{ include.tags | first }}.</h4>
 
 <ol reversed="reversed">
   {% for tag in site.tags %}
