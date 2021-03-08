@@ -14,7 +14,7 @@ highlighter: rouge
 #  options: ["SMART", "FOOTNOTES"]
 #  extensions: ["strikethrough", "autolink", "tables"]
 # baseurl: feelcame.gitgub.io/linker.pp.ua
-time zone::+0200
+time zone: +0200
 plugins:
   - jemoji
   - jekyll-paginate
