@@ -1,11 +1,11 @@
 
-{% assign first_tag = include.tags | split: " " | first }}
+{% assign tag_array = include.tags | split: " " }}
 
-<h4>передано: {{ first_tag }}.</h4>
+<h4>передано: {{ tag_array | first }}.</h4>
 
 <ol reversed="reversed">
   {% for tag in site.tags %}
-    {% if tag[0] == first_tag %}
+    {% if tag[0] == "загрузки" %}
       {% for post in tag[1] %}
          <li>
            {{ post.date | date: "%y%m%d" }}
