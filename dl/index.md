@@ -1,7 +1,7 @@
 ---
 title: Загрузки
 comments: false
-modified: 2021-03-09T00:10:47+02:00
+modified: 2021-03-09T01:07:11+02:00
 created: 2020-05-16T13:39:53+03:00
 tags: загрузки downloads
 ---
@@ -24,42 +24,8 @@ tags: загрузки downloads
 {: reversed="reversed"}
 
 
-## статьи с тегом: #загрузки
-<ol reversed="reversed">
-  {% for tag in site.tags %}
-    {% if tag[0] == "загрузки" %}
-      {% for post in tag[1] %}
-         <li>
-           {{ post.date | date: "%y%m%d" }}
-           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
-         </li>
-       {% endfor %}
-    {% endif %}
-  {% endfor %}
-</ol>
-
-## статьи блога
-<ol reversed="reversed">
-  {% for post in site.tags.git %}
-    <li>{{ post.date | date: "%y%m%d" }}
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a>
-    </li>
-  {% endfor %}
-</ol>
-
-## инклюд
+## записи блога в тему
 {% include similar.inc.html tags=page.tags %}
-
-## все теги
-
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}
 
 
 ***
