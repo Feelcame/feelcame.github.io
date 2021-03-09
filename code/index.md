@@ -1,8 +1,8 @@
 ---
 created: 2020-06-29T22:23:22+03:00
-modified: 2021-03-10T00:45:32+02:00
+modified: 2021-03-10T00:48:14+02:00
 title: Статьи про разработку прог
-tags: code
+tags: code программирование
 ---
 
 ### кодинг.категории.читать()
@@ -26,26 +26,7 @@ tags: code
 ### Статьи по теме:
 
 {% comment %}
-
-
-
-
 <!--
-- [**Visual Studio Code**](https://code.visualstudio.com/)
-- [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
-- Visual Studio
-- Visual basic studio
-- Eclipse
-- Lazarus
-- Arduino IDE
-- Processing
-
-На телефон
-- AIDE
-- Acode
-
-
-
 ## Ссылки по теме:
 
 1. ггммдд [название](./)
