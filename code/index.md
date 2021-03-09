@@ -22,11 +22,14 @@ tags: code
 1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)
 
+
 #### Статьи по теме:
+
+{% comment %}
 {% include similar.inc.html tags %}
 
 
-{% comment %}
+
 <!--
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
