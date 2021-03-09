@@ -26,7 +26,7 @@ tags: code
 #### Статьи по теме:
 
 {% comment %}
-{% include similar.inc.html tags %}
+
 
 
 
