@@ -17,11 +17,12 @@ title: Статьи про разработку прог
 1. [Как-учиться](./Как-учиться.md)
 1. [Инструменты](./Tools.md)
 
-
-## Как писать? IDE's + редакторы кода
+## тестовые страницы
 1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)
 
+
+{% comment %}
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
 - Visual Studio
@@ -35,7 +36,7 @@ title: Статьи про разработку прог
 - AIDE
 - Acode
 
-{% comment %}
+
 <!--
 ## Ссылки по теме:
 
