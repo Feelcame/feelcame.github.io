@@ -2,6 +2,7 @@
 created: 2020-06-29T22:23:22+03:00
 modified: 2021-03-08T23:21:16+02:00
 title: Статьи про разработку прог
+tags: code
 ---
 
 #### кодинг.категории.читать()
@@ -21,8 +22,12 @@ title: Статьи про разработку прог
 1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)
 
+## Статьи по теме:
+{% include similar.inc.html tags %}
+
 
 {% comment %}
+<!--
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
 - Visual Studio
@@ -37,7 +42,7 @@ title: Статьи про разработку прог
 - Acode
 
 
-<!--
+
 ## Ссылки по теме:
 
 1. ггммдд [название](./)
