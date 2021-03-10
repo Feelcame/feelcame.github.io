@@ -1,4 +1,4 @@
-{% assign tag_first = "загрузки downloads" | split: " " | first %}
+{% assign tag_first = include.tags | split: " " | first %}
 <ol reversed="">
   {% for tag in site.tags %}
     {% if tag[0] == tag_first %}
