@@ -26,9 +26,7 @@ title: Как создается сайт на Github Pages. Простой сл
 * CommonMarkGhPages (как на самом гитхаб)
 * (добавить)
 
-**Рекомендую почитать официальную документацию**
-* на Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-* И на kramdown: <https://kramdown.gettalong.org/converter/html.html>  
+
 
 ## Liquid скриптинг
 
@@ -36,11 +34,7 @@ title: Как создается сайт на Github Pages. Простой сл
 
 Так вот, для настройки страниц можно (и нужно) использовать так называемые Liquid-скрипты. Это как голый код на PHP или Ruby, но он предподготовленный и можно использовать только те функции, которые уже заданы и разрешены. При любой ошибке в файле конфигурации перестанет собираться сайт, а при ошибке скипта жидкого скрипта в странице - он будет интерпретировани как обычный текст.  
 
-**Официальная джокументация:** 
-* Из первоисточника: <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
-* Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
 
-Пример такого "жидкого скрипта" в слеующем параграфе
 
 
 ## блог-платформа
@@ -58,7 +52,7 @@ title: Как создается сайт на Github Pages. Простой сл
   { % endfor %}
 </ul>
 ```
-Ссылка на источник: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
+
 
 ## Модули
 
@@ -112,26 +106,28 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 ## Дополнительно
 
 Как оказалось, github использует jekyll для генерации страниц. А тот в свою очередь может использовать так называемые liquid скриптинг за авторством shopify. 
-Вот официальная документация как им пользоваться: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
+
 
 Также стоит знать что кроме "жидких" скриптов для ещё большей кастомизации генератор можно настраивать в файле конфига _config.yaml. Вплоть до того, что можно изменить парсер markdown файлов. Стандартный, кстати, называется kramdown. Его официальная документация [google]
 
 
-А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
+## Полезные ссылки
 
-
-
-## Собираю тут ссылки на шпаргалки про markdown
-
+* Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
+* kramdown: <https://kramdown.gettalong.org/converter/html.html>  
+* Официальная джокументация по жидким скриптам: <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
+* Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
 * <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
 * <https://devhints.io/jekyll-github>
 * [Jekyll for GitHub pages cheatsheet](https://devhints.io/jekyll-github)
-*
+* Блогинг: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
+* [Инклюдинг. Передача параметров в вызываемый инклюд](https://jekyllrb.com/docs/includes/)
+* А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
+* Вот официальная документация по "жидким" скриптам: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
+* [Источник примера ниже](http://alexprivalov.org/markdown-short-reference)
 
 
-
-
-# Шпаргалка Markdown
+## Шпаргалка Markdown
 
 
 **[Markdown][1]{: rel="nofollow"}** — это облегченный язык разметки, призванный облегчить подготовку текстов для публикации в Интернете. Был создан для удобства чтения и написания размеченных текстов. Движок markdown генерирует валидный XHTML. Авторы - John Gruber и Aaron Swartz. 
@@ -140,7 +136,7 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 **Jekyll** использует *markdown* нативно, вообще данный язык разметки очень любят на *[GitHub][2]{: rel="nofollow"}*, используют его везде, где только
 можно (и в комментариях, и в отчетах, и в readme файлах). Данный блог использует *jekyll*, потому этот пост - это маленькая шпаргалка по Markdown.
  
-## Синтаксис
+### Синтаксис
 Оригинальное описание синтаксиса находится здесь (англ.): <http://daringfireball.net/projects/markdown/syntax>{: rel="nofollow"}
  
 Ниже следует краткое описание синтаксиса.
@@ -188,4 +184,4 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 [2]: https://www.github.com/ "GitHub"
 
 
-[Источник](http://alexprivalov.org/markdown-short-reference)
+
