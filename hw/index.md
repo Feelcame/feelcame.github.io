@@ -14,6 +14,6 @@ title: Желязячки
 {: reversed="reversed"}
 
 
-#### статьи блога с тегом #железо
+#### статьи блога с тегом: {{ page.tags }} (\*)(\*)
 
 {% include similar.inc.html tags=page.tags %}
