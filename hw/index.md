@@ -16,4 +16,4 @@ title: Желязячки
 
 #### статьи блога с тегом #железо
 
-{% include similar.md page.tags %}
+{% include similar.inc.html page.tags %}
