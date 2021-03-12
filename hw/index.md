@@ -1,7 +1,7 @@
 ---
 created: 2020-12-17T00:51:55+02:00
 modified: 2021-03-12T14:31:51+02:00
-tags: загрузки железки
+tags: железки
 title: Желязячки
 ---
 
@@ -16,4 +16,4 @@ title: Желязячки
 
 #### статьи блога с тегом #железо
 
-{% include similar.inc.html page.tags %}
+{% include similar.inc.html tags=page.tags %}
