@@ -104,5 +104,5 @@ Jimdo и Wix являются подходящими решениями, есл�
 
 ### Другие полезности
 * [Создание плагина](https://wp-kama.ru/handbook/plugin/osnovy)
-* М
+* <https://talks.pub/post/bistrii_zakaz_opencart_2>
 *
