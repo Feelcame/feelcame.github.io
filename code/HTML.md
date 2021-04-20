@@ -4,11 +4,11 @@ created: 2021-01-17T00:34:10+02:00
 modified: 2021-03-04T00:34:10+02:00
 ---
 
-## Сайты референсные:
+### Сайты референсные:
 1. <https://webref.ru/>
 1. <https://webreff.ru/>
 
-## HTML JS CSS
+### HTML JS CSS
 
 1. <https://puzzleweb.ru/javascript/element_innerhtml.php>
 1. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
@@ -16,7 +16,7 @@ modified: 2021-03-04T00:34:10+02:00
 1. <>
 
 
-## Севрисы комментариев на статический сайт
+### Севрисы комментариев на статический сайт
 
 **Севрисы комментариев:**  
 1. <https://github.com/utterance/utterances>  
@@ -28,40 +28,26 @@ modified: 2021-03-04T00:34:10+02:00
 
 *** 
 
-## Фреймворки
+### Фреймворки
 
-### Структура файлов twitter bootstrap
+#### Структура файлов twitter bootstrap
 Мне понравилось оформление дерева с помощью спецсимволов, решил скопировать
 
 ```
 bootstrap/  
 ├── css/  
 │   ├── bootstrap-grid.css  
-│   ├── bootstrap-grid.css.map  
-│   ├── bootstrap-grid.min.css  
-│   ├── bootstrap-grid.min.css.map  
-│   ├── bootstrap-reboot.css  
-│   ├── bootstrap-reboot.css.map  
-│   ├── bootstrap-reboot.min.css  
-│   ├── bootstrap-reboot.min.css.map  
-│   ├── bootstrap.css  
-│   ├── bootstrap.css.map  
-│   ├── bootstrap.min.css  
 │   └── bootstrap.min.css.map  
 └── js/  
     ├── bootstrap.bundle.js  
     ├── bootstrap.bundle.js.map  
-    ├── bootstrap.bundle.min.js  
-    ├── bootstrap.bundle.min.js.map  
-    ├── bootstrap.js  
-    ├── bootstrap.js.map  
-    ├── bootstrap.min.js  
     └── bootstrap.min.js.map  
 ```
-# Песочницы
 
+## Сервисы
+
+### Песочницы
 Песочница - это место для игры. Таким же образом можно играться с кодом на сайте-песочнице. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример
-
 1. <http://jsfiddle.net/sLZq8/2/> <https://jsfiddle.net/GdSVn/>
 1. <https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview>
 1. <http://jsbin.com/rebogevoga/edit?html,output>
@@ -69,3 +55,8 @@ bootstrap/
 1. <https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle>
 1. <http://pagedemos.com/>
 1. ...
+
+### Бьютифаеры, форматтеры
+1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
+2. ...
+3. 
