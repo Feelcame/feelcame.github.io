@@ -48,8 +48,9 @@ bootstrap/
 
 ### Песочницы
 Песочница - это место для игры. Таким же образом можно играться с кодом на сайте-песочнице. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример
-1. <http://jsfiddle.net/sLZq8/2/> 
-<https://jsfiddle.net/GdSVn/>
+1. JsFiddle  
+   <http://jsfiddle.net/sLZq8/2/>  
+   <https://jsfiddle.net/GdSVn/>
 3. <https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview>
 4. <http://jsbin.com/rebogevoga/edit?html,output>
 5. <https://codepen.io/liptonicetea/pen/NdvxYe>
