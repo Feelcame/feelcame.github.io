@@ -3,7 +3,7 @@ layout: default
 title: Блог и новости
 ---
 
-# Все статьи
+### **Все статьи**
 
 <ol reversed="reversed">
 {% for post in site.posts %}
