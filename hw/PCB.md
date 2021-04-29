@@ -31,3 +31,8 @@ date: 2020-12-21
 ## Производство
 * jlcpcb
 * other
+
+## Компоненты
+* Mouser
+* Digikey
+* ...
