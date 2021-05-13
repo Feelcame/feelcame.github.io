@@ -1,26 +1,25 @@
 ---
-title: Про печатные платы
+title: Про печатные платы PCB
 comments: true
 date: 2020-12-21
 ---
 
 ## Общее про PCB
-На печатных платах делаются большинство электронных устройств. Ниже инфа про их разработку, изготовление и просто полезные факты.  
+Привет! Здесь раскажу пару (десятков?) полезных фич про разводку печатных плат для электроники. Сначала пояснение для самых маленьких. На печатных платах делаются большинство электронных устройств. Ниже инфа про их разработку, изготовление и просто полезности.
 Для проектирования нужна CAD-программа (computer aided design).  
 Я использую эти:  
 - [EAGLE](#eagle) - бесплатная от Autodesk. Есть платная версия за $60/месяц (входит в комплект fusion 360)
 - [Altium](#altium) - платная. Стоит $6000 единоразово. При покупке год саппорта. Покупается на торрентах
-- некоторые другие по случаю, easyeda, sprint layout...
+- некоторые другие по случаю, easyeda, sprint layout, DipTrace...
+- есть еще с десяток известных и не очень
 
 
-### Инфа по Eagle
-Игл считается условно бесплатным, с некоторыми ограничениями.
+### Инфа по Eagle {: id="eagle"}
+Орел считается условно бесплатным, с некоторыми ограничениями.
 * [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
 * <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
 * <http://eagle.autodesk.com/eagle/libraries> - Официальный репозиторий библиотек (устаревает, но пока жив)
-* [snapeda](https://www.snapeda.com/parts/CC1101RGPR/Texas%20Instruments/view-part/?welcome=home) - Библиотеки компонентов. pleasedontbugme bugmenot zujeyod@maxmail.in
-* [Octopart](https://octopart.com/cc1101rgpr-texas+instruments-25923081?r=sp#Specs) - Библиотеки 
-* [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки
+
 
 ### Altium
 Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
@@ -29,11 +28,22 @@ date: 2020-12-21
 * [Библиотеки компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
 
 
-## Производство
-* jlcpcb
-* pcbway
+### Библиотеки компонентов
+Большинство требуют регистрацию, но это обходится с помощью <http://bugmenot.com>
+* [snapeda](https://www.snapeda.com/parts/CC1101RGPR/Texas%20Instruments/view-part/?welcome=home) - Библиотеки компонентов. pleasedontbugme bugmenot zujeyod@maxmail.in
+* [Octopart](https://octopart.com/cc1101rgpr-texas+instruments-25923081?r=sp#Specs) - Библиотеки 
+* [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки модулей только eagle
+* https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments
+
+### Производство на заводе
+Платы нужно произвести. По состоянию на 2021 год есть масса заводов которые с радостью производят тестовые партии по десять штук почти даром. Это их вложение на будущее, такая субсидию для тебя. Ведь когда ты настроишь все свои процессы под определенный завод и будешь готов выпустить партиб из тысяч устройств, то не захорчешь перестраиваться под ругие дизайн рулсы. Тут и начинается их заработок
+* jlcpcb.com
+* pcbway.com
 * завод в киеве
 * other
+
+### Произвести самому
+Диайвайщики и мамкины хацкеры тут?
 
 ## Компоненты
 * <https://www.digikey.com/> - норм
