@@ -30,6 +30,8 @@ date: 2020-12-21
 * [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html)
 * [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
 * <http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html>
+* [Видеоуроки от BSVi](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [перезалив](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
+* [Видеоуроки от Сабунина](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [перезалив](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
 
 
 ### Библиотеки компонентов
