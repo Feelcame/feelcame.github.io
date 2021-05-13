@@ -28,7 +28,8 @@ date: 2020-12-21
 Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
 * [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html)
 * [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html)
-* [Библиотеки компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
+* [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
+* <http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html>
 
 
 ### Библиотеки компонентов
