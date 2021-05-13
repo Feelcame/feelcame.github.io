@@ -16,7 +16,7 @@ date: 2020-12-21
 
 
 ### Инфа по Eagle 
-{: id="eagle"}
+{: id="eagle"}  
 Орел условно бесплатный. С некоторыми ограничениями: максимум два слоя, ограничение размера PCB 100\*100mm
 * [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
 * <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
