@@ -58,6 +58,7 @@ date: 2020-12-21
 * <https://www.rcscomponents.kiev.ua/catalog> - норм. харьков. хороший поиск
 * <https://radar.org.ua> - норм. харьков. мало компонентов
 * ...
+* <https://www.findchips.com/search/rt9013>
 * <https://3v3.com.ua/> - модули с али
 * <https://signal.net.ua/> 
 * <https://voron.ua/> - плохие отзывы, брак
