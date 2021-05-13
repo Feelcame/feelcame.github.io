@@ -14,7 +14,8 @@ date: 2020-12-21
 - есть еще с десяток известных и не очень
 
 
-### Инфа по Eagle {: id="eagle"}
+### Инфа по Eagle 
+{: id="eagle"}
 Орел считается условно бесплатным, с некоторыми ограничениями.
 * [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
 * <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
