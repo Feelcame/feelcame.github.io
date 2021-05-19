@@ -83,3 +83,6 @@ date: 2020-12-21
 * <https://www.futureelectronics.com/>
 * <https://aliexpress.com> - китайский супермаркет. много подделок.
 * <https://prom.ua> - украинский онлайн-базар. есть все, в т.ч. компоненты
+
+### Разновидности футпринотов
+<http://lehih80.blogspot.com/2017/07/smd.html>
