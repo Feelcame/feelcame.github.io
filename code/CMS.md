@@ -60,7 +60,7 @@ title: Системы CMS
 порталы (DLE, Drupal).  
 
 
-## Хостинг статики
+### Хостинг статики
 Бесплатный хостинг HTML:
 * GitHub
 * GitLab
@@ -70,15 +70,12 @@ title: Системы CMS
 * heroku
 * Beget
 * <http://ho.ua>
+* <http://vfl.ru/> - хостинг картинок
+* fastpic
 
 ## Конструкторы
 * <https://ru.wix.com/>
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [tilda](http://tilda.cc)
 * []()
 * []()
 
