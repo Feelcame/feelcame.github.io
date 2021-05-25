@@ -39,9 +39,10 @@ date: 2020-12-21
 ### Библиотеки компонентов
 Большинство требуют регистрацию, но это обходится с помощью <http://bugmenot.com>
 * [snapeda](https://www.snapeda.com/parts/CC1101RGPR/Texas%20Instruments/view-part/?welcome=home) - Библиотеки компонентов. pleasedontbugme bugmenot zujeyod@maxmail.in
-* [Octopart](https://octopart.com/cc1101rgpr-texas+instruments-25923081?r=sp#Specs) - Библиотеки 
+* [Octopart](https://octopart.com/cc1101rgpr-texas+instruments-25923081?r=sp#Specs) - Библиотеки с норм символами. Собственность Altium
 * [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки модулей только eagle
-* [componentsearchengine.com](https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments)
+* [componentsearchengine.com](https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments) - не проверено
+* <https://ultralibrarian.com> - немножечко говняные библиоткеки, гененрируются автоматически. Работают с производителем ST
 
 ### Производство на заводе
 Платы нужно произвести. По состоянию на 2021 год есть масса заводов которые с радостью производят тестовые партии по десять штук почти даром. Это их вложение на будущее, такая субсидию для тебя. Ведь когда ты настроишь все свои процессы под определенный завод и будешь готов выпустить партиб из тысяч устройств, то не захорчешь перестраиваться под ругие дизайн рулсы. Тут и начинается их заработок
