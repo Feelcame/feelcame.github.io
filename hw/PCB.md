@@ -26,7 +26,7 @@ date: 2020-12-21
 
 ### Altium
 Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
-* www.altium.com - [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1)
+* www. altium.com - [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1)
 * easyelectronics.ru - [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html)
 * easyelectronics.ru - [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html) - easyelectronics.ru
 * microsin.net - [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html)
