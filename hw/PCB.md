@@ -26,13 +26,14 @@ date: 2020-12-21
 
 ### Altium
 Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
-* [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html)
-* [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
-* [altium-designer-editor-shortcuts](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html) - Горячие клавиши
-* [altium-designer-polygon-pours-and-copper-regions](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html) - Полигоны
-* [altium-designer-building-an-integrated-library](http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html) - про библиотеки
-* [Видеоуроки от BSVi](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [перезалив](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
-* [Видеоуроки от Сабунина](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [перезалив](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
+* [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1) - www.altium.com
+* [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html) - easyelectronics.ru
+* [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html) - easyelectronics.ru
+* [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html) - microsin.net
+* [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html) - microsin.net
+* [Как делать библиотеки](http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html) - microsin.net
+* [Видеоуроки от BSVi](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [телега](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
+* [Видеоуроки от Сабунина](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [телега](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
 * [Ютуб канал Altium Russia](https://www.youtube.com/channel/UCvZ_kyV4ATrQfjmtVpuj0LQ)
 
 
