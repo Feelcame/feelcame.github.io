@@ -9,7 +9,7 @@ title: Блог и новости
 <ul reversed="reversed">
 {% for post in site.posts %}
   <li>
-    {{ post.date | date: "%y%m%d" | default: "ггммдд" }} 
+    {{ post.date | date: "%Y-%m-%d" | default: "ггммдд" }} 
       <a href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title | default: "Новая запись" }}
       </a>
