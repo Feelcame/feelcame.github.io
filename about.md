@@ -1,7 +1,7 @@
 ---
 title: Контакты
 layout: default
-comments: true
+comments: false
 created: 2020-05-10T21:39:06+03:00
 modified: 2020-07-17T01:00:41+03:00
 ---
