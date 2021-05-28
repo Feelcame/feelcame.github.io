@@ -23,6 +23,7 @@ tags: code программирование
 1. 200801 [Title](./index.md)  
 1. ггммдд [Проверка](../beta)
 
+```
 bootstrap/  
 ├── css/  
 │   ├── bootstrap-grid.css  
@@ -31,6 +32,7 @@ bootstrap/
     ├── bootstrap.bundle.js  
     ├── bootstrap.bundle.js.map  
     └── bootstrap.min.js.map 
+```
 
 ### Статьи по теме:
 
