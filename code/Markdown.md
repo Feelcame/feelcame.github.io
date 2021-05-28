@@ -125,6 +125,8 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 * А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
 * Вот официальная документация по "жидким" скриптам: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
 * [Источник примера ниже](http://alexprivalov.org/markdown-short-reference)
+* [Дока как по апи гитхаба вытянуить комменнтарии из issue](https://docs.github.com/en/rest/reference/issues#comments)
+* [Пример комментариев через github issues на статическом сайте ](https://github.com/dwilliamson/donw.io)
 
 
 ## Шпаргалка Markdown
