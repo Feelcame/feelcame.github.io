@@ -5,6 +5,20 @@ title: Блог и новости
 
 ### **Все статьи**
 
+
+<ul reversed="reversed">
+{% for post in site.posts %}
+  <li>
+    {{ post.date | date: "%y%m%d" | default: "ггммдд" }} 
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title | default: "Новая запись" }}
+      </a>
+  </li>
+{% endfor %}
+</ul>
+
+{% comment %}
+<!-- нумерация строк -->
 <ol reversed="reversed">
 {% for post in site.posts %}
   <li>
@@ -19,7 +33,7 @@ title: Блог и новости
 
 
 
-{% comment %}
+
 <!--
 
 {% for post in site.posts %}
