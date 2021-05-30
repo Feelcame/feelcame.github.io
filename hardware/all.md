@@ -1,6 +1,6 @@
 ---
 created: 2021-05-30T11:09:45+03:00
-modified: 2021-05-30T12:46:10+03:00
+modified: 2021-05-30T12:49:27+03:00
 ---
 
 # All pages
@@ -11,5 +11,8 @@ All pages on directory
 
 ### pages:
 <div>
-{% for p in site.pages %}{% if p.dir == page.dir %}<p>{{ p.date }} <a href="{{ p.url }}">{{ p.title }}</p>{% endif %}{% endfor %}
+{% for p in site.pages %}
+{% if p.dir == page.dir %}
+<p>{{ p.date date: | "%Y-%m-%d" | default: "ггммдд" }} <a href="{{ p.url }}">{{ p.title }}</p>
+{% endif %}{% endfor %}
 </div>
