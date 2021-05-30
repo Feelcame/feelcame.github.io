@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T15:02:49+03:00
+modified: 2021-05-30T15:03:29+03:00
 ---
 
 # All2
@@ -9,7 +9,7 @@ modified: 2021-05-30T15:02:49+03:00
 
 {{ test }}
 
-{% assign sorted = site.pages | sort: 'date' %}
+{% assign sorted = site.pages | sort: 'title' %}
 
 
 {% comment %}
