@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T16:06:21+03:00
+modified: 2021-05-30T16:09:17+03:00
 ---
 
 # All2
@@ -17,7 +17,7 @@ modified: 2021-05-30T16:06:21+03:00
 
 
 <div id="navigation">
-{% for p in hard %}
+{% for p in alfa %}
 <p><a href="{{ p.url }}">{{ p.title }}</a></p>
 {% endfor %}
 </div>
