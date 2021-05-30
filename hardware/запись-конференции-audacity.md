@@ -1,8 +1,8 @@
 ---
-title: Запись концы в audacity
+title: Запись конфы в audacity
 comments: true
 tags: звук запись vac
-modified: 2021-05-30T13:23:31+03:00
+modified: 2021-05-30T13:42:03+03:00
 ---
 
 # ## **Запись конференции. Пояснение**
