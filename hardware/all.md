@@ -1,6 +1,6 @@
 ---
 created: 2021-05-30T11:09:45+03:00
-modified: 2021-05-30T11:28:48+03:00
+modified: 2021-05-30T11:42:07+03:00
 ---
 
 # All pages
@@ -8,6 +8,6 @@ modified: 2021-05-30T11:28:48+03:00
 All pages on directory  
 {{ page.dir }}
 
-{% for p in site.pages | where: {{ p.dir }}, "/hardware/" %}
+{% for p in site.collections.legal.docs %}
 {{ p.path }} - {{ p.dir }}
 {% endfor %}
