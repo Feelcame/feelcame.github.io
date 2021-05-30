@@ -1,13 +1,13 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T14:48:47+03:00
+modified: 2021-05-30T14:50:13+03:00
 ---
 
 # All2
 
 {% assign test = привет %}
 
-{{ page.test }}
+{{ test }}
 
 
 {% comment %}
