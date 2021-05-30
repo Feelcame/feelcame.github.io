@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T15:04:44+03:00
+modified: 2021-05-30T15:05:54+03:00
 ---
 
 # All2
@@ -9,7 +9,7 @@ modified: 2021-05-30T15:04:44+03:00
 
 {{ test }}
 
-{% assign sorted = site.pages | sort: 'title' %}
+{% assign sorted = site.pages | sort: 'dir' %}
 
 
 <div id="navigation">
