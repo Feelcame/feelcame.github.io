@@ -1,11 +1,11 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T14:00:20+03:00
+modified: 2021-05-30T14:12:07+03:00
 ---
 
 # All2
 
-{% asset pages = site.pages | sort: 'date' %}
+{% assign pages = site.pages | sort: 'date' %}
 
 <div id="navigation">
 {% for p in pages | sort: 'date' %}{% if p.dir == page.dir %}
