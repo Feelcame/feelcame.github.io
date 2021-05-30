@@ -1,13 +1,9 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T14:37:10+03:00
+modified: 2021-05-30T14:38:32+03:00
 ---
 
 # All2
-
-{% capture pags %}{{ site.pages | sort: 'date' }}{% endcspture %}
-
-
 
 {% comment %}
 <div id="navigation">
