@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T16:09:17+03:00
+modified: 2021-05-30T16:21:34+03:00
 ---
 
 # All2
@@ -13,7 +13,7 @@ modified: 2021-05-30T16:09:17+03:00
 
 {% assign hard = sorted | where: "dir",  cdir %}
 
-{% assign alfa = hard | sort: 'title' %}
+{% assign alfa = hard | sort: 'date' %}
 
 
 <div id="navigation">
