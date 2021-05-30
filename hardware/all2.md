@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T15:51:20+03:00
+modified: 2021-05-30T15:52:53+03:00
 ---
 
 # All2
@@ -13,12 +13,8 @@ modified: 2021-05-30T15:51:20+03:00
 
 {% assign hard = sorted | where: dir, page.dir %}
 
-
-{{ hard.title | first }}
-
-
 <div id="navigation">
-{% for p in sorted %}
+{% for p in hard %}
 <p><a href="{{ p.url }}">{{ p.title }}</a></p>
 {% endfor %}
 </div>
