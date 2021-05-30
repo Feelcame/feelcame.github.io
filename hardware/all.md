@@ -1,6 +1,6 @@
 ---
 created: 2021-05-30T11:09:45+03:00
-modified: 2021-05-30T11:59:34+03:00
+modified: 2021-05-30T12:19:46+03:00
 ---
 
 # All pages
@@ -10,6 +10,6 @@ All pages on directory
 
 {% for p in site.pages %}
   {% if p.dir == page.dir %}
-    {{ p.url }}
+    <p>{{ p.url }}</p>
   {% endif %}
 {% endfor %}
