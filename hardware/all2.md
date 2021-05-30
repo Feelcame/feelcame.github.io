@@ -1,9 +1,12 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T14:38:32+03:00
+modified: 2021-05-30T14:48:25+03:00
 ---
 
 # All2
+
+{% assign test = привет %}
+
 
 {% comment %}
 <div id="navigation">
