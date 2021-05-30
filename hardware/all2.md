@@ -1,6 +1,6 @@
 ---
 date: 2021-05-30T13:48:14+03:00
-modified: 2021-05-30T15:05:54+03:00
+modified: 2021-05-30T15:07:50+03:00
 ---
 
 # All2
@@ -13,10 +13,12 @@ modified: 2021-05-30T15:05:54+03:00
 
 
 <div id="navigation">
-{% for p in sorted %}{% if p.dir == page.dir %}
+{% for p in sorted %}
 <p><a href="{{ p.url }}">{{ p.title }}</a></p>
-{% endif %}{% endfor %}
+{% endfor %}
 </div>
 
 {% comment %}
+{% if p.dir == page.dir %}
+{% endif %}
 {% endcomment %}
