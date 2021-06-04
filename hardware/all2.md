@@ -4,7 +4,7 @@ modified: 2021-06-01T01:22:55+03:00
 ---
 
 # All2
-
+{% comment %}
 {% assign cdir = page.dir %}
 
 {{ cdir }}
@@ -25,4 +25,8 @@ modified: 2021-06-01T01:22:55+03:00
 {% comment %}
 {% if p.dir == page.dir %}
 {% endif %}
+{% endcomment %}
+
+
+
 {% endcomment %}
