@@ -6,13 +6,13 @@ title: Железо и схемотехника
 ---
 
 ### Статьи в папке {{ page.dir }}:
-<ul id="navigation">
+<ol id="navigation">
 {% assign allpages = site.pages | sort: 'date' | reverse %}
 {% for p in allpages %}{% if p.dir == page.dir %}{% if p.noindex != true %}
 <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a> 
 <time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}{% endif %}{% endfor %}
-</ul>
+</ol>
 
 
 ### **Статьи по теме разработки/эксплуатации hardware**

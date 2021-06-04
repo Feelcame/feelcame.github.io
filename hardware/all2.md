@@ -4,29 +4,17 @@ modified: 2021-06-01T01:22:55+03:00
 ---
 
 # All2
-{% comment %}
-{% assign cdir = page.dir %}
 
-{{ cdir }}
-
-{% assign sorted = site.pages | sort: 'dir' %}
-
-{% assign hard = sorted | where: "dir",  cdir %}
-
-{% assign alfa = hard | sort: 'date' %}
+{% assign direct = site.pages | where: "dir",  page.dir %}
+{% assign sorted = direct | sort: 'date' %}
 
 
 <div id="navigation">
-{% for p in alfa %}
+{% for p in sorted %}
 <p><a href="{{ p.url }}">{{ p.title }}</a></p>
 {% endfor %}
 </div>
 
+
 {% comment %}
-{% if p.dir == page.dir %}
-{% endif %}
-{% endcomment %}
-
-
-
 {% endcomment %}
