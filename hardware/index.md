@@ -5,16 +5,10 @@ tags: железо
 title: Железо и схемотехника
 ---
 
-### Статьи в папке {{ page.dir }}:
-<ol reversed id="navigation">
-{% assign allpages = site.pages | where: "dir",  page.dir %}
-{% assign sorted = allpages | sort: 'date' | reverse %}
 
-{% for p in sorted %}{% if p.noindex != true %}
-<li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a> 
-<time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}{% endfor %}
-</ol>
+### Статьи в папке {{ page.dir }}:
+{% include listdir.md %}
+
 
 <!--
 ### **Статьи по теме разработки/эксплуатации hardware**
@@ -35,7 +29,3 @@ title: Железо и схемотехника
 
 {% include similar.md tags=page.tags %}
 
-
-
-Ссылка на эту страницу  
-{{ page.url }}
