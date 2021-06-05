@@ -6,15 +6,17 @@ title: Железо и схемотехника
 ---
 
 ### Статьи в папке {{ page.dir }}:
-<ol id="navigation">
-{% assign allpages = site.pages | sort: 'date' | reverse %}
-{% for p in allpages %}{% if p.dir == page.dir %}{% if p.noindex != true %}
+<ol reversed id="navigation">
+{% assign allpages = site.pages | where: "dir",  page.dir %}
+{% assign sorted = allpages | sort: 'date' | reverse %}
+
+{% for p in sorted %}{% if p.noindex != true %}
 <li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a> 
 <time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}{% endif %}{% endfor %}
+{% endif %}{% endfor %}
 </ol>
 
-
+<!--
 ### **Статьи по теме разработки/эксплуатации hardware**
 1. [Типы коннекторов](./connectors.md)
 1. [Запись звука конференции](./запись-конференции-audacity.md)
@@ -24,6 +26,8 @@ title: Железо и схемотехника
 1. [Питение и регуляторы напряжения](./регуляторы_напруги.md)
 1. [автостарт андроид телефона при подаче питания](автостарт-андроид-телефона.md)
 1. [Altium_Designer](Altium_Designer)
+
+-->
 
 
 ### **статьи блога с тегом: "{{ page.tags }}"**
