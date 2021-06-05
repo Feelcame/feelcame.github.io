@@ -1,27 +1,33 @@
 ---
 title: Контакты
-layout: default
-comments: false
-created: 2020-05-10T21:39:06+03:00
+date: 2020-05-10T21:39:06+03:00
 modified: 2020-07-17T01:00:41+03:00
 ---
 
-### О нас
+### Поиск
+тут будет форма поиска по сайту. через github. если ищещь контакты - они в самом низу страницы
 
-Сайт для себя.  
-Целью ставится быстрый доступ к годному контенту.  
-Еще он работает как записная книжка, благодаря программе [GitJournal](https://gitjournal.io/)
+### About
+Сайт для себя. Целью ставится быстрый доступ к годному контенту. Еще он работает как записная книжка, благодаря программе [GitJournal](https://gitjournal.io/)
 
 ### Поддержка автора
 Также можешь поддержать дальнейшие разработки, задонатив пару долларов на еду:  
 * [На кофе](https://send.monobank.ua/jar/2Zk6tzkyGd)
 * [На тортик](https://send.monobank.ua/jar/2Zk6tzkyGd)
 
+### Блог
+<ul reversed="reversed">
+{% for post in site.posts %}
+  <li>
+    {{ post.date | date: "%Y-%m-%d" | default: "ггммдд" }} 
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title | default: "Новая запись" }}
+      </a>
+  </li>
+{% endfor %}
+</ul>
 
 ### Контакты
-
-Если у тебя есть вопросы или предложения, прошу писать в телеграм или на почту:  
-- [**Feelcame (at) ya.ru**](https://t.me/feelcame)  
+Все вопросы или предложения прошу писать в телеграм. Почта на всякий случай, если телегу вдруг забанят
+- [**Feelcame (at) ya.ru**](https://t.me/feelcame)
 - [**Feelcame (at) t.me**](https://t.me/feelcame)
-
-
