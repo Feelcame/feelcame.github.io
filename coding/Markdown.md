@@ -128,6 +128,7 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 * [Дока как по апи гитхаба вытянуить комменнтарии из issue](https://docs.github.com/en/rest/reference/issues#comments)
 * [Пример комментариев через github issues на статическом сайте ](https://github.com/dwilliamson/donw.io)
 * <https://shopify.github.io/liquid/filters/date/>
+* <https://shopify.dev/docs/themes/liquid/reference/basics>
 
 
 ## Шпаргалка Markdown
