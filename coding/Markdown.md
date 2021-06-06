@@ -127,6 +127,7 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 * [Источник примера ниже](http://alexprivalov.org/markdown-short-reference)
 * [Дока как по апи гитхаба вытянуить комменнтарии из issue](https://docs.github.com/en/rest/reference/issues#comments)
 * [Пример комментариев через github issues на статическом сайте ](https://github.com/dwilliamson/donw.io)
+* <https://shopify.github.io/liquid/filters/date/>
 
 
 ## Шпаргалка Markdown
