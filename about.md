@@ -14,7 +14,7 @@ modified: 2021-06-14T00:17:45+03:00
 <ul reversed="reversed">
 {% for post in site.posts %}
   <li>
-    {{ post.date | date: "%Y-%m-%d" | default: "ггммдд" }} 
+    {{ post.date | date: "%Y-%m-%d" | default: "гг-мм-дд" }} 
       <a href="{{ post.url | prepend: site.baseurl }}">
         {{ post.title | default: "Новая запись" }}
       </a>
