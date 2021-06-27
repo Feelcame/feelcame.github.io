@@ -4,18 +4,18 @@
 
 ## **#медиа**
 <details markdown="1"><summary>**PotPlayer** - крутой видеоплеер</summary>
-[ууууу][pot_tg]
-[кккк][pot_gd]
-[пппп][pot_hp]
-[пппп][pot_hd]
+- [ууууу][pot_tg]  
+- [кккк][pot_gd]  
+- [пппп][pot_hp]
+- [пппп][pot_hd]
 </details>
 
 
 <details markdown="1"><summary>**AIMP**</summary> - удобный аудиопроигрыватель
-[Скачать с телеги][aimp_tg]
-[скачать][aimp_gd]
-[пппп][aimp_hp]
-[пппп][aimp_hd]
+[Скачать с телеги][aimp_tg]  
+[скачать][aimp_gd]  
+[пппп][aimp_hp]  
+[пппп][aimp_hd]  
 </details>
 
 
