@@ -14,8 +14,8 @@ comments: true
 - [Cattr](https://cattr.app/)
 - [RedMine](#) - недопиленная старая система
 - [Trello](#) - просто так сюда добавил - для прикола
-- 
-
+- [jibble](https://www.jibble.io/pricing)
+- [twproject](https://twproject.com/)
 
 
 Платные:
@@ -23,6 +23,11 @@ comments: true
 - <https://www.timedoctor.com/> $10/user
 - <https://tmetric.com/> $7/month
 
-
+Списки:
+- <https://alternativeto.net/software/toggl/?platform=self-hosted>
+- <https://clickup.com/blog/task-management-software/#7-1-clickup->
+- <https://www.actitime.com/software-collections/14-best-desktop-time-trackers>
+- <https://softwarerecs.stackexchange.com/questions/10600/free-self-hosted-project-management-with-time-tracking>
+- 
 
 
