@@ -10,8 +10,18 @@ comments: true
 - [Clockify](https://clockify.me)
 - [Traggo](https://traggo.net/install/)
 - [Toggl](https://toggl.com/)
-- [TMetric])(https://tmetric.com/) <https://habr.com/ru/post/297934/>
+- [TMetric](https://tmetric.com/) <https://habr.com/ru/post/297934/>
+- [Cattr](https://cattr.app/)
+- [RedMine](#) - недопиленная старая система
+- [Trello](#) - просто так сюда добавил - для прикола
 - 
+
+
+
+Платные:
+- <https://www.getharvest.com/> $12/user/month
+- <https://www.timedoctor.com/> $10/user
+- <https://tmetric.com/> $7/month
 
 
 
