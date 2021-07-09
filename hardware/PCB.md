@@ -20,6 +20,7 @@ modified: 2021-05-30T10:33:32+03:00
 {: id="eagle"}  
 Орел условно бесплатный. С некоторыми ограничениями: максимум два слоя, ограничение размера PCB 100\*100mm
 * [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
+* [Eagele для начинающих](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html)
 * <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
 * <http://eagle.autodesk.com/eagle/libraries> - Официальный репозиторий библиотек (устаревает, но пока жив)
 * <http://we.easyelectronics.ru/search/topics/?q=eagle>
