@@ -3,27 +3,28 @@ title: тайм-трекеры
 comments: true
 ---
 
-Ищу короче замену для vtiger.  
-В приоритете бесплатные selfhosted проекты. Что бы не запутаться в изобилии разных вариантов и пишу этот текст. Плюс возможно он будет доступен будущим поколениям, кто знает...
+Ищу замену для vtiger crm.  
+В приоритете бесплатные selfhosted проекты. Что бы не запутаться в изобилии разных вариантов пишу эту заметку. Может еще кому пригодится, кто знает...
 
-- [JetBrains YouTrack](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - это бесплатная штука до 10 пользователей. Вроде надежный производитель
-- [Clockify](https://clockify.me)
+**Отностительно бесплатные:**
+- [JetBrains YouTrack](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - до 10 пользователей бесплатная. Далее $4/месяц за человека. Вродебы надежный производитель
+- [Clockify](https://clockify.me) - лидирует а поисковике по запросу ```free time tracker```
 - [Traggo](https://traggo.net/install/)
-- [Toggl](https://toggl.com/)
-- [TMetric](https://tmetric.com/) <https://habr.com/ru/post/297934/>
-- [Cattr](https://cattr.app/)
-- [RedMine](#) - недопиленная старая система
-- [Trello](#) - просто так сюда добавил - для прикола
-- [jibble](https://www.jibble.io/pricing)
-- [twproject](https://twproject.com/)
+- [Toggl](https://toggl.com/) - 
+- [TMetric](https://tmetric.com/) - пиарят на [хабре](https://habr.com/ru/post/297934/)
+- [Cattr](https://cattr.app/) - 
+- [jibble](https://www.jibble.io/pricing) - 
+- [twproject](https://twproject.com/) - 
+- [RedMine](#) - Недопиленная старая система с вырвиглазным интерфейсом. Не рекомендую
+- [Trello](#) - Записная книжка с шарингом по пользователям. Просто так сюда добавил - для прикола. Но некоторые действительно ее используют как тайм-трекер
 
 
-Платные:
-- <https://www.getharvest.com/> $12/user/month
-- <https://www.timedoctor.com/> $10/user
+**Полностью платные:**
+- <https://www.getharvest.com/> $12/user/month. Бесплатно один пользователь в течении 30 дней 
+- <https://www.timedoctor.com/> $10/user. 
 - <https://tmetric.com/> $7/month
 
-Списки:
+**Списки:**
 - <https://alternativeto.net/software/toggl/?platform=self-hosted>
 - <https://clickup.com/blog/task-management-software/#7-1-clickup->
 - <https://www.actitime.com/software-collections/14-best-desktop-time-trackers>
