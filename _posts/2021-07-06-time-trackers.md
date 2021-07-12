@@ -3,12 +3,13 @@ title: тайм-трекеры
 comments: true
 ---
 
-Ищу замену для vtiger crm.  
+**Ищу замену для vtiger crm**
+
 В приоритете бесплатные selfhosted проекты. Что бы не запутаться в изобилии разных вариантов пишу эту заметку. Может еще кому пригодится, кто знает...
 
 **Отностительно бесплатные:**
 - [**JetBrains YouTrack**](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - до 10 пользователей бесплатная. Далее $4/месяц за человека. Вродебы надежный производитель
-- [**Clockify**](https://clockify.me) - лидирует а поисковике по запросу ```free time tracker```
+- [**Clockify**](https://clockify.me) - лидирует а поисковике по запросу _free time-tracker_
 - **[Traggo](https://traggo.net/install/)**
 - [Toggl](https://toggl.com/) - 
 - [TMetric](https://tmetric.com/) - пиарят на [хабре](https://habr.com/ru/post/297934/)
