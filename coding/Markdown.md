@@ -189,3 +189,8 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 
 
 
+
+
+# Дополнительные ссылки
+* <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
+* s
