@@ -55,6 +55,6 @@ comments: true
 - [medevel Top 23 Open-source Free CRM](https://medevel.com/23-os-crm/)
 - [geckoandfly 7 Free Salesforce Alternatives](https://www.geckoandfly.com/27428/salesforce-alternatives/)
 - [reddit](https://www.reddit.com/r/selfhosted/comments/9kpeic/crm_self_hosted_open_source/)
-- [Name](#)
+- [alternativeto.net Self-Hosted CRM Apps ](https://alternativeto.net/category/business-and-commerce/customer-relationship-manager/?platform=self-hosted)
 - [Name](#)
 
