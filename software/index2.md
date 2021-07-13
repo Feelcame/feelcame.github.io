@@ -1,6 +1,10 @@
 ---
-
+title: Программы
+date: 2021-07-13T00:00:00+03:00
+noindex: true
 ---
+
+{% include directory-listing.md %}
 
 ## **#медиа**
 <details markdown="1"><summary>**PotPlayer** - крутой видеоплеер</summary>
