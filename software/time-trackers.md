@@ -34,3 +34,27 @@ comments: true
 - 
 
 
+
+# CRM freeselfhosted
+
+- [SugarCRM](https://github.com/salesagility/SuiteCRM)
+- [OpenCRX](https://github.com/opencrx)
+- [SplendidCRM](https://sourceforge.net/projects/splendidcrm/)
+- [BillRun CRM](https://git.bill.run/sdoc/billrun)
+- [TreoCRM](https://github.com/treolabs/treocrm)
+- [FatFreeCRM](https://github.com/fatfreecrm/fat_free_crm#)
+- [Trudesk](https://github.com/polonel/trudesk)
+- [OroCRM](#)
+- [Name](#)
+- [Name](#)
+- [Name](#)
+- [Name](#)
+- [Name](#)
+
+**Списки:**
+- [medevel Top 23 Open-source Free CRM](https://medevel.com/23-os-crm/)
+- [geckoandfly 7 Free Salesforce Alternatives](https://www.geckoandfly.com/27428/salesforce-alternatives/)
+- [reddit](https://www.reddit.com/r/selfhosted/comments/9kpeic/crm_self_hosted_open_source/)
+- [Name](#)
+- [Name](#)
+
