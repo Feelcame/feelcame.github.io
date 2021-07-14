@@ -11,6 +11,11 @@ All pages on directory
 
 
 ### pages:
+
+{% include directory-listing.md %}
+
+{% comment %}
+
 <div id="navigation">
 {% assign allpages = site.pages | sort: 'date' | reverse %}
 {% for p in allpages %}{% if p.dir == page.dir %}{% if p.noindex != true %}
@@ -18,3 +23,5 @@ All pages on directory
 <time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></p>
 {% endif %}{% endif %}{% endfor %}
 </div>
+
+{% endcomment %}
