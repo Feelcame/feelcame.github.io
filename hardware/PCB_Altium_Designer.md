@@ -1,5 +1,5 @@
 ---
-title: Что то про Altium Designer
+title: Что не так с Altium Designer
 date: 2021-05-29T13:20:33+03:00
 modified: 2021-05-30T16:08:04+03:00
 ---
