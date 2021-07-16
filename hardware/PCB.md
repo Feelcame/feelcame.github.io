@@ -93,5 +93,5 @@ modified: 2021-05-30T10:33:32+03:00
 <http://lehih80.blogspot.com/2017/07/smd.html>
 
 ![image](https://user-images.githubusercontent.com/17731587/125964908-1f234bae-b865-4f63-bde5-f72e4305fa06.png)
-![image](https://user-images.githubusercontent.com/17731587/125964945-c917d2cf-86df-4a32-b7d3-84312dededc5.png)
+![image](https://user-images.githubusercontent.com/17731587/125965015-2595e13e-57ab-4de5-bdd0-0e9386b8d625.png)
 
