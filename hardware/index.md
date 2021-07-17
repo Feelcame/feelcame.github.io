@@ -1,10 +1,10 @@
 ---
 date: 2020-12-17T00:51:55+02:00
-modified: 2021-06-01T01:24:03+03:00
+modified: 2021-07-18T00:47:05+03:00
 tags: железо
 title: Железо и схемотехника
+noindex: true
 ---
-
 
 ### Статьи в папке {{ page.dir }}:
 {% include listdir.md %}
@@ -28,4 +28,3 @@ title: Железо и схемотехника
 
 
 {% include similar.md tags=page.tags %}
-
