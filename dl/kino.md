@@ -14,6 +14,7 @@ modified: 2020-06-29T00:24:54+03:00
 * [@online_filmy](ohttps://t.me/online_filmy) - выкладывают фильмы иногда
 * [@KinoSerialBot](https://t.me/KinoSerialBot) - Лучший бот для просмотра сериалов в Telegram! Уведомления о новых сериях. 
 * [@mnmslm](https://t.me/mnmslm) - по 500 Мб, но с рекламой
+* <https://videocdn.tv/demo>
 
 Сайты с фильмами:
 * [tegos.ru](http://tegos.ru)
