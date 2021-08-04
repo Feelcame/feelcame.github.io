@@ -1,7 +1,7 @@
 ---
 title: Про разъёмы
 date: 2021-06-01T01:19:52+03:00
-modified: 2021-07-19T15:12:25+03:00
+modified: 2021-08-04T19:34:15+03:00
 ---
 
 ### Типы разъемов
@@ -25,3 +25,7 @@ M – Male, папа, штекер
 * Micro USB
 * Mini USB
 * USB Type C
+
+
+# дополнительно
+<http://lehih80.blogspot.com/2017/07/smd.html>
