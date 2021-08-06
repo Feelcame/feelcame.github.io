@@ -23,3 +23,6 @@ modified: 2021-06-28T00:21:45+03:00
   </li>
 {% endfor %}
 </ul>
+
+### telegram comments
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="feelsoft/221" data-comments-limit="5"></script>
