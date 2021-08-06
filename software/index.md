@@ -5,9 +5,9 @@ noindex: true
 ---
 
 ### закреплено
-[Windows](./windows.md)
-[Android](./android.md)
-[Profi-soft](./profi-soft.md)
+- [Windows](./windows.md)
+- [Android](./android.md)
+- [Profi-soft](./profi-soft.md)
 
 
 # Статьи
