@@ -2,6 +2,7 @@
 title: Контакты
 date: 2020-05-10T21:39:06+03:00
 modified: 2021-06-28T00:21:45+03:00
+comments: true
 ---
 
 **Тут должна быть поисковая форма в репозитории на github**
@@ -24,5 +25,7 @@ modified: 2021-06-28T00:21:45+03:00
 {% endfor %}
 </ul>
 
-### telegram comments
+### native telegram comments
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="feelsoft/221" data-comments-limit="5"></script>
+
+### еще одни комментарии
