@@ -49,7 +49,26 @@ upd. Припекло. Дописываю
 Разводить линии пожно черезщ горячую клавишу Ctrl+W 
 
 
+### Altium
+Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
+* www .altium.com - [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1)
+* easyelectronics.ru - [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html)
+* easyelectronics.ru - [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
+* microsin.net - [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html)
+* microsin.net - [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html)
+* microsin.net - [Как делать библиотеки](http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html)
+* Видеоуроки от BSVi - [youtube](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [телега](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
+* Видеоуроки от Сабунина - [youtube](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [телега](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
+* Видеоуроки от Altium Russia - [Ютуб канал](https://www.youtube.com/channel/UCvZ_kyV4ATrQfjmtVpuj0LQ)
 
+
+### Библиотеки компонентов
+Большинство требуют регистрацию, но это обходится с помощью <http://bugmenot.com>
+* [snapeda](https://www.snapeda.com/parts/CC1101RGPR/Texas%20Instruments/view-part/?welcome=home) - Библиотеки компонентов. pleasedontbugme bugmenot zujeyod@maxmail.in
+* [Octopart](https://octopart.com/cc1101rgpr-texas+instruments-25923081?r=sp#Specs) - Библиотеки с норм символами. Собственность Altium
+* [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки модулей только eagle
+* [componentsearchengine.com](https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments) - не проверено
+* <https://ultralibrarian.com> - немножечко говняные библиоткеки, гененрируются автоматически. Работают с производителем ST
 
 
 
