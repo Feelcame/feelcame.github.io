@@ -10,3 +10,19 @@ title: Професиональные инструменты
 - AWR MWO
 - HFSS
 - 
+
+### разводка PCB
+- altium
+- eagle
+- kicad
+- easyeda
+- diptrace
+
+### программирование программ
+- arduino
+- Visual Studio Code
+- Platformio
+
+
+### ttt
+
