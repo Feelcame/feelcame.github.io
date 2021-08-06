@@ -4,6 +4,12 @@ date: 2021-07-13T00:00:00+03:00
 noindex: true
 ---
 
+### закреплено
+[Windows](./windows)
+[Android](./android)
+[Profi-soft](/profi-soft.md)
+
+
 # Статьи
 
 {% include directory-listing.md %}
