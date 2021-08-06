@@ -87,12 +87,7 @@ title: Системы CMS
 Jimdo и Wix являются подходящими решениями, если вы хотите реализовать небольшие (и более простые) проекты магазинов. Джимдо набирает очки в области правовой безопасности и техподдержки, а у Wix есть преимущество в расширенном функционале, особенно при работе с цифровыми товарами.
 
 ### Темы wordpress
-
-1. 
-1. 
-1. 
-1. 
-1. 
+1. <https://www.cryoutcreations.eu/wordpress-themes/mantra>
 1. <https://alx.media/themes/>
 1. <https://wordpress.org/themes/anther/>
 1. <https://generatepress.com/>  
