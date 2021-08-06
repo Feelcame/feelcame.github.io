@@ -8,4 +8,5 @@ modified: 2021-08-04T19:38:09+03:00
 
 - <https://hubstub.ru/auto/> интересное чтиво (spi)
 - <https://habr.com/ru/post/310742/> Начинаем работать в STM32CubeMX. Часть 1
+- <http://dimoon.ru/category/obuchalka/stm32f1>
 
