@@ -1,0 +1,8 @@
+
+### ЕМ-моделирование
+Моделирование
+- [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
+- [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
+- AWR MWO
+- HFSS
+- 
