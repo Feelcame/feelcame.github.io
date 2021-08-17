@@ -6,6 +6,10 @@ comments: true
 ---
 
 **Тут должна быть поисковая форма в репозитории на github**
+<form name="search" method="get" action="https://github.com/Feelcame/linker.pp.ua/search">
+    <input type="search" name="q" placeholder="Поиск">
+    <button type="submit">Найти</button> 
+</form>
 
 Сайт для себя, работает как ***записная книжка*** и шпаргалка на будущее.
 Если сайт полезный - можешь [заказать платную консультацию](https://t.me/feelcame)  
