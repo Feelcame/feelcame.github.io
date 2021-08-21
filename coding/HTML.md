@@ -1,7 +1,7 @@
 ---
 title: Референсы по веб фронтенду
 created: 2021-01-17T00:34:10+02:00
-modified: 2021-08-21T17:22:07+03:00
+modified: 2021-08-21T17:22:49+03:00
 ---
 
 ### Сайты референсные:
@@ -69,6 +69,9 @@ bootstrap/
 - ngrock
 - localhost.run
 - hostyourself.cc
+- ...
+#### Для статики
+- GitHub pages
 - ...
 #### норм хостинг для php
 - ho.ua
