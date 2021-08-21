@@ -1,7 +1,7 @@
 ---
 title: Референсы по веб фронтенду
 created: 2021-01-17T00:34:10+02:00
-modified: 2021-03-04T00:34:10+02:00
+modified: 2021-08-21T17:20:25+03:00
 ---
 
 ### Сайты референсные:
@@ -62,3 +62,14 @@ bootstrap/
 1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
 2. ...
 3. 
+
+
+### хостинг
+#### селфхост
+- ngrock
+- localhost.run
+- hostyourself.cc
+- ...
+#### норм хостинг для php
+- ho.ua
+- 
