@@ -1,11 +1,17 @@
 ---
 created: 2020-06-29T22:23:22+03:00
-modified: 2021-03-10T00:48:14+02:00
+modified: 2021-08-21T17:17:48+03:00
 title: Разработка програм
 tags: code программирование
 ---
 
 ### кодинг.категории.читать()
+{% include directory-listing.md %}
+
+
+
+
+### old
 1. [Android](./Android.md)
 1. [Arduino](./Arduino.md)
 1. [CMS](./CMS.md)
