@@ -1,11 +1,11 @@
 ---
 title: Контакты
 date: 2020-05-10T21:39:06+03:00
-modified: 2021-08-08T16:09:57+03:00
+modified: 2021-08-21T15:31:42+03:00
 comments: true
 ---
 
-**Тут должна быть поисковая форма в репозитории на github**
+**Внимание! Поиск перекинет на другой сайт**
 <form name="search" method="get" action="https://github.com/Feelcame/linker.pp.ua/search">
     <input type="search" name="q" placeholder="Поиск">
     <button type="submit">Найти</button> 
