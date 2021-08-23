@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:14:12+03:00
+modified: 2021-08-23T15:19:34+03:00
 title: Android
 ---
 
@@ -12,15 +12,17 @@ title: Android
    - Total Commander 
    - ES Проводник
    - USB stick plugin 1.3.6 от OperaFan <https://t.me/FeelSoftAn/164>
-   - 
-#### Медиа 
+   - Sync
+   - RAR
+
+#### Музыка
    - AIMP
    - PlayerPro
    - Яндекс музыка (мод)
    - Spotify
    - Shazam
 
-#### Проигрыватели
+#### Просмотр видео и фото
    - MX Player
    - QuickPic
  
@@ -30,11 +32,11 @@ title: Android
    - Hi-Q MP3 Recorder 
 
 #### Просмотра видео и фильмов
-   - youtube vanced (мод)
-   - newpipe
-   - hd videobox
+   - Youtube Vanced (мод)
+   - NewPipe
+   - HD VideoBox (прикрыли)
    - LazyMedia 
-   - кино hd
+   - Кино HD
    - Wink (мод)
  
 #### Скачивание файлов
@@ -49,9 +51,10 @@ title: Android
    - Instander
 
 #### Менеджеры приложений
-   - App Backup and Restore 3.11
-   - App and Game 4PDA
    - Aurora Store
+   - App Backup&Restore 3.11 (старая, мод)
+   - App&Game 4PDA
+   - ...
 
 #### Тонкая настройка системы
    - LuckyPatcher
