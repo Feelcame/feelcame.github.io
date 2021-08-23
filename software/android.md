@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T14:38:20+03:00
+modified: 2021-08-23T14:40:46+03:00
 title: Android
 ---
 
@@ -12,9 +12,13 @@ title: Android
    - Total Commander 
    - ES Проводник
 
-#### Медиа проигрыватели
+#### Медиа 
    - AIMP
    - PlayerPro
+   - spotify
+   - Яндекс музыка (мод)
+
+#### Проигрыватели
    - MX Player
    - QuickPic
  
@@ -23,15 +27,13 @@ title: Android
    - XRecorder
    - Hi-Q MP3 Recorder 
 
-#### Клиенты для просмотра в интернете видео, музыки и фильмов
+#### Просмотра видео и фильмов
    - hd videobox
    - LazyMedia 
    - кино hd
    - youtube vanced (мод)
    - newpipe
-   - spotify
-   - Яндекс музыка (мод)
-
+ 
 #### Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
