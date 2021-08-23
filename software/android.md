@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T14:36:04+03:00
+modified: 2021-08-23T14:38:20+03:00
 title: Android
 ---
 
@@ -76,6 +76,13 @@ title: Android
 - Калькулятор++
 - Простой календарь
 - Microsoft Launcher
+- Launcher 3
+
+#### Server
+- kWS
+- ftpd
+- Ip camera server
+- Total cmd wifi 
 - 
 
 
