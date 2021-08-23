@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:11:53+03:00
+modified: 2021-08-23T15:14:12+03:00
 title: Android
 ---
 
@@ -11,7 +11,8 @@ title: Android
 #### Файловые менеджеры
    - Total Commander 
    - ES Проводник
-
+   - USB stick plugin 1.3.6 от OperaFan <https://t.me/FeelSoftAn/164>
+   - 
 #### Медиа 
    - AIMP
    - PlayerPro
@@ -29,11 +30,12 @@ title: Android
    - Hi-Q MP3 Recorder 
 
 #### Просмотра видео и фильмов
+   - youtube vanced (мод)
+   - newpipe
    - hd videobox
    - LazyMedia 
    - кино hd
-   - youtube vanced (мод)
-   - newpipe
+   - Wink (мод)
  
 #### Скачивание файлов
 - LoaderDroid
