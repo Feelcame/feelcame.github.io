@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:29:36+03:00
+modified: 2021-08-23T15:30:32+03:00
 title: Android
 ---
 
@@ -67,6 +67,7 @@ title: Android
    - 4G Switcher
    - TTL Manager
    - CPU Spy
+   - Internet speed meter
 
 #### Офис
    - GitJournal
