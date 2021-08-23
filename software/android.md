@@ -1,6 +1,7 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T13:56:17+03:00
+modified: 2021-08-23T14:15:49+03:00
+title: android
 ---
 
 ### Программы android
@@ -10,6 +11,7 @@ modified: 2021-08-23T13:56:17+03:00
 #### Файловые менеджеры
    - Total Commander 
    - ES Проводник
+
 #### Медиа проигрыватели
    - AIMP
    - PlayerPro
@@ -20,6 +22,7 @@ modified: 2021-08-23T13:56:17+03:00
    - PicSay
    - XRecorder
    - Hi-Q MP3 Recorder 
+
 #### Клиенты для просмотра в интернете видео, музыки и фильмов
    - hd videobox
    - lazy
@@ -28,28 +31,35 @@ modified: 2021-08-23T13:56:17+03:00
    - newpipe
    - spotify
    - Яндекс музыка (мод)
+
 #### Клиенты соц сетей
    - телеграм
    - viber
+
 #### Менеджеры приложений
    - App Backup and Restore 3.11
    - App and Game 4PDA
    - Aurora Store
+
 #### Системные
    - LuckyPatcher
+
 #### Офис
    - GitJournal
    - Acode
    - Microsoft Office
    - ReadEra
+
 #### Сеть
 - IP Tools
 - Network scanner
 - ...
+
 #### карты
 - Яндекс карты
 - 2gis
 - ...
+
 #### игры
 - shake me
 - ...
