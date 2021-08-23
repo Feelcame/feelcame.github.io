@@ -1,6 +1,7 @@
 ---
 date: 2021-08-06T14:48:00+03:00
 title: Професиональные инструменты
+modified: 2021-08-23T13:58:34+03:00
 ---
 
 ### ЕМ-моделирование
@@ -9,7 +10,7 @@ title: Професиональные инструменты
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
 - AWR MWO
 - HFSS
-- 
+- ...
 
 ### разводка PCB
 - altium
