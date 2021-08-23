@@ -1,21 +1,21 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T13:41:37+03:00
+modified: 2021-08-23T13:50:13+03:00
 ---
 
 ### Программы android
 
 Короче программы на телефон буду разбивать по категориям. И буду стараться добавлять прямые ссылки на файл. Пусть это даже будет старая версия - зато доступна прямо здесь и сейчас. Обновлять не обещаю.
 
-1. Файловые менеджеры
+#### Файловые менеджеры
    - Total Commander 
    - ES Проводник
-1. Медиа проигрыватели
+#### Медиа проигрыватели
    - AIMP
    - PlayerPro
    - MX Player
    - QuickPic
-1. Клиенты для просмотра в интернете видео, музыки и фильмов
+#### Клиенты для просмотра в интернете видео, музыки и фильмов
    - hd videobox
    - lazy
    - кино hd
@@ -23,19 +23,102 @@ modified: 2021-08-23T13:41:37+03:00
    - newpipe
    - spotify
    - Яндекс музыка (мод)
-1. Клиенты соц сетей
+#### Клиенты соц сетей
    - телеграм
    - viber
-1. Менеджеры приложений
+#### Менеджеры приложений
    - App Backup and Restore 3.11
    - App and Game 4PDA
    - Aurora Store
-1. Системные
+#### Системные
    - LuckyPatcher
-1. Офис
+#### Офис
    - GitJournal
    - Acode
-1. Р
-1. Р
-1. Р
-1. 
+#### Сеть
+#### карты
+#### игры
+
+
+
+### источник
+Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
+
+:house:/домой
+НАВИГАЦИЯ ПО КАНАЛУ 
+
+#МЕДИА
+QuickPic - #галерея #QuickPic
+Яндекс.Музыка - #yamusic
+New Pipe - #youtube #newpipe
+AIMP - #aimp
+PlayerPro - #playerpro
+HD VideoBox #VideoBox
+Hi-Q MP3 Recorder - #диктофон
+MX Player - #MXPlayer
+PicSay - #PicSay #photoEditor
+PowerTube - #youtube #powertube
+Flow - #rutracker
+Flud - #torrent
+Loader Droid - #loaderdroid
+
+
+#ИНТЕРНЕТ
+OpenVPN - #OpenVPN
+Opera Mini - #OperaMini
+Opera Браузер - #Opera
+Unified Remote - #UniRemote
+Remote Ripple VNC - #RemoteRipple
+AnyDesk - #remoteControl
+Яндекс.Карты - #yamaps #карты
+
+#ОБЩЕНИЕ
+Telegram - #telega
+Viber - #viber
+Instagram - #инста
+Aqua Mail - #AquaMail
+
+#ОФИС
+StyleNote заметки - #StyleNote 
+GitJournal - #gitjournal
+Microsoft Office - #Office
+ReadEra - #pdfreader
+EBookDroid - #pdfreader
+ElectroDroid - #ElectroDroid
+Acode - #acode #codeedit
+Калькулятор++ - #calc
+Переводчик - #GTranslate
+Секундомер - #Stopwatch
+
+#ФАЙЛЫ
+Total Commander - #TotalCmd
+TotlCmd Плагины - #TotalCmd
+ES Проводник - #Explorer
+App Backup&Restore  - #AppBackup
+App&Game 4PDA - #app4pda
+
+#СИСТЕМА
+Lucky Patcher - #LuckyPatcher
+AdAway - #AdAway
+CPU Spy - #CPU_Spy
+Darker Pro - #Darker
+Google Play Blocker - #GPB
+TTL Master - #TTL_Master
+Powerful Control - #PowerfulControl
+Network Utilities - #NetworkUtilities 
+Titanium Backup - #Titanium
+Aurora Store - #Aurora #ApkStore
+
+#ИНТЕРФЕЙС и #ПРОЧЕЕ
+Клавиатура Google - #GBoard
+Internet Speed Meter - #SpeedMeter
+Виджет громкости - #VolWidget
+Сканер штрих-кодов - #ScanerQR
+Launcher<3 - #Launcher3
+Microsoft Launcher - #launcher
+Mi Band Master - #miband
+
+#игры
+Shake me - #batman
+
+.
