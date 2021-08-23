@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T14:28:51+03:00
+modified: 2021-08-23T14:34:10+03:00
 title: Android
 ---
 
@@ -25,12 +25,18 @@ title: Android
 
 #### Клиенты для просмотра в интернете видео, музыки и фильмов
    - hd videobox
-   - lazy
+   - LazyMedia 
    - кино hd
    - youtube vanced (мод)
    - newpipe
    - spotify
    - Яндекс музыка (мод)
+
+#### Скачивание файлов
+- LoaderDroid
+- Advanced Download Manager
+- Flow для rutracker.org
+- Flud торрент клиент
 
 #### Клиенты соц сетей
    - Telegram
