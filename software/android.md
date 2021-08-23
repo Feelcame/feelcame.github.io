@@ -1,7 +1,7 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T14:15:49+03:00
-title: android
+modified: 2021-08-23T14:24:51+03:00
+title: Android
 ---
 
 ### Программы android
@@ -33,8 +33,9 @@ title: android
    - Яндекс музыка (мод)
 
 #### Клиенты соц сетей
-   - телеграм
-   - viber
+   - Telegram
+   - Viber
+   - Instagram
 
 #### Менеджеры приложений
    - App Backup and Restore 3.11
@@ -70,69 +71,56 @@ title: android
 ### источник
 Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
 
-:house:/домой
-НАВИГАЦИЯ ПО КАНАЛУ 
-
-#МЕДИА
-PowerTube - #youtube #powertube
-Flow - #rutracker
-Flud - #torrent
-Loader Droid - #loaderdroid
+#### МЕДИА
+PowerTube - 
+Flow - 
+Flud - 
+Loader Droid - 
 
 
-#ИНТЕРНЕТ
-OpenVPN - #OpenVPN
-Opera Mini - #OperaMini
-Opera Браузер - #Opera
-Unified Remote - #UniRemote
-Remote Ripple VNC - #RemoteRipple
-AnyDesk - #remoteControl
-Яндекс.Карты - #yamaps #карты
+#### ИНТЕРНЕТ
+OpenVPN - 
+Opera Mini - 
+Opera Браузер - 
+Unified Remote - 
+Remote Ripple VNC - 
+AnyDesk - 
+Яндекс.Карты - 
 
-#ОБЩЕНИЕ
-Instagram - #инста
-Aqua Mail - #AquaMail
+#### ОБЩЕНИЕ
+Aqua Mail - 
 
-#ОФИС
-StyleNote заметки - #StyleNote 
-Microsoft Office - #Office
-ReadEra - #pdfreader
-EBookDroid - #pdfreader
-ElectroDroid - #ElectroDroid
-Acode - #acode #codeedit
-Калькулятор++ - #calc
-Переводчик - #GTranslate
-Секундомер - #Stopwatch
+#### ОФИС
+StyleNote заметки - 
+Microsoft Office - 
+ReadEra - 
+EBookDroid - 
+ElectroDroid - 
+Acode - 
+Калькулятор++ - 
+Переводчик - 
+Секундомер - 
 
-#ФАЙЛЫ
-Total Commander - #TotalCmd
-TotlCmd Плагины - #TotalCmd
-ES Проводник - #Explorer
-App Backup&Restore  - #AppBackup
-App&Game 4PDA - #app4pda
+#### СИСТЕМА
+AdAway - 
+CPU Spy - 
+Darker Pro - 
+Google Play Blocker - 
+TTL Master - 
+Powerful Control - 
+Network Utilities - 
+Titanium Backup - 
 
-#СИСТЕМА
-Lucky Patcher - #LuckyPatcher
-AdAway - #AdAway
-CPU Spy - #CPU_Spy
-Darker Pro - #Darker
-Google Play Blocker - #GPB
-TTL Master - #TTL_Master
-Powerful Control - #PowerfulControl
-Network Utilities - #NetworkUtilities 
-Titanium Backup - #Titanium
-Aurora Store - #Aurora #ApkStore
+#### ИНТЕРФЕЙС и #ПРОЧЕЕ
+Клавиатура Google - 
+Internet Speed Meter - 
+Виджет громкости - 
+Сканер штрих-кодов - 
+Launcher<3 - 
+Microsoft Launcher - 
+Mi Band Master - 
 
-#ИНТЕРФЕЙС и #ПРОЧЕЕ
-Клавиатура Google - #GBoard
-Internet Speed Meter - #SpeedMeter
-Виджет громкости - #VolWidget
-Сканер штрих-кодов - #ScanerQR
-Launcher<3 - #Launcher3
-Microsoft Launcher - #launcher
-Mi Band Master - #miband
-
-#игры
+#### игры
 Shake me - #batman
 
 .
