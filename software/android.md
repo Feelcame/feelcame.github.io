@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T13:51:13+03:00
+modified: 2021-08-23T13:56:17+03:00
 ---
 
 ### Программы android
@@ -17,8 +17,9 @@ modified: 2021-08-23T13:51:13+03:00
    - QuickPic
  
 #### Медиа редакторы
-   - 
+   - PicSay
    - XRecorder
+   - Hi-Q MP3 Recorder 
 #### Клиенты для просмотра в интернете видео, музыки и фильмов
    - hd videobox
    - lazy
@@ -39,9 +40,20 @@ modified: 2021-08-23T13:51:13+03:00
 #### Офис
    - GitJournal
    - Acode
+   - Microsoft Office
+   - ReadEra
 #### Сеть
+- IP Tools
+- Network scanner
+- ...
 #### карты
+- Яндекс карты
+- 2gis
+- ...
 #### игры
+- shake me
+- ...
+- ...
 
 
 
@@ -52,15 +64,6 @@ modified: 2021-08-23T13:51:13+03:00
 НАВИГАЦИЯ ПО КАНАЛУ 
 
 #МЕДИА
-QuickPic - #галерея #QuickPic
-Яндекс.Музыка - #yamusic
-New Pipe - #youtube #newpipe
-AIMP - #aimp
-PlayerPro - #playerpro
-HD VideoBox #VideoBox
-Hi-Q MP3 Recorder - #диктофон
-MX Player - #MXPlayer
-PicSay - #PicSay #photoEditor
 PowerTube - #youtube #powertube
 Flow - #rutracker
 Flud - #torrent
@@ -77,14 +80,11 @@ AnyDesk - #remoteControl
 Яндекс.Карты - #yamaps #карты
 
 #ОБЩЕНИЕ
-Telegram - #telega
-Viber - #viber
 Instagram - #инста
 Aqua Mail - #AquaMail
 
 #ОФИС
 StyleNote заметки - #StyleNote 
-GitJournal - #gitjournal
 Microsoft Office - #Office
 ReadEra - #pdfreader
 EBookDroid - #pdfreader
