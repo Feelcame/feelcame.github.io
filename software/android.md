@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:25:37+03:00
+modified: 2021-08-23T15:28:43+03:00
 title: Android
 ---
 
@@ -14,6 +14,10 @@ title: Android
    - USB stick plugin 1.3.6 от OperaFan <https://t.me/FeelSoftAn/164>
    - Sync
    - RAR
+
+#### Интернет 
+- Opera браузер
+- Opera mini 7
 
 #### Музыка
    - AIMP
@@ -78,7 +82,8 @@ title: Android
 #### карты
 - Яндекс карты
 - 2gis
-- ...
+- on taxi
+- blablacar
 
 #### игры
 - shake me
