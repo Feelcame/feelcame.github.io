@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:08:06+03:00
+modified: 2021-08-23T15:11:53+03:00
 title: Android
 ---
 
@@ -51,8 +51,12 @@ title: Android
    - App and Game 4PDA
    - Aurora Store
 
-#### Системные
+#### Тонкая настройка системы
    - LuckyPatcher
+   - GP Blocker
+   - System App Remover <https://t.me/FeelSoftAn/170>
+   - 4G Switcher
+   - TTL Manager
 
 #### Офис
    - GitJournal
