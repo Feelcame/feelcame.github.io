@@ -2,9 +2,10 @@
 title: Программы
 date: 2021-07-13T00:00:00+03:00
 noindex: true
+modified: 2021-08-23T13:58:18+03:00
 ---
 
-### закреплено
+### закреплено.
 - [Windows](./windows.md)
 - [Android](./android.md)
 - [Profi-soft](./profi-soft.md)
