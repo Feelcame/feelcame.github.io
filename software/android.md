@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:19:34+03:00
+modified: 2021-08-23T15:22:26+03:00
 title: Android
 ---
 
@@ -94,7 +94,7 @@ title: Android
 - kWS
 - primitive ftpd <https://github.com/wolpi/prim-ftpd/releases>
 - IP Webcam
-- Total cmd wifi 
+- TotalCmd-WiFi-обмен
 - 
 
 
