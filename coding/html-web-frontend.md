@@ -65,34 +65,9 @@ bootstrap/
 
 
 ### хостинг
-#### селфхост
-- ngrock
-- localhost.run
-- hostyourself.cc
-- ...
-#### Для статики
-- GitHub pages
-- ...
-#### норм хостинг для php
-- ho.ua
-- beget.ru
-- ...
-#### для python
-- heroku
-- ...
-#### для vps
-- ho.ua
-- aws
-- veesp
-- ...
+[на отдельной странице](./hosting.md)
 
 
-#### JS-фреймворки
-- vue.js
-- react.js <https://create-react-app.dev/docs/getting-started/>
-- UIKit. Легкий и модульный интерфейс для разработки быстрых и мощных веб-интерфейсов. <https://getuikit.com/>
-- Webix UI
-- w2ui
-- ...
-
+#### Javascript-фреймворки
+[на отдельной странице](./javascript.md)
 

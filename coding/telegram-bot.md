@@ -29,6 +29,7 @@ modified: 2020-08-25T14:25:27+03:00
 * <https://github.com/eternnoir/pyTelegramBotAPI>
 * <https://habr.com/ru/post/448310/>
 * <https://github.com/MasterGroosha/telegram-tutorial>
+* <https://mastergroosha.github.io/telegram-tutorial-2/>
 * <https://mastergroosha.github.io/telegram-tutorial/docs/lesson_02/>
 * <https://www.edsd.ru/ru/o_kompanii/novosti/zavtrak-programmista>
 * <https://github.com/jmcampanini/django-starter>
