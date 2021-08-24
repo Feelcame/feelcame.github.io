@@ -29,9 +29,9 @@
       {{ content }}
 
       <footer class="site-footer">
-        {% if site.github.is_project_page %}
+        {% if site.github.is_project_page %} {% endif %}
           <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
+       
       </footer>
     </main>
   </body>
