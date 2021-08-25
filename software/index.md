@@ -2,10 +2,10 @@
 title: Программы
 date: 2021-07-13T00:00:00+03:00
 noindex: true
-modified: 2021-08-25T11:53:11+03:00
+modified: 2021-08-25T11:54:39+03:00
 ---
 
-### закреп: [Windows](./windows.md) –[Android](./android.md) – [Profi-soft](./profi-soft.md)
+#### закреп: [Windows](./windows.md) - [Android](./android.md) - [Profi-soft](./profi-soft.md)
 
 
 # Статьи
