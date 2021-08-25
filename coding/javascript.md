@@ -1,4 +1,8 @@
-### javascript
+---
+modified: 2021-08-25T11:40:03+03:00
+---
+
+### javascript.
 
 #### пакетные менеджеры
 - <https://yarnpkg.com/getting-started/recipes>
