@@ -2,20 +2,20 @@
 title: Программы
 date: 2021-07-13T00:00:00+03:00
 noindex: true
-modified: 2021-08-25T11:55:14+03:00
+modified: 2021-08-25T11:57:18+03:00
 ---
 
 ### закреп: [Windows](./windows.md) - [Android](./android.md) - [Profi](./profi-soft.md)
 
 
-# Статьи
+### Статьи
 
 {% include directory-listing.md %}
 
 
-# Не статьи
+### Не статьи
 
-## **#медиа**
+#### **#медиа**
 <details markdown="1"><summary>**PotPlayer** - крутой видеоплеер</summary>
 - [ууууу][pot_tg]  
 - [кккк][pot_gd]  
