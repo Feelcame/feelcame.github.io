@@ -1,5 +1,7 @@
 ---
-modified: 2021-08-25T11:40:03+03:00
+title: JavaScript
+date: 2021-08-21T11:40:03+03:00
+modified: 2021-08-25T11:42:02+03:00
 ---
 
 ### javascript.
