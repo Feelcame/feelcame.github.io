@@ -1,11 +1,11 @@
 ---
 layout: default
 comments: true
-modified: 2021-09-02T23:17:24+03:00
+modified: 2021-09-02T23:17:55+03:00
 title: ссылка на страницу
 ---
 
-[Ссылка]({{ site.github.project.path }})
+[Ссылка]({{ site.github.source.path }})
 
 
 Собирает все h1-h6 в статье и делает на них ссылки
