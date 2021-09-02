@@ -1,13 +1,13 @@
 ---
 layout: default
 comments: true
-modified: 2021-09-02T23:30:56+03:00
+modified: 2021-09-02T23:36:48+03:00
 title: test
 ---
 
 # ссылка на страницу
 
-[Ссылка]({{ page.path }})
+[Ссылка]({{ site.github.repository_url }}/blob/master/{{ page.path }})
 
 
 Собирает все h1-h6 в статье и делает на них ссылки
