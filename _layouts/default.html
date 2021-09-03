@@ -35,8 +35,10 @@
 			{% if site.github.is_project_page %}
                         {% endif %}
 			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
-			<time class="shaded"> {{ site.time }}</time>
-                        <a href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">Ред.</a>
+			<time class="shaded"> 
+				{{ site.time }} 
+				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
+			</time>
 			</span>
 			
                         
