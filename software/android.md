@@ -1,7 +1,7 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-08-23T15:30:32+03:00
-title: Android
+modified: 2021-09-04T17:01:17+03:00
+title: Софт для Android
 ---
 
 ### Программы android
