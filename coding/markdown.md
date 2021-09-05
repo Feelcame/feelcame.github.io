@@ -1,10 +1,10 @@
 ---
 date: 2020-06-30T21:32:11+03:00
-modified: 2021-09-05T10:37:17+03:00
-title: Как создается сайт на Github Pages. Простой сложный Jekyll
+modified: 2021-09-05T10:40:27+03:00
+title: Простой сложный Jekyll. Как создается сайт на Github Pages
 ---
 
-## Предисловвие
+## Предисловие
 Здесь краткая инфа по markdown - упрощенному языку разметки документов.
 Он компилится в HTML. Но в нескомпилированном виде сохраняет человекочитаемость.
 
@@ -192,5 +192,6 @@ page.title | default: site.title | default: site.github.repository_name: {{ page
 
 
 # Дополнительные ссылки
-* <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
+- <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
 * <http://jekyll.github.io/github-metadata/site.github/>
++  <https://devhints.io/jekyll-github>
