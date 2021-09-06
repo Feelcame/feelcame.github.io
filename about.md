@@ -15,8 +15,8 @@ comments: true
 Если информация на сайте полезной, но ты считаешь что нужно что-то большее - [закажи разработку за деньги](#мои-контакты)
 
 ### Мои контакты 
-Telegran: [t.me/feelcame](https://t.me/feelcame) (приватно)  
-GitHub Issues: [link](https://github.com/Feelcame/feelcame.github.io/issues) (публично)  
+Telegran: [@feelcame](https://t.me/feelcame) (приватно)  
+GitHub: [Issues](https://github.com/Feelcame/feelcame.github.io/issues) (публично)  
 По работе: _корпоративный email_ (напишу сам)
 
 ### Черновички
