@@ -2,13 +2,14 @@
 title: FeelSoft - программы на комп
 date: 2021-09-09T12:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
+parse_block_html: true
 ---
 
 **<https://t.me/FeelSoft/20>**  
 **<https://t.me/FeelSoftWin/125>**
 
 <table>
- <tr>
+ <tr valign="top">
   <td>
 ### НАВИГАЦИЯ ПО КАНАЛУ
  
