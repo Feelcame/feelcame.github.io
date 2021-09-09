@@ -7,9 +7,9 @@ modified: 2021-08-23T14:54:33+03:00
 **<https://t.me/FeelSoft/20>**  
 **<https://t.me/FeelSoftWin/125>**
 
-
-<menu><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></menu>
-
+<table>
+<tr>
+<td>
 ### НАВИГАЦИЯ ПО КАНАЛУ
 1️⃣ #МЕДИА
 #Видеоплеер PotPlayer
@@ -55,4 +55,9 @@ modified: 2021-08-23T14:54:33+03:00
 
 7️⃣ #РАЗРАБОТЧИКУ
 #Кодинг GitHub Desktop, OpenServer, Dreamveawer,  *VS Code
-#PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad
+#PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad</td>
+<td><aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside></td>
+</tr>
+</table>
+
+
