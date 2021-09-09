@@ -2,15 +2,16 @@
 title: FeelSoft - программы на комп
 date: 2021-09-09T12:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
+parse_block_html: true
 ---
 
 **<https://t.me/FeelSoft/20>**  
 **<https://t.me/FeelSoftWin/125>**
 
-<table>
-<tr>
-<td>
+<table><tr><td>
+ 
 ### НАВИГАЦИЯ ПО КАНАЛУ
+ 
 1️⃣ #МЕДИА
 #Видеоплеер PotPlayer
 #Аудиоплеер AIMP
@@ -55,8 +56,13 @@ modified: 2021-08-23T14:54:33+03:00
 
 7️⃣ #РАЗРАБОТЧИКУ
 #Кодинг GitHub Desktop, OpenServer, Dreamveawer,  *VS Code
-#PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad</td>
-<td><aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside></td>
+#PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad
+</td>
+<td width="20%>
+ <aside>
+  <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script>
+ </aside>
+ </td>
 </tr>
 </table>
 
