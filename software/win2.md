@@ -34,7 +34,7 @@ Windows 7, Windows10,
 UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
 
 ##### **РАЗРАБОТЧИКУ**
-GitHub Desktop, OpenServer, Dreamveawer,  VS Code  
+GitHub Desktop, OpenServer, VS Code  
 </td>
 <td width="20%">
   <a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a><br>
