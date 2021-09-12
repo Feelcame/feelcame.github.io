@@ -5,8 +5,8 @@ modified: 2021-08-23T14:54:33+03:00
 ---
 
 <table>
- <tr markdown="1" valign="top">
-  <td width="80%">
+ <tr valign="top">
+  <td width="80%" markdown="1">
 ##### **НАВИГАЦИЯ ПО КАНАЛУ**
  
 ##### **МЕДИА**
