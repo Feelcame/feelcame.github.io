@@ -1,6 +1,6 @@
 ---
 date: 2021-09-12T17:53:55+03:00
-modified: 2021-09-12T17:58:34+03:00
+modified: 2021-09-12T18:03:59+03:00
 title: Telegram-боты
 ---
 
@@ -18,7 +18,8 @@ title: Telegram-боты
 [**@**](https://t.me/)
 [**@**](https://t.me/)
 
-
+## Ютуб
+<aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside>
 
 Официальные
 Медиа
