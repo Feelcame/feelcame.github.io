@@ -10,7 +10,7 @@ modified: 2021-09-11T20:58:58+03:00
 :pushpin:[**Profi**](./profi-soft.md)
 
 
-### Статьи
+**Статьи:**
 
 {% include directory-listing.md %}
 
