@@ -4,7 +4,7 @@ date: 2020-06-29T00:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
 ---
 
-#### Прожки не для всех на каждый день  
+**Актуальный каталог в телеграм-канале [@FeelSoft](https://t.me/s/FeelSoftWin/125). А здесь резерв с _"прямыми"_ ссылками на, возможно, неактуальные версии**
 {: .no_toc}
 
 
@@ -535,6 +535,12 @@ modified: 2021-08-23T14:54:33+03:00
 [sp]: ../assets/rutracker16.png "Из сайта Softportal"
 
 ***
+
+
+
+<details><summary>+ Инклюд навигации из канала в телеге</summary>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script>
+</details>
 
 ## Полезные ссылки
 
