@@ -4,7 +4,7 @@ date: 2020-06-29T00:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
 ---
 
-**Актуальный каталог в телеге:** [@FeelSoft](https://t.me/s/FeelSoftWin/125). А здесь архив с _прямыми_ ссылками
+**Здесь самое важное. Полный каталог: [t.me/FeelSoft](https://t.me/s/FeelSoftWin/125)**
 {: .no_toc}
 
 
@@ -538,7 +538,8 @@ modified: 2021-08-23T14:54:33+03:00
 
 
 
-<details><summary>+ Инклюд навигации из канала в телеге</summary>
+<details markdown="1"><summary>+ Инклюд навигации из канала в телеге [t.me/FeelSoft](https://t.me/s/FeelSoftWin/125)</summary>
+
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script>
 </details>
 
