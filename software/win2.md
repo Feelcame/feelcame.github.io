@@ -22,9 +22,10 @@ SumatraPDF, STDU, Notepad++, Microsoft Office
 Total Commander, 7-zip, WinRAR, Victoria, Acronis, CrystalDiskMark, WizTree, Duplicate File Detector, UnInstall Tool
 
 ##### **СИСТЕМА**
-Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite, Furmark, CPU-Z, HWinfo  
-**Драйверы:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
-**Твики_скрипты:** Отключение обнов, почему не спит, откл. локскрин ...
+Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite,  
+**Бенчмарки:** Furmark, CPU-Z, HWinfo  
+**Дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
+**Твики:** Отключение обнов, почему не спит, откл. локскрин ...
 
 ##### **USB/CD/DVD**
 Windows 7, Windows10,  
