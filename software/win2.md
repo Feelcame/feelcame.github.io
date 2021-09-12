@@ -8,8 +8,8 @@ modified: 2021-08-23T14:54:33+03:00
 **<https://t.me/FeelSoftWin/125>**
 
 <table markdown="1">
- <tr valign="top">
-  <td>
+ <tr markdown="1" valign="top">
+  <td markdown="1">
 ### НАВИГАЦИЯ ПО КАНАЛУ
  
 1️⃣ #МЕДИА
