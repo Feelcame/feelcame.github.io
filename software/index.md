@@ -5,7 +5,7 @@ noindex: true
 modified: 2021-09-11T20:58:58+03:00
 ---
 
-:pushpin:[**Windows*"](./windows.md), 
+:pushpin:[**Windows**](./windows.md), 
 :pushpin:[**Android**](./android.md), 
 :pushpin:[**Profi**](./profi-soft.md)
 
