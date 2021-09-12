@@ -37,6 +37,9 @@ UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
 
 ##### **РАЗРАБОТЧИКУ**
 GitHub Desktop, OpenServer, VS Code  
+   
+Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
+
 </td>
 <td width="20%">
   <a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a><br>
