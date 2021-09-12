@@ -9,11 +9,12 @@ modified: 2021-08-23T14:54:33+03:00
   <td width="80%" markdown="1">
 
 ##### **МЕДИА**
-PotPlayer, AIMP, XnView, Bandicam, Audacity, Paint.Net
+PotPlayer, AIMP, XnView,  
+Bandicam, Audacity, Paint.Net
 
 ##### **ИНТЕРНЕТ**
 Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
-Расширения: AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
+**Расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
 ##### **ОФИС**
 SumatraPDF, STDU, Notepad++, Microsoft Office
