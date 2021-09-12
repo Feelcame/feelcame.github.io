@@ -14,23 +14,23 @@ Bandicam, Audacity, Paint.Net
 
 ##### **ИНТЕРНЕТ**
 Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
-**Расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
+**расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
 ##### **ОФИС**
 SumatraPDF, STDU, Notepad++, Microsoft Office
 
 ##### **ФАЙЛЫ**
 Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector  
-**упр. дисками** Victoria, Acronis, CrystalDiskMark
+**упр. дисками:** Victoria, Acronis, CrystalDiskMark
 
 ##### **СИСТЕМА**
-Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite,  
-**Бенчмарки:** Furmark, CPU-Z, HWinfo  
-**Дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
-**Твики:** Отключение обнов, почему не спит, откл. локскрин, удалить папки ...
+Unchecky, AdwCleaner, VirusTotal Uploader, CureIt  
+**бенчмарки:** Furmark, CPU-Z, HWinfo  
+**дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
+**твики:** откл.обнов, удалить папки, почему не спит, откл. локскрин ...
 
 ##### **USB/CD/DVD**
-Windows 7, Windows10,  
+Windows 7, Windows10, Loader by Daz, KMS Auto Lite,  
 UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
 
 ##### **РАЗРАБОТЧИКУ**
