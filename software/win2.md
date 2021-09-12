@@ -27,7 +27,7 @@ Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector
 Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite,  
 **Бенчмарки:** Furmark, CPU-Z, HWinfo  
 **Дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
-**Твики:** Отключение обнов, почему не спит, откл. локскрин ...
+**Твики:** Отключение обнов, почему не спит, откл. локскрин, удалить папки ...
 
 ##### **USB/CD/DVD**
 Windows 7, Windows10,  
