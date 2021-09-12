@@ -7,7 +7,7 @@ modified: 2021-08-23T14:54:33+03:00
 **<https://t.me/FeelSoft/20>**  
 **<https://t.me/FeelSoftWin/125>**
 
-<table>
+<table markdown="1">
  <tr valign="top">
   <td>
 ### НАВИГАЦИЯ ПО КАНАЛУ
