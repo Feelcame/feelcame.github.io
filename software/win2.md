@@ -12,14 +12,15 @@ modified: 2021-08-23T14:54:33+03:00
 PotPlayer, AIMP, XnView, Bandicam, Audacity, Paint.Net
 
 ##### **ИНТЕРНЕТ**
-Chrome, Telegram, AnyDesk, qBitTorrent, Networx,  
+Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
 Расширения: AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
 ##### **ОФИС**
 SumatraPDF, STDU, Notepad++, Microsoft Office
 
 ##### **ФАЙЛЫ**
-Total Commander, 7-zip, WinRAR, Victoria, Acronis, CrystalDiskMark, WizTree, Duplicate File Detector, UnInstall Tool
+Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector  
+**упр. дисками** Victoria, Acronis, CrystalDiskMark
 
 ##### **СИСТЕМА**
 Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite,  
