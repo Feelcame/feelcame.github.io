@@ -7,6 +7,7 @@ modified: 2021-08-23T14:54:33+03:00
 <table>
  <tr valign="top">
   <td width="80%" markdown="1">
+
 ##### **МЕДИА**
 PotPlayer, AIMP, XnView, Bandicam, Audacity, Paint.Net
 
