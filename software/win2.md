@@ -6,7 +6,7 @@ modified: 2021-08-23T14:54:33+03:00
 
 <table markdown="1">
  <tr markdown="1" valign="top">
-  <td markdown="1" width="20%>
+  <td markdown="1">
 ### НАВИГАЦИЯ ПО КАНАЛУ
  
 # МЕДИА
