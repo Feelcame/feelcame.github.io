@@ -23,15 +23,15 @@ Total Commander, 7-zip, WinRAR, Victoria, Acronis, CrystalDiskMark, WizTree, Dup
 
 ##### **СИСТЕМА**
 Unchecky, AdwCleaner, VirusTotal Uploader, CureIt, Loader by Daz, KMS Auto Lite, Furmark, CPU-Z, HWinfo  
-**Драйверы:** Snappy Driver Installer, Microsoft Visual C++, RuntimePack, DirectX, NetFramework  
-**Твики_скрипты:** Start8 *HashTab, *Everything (локальный поисковик), *Отключение обнов, *почему не спит, *откл. локскрин ...
+**Драйверы:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
+**Твики_скрипты:** Отключение обнов, почему не спит, откл. локскрин ...
 
 ##### **USB/CD/DVD**
 Windows 7, Windows10,  
 UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
 
 ##### **РАЗРАБОТЧИКУ**
-GitHub Desktop, OpenServer, Dreamveawer,  *VS Code  
+GitHub Desktop, OpenServer, Dreamveawer,  VS Code  
 </td>
 <td width="20%">
   <a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a><br>
