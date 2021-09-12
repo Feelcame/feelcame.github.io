@@ -26,6 +26,12 @@ modified: 2021-08-25T11:37:21+03:00
 * [Уроки на MDN](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 * [Книга Дронова по Django 2.2](https://rutracker.org/forum/viewtopic.php?t=5966162)
 
+* [Бесплатные практические уроки по Python](https://ru.code-basics.com/languages/python)
+* [hexlet.io курс Python: Django](https://ru.hexlet.io/courses/python-django-basics)
+* [hexlet.io Бесплатный курс Основы языка Python](https://ru.hexlet.io/courses/python-basics)
+* [hexlet.io Бесплатный курс Основы современной вёрстки](https://ru.hexlet.io/courses/layout-designer-basics)
+* [hexlet.io Основы командной строки](https://ru.hexlet.io/courses/cli-basics/lessons/intro/theory_unit)
+
 ## Заготовки для сайта и примеры
 * [DjangoX](https://github.com/wsvincent/djangox)
 * <https://www.djangosites.org/with-source/>
