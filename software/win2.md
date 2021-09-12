@@ -17,7 +17,8 @@ Chrome, Telegram, Networx, AnyDesk, qBitTorrent,
 **расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
 ##### **ОФИС**
-SumatraPDF, STDU, Notepad++, Microsoft Office
+SumatraPDF, STDU,  
+Notepad++, Microsoft Office
 
 ##### **ФАЙЛЫ**
 Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector  
@@ -30,7 +31,7 @@ Unchecky, AdwCleaner, VirusTotal Uploader, CureIt
 **твики:** откл.обнов, удалить папки, почему не спит, откл. локскрин ...
 
 ##### **USB/CD/DVD**
-Windows 7, Windows10, Loader by Daz, KMS Auto Lite,  
+**винда:** Windows 7, Windows10, Loader by Daz, KMS Auto Lite,  
 UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
 
 ##### **РАЗРАБОТЧИКУ**
