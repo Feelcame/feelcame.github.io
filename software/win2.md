@@ -18,7 +18,7 @@ modified: 2021-08-23T14:54:33+03:00
 #Фоторедактор XnView, FastStone Capture, Paint.Net, Adobe Photoshop, Фото на документы
 #Настройка_звука Equalizer APO, Virtual Audio Cable, Voicemeeter
 
-# ИНТЕРНЕТ
+## ИНТЕРНЕТ
 #Браузер Chrome, Firefox, *Edge
 #Расширения AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 #Общение Telegram, Thunderbird, Skype
@@ -26,32 +26,32 @@ modified: 2021-08-23T14:54:33+03:00
 #Скачивание qBitTorrent, uTorrent, Download Master
 #Сеть OpenVPN, Networx
 
-# ОФИС
+### ОФИС
 #Просмотр_PDF SumatraPDF, STDU 
 #Редактор_текста Notepad++, Office,  HxD Hex Editor
 #Редактор_PDF ABYY Fine Reader, *PDF X-Change
 
-# ФАЙЛЫ 
+#### ФАЙЛЫ 
 #Файл_менеджер Total Commander
 #Архиватор 7-zip, WinRAR
 #Управление_диском Victoria, Acronis, CrystalDiskInfo, CrystalDiskMark, HP USB Format tool
 #Анализ_места WinDirStat, WizTree, Duplicate File Detector
 #Деинсталятор UnInstall Tool, Geek Uninstaller, Your Uninstaller
 
-# СИСТЕМА
+##### СИСТЕМА
 #Антивирус Unchecky, AdwCleaner, VirusTotal Uploader, CureIt
 #Активатор Loader by Daz, KMS Auto Lite
 #Бенчмарк Furmark, CPU-Z, AIDA64, HWinfo, Moo0 Bottleneck, System Explorer, ProcessExplorer
 #Драйверы Snappy Driver Installer, Double Driver, Microsoft Visual C++ , RuntimePack, DirectX, NetFramework
 #Твики_скрипты Start8 *HashTab, *Everything (локальный поисковик), *Отключение обнов, *почему не спит, *откл. локскрин ...
 
-# USB/CD/DVD
+###### USB/CD/DVD
 #Украшения Start8
 #LiveCD RusLive, ZverDVD, Windows 7, Windows10
 #Запись_образов UltraISO, Rufus, WinSetupFromUSB, WinNTSetup
 #Биос BOOTICE, Easy BCD
 
-# РАЗРАБОТЧИКУ
+####### РАЗРАБОТЧИКУ
 #Кодинг GitHub Desktop, OpenServer, Dreamveawer,  *VS Code
 #PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad
 </td>
