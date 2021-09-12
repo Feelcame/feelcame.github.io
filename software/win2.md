@@ -5,7 +5,7 @@ modified: 2021-08-23T14:54:33+03:00
 ---
 
 **<https://t.me/FeelSoft/20>**  
-**<https://t.me/FeelSoftWin/125>**
+
 
 <table markdown="1">
  <tr markdown="1" valign="top">
@@ -58,7 +58,8 @@ modified: 2021-08-23T14:54:33+03:00
 #Кодинг GitHub Desktop, OpenServer, Dreamveawer,  *VS Code
 #PCB sPlan, Sprint Layout, *FreeCAD, *EAGLE, *KiCad
 </td>
-<td width="20%">
+<td markdown="1" width="20%">
+  Ссылка: **<https://t.me/FeelSoftWin/125>**
   <aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside>
  </td>
 </tr>
