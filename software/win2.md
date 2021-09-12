@@ -8,31 +8,31 @@ modified: 2021-08-23T14:54:33+03:00
  <tr valign="top">
   <td width="80%" markdown="1">
 ##### **МЕДИА**
-PotPlayer
-AIMP
-XnView
-Bandicam
-Audacity
+PotPlayer,
+AIMP,
+XnView,
+Bandicam,
+Audacity,
 Paint.Net
 
 ##### **ИНТЕРНЕТ**
-Chrome
+Chrome,
+Telegram,
+AnyDesk,
+qBitTorrent,
+Networx,
 AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
-Telegram
-AnyDesk
-qBitTorrent
-Networx
 
 ##### **ОФИС**
-SumatraPDF, STDU 
-Notepad++, Office
+SumatraPDF, STDU,
+Notepad++, Microsoft Office
 
 ##### **ФАЙЛЫ**
-**Файл_менеджер** Total Commander  
-**Архиватор** 7-zip, WinRAR  
-**Управление_диском** Victoria, Acronis, CrystalDiskMark
-**Анализ_места** WizTree, Duplicate File Detector
-**Деинсталятор** UnInstall Tool
+**Файл_менеджер:** Total Commander  
+**Архиватор:** 7-zip, WinRAR  
+**Управление_диском:** Victoria, Acronis, CrystalDiskMark  
+**Анализ_места:** WizTree, Duplicate File Detector  
+**Деинсталятор:** UnInstall Tool  
 
 ##### **СИСТЕМА**
 #Антивирус Unchecky, AdwCleaner, VirusTotal Uploader, CureIt
