@@ -7,36 +7,32 @@ modified: 2021-08-23T14:54:33+03:00
 <table>
  <tr valign="top">
   <td width="80%" markdown="1">
-##### **НАВИГАЦИЯ ПО КАНАЛУ**
- 
 ##### **МЕДИА**
-#Видеоплеер PotPlayer
-#Аудиоплеер AIMP
-#Просмотр_картинок XnView
-#Видеоредактор Bandicam, *Bandicut, MakeMKV, HandBrake, Avidemux
-#Аудиоредактор AIMP, Audacity, *редактор тегов
-#Фоторедактор XnView, FastStone Capture, Paint.Net, Adobe Photoshop, Фото на документы
-#Настройка_звука Equalizer APO, Virtual Audio Cable, Voicemeeter
+PotPlayer
+AIMP
+XnView
+Bandicam
+Audacity
+Paint.Net
 
 ##### **ИНТЕРНЕТ**
-#Браузер Chrome, Firefox, *Edge
-#Расширения AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
-#Общение Telegram, Thunderbird, Skype
-#Удаленка AnyDesk, Mouse without Borders, Unified Remote, AIMP Remote Plugin, TeamViewer
-#Скачивание qBitTorrent, uTorrent, Download Master
-#Сеть OpenVPN, Networx
+Chrome
+AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
+Telegram
+AnyDesk
+qBitTorrent
+Networx
 
 ##### **ОФИС**
-#Просмотр_PDF SumatraPDF, STDU 
-#Редактор_текста Notepad++, Office,  HxD Hex Editor
-#Редактор_PDF ABYY Fine Reader, *PDF X-Change
+SumatraPDF, STDU 
+Notepad++, Office
 
 ##### **ФАЙЛЫ**
-#Файл_менеджер Total Commander
-#Архиватор 7-zip, WinRAR
-#Управление_диском Victoria, Acronis, CrystalDiskInfo, CrystalDiskMark, HP USB Format tool
-#Анализ_места WinDirStat, WizTree, Duplicate File Detector
-#Деинсталятор UnInstall Tool, Geek Uninstaller, Your Uninstaller
+**Файл_менеджер** Total Commander  
+**Архиватор** 7-zip, WinRAR  
+**Управление_диском** Victoria, Acronis, CrystalDiskMark
+**Анализ_места** WizTree, Duplicate File Detector
+**Деинсталятор** UnInstall Tool
 
 ##### **СИСТЕМА**
 #Антивирус Unchecky, AdwCleaner, VirusTotal Uploader, CureIt
