@@ -11,7 +11,7 @@ modified: 2021-08-25T11:35:52+03:00
   - Нужно что бы выполняемая функция вернула false. <a href="#" onclick="alert('test');return(false);">Вот так:</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
 - Задать бащовый урл для всех относительных ссылок на странице. Напр.: "/" или "./img/logo.png" и "../../img/file.png
 "  
-   ```<base href="/example/images/">``` или для jekyll: ```<base href="{% site.baseurl %}">```
+   ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 
 
 
