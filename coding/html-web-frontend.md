@@ -14,6 +14,8 @@ modified: 2021-08-25T11:35:52+03:00
    ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 - Скачать файл по ссылке  
   <a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
+- Протокол data:base64 <https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>  
+  <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">Пример ссылки с протоколом data:</a>
 
 
 
