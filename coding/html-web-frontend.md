@@ -6,9 +6,9 @@ modified: 2021-08-25T11:35:52+03:00
 
 ## Шпаргалка
 - Как растянуть содержимое под нужный экран?
-	- <meta name="viewport" content="width=device-width, initial-scale=1">- 
+	- ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 - Как отменить переход по с обработчиком onclick?
-	-Вернуть false. <a href="#" onclick="alerf('test');return(false);">Вот так</a> 
+	-Вернуть false. <a href="#" onclick="alerf('test');return(false);">Вот так</a> ```<a href="#" onclick="alerf('test');return(false);">Вот так</a>```
 
 
 ### Сайты референсные:
