@@ -5,16 +5,22 @@ modified: 2021-08-25T11:35:52+03:00
 ---
 
 ## Шпаргалка
-- Задать ширину страницы в соответствии с размером экрана. [Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)
-  - ```<meta name="viewport" content="width=device-width, initial-scale=1">```
-- Как отменить переход по ссылке с обработчиком onclick?
-  - Нужно что бы выполняемая функция вернула false. <a href="#" onclick="alert('test');return(false);">Вот так:</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
-- Задать бащовый урл для всех относительных ссылок на странице. Напр.: "/" или "./img/logo.png" и "../../img/file.png
-"  
-   ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
-- Скачать файл по ссылке  
+**Задать ширину страницы в соответствии с размером экрана. [Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)**  
+```<meta name="viewport" content="width=device-width, initial-scale=1">```
+
+**Как отменить переход по ссылке с обработчиком onclick?**  
+Нужно что бы выполняемая функция вернула false.  
+<a href="#" onclick="alert('test');return(false);">Вот пример.</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
+
+**Задать базовый урл для всех относительных ссылок на странице.**  
+Напр.: "/" или "./img/logo.png" и "../../img/file.png  
+```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
+
+**Скачать файл по ссылке**  
   <a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
-- Протокол ссылки data:base64. [Документация](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
+
+**Протокол ссылки data:base64.**
+  [Документация](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
   <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">Пример ссылки с протоколом data</a>
 
 
