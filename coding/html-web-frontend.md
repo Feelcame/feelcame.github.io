@@ -4,6 +4,13 @@ date: 2021-01-17T00:34:10+02:00
 modified: 2021-08-25T11:35:52+03:00
 ---
 
+## Шпаргалка
+- Как растянуть содержимое под нужный экран?
+	- <meta name="viewport" content="width=device-width, initial-scale=1">- 
+- Как отменить переход по с обработчиком onclick?
+	-Вернуть false. <a href="#" onclick="alerf('test');return(false);">Вот так</a> 
+
+
 ### Сайты референсные:
 1. <https://webref.ru/>
 1. <https://webreff.ru/>
