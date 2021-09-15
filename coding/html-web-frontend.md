@@ -9,9 +9,10 @@ modified: 2021-08-25T11:35:52+03:00
   - ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 - Как отменить переход по ссылке с обработчиком onclick?
   - Нужно что бы выполняемая функция вернула false. <a href="#" onclick="alert('test');return(false);">Вот так:</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
-- Задать точку отсчета относительныхпутей навигации типа "/index.html" или "./img/logo.png" и "../../img/file.png
+- Задать бащовый урл для всех относительных ссылок на странице. Напр.: "/" или "./img/logo.png" и "../../img/file.png
 "  
-  ```baseurl```
+   ```<base href="/example/images/">``` или для jekyll: ```<base href="{% site.baseurl %}">```
+
 
 
 
