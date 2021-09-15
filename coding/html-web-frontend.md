@@ -1,5 +1,5 @@
 ---
-title: Референсы по веб фронтенду
+title: HTML, веб и ваще
 date: 2021-01-17T00:34:10+02:00
 modified: 2021-08-25T11:35:52+03:00
 ---
@@ -12,6 +12,8 @@ modified: 2021-08-25T11:35:52+03:00
 - Задать бащовый урл для всех относительных ссылок на странице. Напр.: "/" или "./img/logo.png" и "../../img/file.png
 "  
    ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
+- Скачать файл по ссылке  
+  <a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
 
 
 
