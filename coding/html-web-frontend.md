@@ -7,10 +7,11 @@ modified: 2021-08-25T11:35:52+03:00
 ## Шпаргалка
 - Как растянуть содержимое под нужный экран?
   - ```<meta name="viewport" content="width=device-width, initial-scale=1">```
-- Как отменить переход по с обработчиком onclick?
-  - Вернуть false. <a href="#" onclick="alerf('test');return(false);">Вот так</a> ```<a href="#" onclick="alerf('test');return(false);">Вот так</a>```
-- Задать точку отсчета относительныхпутей навигации типа "/index.html" или "./img/logo.png"
-  ```dsfdfdfd```
+- Как отменить переход по ссылке с обработчиком onclick?
+  - Нужно что бы выполняемая функция вернула false. <a href="#" onclick="alert('test');return(false);">Вот так:</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
+- Задать точку отсчета относительныхпутей навигации типа "/index.html" или "./img/logo.png" и "../../img/file.png
+"  
+  ```baseurl```
 
 
 
