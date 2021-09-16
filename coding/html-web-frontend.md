@@ -1,11 +1,12 @@
 ---
 title: HTML, веб и ваще
 date: 2021-01-17T00:34:10+02:00
-modified: 2021-08-25T11:35:52+03:00
+modified: 2021-09-17T00:15:48+03:00
 ---
 
 ## Шпаргалка
-**Задать ширину страницы в соответствии с размером экрана. [Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)**  
+### **Задать ширину страницы в соответствии с размером экрана.**
+ [Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
 ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 
 **Как отменить переход по ссылке с обработчиком onclick?**  
