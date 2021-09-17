@@ -99,3 +99,11 @@ modified: 2021-05-30T10:33:32+03:00
 ![image](https://user-images.githubusercontent.com/17731587/125964908-1f234bae-b865-4f63-bde5-f72e4305fa06.png)
 ![image](https://user-images.githubusercontent.com/17731587/125965015-2595e13e-57ab-4de5-bdd0-0e9386b8d625.png)
 
+
+## Полезные ссылки
+- [5 Советов по быстрому созданию и редактированию библиотек в Altium](http://sapr-journal.ru/uroki-altium/5-sovetov-po-bystromu-sozdaniyu-i-redaktirovaniyu-bibliotek-v-altium-designer-14/)
+- [7 правил проектирования печатных плат](https://habr.com/ru/post/414141/)
+- [Создание связности_AD
+](https://www.altium.com/ru/documentation/altium-designer/creating-connectivity-ad?version=18.1)
+- [Altium Designer: что делать если проект стал сложным?
+](https://habr.com/ru/post/426951/)
