@@ -4,30 +4,31 @@ date: 2021-01-17T00:34:10+02:00
 modified: 2021-09-17T00:20:23+03:00
 ---
 
-## Шпаргалка
-### Масштаб по экрану
-**Задать ширину страницы в соответствии с размером экрана.**
- [Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
+F.A.Q
+
+## Масштаб по экрану
+Задать ширину страницы в соответствии с размером экрана.  
+[Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
 ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 
-### **Событие onclick**
-**Как отменить переход по ссылке с обработчиком onclick?**  
+## Событие onclick
+Как отменить переход по ссылке с обработчиком onclick?  
 Нужно что бы выполняемая функция вернула false.  
 <a href="#" onclick="alert('test');return(false);">Вот пример.</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
 
-### **Относительные ссылки**
-**Задать базовый урл для всех относительных ссылок на странице.**  
+## Относительные ссылки
+Задать базовый урл для всех относительных ссылок на странице.  
 Напр.: "/" или "./img/logo.png" и "../../img/file.png  
 ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 
-### **Ссылка для скачивания**
-**Скачать файл по ссылке**  
-  <a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
+## Ссылка для скачивания
+Скачать файл по ссылке  
+<a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
 
-### **Данные внутри ссылки**
-**Протокол ссылки data:base64.**
-  [Документация](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
-  <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">Пример ссылки с протоколом data</a>
+## Данные внутри ссылки
+Протокол ссылки data:base64.  
+[Документация](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
+<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">Пример ссылки с протоколом data</a>
 
 
 
