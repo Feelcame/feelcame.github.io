@@ -84,7 +84,9 @@ bootstrap/
 ## Бьютифаеры, форматтеры
 1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
 2. [beautifier.io](https://beautifier.io/)
-3. 
+3. <https://codebeautify.org/jsviewer>
+4. <https://html-cleaner.com/js/>
+5. <https://beautifytools.com/javascript-beautifier.php>
 
 
 ## хостинг
