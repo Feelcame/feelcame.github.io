@@ -36,6 +36,7 @@ modified: 2021-09-17T00:20:23+03:00
 ### Сайты референсные:
 1. <https://webref.ru/>
 1. <https://webreff.ru/>
+2. <https://developer.mozilla.org/ru/docs/Web>
 
 ### HTML JS CSS
 
