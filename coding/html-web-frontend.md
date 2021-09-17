@@ -8,27 +8,28 @@ F.A.Q
 
 ## Масштаб по экрану
 Задать ширину страницы в соответствии с размером экрана.  
-[Доки](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
+Документация: [ссылка](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
 ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 
 ## Событие onclick
 Как отменить переход по ссылке с обработчиком onclick?  
 Нужно что бы выполняемая функция вернула false.  
-<a href="#" onclick="alert('test');return(false);">Вот пример.</a> ```<a href="#" onclick="alert('test');return(false);">Вот так</a>```
+Вот пример: <a href="#" onclick="alert('test');return(false);">Ссылка</a>  
+```<a href="#" onclick="alert('test');return(false);">ссылка</a>```
 
-## Относительные ссылки
-Задать базовый урл для всех относительных ссылок на странице.  
-Напр.: "/" или "./img/logo.png" и "../../img/file.png  
+## Как задать базовый урл для всех относительных ссылок на странице?  
+Например для таких: "/index.html", "./file.png" или "../../img/file.png  
 ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 
 ## Ссылка для скачивания
-Скачать файл по ссылке  
-<a href="./" download="test.html">тест</a>  ```<a href="./" download="test.html">тест</a>```
+Скачать файл по ссылке: <a href="#" download="test.html">ссылка</a>   
+```<a href="#" download="test.html">ссылка</a>```
 
 ## Данные внутри ссылки
 Протокол ссылки data:base64.  
-[Документация](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
-<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">Пример ссылки с протоколом data</a>
+Документация: [ссылка](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
+Пример ссылки с протоколом data: <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>  
+```<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>```
 
 
 
