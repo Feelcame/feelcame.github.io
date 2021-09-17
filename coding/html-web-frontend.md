@@ -29,17 +29,13 @@ F.A.Q
 Протокол ссылки data:base64. Документация: [ссылка](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
 Пример ссылки с протоколом data: <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>  
 ```<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>```
-
-
-
-
-
 ### Сайты референсные:
-1. <https://webref.ru/>
-1. <https://webreff.ru/>
-2. <https://developer.mozilla.org/ru/docs/Web>
+1. w3c
+3. <https://webref.ru/>
+4. <https://webreff.ru/>
+5. <https://developer.mozilla.org/ru/docs/Web>
 
-### HTML JS CSS
+## HTML JS CSS
 
 1. <https://puzzleweb.ru/javascript/element_innerhtml.php>
 1. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
@@ -47,7 +43,7 @@ F.A.Q
 1. <>
 
 
-### Севрисы комментариев на статический сайт
+## Севрисы комментариев на статический сайт
 
 **Севрисы комментариев:**  
 1. <https://github.com/utterance/utterances>  
@@ -59,9 +55,9 @@ F.A.Q
 
 *** 
 
-### Фреймворки
+## Фреймворки
 
-#### Структура файлов twitter bootstrap
+## Структура файлов twitter bootstrap
 Мне понравилось оформление дерева с помощью спецсимволов, решил скопировать
 
 ```
@@ -75,30 +71,26 @@ bootstrap/
     └── bootstrap.min.js.map  
 ```
 
-## Сервисы
-
-### Песочницы
-Песочница - это место для игры. Таким же образом можно играться с кодом на сайте-песочнице. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример
-1. JsFiddle  
-   <http://jsfiddle.net/sLZq8/2/>  
-   <https://jsfiddle.net/GdSVn/>
-3. <https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview>
-4. <http://jsbin.com/rebogevoga/edit?html,output>
-5. <https://codepen.io/liptonicetea/pen/NdvxYe>
-6. <https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle>
-7. <http://pagedemos.com/>
+## Песочницы
+Песочница - это место для игры с кодом. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример - это хорошее демо ;-)
+1. [JsFiddle](http://jsfiddle.net/sLZq8/2/) + [еще пример](https://jsfiddle.net/GdSVn/)
+3. [Plunker](https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview)
+4. [JsBin](http://jsbin.com/rebogevoga/edit?html,output)
+5. [CodePen](https://codepen.io/liptonicetea/pen/NdvxYe)
+6. [w3school](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle)
+7. [pagedemos](http://pagedemos.com/)
 8. ...
 
-### Бьютифаеры, форматтеры
+## Бьютифаеры, форматтеры
 1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
-2. ...
+2. [beautifier.io](https://beautifier.io/)
 3. 
 
 
-### хостинг
-[на отдельной странице](./hosting.md)
+## хостинг
+[Раздел вынесен на отдельную страницу](./hosting.md)
 
 
-#### Javascript-фреймворки
+## Javascript-фреймворки
 [на отдельной странице](./javascript.md)
 
