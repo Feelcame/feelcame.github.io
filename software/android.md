@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T22:28:39+03:00
+modified: 2021-09-19T22:29:36+03:00
 title: Софт для Android
 ---
 
@@ -71,7 +71,9 @@ title: Софт для Android
 - App&Game 4PDA
 
 ## Система
-- LuckyPatcher. [v4.9.6](#)
+- LuckyPatcher. 
+  [скачать v4.9.6](#), 
+  [оф.сайт](#)
 - GP Blocker. 
   [4pda](#), [скачать] (#)
 - System App Remover. 
