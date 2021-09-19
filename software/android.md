@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:34:52+03:00
+modified: 2021-09-19T21:36:16+03:00
 title: Софт для Android
 ---
 
@@ -56,8 +56,6 @@ Aqua Mail -
 - XRecorder
 - Hi-Q MP3 Recorder
 
-
- 
 ## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
@@ -76,7 +74,7 @@ Aqua Mail -
 - App Backup&Restore 3.11 (старая, мод)
 - App&Game 4PDA
 
-## Тонкая настройка системы
+## Система
 - LuckyPatcher
 - GP Blocker
 - System App Remover <https://t.me/FeelSoftAn/170>
@@ -129,11 +127,6 @@ Aqua Mail -
 - TotalCmd-WiFi-обмен
 - 
 
-
-## источник
-Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
-
-
 ## СИСТЕМА
 AdAway - 
 CPU Spy - 
@@ -144,7 +137,7 @@ Powerful Control -
 Network Utilities - 
 Titanium Backup - 
 
-## ИНТЕРФЕЙС и #ПРОЧЕЕ
+## ИНТЕРФЕЙС
 Клавиатура Google - 
 Internet Speed Meter - 
 Виджет громкости - 
@@ -159,4 +152,4 @@ Shake me - #batman
 .
 
 ## Полезные ссылки
-- ...
+- источник. Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
