@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:00:19+03:00
+modified: 2021-09-19T21:05:43+03:00
 title: Софт для Android
 ---
 
@@ -21,11 +21,11 @@ title: Софт для Android
 - Opera mini 7
 
 ## Музыка
-   - AIMP
-   - PlayerPro
-   - Яндекс музыка (мод)
-   - Spotify
-   - Shazam
+- AIMP
+- PlayerPro
+- Яндекс музыка (мод)
+- Spotify
+- Shazam
 
 ## Видео и фото
 - QuickPic
@@ -48,8 +48,9 @@ title: Софт для Android
 ## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
-- Flow для rutracker.org
-- Flud торрент клиент
+- [Flow](#) – для rutracker.org
+  [Прямая ссылка](#)
+- Flud – торрент клиент
 
 ## Соц. сети
    - Telegram
