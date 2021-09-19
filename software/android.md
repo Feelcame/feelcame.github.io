@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T22:26:51+03:00
+modified: 2021-09-19T22:28:39+03:00
 title: Софт для Android
 ---
 
@@ -72,8 +72,10 @@ title: Софт для Android
 
 ## Система
 - LuckyPatcher. [v4.9.6](#)
-- GP Blocker
-- System App Remover. [телега](https://t.me/FeelSoftAn/170)
+- GP Blocker. 
+  [4pda](#), [скачать] (#)
+- System App Remover. 
+  [телега](https://t.me/FeelSoftAn/170)
 - 4G Switcher
 - TTL Manager
 - CPU Spy
