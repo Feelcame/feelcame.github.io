@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T22:30:49+03:00
+modified: 2021-09-19T22:35:17+03:00
 title: Софт для Android
 ---
 
@@ -82,6 +82,13 @@ title: Софт для Android
 - TTL Manager
 - CPU Spy
 - Internet speed meter
+- AdAway
+- CPU Spy
+- Darker Pro
+- Google Play Blocker
+- TTL Master
+- Powerful Control
+- Titanium Backup
 
 ## Офис
 - GitJournal
@@ -100,6 +107,7 @@ title: Софт для Android
 ## Сеть
 - PingTools
 - Network scanner
+- Network Utilities
 
 ## Карты
 - Яндекс карты
@@ -116,32 +124,19 @@ title: Софт для Android
 - Microsoft Launcher
 - Launcher 3
 - Copy
-
-## Server
-- kWS
-- primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
-- IP Webcam
-- TotalCmd-WiFi-обмен
-- 
-
-## СИСТЕМА
-- AdAway
-- CPU Spy
-- Darker Pro
-- Google Play Blocker
-- TTL Master
-- Powerful Control
-- Network Utilities
-- Titanium Backup
-
-## ИНТЕРФЕЙС
 - Клавиатура Google
 - Internet Speed Meter
 - Виджет громкости
 - Сканер штрих-кодов
 - Launcher<3
 - Microsoft Launcher
-- Mi Band Master - 
+- Mi Band Master 
+
+## Server
+- kWS
+- primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
+- IP Webcam
+- TotalCmd-WiFi-обмен
 
 ## игры
 - Shake me - #batman
