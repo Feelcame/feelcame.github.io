@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:53:33+03:00
+modified: 2021-09-19T21:57:39+03:00
 title: Софт для Android
 ---
 
@@ -40,16 +40,13 @@ title: Софт для Android
 - PowerTube
 
 ## ИНТЕРНЕТ
-OpenVPN - 
-Opera Mini - 
-Opera Браузер - 
-Unified Remote - 
-Remote Ripple VNC - 
-AnyDesk - 
-Яндекс.Карты - 
-
-## ОБЩЕНИЕ
-Aqua Mail - 
+- OpenVPN
+- Opera Mini
+- Opera Браузер
+- Unified Remote
+- Remote Ripple VNC
+- AnyDesk
+- Яндекс.Карты
 
 ## Медиа редакторы
 - PicSay
@@ -59,8 +56,7 @@ Aqua Mail -
 ## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
-- [**Flow**] – для rutracker.org. 
-  [скачать](#)
+- [Flow] – для rutracker.org
 - [Flud] – торрент клиент
 
 [Flow]: #
