@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:05:43+03:00
+modified: 2021-09-19T21:14:20+03:00
 title: Софт для Android
 ---
 
@@ -48,8 +48,8 @@ title: Софт для Android
 ## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
-- [Flow](#) – для rutracker.org
-  [Прямая ссылка](#)
+- [**Flow**][flow_dl] – для rutracker.org
+  [flow_dl]: http://linker.pp.ua#
 - Flud – торрент клиент
 
 ## Соц. сети
