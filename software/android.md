@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-20T00:28:22+03:00
+modified: 2021-09-20T00:33:32+03:00
 title: Софт для Android
 ---
 
@@ -56,18 +56,18 @@ title: Софт для Android
 - Flud – торрент клиент
 
 ## Соц. сети
-- Telegram
+- Telegram [оф.сайт](#)
 - Viber
 - Instander
 
 ## Маркет (приложений)
-- Aurora Store
+- Aurora Store [скачать](#)
 - App Backup&Restore 3.11 (старая, мод)
-- App&Game 4PDA
+- App&Game 4PDA [скачать](#)
 
 ## Система
 - LuckyPatcher  
-  [скачать 9.7.0](https://tlgur.com/d/g306JW64), [4pda](https://4pda.to/forum/index.php?showtopic=298302)
+[скачать 9.7.0](https://tlgur.com/d/g306JW64), [4pda](https://4pda.to/forum/index.php?showtopic=298302)
 - GP Blocker. 
   [4pda](#), [скачать](#)
 - System App Remover. 
@@ -83,6 +83,7 @@ title: Софт для Android
 - TTL Master
 - Powerful Control
 - Titanium Backup
+- My android tools
 
 ## Офис
 - GitJournal
@@ -131,8 +132,6 @@ title: Софт для Android
 
 ## Игры
 - Shake me - #batman
-
-.
 
 ## Полезные ссылки
 - источник. Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
