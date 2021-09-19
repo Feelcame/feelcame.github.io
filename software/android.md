@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-20T00:41:52+03:00
+modified: 2021-09-20T00:45:17+03:00
 title: Софт для Android
 ---
 
@@ -61,9 +61,9 @@ title: Софт для Android
 - Instander
 
 ## Маркет (приложений)
-- Aurora Store [скачать 4.0.7](https://tlgur.com/d/4x5bADY8), [телега](https://t.me/AuroraOfficial)
+- Aurora Store. [скачать 4.0.7](https://tlgur.com/d/4x5bADY8), [телега](https://t.me/AuroraOfficial)
 - App Backup&Restore 3.11 (старая, мод)
-- App&Game 4PDA [скачать](#)
+- App&Game 4PDA. [скачать](#)
 
 ## Система
 - LuckyPatcher  
