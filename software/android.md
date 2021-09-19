@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:16:37+03:00
+modified: 2021-09-19T21:29:43+03:00
 title: Софт для Android
 ---
 
@@ -34,14 +34,27 @@ title: Софт для Android
 - Youtube Vanced (мод)
 - NewPipe
 - HD VideoBox (прикрыли)
-   - LazyMedia 
-   - Кино HD
-   - Wink (мод)
- 
+- LazyMedia 
+- Кино HD
+- Wink (мод)
+- PowerTube
+
+## ИНТЕРНЕТ
+OpenVPN - 
+Opera Mini - 
+Opera Браузер - 
+Unified Remote - 
+Remote Ripple VNC - 
+AnyDesk - 
+Яндекс.Карты - 
+
+## ОБЩЕНИЕ
+Aqua Mail - 
+
 ## Медиа редакторы
-   - PicSay
-   - XRecorder
-   - Hi-Q MP3 Recorder
+- PicSay
+- XRecorder
+- Hi-Q MP3 Recorder
 
 
  
@@ -53,31 +66,37 @@ title: Софт для Android
 - Flud – торрент клиент
 
 ## Соц. сети
-   - Telegram
-   - Viber
-   - Instander
+- Telegram
+- Viber
+- Instander
 
 ## Менеджеры приложений
-   - Aurora Store
-   - App Backup&Restore 3.11 (старая, мод)
-   - App&Game 4PDA
-   - ...
+- Aurora Store
+- App Backup&Restore 3.11 (старая, мод)
+- App&Game 4PDA
 
 ## Тонкая настройка системы
-   - LuckyPatcher
-   - GP Blocker
-   - System App Remover <https://t.me/FeelSoftAn/170>
-   - 4G Switcher
-   - TTL Manager
-   - CPU Spy
-   - Internet speed meter
+- LuckyPatcher
+- GP Blocker
+- System App Remover <https://t.me/FeelSoftAn/170>
+- 4G Switcher
+- TTL Manager
+- CPU Spy
+- Internet speed meter
 
 ## Офис
-   - GitJournal
-   - Acode
-   - Microsoft Office
-   - ReadEra
-   - Microsoft Office
+- GitJournal
+- Acode
+- Microsoft Office
+- ReadEra
+- Aqua Mail
+- StyleNote заметки
+- EBookDroid
+- ElectroDroid
+- Acode
+- Переводчик
+- Секундомер
+
 
 ## Сеть
 - PingTools
@@ -104,7 +123,7 @@ title: Софт для Android
 
 ## Server
 - kWS
-- primitive ftpd <https://github.com/wolpi/prim-ftpd/releases>
+- primitive ftpd. [Скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - IP Webcam
 - TotalCmd-WiFi-обмен
 - 
@@ -113,35 +132,6 @@ title: Софт для Android
 ## источник
 Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
 
-## МЕДИА
-PowerTube - 
-Flow - 
-Flud - 
-Loader Droid - 
-
-
-## ИНТЕРНЕТ
-OpenVPN - 
-Opera Mini - 
-Opera Браузер - 
-Unified Remote - 
-Remote Ripple VNC - 
-AnyDesk - 
-Яндекс.Карты - 
-
-## ОБЩЕНИЕ
-Aqua Mail - 
-
-## ОФИС
-StyleNote заметки - 
-Microsoft Office - 
-ReadEra - 
-EBookDroid - 
-ElectroDroid - 
-Acode - 
-Калькулятор++ - 
-Переводчик - 
-Секундомер - 
 
 ## СИСТЕМА
 AdAway - 
