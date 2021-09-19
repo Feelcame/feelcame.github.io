@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T22:09:12+03:00
+modified: 2021-09-19T22:11:27+03:00
 title: Софт для Android
 ---
 
@@ -42,7 +42,8 @@ title: Софт для Android
 - Wink (мод)
 
 ## Медиа редакторы
-- PicSay – фоторедактор. [скачать](#). [шрифты](#). [4pda](#)
+- PicSay – фоторедактор.  
+  [скачать](#). [шрифты](#). [4pda](#)
 - XRecorder  – запись экрана
 - Hi-Q MP3 Recorder – диктофон
 
@@ -110,7 +111,7 @@ title: Софт для Android
 
 ## Server
 - kWS
-- primitive ftpd. [Скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
+- primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - IP Webcam
 - TotalCmd-WiFi-обмен
 - 
