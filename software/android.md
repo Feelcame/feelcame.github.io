@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T20:57:37+03:00
+modified: 2021-09-19T21:00:19+03:00
 title: Софт для Android
 ---
 
@@ -9,11 +9,12 @@ title: Софт для Android
 Короче программы на телефон буду разбивать по категориям. И буду стараться добавлять прямые ссылки на файл. Пусть это даже будет старая версия - зато доступна прямо здесь и сейчас. Обновлять не обещаю.
 
 ## Файлы
-   - ES Проводник 3.2.5
-   - Total Commander 
-   - USB stick plugin 1.3.6 от OperaFan <https://t.me/FeelSoftAn/164>
-   - Sync
-   - RAR
+- ES Проводник 3.2.5
+- Total Commander 
+- USB stick plugin 1.3.6 от OperaFan  
+  <https://t.me/FeelSoftAn/164>
+- Sync
+- RAR
 
 ## Интернет 
 - Opera браузер
@@ -31,12 +32,12 @@ title: Софт для Android
 - MX Player
  
  
-#### Медиа редакторы
+## Медиа редакторы
    - PicSay
    - XRecorder
    - Hi-Q MP3 Recorder
 
-#### Просмотра видео и фильмов
+## Просмотра видео и фильмов
    - Youtube Vanced (мод)
    - NewPipe
    - HD VideoBox (прикрыли)
@@ -44,24 +45,24 @@ title: Софт для Android
    - Кино HD
    - Wink (мод)
  
-#### Скачивание файлов
+## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
 - Flow для rutracker.org
 - Flud торрент клиент
 
-#### Клиенты соц сетей
+## Соц. сети
    - Telegram
    - Viber
    - Instander
 
-#### Менеджеры приложений
+## Менеджеры приложений
    - Aurora Store
    - App Backup&Restore 3.11 (старая, мод)
    - App&Game 4PDA
    - ...
 
-#### Тонкая настройка системы
+## Тонкая настройка системы
    - LuckyPatcher
    - GP Blocker
    - System App Remover <https://t.me/FeelSoftAn/170>
@@ -70,37 +71,37 @@ title: Софт для Android
    - CPU Spy
    - Internet speed meter
 
-#### Офис
+## Офис
    - GitJournal
    - Acode
    - Microsoft Office
    - ReadEra
    - Microsoft Office
 
-#### Сеть
+## Сеть
 - PingTools
 - Network scanner
 - ...
 
-#### карты
+## карты
 - Яндекс карты
 - 2gis
 - on taxi
 - blablacar
 
-#### игры
+## игры
 - shake me
 - ...
 - ...
 
-#### Прочее
+## Прочее
 - Калькулятор++
 - Простой календарь
 - Microsoft Launcher
 - Launcher 3
 - Copy
 
-#### Server
+## Server
 - kWS
 - primitive ftpd <https://github.com/wolpi/prim-ftpd/releases>
 - IP Webcam
@@ -108,17 +109,17 @@ title: Софт для Android
 - 
 
 
-### источник
+## источник
 Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
 
-#### МЕДИА
+## МЕДИА
 PowerTube - 
 Flow - 
 Flud - 
 Loader Droid - 
 
 
-#### ИНТЕРНЕТ
+## ИНТЕРНЕТ
 OpenVPN - 
 Opera Mini - 
 Opera Браузер - 
@@ -127,10 +128,10 @@ Remote Ripple VNC -
 AnyDesk - 
 Яндекс.Карты - 
 
-#### ОБЩЕНИЕ
+## ОБЩЕНИЕ
 Aqua Mail - 
 
-#### ОФИС
+## ОФИС
 StyleNote заметки - 
 Microsoft Office - 
 ReadEra - 
@@ -141,7 +142,7 @@ Acode -
 Переводчик - 
 Секундомер - 
 
-#### СИСТЕМА
+## СИСТЕМА
 AdAway - 
 CPU Spy - 
 Darker Pro - 
@@ -151,7 +152,7 @@ Powerful Control -
 Network Utilities - 
 Titanium Backup - 
 
-#### ИНТЕРФЕЙС и #ПРОЧЕЕ
+## ИНТЕРФЕЙС и #ПРОЧЕЕ
 Клавиатура Google - 
 Internet Speed Meter - 
 Виджет громкости - 
@@ -160,7 +161,10 @@ Launcher<3 -
 Microsoft Launcher - 
 Mi Band Master - 
 
-#### игры
+## игры
 Shake me - #batman
 
 .
+
+## Полезные ссылки
+- ...
