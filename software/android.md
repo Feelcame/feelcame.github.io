@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T23:39:03+03:00
+modified: 2021-09-19T23:46:28+03:00
 title: Софт для Android
 ---
 
@@ -49,31 +49,25 @@ title: Софт для Android
 - XRecorder  – запись экрана
 - Hi-Q MP3 Recorder – диктофон
 
-## Скачивание файлов
-- [LoaderDroid]
-- [Advanced Download Manager][ADM]
-- [Flow] – для rutracker.org
-- [Flud] – торрент клиент
-
-[LoaderDroid]: /
-[ADM]: #
-[Flow]: #
-[Flud]: #
-
+## Загрузки
+- LoaderDroid
+- Advanced Download Manager
+- Flow – для rutracker.org
+- Flud – торрент клиент
 
 ## Соц. сети
 - Telegram
 - Viber
 - Instander
 
-## Менеджеры приложений
+## Маркет (приложений)
 - Aurora Store
 - App Backup&Restore 3.11 (старая, мод)
 - App&Game 4PDA
 
 ## Система
 - LuckyPatcher  
-  [скачать v4.9.6](#), 
+  [скачать 4.9.6](#), 
   [оф.сайт](#)
 - GP Blocker. 
   [4pda](#), [скачать](#)
@@ -116,9 +110,6 @@ title: Софт для Android
 - on taxi
 - blablacar
 
-## Игры
-- shake me
-
 ## Прочее
 - Калькулятор++
 - Простой календарь
@@ -139,7 +130,7 @@ title: Софт для Android
 - IP Webcam
 - TotalCmd-WiFi-обмен
 
-## игры
+## Игры
 - Shake me - #batman
 
 .
