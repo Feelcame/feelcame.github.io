@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:14:20+03:00
+modified: 2021-09-19T21:16:37+03:00
 title: Софт для Android
 ---
 
@@ -18,7 +18,8 @@ title: Софт для Android
 
 ## Интернет 
 - Opera браузер
-- Opera mini 7
+- Opera mini 7 - старая версия
+- 
 
 ## Музыка
 - AIMP
@@ -30,20 +31,19 @@ title: Софт для Android
 ## Видео и фото
 - QuickPic
 - MX Player
- 
+- Youtube Vanced (мод)
+- NewPipe
+- HD VideoBox (прикрыли)
+   - LazyMedia 
+   - Кино HD
+   - Wink (мод)
  
 ## Медиа редакторы
    - PicSay
    - XRecorder
    - Hi-Q MP3 Recorder
 
-## Просмотра видео и фильмов
-   - Youtube Vanced (мод)
-   - NewPipe
-   - HD VideoBox (прикрыли)
-   - LazyMedia 
-   - Кино HD
-   - Wink (мод)
+
  
 ## Скачивание файлов
 - LoaderDroid
