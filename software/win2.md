@@ -1,7 +1,7 @@
 ---
 title: 'FeelSoft - программы на комп'
 date: 2021-09-09T12:19:30+03:00
-modified: 2021-09-17T01:08:50+03:00
+modified: 2021-09-19T21:18:52+03:00
 ---
 
 <table>
@@ -48,6 +48,7 @@ GitHub Desktop, OpenServer, VS Code
  </td>
 </tr>
 </table>
+{: style="width:100%;display:table;"}
 
 ## дублирую без таблиц
 
