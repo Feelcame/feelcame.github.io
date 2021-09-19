@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:52:35+03:00
+modified: 2021-09-19T21:53:33+03:00
 title: Софт для Android
 ---
 
@@ -59,12 +59,12 @@ Aqua Mail -
 ## Скачивание файлов
 - LoaderDroid
 - Advanced Download Manager
-- [Flow] – для rutracker.org. 
+- [**Flow**] – для rutracker.org. 
   [скачать](#)
-- **Flud** – торрент клиент. 
-  [скачать](#)
+- [Flud] – торрент клиент
 
 [Flow]: #
+[Flud]: #
 
 ## Соц. сети
 - Telegram
