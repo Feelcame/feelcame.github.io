@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T22:11:27+03:00
+modified: 2021-09-19T22:26:51+03:00
 title: Софт для Android
 ---
 
@@ -11,7 +11,8 @@ title: Софт для Android
 ## Файлы
 - ES Проводник 3.2.5
 - Total Commander
-- USB stick plugin 1.3.6 от OperaFan. [телега](https://t.me/FeelSoftAn/164)
+- USB stick plugin 1.3.6 от OperaFan. 
+  [телега](https://t.me/FeelSoftAn/164)
 - Sync
 - RAR
 
@@ -42,19 +43,22 @@ title: Софт для Android
 - Wink (мод)
 
 ## Медиа редакторы
-- PicSay – фоторедактор.  
-  [скачать](#). [шрифты](#). [4pda](#)
+- PicSay – фоторедактор  
+  [скачать](#), [шрифты](#), [4pda](#)
 - XRecorder  – запись экрана
 - Hi-Q MP3 Recorder – диктофон
 
 ## Скачивание файлов
-- LoaderDroid
-- Advanced Download Manager
+- [LoaderDroid]
+- [Advanced Download Manager][ADM]
 - [Flow] – для rutracker.org
 - [Flud] – торрент клиент
 
+[LoaderDroid]: /
+[ADM]: #
 [Flow]: #
 [Flud]: #
+
 
 ## Соц. сети
 - Telegram
