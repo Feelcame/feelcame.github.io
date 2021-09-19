@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T21:49:42+03:00
+modified: 2021-09-19T21:52:35+03:00
 title: Софт для Android
 ---
 
@@ -102,7 +102,6 @@ Aqua Mail -
 ## Сеть
 - PingTools
 - Network scanner
-- ...
 
 ## карты
 - Яндекс карты
@@ -112,8 +111,6 @@ Aqua Mail -
 
 ## игры
 - shake me
-- ...
-- ...
 
 ## Прочее
 - Калькулятор++
@@ -130,26 +127,26 @@ Aqua Mail -
 - 
 
 ## СИСТЕМА
-AdAway - 
-CPU Spy - 
-Darker Pro - 
-Google Play Blocker - 
-TTL Master - 
-Powerful Control - 
-Network Utilities - 
-Titanium Backup - 
+- AdAway
+- CPU Spy
+- Darker Pro
+- Google Play Blocker
+- TTL Master
+- Powerful Control
+- Network Utilities
+- Titanium Backup
 
 ## ИНТЕРФЕЙС
-Клавиатура Google - 
-Internet Speed Meter - 
-Виджет громкости - 
-Сканер штрих-кодов - 
-Launcher<3 - 
-Microsoft Launcher - 
-Mi Band Master - 
+- Клавиатура Google
+- Internet Speed Meter
+- Виджет громкости
+- Сканер штрих-кодов
+- Launcher<3
+- Microsoft Launcher
+- Mi Band Master - 
 
 ## игры
-Shake me - #batman
+- Shake me - #batman
 
 .
 
