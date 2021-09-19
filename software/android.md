@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-19T20:52:19+03:00
+modified: 2021-09-19T20:57:37+03:00
 title: Софт для Android
 ---
 
@@ -8,32 +8,33 @@ title: Софт для Android
 
 Короче программы на телефон буду разбивать по категориям. И буду стараться добавлять прямые ссылки на файл. Пусть это даже будет старая версия - зато доступна прямо здесь и сейчас. Обновлять не обещаю.
 
-#### Файлы
+## Файлы
    - ES Проводник 3.2.5
    - Total Commander 
    - USB stick plugin 1.3.6 от OperaFan <https://t.me/FeelSoftAn/164>
    - Sync
    - RAR
 
-#### Интернет 
+## Интернет 
 - Opera браузер
 - Opera mini 7
 
-#### Музыка
+## Музыка
    - AIMP
    - PlayerPro
    - Яндекс музыка (мод)
    - Spotify
    - Shazam
 
-#### Просмотр видео и фото
-   - MX Player
-   - QuickPic
+## Видео и фото
+- QuickPic
+- MX Player
+ 
  
 #### Медиа редакторы
    - PicSay
    - XRecorder
-   - Hi-Q MP3 Recorder 
+   - Hi-Q MP3 Recorder
 
 #### Просмотра видео и фильмов
    - Youtube Vanced (мод)
