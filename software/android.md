@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-20T00:53:32+03:00
+modified: 2021-09-21T00:12:17+03:00
 title: Софт для Android
 ---
 
@@ -12,8 +12,8 @@ title: Софт для Android
 ## Файлы
 - ES Проводник 3.2.5
 - Total Commander
-- USB stick plugin 1.3.6 от OperaFan. 
-  [телега](https://t.me/FeelSoftAn/164)
+- USB stick plugin 1.3.6 от OperaFan.  
+[скачать](https://tlgur.com/d/GVqJmM68), [телега](https://t.me/FeelSoftAn/164)
 - Sync
 - RAR
 
@@ -120,7 +120,7 @@ title: Софт для Android
 - Launcher 3
 - Copy
 - Клавиатура Google
-- Internet Speed Meter
+- Internet Speed Meter. [v1.5.9android6](https://tlgur.com/d/G7BY5Nd8), 
 - Виджет громкости
 - Сканер штрих-кодов
 - Launcher<3
