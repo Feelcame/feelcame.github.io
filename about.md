@@ -6,7 +6,7 @@ comments: true
 ---
 
 **Внимание! Поиск перекинет на другой сайт**
-<form name="search" method="get" action="https://github.com/Feelcame/linker.pp.ua/search">
+<form name="search" method="get" target="_blank" action="https://github.com/Feelcame/linker.pp.ua/search">
     <input type="search" name="q" placeholder="Поиск">
     <button type="submit">Найти</button> 
 </form>
