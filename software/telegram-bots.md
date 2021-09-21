@@ -8,15 +8,13 @@ title: Telegram-боты
 Здесь соберу список самых интересных по моему мнению ботов
 
 ## Важно
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
-[**@**](https://t.me/)
+- [**@**](https://t.me/)
+- [**@**](https://t.me/)
+- [**@**](https://t.me/)
+- [**@**](https://t.me/)
+- [**@**](https://t.me/)
+- [**@**](https://t.me/)
+
 
 ## Ютуб
 <aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside>
