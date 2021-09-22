@@ -96,10 +96,10 @@ modified: 2021-05-30T10:33:32+03:00
 ### Разновидности футпринотов
 <http://lehih80.blogspot.com/2017/07/smd.html>
 
-<details markdown="1"><summary>спойлер</summary>
+<details markdown="1"><summary>спойлер. SMD резисторы</summary>
 ![image](https://user-images.githubusercontent.com/17731587/125964908-1f234bae-b865-4f63-bde5-f72e4305fa06.png)
 </details>
-<details markdown="1"><summary>спойлер</summary>
+<details markdown="1"><summary>спойлер. SMD-конденсаторы</summary>
 ![image](https://user-images.githubusercontent.com/17731587/125965015-2595e13e-57ab-4de5-bdd0-0e9386b8d625.png)
 </details>
 
