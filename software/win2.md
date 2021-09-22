@@ -84,3 +84,8 @@ GitHub Desktop, OpenServer, VS Code
 
 ##### **Обновления**
 Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
+
+<details markdown="1"><summary>+ Открой спойлер что бы посмотреть что есть в телеграм-канале</summary>
+<aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside>
+</details>
+
