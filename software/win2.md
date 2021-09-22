@@ -39,7 +39,7 @@ GitHub Desktop, OpenServer, VS Code
 Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
 
 <details markdown="1"><summary>+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
-  <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a></center><br>
-  <aside><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside>
+  <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a></center>
+  <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script>
 </details>
 
