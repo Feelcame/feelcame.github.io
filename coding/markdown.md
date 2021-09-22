@@ -86,7 +86,7 @@ title: Markdown
 
 
 ## Полезные ссылки
-
+* [официальная дока от github](https://guides.github.com/features/mastering-markdown/)
 * kramdown: <https://kramdown.gettalong.org/converter/html.html>  
 * <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
 
