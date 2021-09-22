@@ -44,7 +44,7 @@ GitHub Desktop, OpenServer, VS Code
 </td>
 <td width="20%">
   <a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a><br>
-  <aside1><script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script></aside1>
+  <aside1><iframe id="telegram-post-FeelSoftWin-125" src="https://t.me/FeelSoftWin/125?embed=1" width="100%" height="" frameborder="0" scrolling="no" style="overflow: hidden; border: none; min-width: 320px; height: 1755px;"></iframe></aside1>
  </td>
 </tr>
 </table>
