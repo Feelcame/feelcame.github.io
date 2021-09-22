@@ -12,11 +12,11 @@ comments: true
 </form>
 
 Сайт для себя, работает как ***записная книжка*** и шпаргалка на будущее.  
-Если информация на сайте полезная, но ты считаешь что нужно что-то большее - [закажи разработку за деньги](#мои-контакты)
+Если хочешь поддержать материально - [закажи разработку за деньги](#мои-контакты)
 
 ### Мои контакты 
-Telegran: [@feelcame](https://t.me/feelcame) (приватно)  
-GitHub: [Issues](https://github.com/Feelcame/feelcame.github.io/issues) (публично)  
+Telegram: [@feelcame](https://t.me/feelcame) (приватно)  
+GitHub: [issues](https://github.com/Feelcame/feelcame.github.io/issues) (публично)  
 По работе: _корпоративный email_ (напишу сам)
 
 ### Черновички
