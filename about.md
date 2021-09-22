@@ -15,8 +15,8 @@ comments: true
 Если хочешь поддержать материально - [закажи разработку за деньги](#мои-контакты)
 
 ### Мои контакты 
-Telegram: [@feelcame](https://t.me/feelcame) (приватно)  
-GitHub: [issues](https://github.com/Feelcame/feelcame.github.io/issues) (публично)  
+Telegram: [@feelcame](https://t.me/feelcame) (приватно. писать сюда)  
+GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions) (публично)  
 По работе: _корпоративный email_ (напишу сам)
 
 ### Черновички
