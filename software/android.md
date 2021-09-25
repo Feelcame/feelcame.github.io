@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-21T00:12:17+03:00
+modified: 2021-09-25T11:11:06+03:00
 title: Софт для Android
 ---
 
@@ -13,7 +13,7 @@ title: Софт для Android
 
 ## Файлы
 - ES Проводник 3.2.5
-- Total Commander
+- Total Commander. [v3.23](https://tlgur.com/d/GW1rxPb4)
 - USB stick plugin 1.3.6 от OperaFan.  
 [скачать](https://tlgur.com/d/GVqJmM68), [телега](https://t.me/FeelSoftAn/164)
 - Sync
