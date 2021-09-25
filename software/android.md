@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-09-25T11:11:06+03:00
+modified: 2021-09-25T11:24:47+03:00
 title: Софт для Android
 ---
 
@@ -28,7 +28,7 @@ title: Софт для Android
 - AnyDesk
 
 ## Музыка
-- AIMP
+- AIMP. [v3.10](#), [latest](http://www.aimp.ru/?do=download&os=android)
 - PlayerPro
 - Яндекс музыка (мод)
 - Spotify
