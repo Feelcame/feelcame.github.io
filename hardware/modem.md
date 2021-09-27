@@ -20,6 +20,7 @@ title: Выбор 4G-модема с Wi-Fi
 - роутер тплинк. маленький, 400грн
 - роутер Netis MW5230. три антенны, 400грн
 - [Huawei E3372h-320](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_huawei_e3372h-320.html) 1100грн
+- Huawei E3276 4G. Олег такой юзает
 - ссылка на олх
 - список модемов
 - 
