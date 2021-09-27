@@ -1,8 +1,7 @@
 ---
-modified: 2021-09-27T05:04:32+03:00
+modified: 2021-09-27T05:05:21+03:00
+title: Выбор 4G-модема с Wi-Fi
 ---
-
-## Выбор 4G-модема с Wi-Fi
 
 ## USB- модем с WiFi
 - [Ergo W02](https://elmir.ua/3g_4g_modems_and_routers/4g_router_ergo_w02.html) 832грн
