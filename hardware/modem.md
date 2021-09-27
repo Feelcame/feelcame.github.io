@@ -1,13 +1,12 @@
 ---
-modified: 2021-09-27T04:58:51+03:00
+modified: 2021-09-27T05:03:00+03:00
 ---
 
 ## Выбор 4G-модема с Wi-Fi
 
 ## USB- модем с WiFi
-- [Huawei e8372h-320](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_huawei_e3372h-320.html)
-- [Ergo 82e](#)
-- [ZTE e72](#)
+- [Ergo W02](https://elmir.ua/3g_4g_modems_and_routers/4g_router_ergo_w02.html)
+- [ZTE MF72u](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_zte_mf79u.html)
 
 - e8372-153
 - e8278
@@ -15,7 +14,7 @@ modified: 2021-09-27T04:58:51+03:00
 - mf90
 - mf90+
 
-Самый дешёвый модем с вайфай на Али стоит 500 грн. Перегревается 
+Самый дешёвый модем с вайфай на Али стоит 500 грн. Перегревается. Плохо ловит сеть
 
 ## модем + роутер
 - роутер тплинк
