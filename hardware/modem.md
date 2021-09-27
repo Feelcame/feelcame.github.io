@@ -1,5 +1,5 @@
 ---
-modified: 2021-09-27T05:10:34+03:00
+modified: 2021-09-27T05:15:36+03:00
 title: Выбор 4G-модема с Wi-Fi
 ---
 
@@ -7,7 +7,7 @@ title: Выбор 4G-модема с Wi-Fi
 - [Ergo W02](https://elmir.ua/3g_4g_modems_and_routers/4g_router_ergo_w02.html) 832грн
 - [ZTE MF72u](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_zte_mf79u.html) 999грн
 - [Роутер Tenda 4G03](https://elmir.ua/3g_4g_modems_and_routers/4g_router_tenda_4g03.html) большой 1444грн
-- ...
+- Huawei E8372-320. [olx](https://www.olx.ua/d/obyavlenie/router-mobilnyy-huawei-e8372h-320-4g-lte-wi-fi-vse-chastoty-IDMtY7c.html)
 - e8372-153
 - e8278
 - e5573
