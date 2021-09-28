@@ -11,10 +11,12 @@ modified: 2021-09-27T05:23:14+03:00
 - [ZTE MF72u](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_zte_mf79u.html) 999грн
 - E8278. 3000 грн. Откидной коннектор USB
 - [Самый дешёвый китай-модем](https://4pda.to/forum/index.php?showtopic=849043) с вайфай на Али стоит 500 грн. Перегревается. Плохо ловит сеть
-
+- е8372 (кроме болтов и теленоров) в модификациях 153, 607, 608
+- е8278 (любые)
+- 
 ## Модем с аккумалятором и Wi-Fi
-- Huawei E5573. 1200грн
-- ZTE MF90+ или mf90. Не работает без акб. но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
+- Huawei E5573 (кроме болтов и теленовор) в модификациях 156, 320, 322. Цена 1200грн
+- ZTE mf90, mf90+, (мтс 833f/ft - нафиг). Не работает без акб. но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
 
 ## Просто USB-свисток
 - [Huawei E3372h-320](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_huawei_e3372h-320.html). 1100грн. Не прошивается
@@ -43,3 +45,5 @@ modified: 2021-09-27T05:23:14+03:00
 - <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
 - <https://lanmarket.ua/besprovodnoe-oborudovanie-/>
 - <https://setevuha.ua/setevoe-oborudovanie/>
+
+
