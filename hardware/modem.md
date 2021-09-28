@@ -37,3 +37,9 @@ modified: 2021-09-27T05:23:14+03:00
 - AnyDATA W150
 - HUAWEI E392
 - ZTE MF823D
+
+
+## Операторское оборудование
+- <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
+- <https://lanmarket.ua/besprovodnoe-oborudovanie-/>
+- <https://setevuha.ua/setevoe-oborudovanie/>
