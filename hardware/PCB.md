@@ -62,36 +62,7 @@ modified: 2021-05-30T10:33:32+03:00
 Диайвайщики и мамкины хацкеры тут?
 
 ### Купить компоненты
-* <https://www.digikey.com/> - норм
-* <https://eu.mouser.com/> - норм 
-* <https://lcsc.com/> - норм. китай. база для JLC
-* <https://ru.farnell.com/> - хз
-* <https://www.rs-online.com/> - долго. англия
-* <https://catalog.vdmais.ua/> - тормозной сайт. норм асортимент
-* <https://imrad.com.ua/> - норм
-* <http://www.kosmodrom.com.ua/catalog.php> - норм. харьков. плохой поиск. дешевые цены
-* <https://www.rcscomponents.kiev.ua/catalog> - норм. харьков. хороший поиск
-* <https://radar.org.ua> - норм. харьков. мало компонентов
-* ...
-* <https://www.findchips.com/search/rt9013>
-* <https://3v3.com.ua/> - модули с али
-* <https://signal.net.ua/> 
-* <https://voron.ua/> - плохие отзывы, брак
-* <https://www.seeedstudio.com/> - тут футпринты беру
-* <https://www.newark.com/>
-* <https://www.sea.com.ua/ua/elektronnye-komponenty/>
-* <http://triod.kiev.ua/> - лампы
-* <http://radiomarket.lg.ua/> 
-* <https://masteram.com.ua/uk/> - измерительное оборудрование
-* <https://radio-shop.com.ua/>
-* <https://radioshop.by/> - ьеларусь
-* <https://radiomart.kz/> - казахстан
-* <https://www.gearbest.com/> - онлайн магазин типа алисекспреса
-* <https://www.jameco.com/>
-* <https://www.qrz.ru/stores/sparkfun/>
-* <https://www.futureelectronics.com/>
-* <https://aliexpress.com> - китайский супермаркет. много подделок.
-* <https://prom.ua> - украинский онлайн-базар. есть все, в т.ч. компоненты
+Раздел переехал на отдельную страницу: [ссылка](buy-parts.md)
 
 ### Разновидности футпринотов
 <http://lehih80.blogspot.com/2017/07/smd.html>
