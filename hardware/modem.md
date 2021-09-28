@@ -29,7 +29,7 @@ modified: 2021-09-27T05:23:14+03:00
 
 ## Роутер с Wi-Fi, Ethernet и встроенным модемом
 - [Роутер Tenda 4G03](https://elmir.ua/3g_4g_modems_and_routers/4g_router_tenda_4g03.html) большой 1444грн
-- Mikrotik тарелка
+- Тарелка Mikrotik LHGG LTE6 kit
 
 ## Просто интересные варианты
 - если надо подешевле - можно взять 3g модем. Напимер ZTE MF667
