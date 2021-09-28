@@ -14,14 +14,12 @@ modified: 2021-09-27T05:23:14+03:00
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573. 1200грн
-- ZTE MF90+. Не работает без акб. но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
-- mf90
+- ZTE MF90+ или mf90. Не работает без акб. но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
 
 ## Просто USB-свисток
 - [Huawei E3372h-320](https://elmir.ua/3g_4g_modems_and_routers/4g_modem_huawei_e3372h-320.html) 1100грн
 - Huawei E3276. 800грн. Олег такой юзает. Но лучше с внешней антеной
-- E3276s-210 или E3272s-210, или Е3272s-153
-- список модемов
+- Список модемов для роутера. E3276s-210 или E3272s-210, или Е3272s-153. Продаются [на Olx](https://www.olx.ua/d/obyavlenie/e8372h-320-IDMtY7c.html)
 
 ## Wi-Fi роутер с USB для модема
 - роутер TP-Link TL MR3020 (v3.20). 400грн. Маленький
