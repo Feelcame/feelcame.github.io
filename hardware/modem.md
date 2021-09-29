@@ -46,6 +46,7 @@ modified: 2021-09-27T05:23:14+03:00
 - AnyDATA W150. Похоже тот же китай роутер
 - HUAWEI E392
 - ZTE MF823. Пишут что это лучший в истории ZTE
+- автомобильный вайфай модем Huawei e8377
 
 ## Операторское оборудование
 - <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
