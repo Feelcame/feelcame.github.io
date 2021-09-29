@@ -47,6 +47,7 @@ modified: 2021-09-27T05:23:14+03:00
 - HUAWEI E392
 - ZTE MF823. Пишут что это лучший в истории ZTE
 - автомобильный вайфай модем Huawei e8377
+- Модем 3G с вайфай E8231/e355
 
 ## Операторское оборудование
 - <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
