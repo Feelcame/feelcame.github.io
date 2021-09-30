@@ -80,5 +80,5 @@ modified: 2021-05-30T10:33:32+03:00
 - [7 правил проектирования печатных плат](https://habr.com/ru/post/414141/)
 - [Создание связности_AD
 ](https://www.altium.com/ru/documentation/altium-designer/creating-connectivity-ad?version=18.1)
-- [Altium Designer: что делать если проект стал сложным?
-](https://habr.com/ru/post/426951/)
+- [Altium Designer: что делать если проект стал сложным?](https://habr.com/ru/post/426951/)
+- <https://www.rezonit.ru/articles/tekhnika-razvodki-pechatnykh-plat/>
