@@ -13,7 +13,7 @@ modified: 2021-09-27T05:23:14+03:00
 - [ZTE W02](https://elmir.ua/3g_4g_modems_and_routers/4g_router_ergo_w02.html), он же Ergo W02. 832грн. Вроде норм
 - ZTE MF72u. 1000грн
 - ZTE MF79U. 1100грн
-- **Китайщина:** AnyDATA W150, [Самый дешёвый китай-модем](https://4pda.to/forum/index.php?showtopic=849043) с вайфай на Али стоит от 500 грн. Перегревается. Плохо ловит сеть
+- **Китайщина:** [Olax u80/u90](https://olx.ua/702763471) (only B3), AnyDATA W150, [Самый дешёвый китай-модем](https://4pda.to/forum/index.php?showtopic=849043) с вайфай на Али стоит от 500 грн. Перегревается. Плохо ловит сеть
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** Huawei E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
 
