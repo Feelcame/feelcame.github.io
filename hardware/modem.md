@@ -53,10 +53,11 @@ modified: 2021-09-27T05:23:14+03:00
 ## Просто интересные варианты
 - перенастроитть старенький телефон на роздачу
 
-## Операторское оборудование
+## Полезные ссылки
 - <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
 - <https://lanmarket.ua/besprovodnoe-oborudovanie-/>
 - <https://setevuha.ua/setevoe-oborudovanie/>
 - <https://antex-e.ru/store/39004/>
+- <https://3g-digger.com/>
 
 
