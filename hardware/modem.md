@@ -58,3 +58,4 @@ modified: 2021-10-01T11:07:20+03:00
 - <https://setevuha.ua/setevoe-oborudovanie/>
 - <https://antex-e.ru/store/39004/>
 - <https://3g-digger.com/>
+- <https://www.micro-drive.ru/products/>
