@@ -16,24 +16,26 @@ modified: 2021-10-03T00:20:18+03:00
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
 - <details markdown="1"><summary>Китайщина</summary>
   - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
-  - Только B1/B3: 
-  [Tianjie UF-902-1](https://aliexpress.ru/item/33011621445.html)-$15.75, 
-  [Tianjie UF903-1](https://aliexpress.ru/item/32951351640.html)-$15.75, 
-  [Tianjie UF-904-1](https://aliexpress.ru/item/4000291960023.html)-$15.75, 
-  [4G-UFI-XX](#)-$15, 
-  [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
-  UF725-$22, 
-  [H80 с аккумом](https://aliexpress.ru/item/1005003065277530.html)-$23, 
-  [Olax u80/u90](https://olx.ua/702763471), 
-  AnyDATA W150, 
-  - Поддержка B3/B7: 
-  [TIANJIE MF783-3](https://aliexpress.ru/item/4000291960023.html)-$28
-  [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22,  [LDW931-2](https://www.aliexpress.com/item/4000444254077.html)-$22, 
-  [Tianjie LDW922E/LDW923D](https://aliexpress.ru/item/4001191990200.html)-$27
-  - Только 3G(7.2мбит): [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, UFI_UF230XXX, [за $13](https://aliexpress.ru/item/1005002124424135.html), 
-  [за $12](https://aliexpress.ru/item/4000208102252.html)
-
-</details>
+  - Дешман клоны для B1/B3: 
+    Tianjie UF-902-1[-$15.75](https://aliexpress.ru/item/33011621445.html), 
+    Tianjie UF903-1-[$15.75](https://aliexpress.ru/item/32951351640.html), 
+    Tianjie UF-904-1. [$15.75](https://aliexpress.ru/item/4000291960023.html), 
+    [4G-UFI-XX](#)-$15, 
+    [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
+    UF725-$22, 
+    [H80 с аккумом](https://aliexpress.ru/item/1005003065277530.html)-$23, 
+    [Olax u80/u90](https://olx.ua/702763471), 
+    AnyDATA W150, 
+  - Поддержка B1/B3/B7: 
+    [TIANJIE MF783-3](https://aliexpress.ru/item/4000291960023.html)-$28, 
+    [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22, 
+    [LDW931-2](https://www.aliexpress.com/item/4000444254077.html)-$22, 
+    [Tianjie LDW922E/LDW923D](https://aliexpress.ru/item/4001191990200.html)-$27, 
+  - Только 3G(7.2мбит): 
+    [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
+    UFI_UF230XXX, [за $13](https://aliexpress.ru/item/1005002124424135.html), 
+    [за $12](https://aliexpress.ru/item/4000208102252.html) 
+  </details>
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
