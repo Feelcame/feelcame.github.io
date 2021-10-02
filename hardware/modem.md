@@ -19,9 +19,9 @@ modified: 2021-10-01T11:07:20+03:00
   [4G-UFI-XX](https://aliexpress.ru/item/32855389039.html), 
   [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
   UF725-$22, 
-- Поддержка B3/B7: [U8 на чипе 9207](https://aliexpress.ru/item/1005003298327779.html)-$22. 
-  LDW931-2-$22. [али](https://www.aliexpress.com/item/4000444254077.html), 
-  LDW922-$27
+- Поддержка B3/B7: [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22. 
+  LDW922-$27, [LDW931-2](https://www.aliexpress.com/item/4000444254077.html)-$22, 
+  
 - Только 3G до 7.2мбит: 
   [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
   UFI_UF230XXX, 
