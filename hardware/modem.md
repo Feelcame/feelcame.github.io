@@ -14,7 +14,7 @@ modified: 2021-10-03T00:20:18+03:00
 - **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-- <details markdown="1"><summary>Китайщина</summary>
+- **Китайщина**
   - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
   - Дешман клоны для B1/B3: 
     Tianjie UF-902-1[-$15.75](https://aliexpress.ru/item/33011621445.html), 
@@ -34,7 +34,12 @@ modified: 2021-10-03T00:20:18+03:00
   - Только 3G(7.2мбит): 
     [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
     UFI_UF230XXX, [за $13](https://aliexpress.ru/item/1005002124424135.html), 
-    [за $12](https://aliexpress.ru/item/4000208102252.html)</details>
+    [за $12](https://aliexpress.ru/item/4000208102252.html)
+    
+<details markdown="1"><summary>Китайщина</summary>
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
+</details>
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
