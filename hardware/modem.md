@@ -14,12 +14,16 @@ modified: 2021-10-03T00:20:18+03:00
 - **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-- **Китайщина**
-  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
-  - Дешман клоны для B1/B3: 
-    Tianjie UF-902-1[-$15.75](https://aliexpress.ru/item/33011621445.html), 
-    Tianjie UF903-1-[$15.75](https://aliexpress.ru/item/32951351640.html), 
-    Tianjie UF-904-1. [$15.75](https://aliexpress.ru/item/4000291960023.html), 
+- Китайщина: <details markdown="1"><summary>Китайщина</summary>
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043), 
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
+</details>
+- Китайщина
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
+- Дешман B1/B3: 
+    Tianjie UF902-1 [$15.75](https://aliexpress.ru/item/33011621445.html), 
+    Tianjie UF903-1 [$15.75](https://aliexpress.ru/item/32951351640.html), 
+    Tianjie UF904-1 [$15.75](https://aliexpress.ru/item/4000291960023.html), 
     [4G-UFI-XX](#)-$15, 
     [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
     UF725-$22, 
@@ -36,10 +40,7 @@ modified: 2021-10-03T00:20:18+03:00
     UFI_UF230XXX, [за $13](https://aliexpress.ru/item/1005002124424135.html), 
     [за $12](https://aliexpress.ru/item/4000208102252.html)
     
-<details markdown="1"><summary>Китайщина</summary>
-- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
-- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
-</details>
+
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
