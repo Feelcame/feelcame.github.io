@@ -16,7 +16,7 @@ modified: 2021-10-01T11:07:20+03:00
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
 - **Китайщина:** [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
 - Только B1/B3: 
-  [4G-UFI-XX](https://aliexpress.ru/item/32855389039.html), 
+  [4G-UFI-XX](#)-$15, 
   [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
   UF725-$22, 
   [H80 с аккумом](https://aliexpress.ru/item/1005003065277530.html)-$23, 
