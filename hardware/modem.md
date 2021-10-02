@@ -1,7 +1,7 @@
 ---
 title: Выбор 4G-модема с Wi-Fi
 date: 2021-09-27T05:23:14+03:00
-modified: 2021-10-03T00:10:55+03:00
+modified: 2021-10-03T00:13:41+03:00
 ---
 
 - Мои критерии выбора: низкая цена, простота настройки, надежность, устойчивость сигнала, маленький размер, без акб который сгнивает за пол года, возможность прошивки для фиксации TTL и смены IMEI, доступность в продаже, встроенный Wi-Fi, поддержка украинских бэндов B1/3/7
@@ -14,10 +14,9 @@ modified: 2021-10-03T00:10:55+03:00
 - **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-
-<details markdown="1"><summary>**Китайщина**</summary>
-- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
-- Только B1/B3: 
+- <details markdown="1"><summary>**Китайщина**</summary>
+  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
+  - Только B1/B3: 
   [Tianjie UF-902-1](https://aliexpress.ru/item/33011621445.html)-$15.75, 
   [Tianjie UF903-1](https://aliexpress.ru/item/32951351640.html)-$15.75, 
   [Tianjie UF-904-1](https://aliexpress.ru/item/4000291960023.html)-$15.75, 
@@ -27,16 +26,17 @@ modified: 2021-10-03T00:10:55+03:00
   [H80 с аккумом](https://aliexpress.ru/item/1005003065277530.html)-$23, 
   [Olax u80/u90](https://olx.ua/702763471), 
   AnyDATA W150, 
-- Поддержка B3/B7: 
+  - Поддержка B3/B7: 
   [TIANJIE MF783-3](https://aliexpress.ru/item/4000291960023.html)-$28
   [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22, 
   [LDW931-2](https://www.aliexpress.com/item/4000444254077.html)-$22, 
   [Tianjie LDW922E/LDW923D](https://aliexpress.ru/item/4001191990200.html)-$27
-- Только 3G(7.2мбит): 
+ - Только 3G(7.2мбит): 
   [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
   UFI_UF230XXX,
 [за $13](https://aliexpress.ru/item/1005002124424135.html), 
   [за $12](https://aliexpress.ru/item/4000208102252.html)
+
 </details>
 
 ## Модем с аккумалятором и Wi-Fi
