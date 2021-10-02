@@ -11,15 +11,22 @@ modified: 2021-10-01T11:07:20+03:00
 - [Huawei E8372h-320](#elmir). Внимание! Не прошивается. 
 - Huawei E8278 (любые). Прошивается. Откидной коннектор USB
 - [ZTE W02](https://elmir.ua/3g_4g_modems_and_routers/4g_router_ergo_w02.html), он же Ergo W02. 832грн. Вроде норм. $31
-- ZTE MF72u. 1000грн
-- ZTE MF79U. 1100грн
+- **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
-- **Модемы для сетей 3G:** Huawei E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-- **Китайщина:** Самый дешёвый китай-модем с вайфай с Qualcomm 9200 на Али стоит $15. Только B1/B3. И то плохо. Перегревается. [4pda](https://4pda.to/forum/index.php?showtopic=849043) 
-- [4G-UFI-XX](https://aliexpress.ru/item/32855389039.html), [A701](https://aliexpress.ru/item/32910311042.html)-$20, UF725-$22, 
-- LDW922-$27, LDW931-2-$22. [али](https://www.aliexpress.com/item/4000444254077.html)
-- [U8](https://aliexpress.ru/item/1005003298327779.html). Чип Qualcomm 9207. Поддержка B3/B7. $22
-- Китай-модем 3G с WiFi на Qualcom MSM7227. Максимум 7.2 мбит. [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, UFI_UF230XXX, [за $13](https://aliexpress.ru/item/1005002124424135.html), [за $12](https://aliexpress.ru/item/4000208102252.html)
+- **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
+- **Китайщина:** [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043) 
+- Только B1/B3: 
+  [4G-UFI-XX](https://aliexpress.ru/item/32855389039.html), 
+  [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
+  UF725-$22, 
+- Поддержка B3/B7: [U8 на чипе 9207](https://aliexpress.ru/item/1005003298327779.html)-$22. 
+  LDW931-2-$22. [али](https://www.aliexpress.com/item/4000444254077.html), 
+  LDW922-$27
+- Только 3G до 7.2мбит: 
+  [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
+  UFI_UF230XXX, 
+  [за $13](https://aliexpress.ru/item/1005002124424135.html), 
+  [за $12](https://aliexpress.ru/item/4000208102252.html)
 - с аккумом [Model H80 for B1/B3](https://aliexpress.ru/item/1005003065277530.html)
 - [Olax u80/u90](https://olx.ua/702763471) (only B3), AnyDATA W150, 
 
@@ -28,7 +35,7 @@ modified: 2021-10-01T11:07:20+03:00
 - Huawei e5372-215/e5577/e5776
 - ZTE mf90, mf90+, (мтс 833f/ft - нафиг). Не работает без акб. Но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
 - ZTE r216(mf910), mf920u  
-- Предлагаем модели производства Huawei: e589 e5783 Zte: Mf93d Mf971 Alcatel: Mw40 Mw70 [Олх](https://www.olx.ua/664017921)
+- Huawei: e589 e5783 Zte: Mf93d Mf971 Alcatel: Mw40 Mw70 [Олх](https://www.olx.ua/664017921)
 - AirCard 791L. 1900грн. Встроен GPS и CDMA
 - **Модемы для сетей 3G:** mf60 mf65
 
@@ -50,7 +57,7 @@ modified: 2021-10-01T11:07:20+03:00
   [M1_51161C](https://aliexpress.ru/item/1299388604.html)-$11, 
   [LW_A0510](https://aliexpress.ru/item/1299388604.html)-$11, 
   [3G-wifi-xxxx](https://aliexpress.ru/item/4000243977905.html)-$8,
-  [3G-wifi-xxxx без коробки](https://aliexpress.ru/item/32855389039.html)-$7.83,
+  [без коробки](https://aliexpress.ru/item/32855389039.html)-$7.83,
 - 
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
