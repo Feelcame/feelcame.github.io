@@ -53,7 +53,8 @@ modified: 2021-10-01T11:07:20+03:00
 
 ## Уличные решения
 - MikroTik LHGG LTE6 kit. С отражателем в форме тарелки. Большая. Крепистся на мачту. Очень быстрая. Подключается через ethernet. Цена $200
-- [Microdriv NR-400](https://www.micro-drive.ru/products/ulichnyij-router-nr-400). Компактный 4G/3G/2G роутер С POE. Цена $100
+- [Microdrive NR-400](https://www.micro-drive.ru/products/ulichnyij-router-nr-400). Компактный 4G/3G/2G роутер С POE. Цена $100
+- [Антекс Unibox Active 4](https://antex-e.ru/store/39004/?pos=914996)
 - **Китайщина:** KuWFi, COMFAST, Tianjie. С виду все на одно лицо, возможно и на одном заводе производятся. Цена около $50
 
 
@@ -62,6 +63,6 @@ modified: 2021-10-01T11:07:20+03:00
 - <https://lantorg.com/catalog/oborudovanie-dlya-besprovodnyh-setej>
 - <https://lanmarket.ua/besprovodnoe-oborudovanie-/>
 - <https://setevuha.ua/setevoe-oborudovanie/>
-- <https://antex-e.ru/store/39004/>
+- <https://antex-e.ru/store/39004/?pos=914971>
 - <https://3g-digger.com/>
 - <https://www.micro-drive.ru/products/>
