@@ -14,21 +14,22 @@ modified: 2021-10-01T11:07:20+03:00
 - **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-- **Китайщина:** [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043) 
+- **Китайщина:** [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
 - Только B1/B3: 
   [4G-UFI-XX](https://aliexpress.ru/item/32855389039.html), 
   [A701](https://aliexpress.ru/item/32910311042.html)-$20, 
   UF725-$22, 
-- Поддержка B3/B7: [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22. 
+  [H80 с аккумом](https://aliexpress.ru/item/1005003065277530.html)-$23, 
+  [Olax u80/u90](https://olx.ua/702763471), 
+  AnyDATA W150, 
+- Поддержка B3/B7: [Модем U8](https://aliexpress.ru/item/1005003298327779.html)-$22, 
   LDW922-$27, [LDW931-2](https://www.aliexpress.com/item/4000444254077.html)-$22, 
-  
-- Только 3G до 7.2мбит: 
+- Только 3G(7.2мбит): 
   [UFI-MF230_XXX](https://aliexpress.ru/item/32812483460.html)-$14, 
   UFI_UF230XXX, 
   [за $13](https://aliexpress.ru/item/1005002124424135.html), 
   [за $12](https://aliexpress.ru/item/4000208102252.html)
-- с аккумом [Model H80 for B1/B3](https://aliexpress.ru/item/1005003065277530.html)
-- [Olax u80/u90](https://olx.ua/702763471) (only B3), AnyDATA W150, 
+  
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
