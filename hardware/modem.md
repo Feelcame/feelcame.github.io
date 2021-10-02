@@ -33,7 +33,7 @@ modified: 2021-10-01T11:07:20+03:00
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
 - Huawei e5372-215/e5577/e5776
-- ZTE mf90, mf90+, (мтс 833f/ft - нафиг). Не работает без акб. Но есть [шаманский способ](https://4pda.to/forum/index.php?s=&showtopic=686258&view=findpost&p=63790090)
+- ZTE mf90, mf90+, (мтс 833f/ft - нафиг)
 - ZTE r216(mf910), mf920u  
 - Huawei: e589 e5783 Zte: Mf93d Mf971 Alcatel: Mw40 Mw70 [Олх](https://www.olx.ua/664017921)
 - AirCard 791L. 1900грн. Встроен GPS и CDMA
