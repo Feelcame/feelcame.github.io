@@ -50,7 +50,7 @@ modified: 2021-10-01T11:07:20+03:00
   [M1_51161C](https://aliexpress.ru/item/1299388604.html)-$11, 
   [LW_A0510](https://aliexpress.ru/item/1299388604.html)-$11, 
   [3G-wifi-xxxx](https://aliexpress.ru/item/4000243977905.html)-$8,
-  [без коробки]-$7.5,
+  [3G-wifi-xxxx без коробки](https://aliexpress.ru/item/32855389039.html)-$7.83,
 - 
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
