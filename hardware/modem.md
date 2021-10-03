@@ -18,10 +18,10 @@ modified: 2021-10-03T00:20:18+03:00
 
 ## Модем с аккумалятором и Wi-Fi
 - Huawei E5573-156/320/322 (кроме болтов и теленовор). Цена 860грн
-- Huawei e5372-215/e5577/e5776
+- Huawei e5372-215, e5577, e5776
 - ZTE mf90, mf90+, (мтс 833f/ft - нафиг)
 - ZTE r216(mf910), mf920u  
-- Huawei: e589 e5783 Zte: Mf93d Mf971 Alcatel: Mw40 Mw70 [Олх](https://www.olx.ua/664017921)
+- Huawei: E589 E5783 Zte: MF93d Mf971 Alcatel: Mw40 Mw70 [Олх](https://www.olx.ua/664017921)
 - AirCard 791L. 1900грн. Встроен GPS и CDMA
 - **Модемы для сетей 3G:** mf60 mf65
 
@@ -33,17 +33,17 @@ modified: 2021-10-03T00:20:18+03:00
 - Huawei E3272s. По железу то же что и E3276. Но в нем НЕскладной USB, который часто ломается.
 - ZTE MF823, MF825, MF833. Пишут что 823 лучший в истории ZTE
 - **Архивные модели:** E392(старый)
-- **Модемы для сетей 3G:** Huawei E3531, E3533, E3131 - эти по 300грн, ZTE MF667, Evdo-Link EL3277 
+- **Модемы для сетей 3G:** Huawei **E3531**, E3533, E3131 - эти по 300грн, ZTE MF667, Evdo-Link EL3277 
 
 ## Wi-Fi роутер с USB для модема
 - TP-Link TL MR3020 (v3.20). 400грн. Маленький
 - Netis MW5230. 400грн. Три антенны, мощный передатчик
 - D-Link DIR-620S
 - Китайский мини-роутер:
-  [M1_51161C](https://aliexpress.ru/item/1299388604.html)-$11, 
-  [LW_A0510](https://aliexpress.ru/item/1299388604.html)-$11, 
-  [3G-wifi-xxxx](https://aliexpress.ru/item/4000243977905.html)-$8,
-  [без коробки](https://aliexpress.ru/item/32855389039.html)-$7.83,
+  [M1_51161C ($11)](https://aliexpress.ru/item/1299388604.html), 
+  [LW_A0510 ($11)](https://aliexpress.ru/item/1299388604.html), 
+  [3G-wifi-xxx ($8)](https://aliexpress.ru/item/4000243977905.html),
+  [без коробки ($7.83)](https://aliexpress.ru/item/32855389039.html),
 - 
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
@@ -67,7 +67,7 @@ modified: 2021-10-03T00:20:18+03:00
 ## Чистокровная китайщина
 - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
 - Дешман B1/B3.  
-  [Tianjie UF902-1 ($15.75)](https://aliexpress.ru/item/33011621445.html), 
+  [UF902-1 ($15.75)](https://aliexpress.ru/item/33011621445.html), 
   [UF903-1 ($15.75)](https://aliexpress.ru/item/32951351640.html), 
   [UF904-1 ($15.75)](https://aliexpress.ru/item/4000291960023.html), 
   AnyDATA W150,  
@@ -77,7 +77,7 @@ modified: 2021-10-03T00:20:18+03:00
   [H80 ($22)](https://aliexpress.ru/item/1005003065277530.html), 
   [Olax u80/u90 ($23)](https://olx.ua/702763471), 
 - Поддержка B1/B3/B7:  
-  [Tianjie MF783-3 ($28)](https://aliexpress.ru/item/4000291960023.html), 
+  [MF783-3 ($28)](https://aliexpress.ru/item/4000291960023.html), 
   [LDW922E ($27)](https://aliexpress.ru/item/4001191990200.html), 
   [LDW923D ($27)](https://aliexpress.ru/item/4001191990200.html),  
   [LDW931-2 ($22)](https://www.aliexpress.com/item/4000444254077.html), 
