@@ -14,12 +14,9 @@ modified: 2021-10-03T00:20:18+03:00
 - **ZTE MF79U**, MF72u. 1100грн
 - **Архивные модели:** E8377(в авто), 
 - **Модемы для сетей 3G:** E355, Е8231 - [по 550грн](https://www.olx.ua/591328309), mf70 
-- Китайщина:  
-  <details markdown="1"><summary>Китайщина</summary>
-  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043), 
-  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)</details>
-- Китайщина - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
-- Дешман B1/B3: 
+
+- Китайщина - [4pda](https://4pda.to/forum/index.php?showtopic=849043)  
+  - Дешман B1/B3: 
     Tianjie UF902-1 [$15.75](https://aliexpress.ru/item/33011621445.html), 
     Tianjie UF903-1 [$15.75](https://aliexpress.ru/item/32951351640.html), 
     Tianjie UF904-1 [$15.75](https://aliexpress.ru/item/4000291960023.html), 
