@@ -17,8 +17,7 @@ modified: 2021-10-03T00:20:18+03:00
 - Китайщина:  
   <details markdown="1"><summary>Китайщина</summary>
   - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043), 
-  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)
-  <details
+  - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)</details>
 - Китайщина - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
 - Дешман B1/B3: 
     Tianjie UF902-1 [$15.75](https://aliexpress.ru/item/33011621445.html), 
