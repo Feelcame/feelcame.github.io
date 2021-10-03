@@ -65,26 +65,26 @@ modified: 2021-10-03T00:20:18+03:00
 
 
 ## Чистокровная китайщина
-- Дешман B1/B3. 
-  [Tianjie UF902-1-$15.75](https://aliexpress.ru/item/33011621445.html), 
-  [UF903-1-$15.75](https://aliexpress.ru/item/32951351640.html), 
-  [UF904-1-$15.75](https://aliexpress.ru/item/4000291960023.html), 
+- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
+- Дешман B1/B3.  
+  [Tianjie UF902-1-($15.75)](https://aliexpress.ru/item/33011621445.html), 
+  [UF903-1-($15.75)](https://aliexpress.ru/item/32951351640.html), 
+  [UF904-1-($15.75)](https://aliexpress.ru/item/4000291960023.html), 
   AnyDATA W150,  
   [4G-UFI-XX-$15](#), 
   [A701-$20](https://aliexpress.ru/item/32910311042.html), 
   UF725-$22, 
   [H80-$22](https://aliexpress.ru/item/1005003065277530.html), 
   [Olax u80/u90-$23](https://olx.ua/702763471), 
-- Поддержка B1/B3/B7: 
+- Поддержка B1/B3/B7:  
   [TIANJIE MF783-3-$28](https://aliexpress.ru/item/4000291960023.html), 
   [U8-$22](https://aliexpress.ru/item/1005003298327779.html), 
   [LDW931-2-$22](https://www.aliexpress.com/item/4000444254077.html), 
   [Tianjie LDW922E/LDW923D-$27](https://aliexpress.ru/item/4001191990200.html),  
-- Только 3G(7.2мбит): 
+- Только 3G(7.2мбит):  
   [UFI-MF230_XXX-$14](https://aliexpress.ru/item/32812483460.html), 
   [UFI_UF230_XXX-$13](https://aliexpress.ru/item/1005002124424135.html), 
   [UFI_UF230_XXX-$12](https://aliexpress.ru/item/4000208102252.html)
-- [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
     
 
 
