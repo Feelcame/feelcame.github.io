@@ -49,7 +49,7 @@ modified: 2021-08-23T14:00:10+03:00
 - [Name](#)
 - [Name](#)
 - [Name](#)
-- [Name](#)
+- [espo crm](https://www.espocrm.com/ru/)
 
 **Списки:**
 - medevel [Top 23 Open-source Free CRM](https://medevel.com/23-os-crm/)
