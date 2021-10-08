@@ -64,6 +64,22 @@ date: 2021-10-07T12:40:00+03:00
 - wemos d1 mini
 - sim800
 
+
+<style>
+.cards {overflow: hidden;}
+.cards ul {padding: 0;}
+.cards li {
+float: left;
+box-sizing: border-box;
+width: calc(50% - 2px);
+padding: 7px 10px;
+background: #eee;
+margin: 1px; 
+list-style-type: none;
+height: 5em;
+}
+</style>
+
 #### Силовая электроника
 <div class="cards">
   
