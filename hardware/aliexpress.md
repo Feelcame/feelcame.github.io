@@ -65,7 +65,7 @@ date: 2021-10-07T12:40:00+03:00
 - sim800
 
 #### Силовая электроника
-<div class="cards" markdown="1">
+<div class="cards">
   
 - dcdc повышайка мелкая
 - dcdc повышайка с USB на пять вольт
