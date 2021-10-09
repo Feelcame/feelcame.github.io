@@ -76,6 +76,7 @@ padding: 7px 10px;
 background: #eee;
 margin: 1px; 
 list-style-type: none;
+min-height: 1px;
 height: 5em;
 }
 </style>
