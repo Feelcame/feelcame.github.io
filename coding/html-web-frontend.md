@@ -46,10 +46,11 @@ F.A.Q
 
 ## HTML JS CSS
 
-1. <https://puzzleweb.ru/javascript/element_innerhtml.php>
-1. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
-1. <https://learn.javascript.ru/searching-elements-dom>
-1. <>
+1. CSS Grid <https://tproger.ru/translations/how-css-flexbox-works/>
+2. <https://puzzleweb.ru/javascript/element_innerhtml.php>
+3. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
+4. <https://learn.javascript.ru/searching-elements-dom>
+5. <>
 
 
 ## Севрисы комментариев на статический сайт
