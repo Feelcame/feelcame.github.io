@@ -4,8 +4,9 @@ modified: 2021-09-05T10:58:55+03:00
 title: Jekyll CMS
 ---
 
-<details markdown="1"><summary>+ Спиок разделов</summary>
-* Table of Content  
+<details markdown="1"><summary  markdown="1">+ Спиок разделов</summary>
+* Table of Content
+* ррр  
 {: toc}
 </details>
 
@@ -128,6 +129,7 @@ Github Pages использует именно Jekyll для генерации 
 - <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
 * <http://jekyll.github.io/github-metadata/site.github/>
 + <https://devhints.io/jekyll-github>
++ тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
 
 
 
