@@ -4,7 +4,7 @@ modified: 2021-09-05T10:58:55+03:00
 title: Jekyll CMS
 ---
 
-<details markdown="1"><summary  markdown="1">+ Спиок разделов</summary>
+<details markdown="1"><summary  markdown="0">+ Спиок разделов</summary>
 * Table of Content
 * ррр  
 {: toc}
