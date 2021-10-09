@@ -16,5 +16,6 @@ modified: 2021-08-25T11:42:02+03:00
 - Webix UI
 - w2ui
 - <https://photoswipe.com/documentation/getting-started.html>
+- <https://fotorama.io/>
 
 
