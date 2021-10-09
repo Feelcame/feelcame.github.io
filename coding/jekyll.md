@@ -11,7 +11,7 @@ title: Jekyll CMS
 {: toc}
 </details>
 
-# CMS
+## CMS
 Не глядя на то что jekyll всего лишь конвертирует md в html, это вполне себе CMS. Официально предлагается использовать сайт как блог. Читай доки.
 Да, он не генерирует страницу из базы при каждом запросе пользователя. Но это даже плюс - статика держит невероятные нагрузки! А удобство написания статей предоставляют такие функции как: переменные и "Liquid скрипты"
 
@@ -58,34 +58,31 @@ plugins:
 
 ## Более ранние заметки:
 
-Просто тестирую как работает Lykyll :)      
-  
-Ссылки вида "site.github.repository_url". (подробнее смотри исходники)  
-[Repository]({{ site.github.repository_url }})  
-[Скачать.zip]({{ site.github.zip_url }})  
-[Скачать.tar.gz]({{ site.github.tar_url }})  
+Просто тестирую как работает Lykyll :) Напимер вот гитхабовские ссылки
+[site.github.repository_url]({{ site.github.repository_url }})  
+[site.github.zip_url]({{ site.github.zip_url }})  
+[site.github.tar_url]({{ site.github.tar_url }})  
 
 Простая ссылка "a href": <a href="#">Видно?</a>  
 
-Проверка. site.github.is_project_page? 
-{% if site.github.is_project_page %}если видно этот текст, значит да.{% endif %}  
-Проверка. site.show_downloads? 
-{% if site.show_downloads %}Сработало!{% endif %}  
+**Условия.**  
+- if site.github.is_project_page: {% if site.github.is_project_page %}TRUE{% endif %}
+- if site.show_downloads: {% if site.show_downloads %}TRUE{% endif %}
+- **Логическое "или":** page.title | default: site.title | default: site.github.repository_name:
+{{ page.title | default: site.title | default: site.github.repository_name }};
 
 **Переменные логические:**  
-site.github.is_project_page: {{ site.github.is_project_page }};  
-site.show_downloads: {{ site.show_downloads }};  
+- site.github.is_project_page: {{ site.github.is_project_page }}
+- site.show_downloads: {{ site.show_downloads }}
 
 **Переменные.**  
-site.copyright: {{ site.copyright | default: :copyright: }};  
-site.github.owner_url: {{ site.github.owner_url }};  
-site.github.owner_name: {{ site.github.owner_name }};  
-site.layout: {{ site.layout }};  
-page.layout: {{ page.layout }};  
-site.github.is_user_page: {{ site.github.is_user_page }};  
+- site.copyright: {{ site.copyright | default: :copyright: }};  
+- site.github.owner_url: {{ site.github.owner_url }};  
+- site.github.owner_name: {{ site.github.owner_name }};  
+- site.layout: {{ site.layout }};  
+- page.layout: {{ page.layout }};  
+- site.github.is_user_page: {{ site.github.is_user_page }};  
 
-**Логическое "или":**  
-page.title | default: site.title | default: site.github.repository_name: {{ page.title | default: site.title | default: site.github.repository_name }};
 
 ## Полезные ссылки
 * kramdown: <https://kramdown.gettalong.org/converter/html.html>  
