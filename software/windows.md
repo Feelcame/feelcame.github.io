@@ -8,7 +8,7 @@ modified: 2021-08-23T14:54:33+03:00
 {: .no_toc}
 
 
-<details markdown="1"><summary>+ Сегодня в программе</summary>
+<details markdown="1"><summary  markdown="0">+ Сегодня в программе</summary>
 * Table of Content  
 {: toc}
 </details>
