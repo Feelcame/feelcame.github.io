@@ -2,6 +2,7 @@
 title: Железки с Alisexpres
 comments: true
 date: 2021-10-07T12:40:00+03:00
+modified: 2021-10-10T19:56:03+03:00
 ---
 
 **Что купить на али**
@@ -66,23 +67,33 @@ date: 2021-10-07T12:40:00+03:00
 
 
 <style>
-.cards {overflow: hidden;}
-.cards ul {padding: 0;}
-.cards li {
-float: left;
-box-sizing: border-box;
-width: calc(50% - 2px);
-padding: 7px 10px;
-background: #eee;
-margin: 1px; 
-list-style-type: none;
-min-height: 1px;
-height: 5em;
+.drid {overflow: hidden; flex-wrap: wrap;}
+.grid ul {  
+  //display: table;
+  //flex-wrap: wrap;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+}
+.grid li {
+	
+	float: left;
+	box-sizing: border-box;
+	width: calc(50% - 8px);
+	padding: 7px 10px;
+	background: #eee;
+	margin: 4px; 
+	list-style-type: none;
+	min-height: 50px;
+	//height: 5em;
+	padding-left: 15px;
+    padding-right: 15px;
+	border-radius: 10px;
 }
 </style>
 
 #### Силовая электроника
-<div class="cards" markdown="1">
+<div class="grid" markdown="1">
   
 - dcdc повышайка мелкая
 - dcdc повышайка с USB на пять вольт
@@ -102,10 +113,3 @@ height: 5em;
 - семплбук резисторов, конденсаторов, индуктивнстей
 - кнопки 12*12
 - разные наборы для сборки, пайки обучающие
-
-
-
-
-
-
-
