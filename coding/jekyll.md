@@ -56,6 +56,19 @@ plugins:
   - jekyll-gist
 ```
 
+## Полезные фишки
+**Содержание** или table of content
+
+```
+## Содержание
+{: .no_toc}
+
+<details markdown="1"><summary  markdown="0">+ Сегодня в программе</summary>
+* Table of Content  
+{: toc}
+</details>
+```
+
 ## Более ранние заметки:
 
 Просто тестирую как работает Lykyll :) Напимер вот гитхабовские ссылки
