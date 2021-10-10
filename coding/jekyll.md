@@ -60,15 +60,15 @@ plugins:
 
 **Спойлеры**
 
-<details markdown="1"><summary  markdown="0">+ Запголовок спойлера</summary>
+```
+<details markdown="1"><summary  markdown="0">+ Заголовок спойлера</summary>
 Спрятанный внутри текст. Может содержать в себе HTML или **Markdown**-разметку, если правильно сконфигурировать Jekyll
 </details>
+```
 
-```
-<details markdown="1"><summary  markdown="0">+ Запголовок спойлера</summary>
+<details markdown="1"><summary  markdown="0">+ Нажми на меня</summary>
 Спрятанный внутри текст. Может содержать в себе HTML или **Markdown**-разметку, если правильно сконфигурировать Jekyll
 </details>
-```
 
 **Содержание (table of content) спрятанное под спойлер**
 
