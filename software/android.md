@@ -4,8 +4,9 @@ modified: 2021-09-25T11:24:47+03:00
 title: Софт для Android
 ---
 
-<details markdown="1"><summary markdown="1">+ Сегодня в программе</summary>
-* Список разделов  
+<details>
+<summary>+ Сегодня в программе</summary>
+- Список разделов  
 {: toc }
 </details>
 
