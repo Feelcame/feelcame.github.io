@@ -4,15 +4,12 @@ date: 2020-06-29T00:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
 ---
 
-**Здесь самое важное. Полный каталог: [t.me/FeelSoft](https://t.me/s/FeelSoftWin/125)**
-{: .no_toc}
-
+**Здесь самое важное.** Полный каталог: [t.me/FeelSoft](https://t.me/s/FeelSoftWin/125)
 
 <details markdown="1"><summary  markdown="0">+ Сегодня в программе</summary>
 * Table of Content  
 {: toc}
 </details>
-
 
 
 
