@@ -82,7 +82,7 @@ height: 5em;
 </style>
 
 #### Силовая электроника
-<div class="cards">
+<div class="cards" markdown="1">
   
 - dcdc повышайка мелкая
 - dcdc повышайка с USB на пять вольт
