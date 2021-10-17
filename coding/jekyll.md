@@ -130,7 +130,7 @@ plugins:
 - <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
 * <http://jekyll.github.io/github-metadata/site.github/>
 + <https://devhints.io/jekyll-github>
-+ тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
++ Красивая тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
 
 
 
