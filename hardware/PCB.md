@@ -54,11 +54,11 @@ modified: 2021-05-30T10:33:32+03:00
 Внимание! Будьте внимательны с чужими библиотеками, в них бывают неочевидные ошибки.  
 Если все же решили скачивать чужие библиотеки, ниже список сервисов которые позволяют это сделать. 
 
-* [snapeda](https://www.snapeda.com/home/) - Библиотеки компонентов. *Логин: pleasedontbugme пароль: bugmenot*
-* [Octopart](https://octopart.com/) - Библиотеки с норм символами. Собственность Altium
+* [**SnapEDA**](https://www.snapeda.com/home/) - Библиотеки компонентов. *Логин: pleasedontbugme пароль: bugmenot*
+* [**OctoPart**](https://octopart.com/) - Библиотеки с норм символами. Собственность Altium
 * [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки модулей только eagle. не работает
 * [componentsearchengine.com](https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments) - нужно указывать полный partnumber
-* [ultralibrarian.com](https://ultralibrarian.com) - немножечко говняные библиоткеки, гененрируются автоматически. Работают с производителем ST
+* [ultralibrarian](https://ultralibrarian.com) - немножечко говняные библиоткеки, гененрируются автоматически. Работают с производителем ST
 
 > Большинство сайтов требуют регистрацию, но это обходится с помощью <http://bugmenot.com>
 
