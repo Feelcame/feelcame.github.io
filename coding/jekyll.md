@@ -40,6 +40,25 @@ title: Jekyll CMS
 </ul>
 ```
 
+Это пример для выведения постов. Они должны храниться в папке \_posts и иметь специфичное название 2001-01-01-Name.md
+
+Что бы вывести список всех страниц в папке используй скрипт из исходников этого сайта.
+```
+<ol reversed id="navigation">
+{% assign allpages = site.pages | where: "dir",  page.dir %}
+{% assign sorted = allpages | sort: 'date' | reverse %}
+{% for p in sorted %}{% if p.noindex != true %}
+<li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title | default: "New page" }}</a> 
+<time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{% endif %}{% endfor %}
+</ol>
+```
+
+
+Некоторые мелкие скрипты удобно подключать черед инклюд
+```
+\{\% include directory-listing.md \%\}
+```
 
 ## Конфигурация
 Также стоит знать что кроме "жидких" скриптов для ещё большей кастомизации генератор можно настраивать в файле конфига \_config.yaml. Вплоть до того, что можно изменить парсер markdown файлов. Стандартный, кстати, называется kramdown. Его официальная документация хорошо гуглится [google]
@@ -56,9 +75,21 @@ plugins:
   - jekyll-gist
 ```
 
-## Полезные фишки
+**Парсинг markdown внутри html**
+Если нужно задать правило для всего сайта:
+```
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+```
 
-**Спойлеры**
+Если нужно запарсить (1) или наоборот исключить (0) из парсинга всего один блок:
+```
+<div markdown="1">**markdown _text_**</div>
+```
+
+## Полезные фишки. Сниппеты
+### Спойлеры
 
 ```
 <details markdown="1"><summary  markdown="0">+ Заголовок спойлера</summary>
@@ -70,7 +101,7 @@ plugins:
 Спрятанный внутри текст. Может содержать в себе HTML или **Markdown**-разметку, если правильно сконфигурировать Jekyll
 </details>
 
-**Содержание (table of content) спрятанное под спойлер**
+### Содержание под спойлером
 
 ```
 ## Содержание
@@ -81,6 +112,7 @@ plugins:
 {: toc}
 </details>
 ```
+Пример в самом верху этой страницы
 
 ## Более ранние заметки:
 
