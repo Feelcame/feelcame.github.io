@@ -14,7 +14,7 @@ comments: false
 Сайт для себя, работает как ***записная книжка*** и шпаргалка на будущее.  
 Если хочешь поддержать материально - [закажи разработку за деньги](#обратная-связь)
 
-### Мои контакты 
+## Мои контакты 
 Личка Telegram: [@feelcame](https://t.me/feelcame)  
 Форум GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions)  
 Email по работе: заполните [форму ниже](#обратная-связь). Отвечу с _корпоративной почты_
@@ -22,7 +22,7 @@ Email по работе: заполните [форму ниже](#обратн�
 ## Обратная связь
 <iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="450" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
 
-### Черновички
+## Черновички
 <ul reversed="reversed">
 {% for post in site.posts %}
   <li>
@@ -34,5 +34,5 @@ Email по работе: заполните [форму ниже](#обратн�
 {% endfor %}
 </ul>
 
-### native telegram comments
+## native telegram comments
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="rf_art/807" data-comments-limit="5"></script>
