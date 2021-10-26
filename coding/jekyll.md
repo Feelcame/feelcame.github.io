@@ -43,7 +43,7 @@ title: Jekyll CMS
 Это пример для выведения постов. Они должны храниться в папке \_posts и иметь специфичное название 2001-01-01-Name.md
 
 Что бы вывести список всех страниц в папке используй скрипт из исходников этого сайта.
-```
+``` markdown
 <ol reversed id="navigation">
 {% assign allpages = site.pages | where: "dir",  page.dir %}
 {% assign sorted = allpages | sort: 'date' | reverse %}
