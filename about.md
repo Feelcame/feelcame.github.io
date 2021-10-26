@@ -12,13 +12,15 @@ comments: true
 </form>
 
 Сайт для себя, работает как ***записная книжка*** и шпаргалка на будущее.  
-Если хочешь поддержать материально - [закажи разработку за деньги](#:~:text=Email по работе)
+Если хочешь поддержать материально - [закажи разработку за деньги](#обратная-связь)
 
 ### Мои контакты 
 Личка Telegram: [@feelcame](https://t.me/feelcame)  
 Форум GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions)  
-Email по работе: заполните форму ниже. Отвечу с _корпоративной почты_
-<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="640" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
+Email по работе: заполните [форму ниже](#обратная-связь). Отвечу с _корпоративной почты_
+
+## Обратная связь
+<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
 
 ### Черновички
 <ul reversed="reversed">
