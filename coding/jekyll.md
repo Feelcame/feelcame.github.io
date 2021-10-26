@@ -113,16 +113,20 @@ kramdown:
 
 ### Вставить код как текст на страницу
 Это делается добавлением трех символов обратной кавычки **\`** в начале и в конце блока кода. Есть альтернативныйе методы, но о них позже
-```
-{% raw %} 
-``` html
+``` ruby
+{% raw %}``` html
 <div><b>your code is here</b></div>
 ```{% endraw %} 
 ```
 
 Пример: 
+
 ``` html
-<div><b>your code is here</b></div>
+<div>
+  <strong>
+    your code is here
+  </strong>
+</div>
 ```
 
 ---
