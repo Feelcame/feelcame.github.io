@@ -152,12 +152,12 @@ kramdown:
 Еще вариант **через HTML**. Тогда текст сохранится в исходниках страницы, но не будет отображаться браузером
 
 ``` html
-<!-- <b>hidden</b> **text** -->
+<!-- <b>hidden</b> text -->
 ```
 
 Ниже пример. Открой исходник страницы что бы увидеть.
 
-<!-- <b>hidden</b> **text** -->
+<!-- <b>hidden</b> text -->
 
 ---
 
@@ -218,7 +218,3 @@ kramdown:
 + Красивая тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
 
 
-
-``` html
-<b>hidden</b> **text**
-```
