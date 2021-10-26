@@ -115,15 +115,15 @@ kramdown:
 Это делается добавлением трех символов обратной кавычки **\`** в начале и в конце блока кода. Есть альтернативныйе методы, но о них позже
 
 {% raw %}
-```
-<div><b>your code is here</b></div>
-```
+    ```
+    <div><b>your code is here</b></div>
+    ```
 {% endraw %} 
 
 
 Пример: 
 
-```
+``` html
 <div>
   <strong>
     your code is here
