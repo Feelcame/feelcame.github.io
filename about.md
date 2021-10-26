@@ -2,7 +2,7 @@
 title: Контакты
 date: 2020-05-10T21:39:06+03:00
 modified: 2021-08-21T15:31:42+03:00
-comments: true
+comments: false
 ---
 
 **Внимание! Поиск перекинет на другой сайт**
@@ -20,7 +20,7 @@ comments: true
 Email по работе: заполните [форму ниже](#обратная-связь). Отвечу с _корпоративной почты_
 
 ## Обратная связь
-<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
+<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="450" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
 
 ### Черновички
 <ul reversed="reversed">
@@ -36,5 +36,3 @@ Email по работе: заполните [форму ниже](#обратн�
 
 ### native telegram comments
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="rf_art/807" data-comments-limit="5"></script>
-
-### еще одни комментарии
