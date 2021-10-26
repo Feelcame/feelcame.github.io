@@ -18,7 +18,7 @@ comments: true
 Личка Telegram: [@feelcame](https://t.me/feelcame)  
 Форум GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions)  
 Email по работе: заполните форму ниже. Отвечу с _корпоративной почты_
-<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="640" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes">Frame error</iframe>
+<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="640" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
 
 ### Черновички
 <ul reversed="reversed">
