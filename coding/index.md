@@ -11,7 +11,7 @@ noindex: true
 
 
 {% comment %}
-
+<!--
 ### old
 1. [Android](./Android.md)
 1. [Arduino](./Arduino.md)
@@ -34,7 +34,7 @@ noindex: true
 ### Статьи по теме:
 
 
-<!--
+
 ## Ссылки по теме:
 
 1. ггммдд [название](./)
