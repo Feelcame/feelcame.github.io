@@ -44,6 +44,7 @@ title: Jekyll CMS
 
 Что бы вывести список всех страниц в папке используй скрипт из исходников этого сайта.
 ``` markdown
+{% raw %}
 <ol reversed id="navigation">
 { % assign allpages = site.pages | where: "dir",  page.dir % }
 { % assign sorted = allpages | sort: 'date' | reverse % }
@@ -52,12 +53,12 @@ title: Jekyll CMS
 <time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 { % endif % }{ % endfor % }
 </ol>
+{% endraw %} 
 ```
-
 
 Некоторые мелкие скрипты удобно подключать черед инклюд
 ```
-\{% include directory-listing.md %\}
+{ % include directory-listing.md % }
 ```
 
 ## Конфигурация
@@ -113,6 +114,18 @@ kramdown:
 </details>
 ```
 Пример в самом верху этой страницы
+
+
+
+### Вставить код в страницу
+Это делается добавлением трех знаков "\`" в начале и в конце блока. Есть альтернативныйе методы, но о них позже
+```
+\`\`\`
+your code is here
+\`\`\`
+```
+
+Но если нужно добавить сниппет Liquid скрипта - это нужно сделать в блоке { % raw % } ... { % endraw % }  . Иначе оно обработается как команда и будет выведен результат работы этой команды
 
 ## Более ранние заметки:
 
