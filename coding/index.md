@@ -10,7 +10,7 @@ noindex: true
 {% include directory-listing.md %}
 
 
-
+{% comment %}
 
 ### old
 1. [Android](./Android.md)
@@ -33,7 +33,7 @@ noindex: true
 
 ### Статьи по теме:
 
-{% comment %}
+
 <!--
 ## Ссылки по теме:
 
