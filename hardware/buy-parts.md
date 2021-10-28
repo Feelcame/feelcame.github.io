@@ -26,7 +26,7 @@ title: Купить компоненты
 * <https://www.rs-online.com/> - долго. англия
 * <https://www.findchips.com/search/rt9013>
 * <https://www.seeedstudio.com/> - тут футпринты беру
-* <https://www.newark.com/>
+* <https://www.newark.com/> это из америки - тот же магазин что element14
 * <https://www.gearbest.com/> - онлайн магазин типа алисекспреса
 **Непроверенные:**
 * <http://triod.kiev.ua/> - лампы
