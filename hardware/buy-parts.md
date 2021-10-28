@@ -37,6 +37,10 @@ title: Купить компоненты
 * <https://www.qrz.ru/stores/sparkfun/>
 * <https://www.futureelectronics.com/>
 
+## Агрегаторы
+- <https://octopart.com>
+- <https://www.snapeda.com>
+
 ## Магазины запчастей для телефонов
 - all-spares
 - mokc
