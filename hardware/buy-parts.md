@@ -10,6 +10,7 @@ title: Купить компоненты
 * <https://radar.org.ua> - норм. харьков. мало компонентов
 * <https://masteram.com.ua/uk/> - измерительное оборудрование
 * vdmais
+
 **Непроверенные:**
 * <https://radio-shop.com.ua/>
 * <https://voron.ua/> - плохие отзывы, брак
@@ -40,6 +41,7 @@ title: Купить компоненты
 ## Агрегаторы
 - <https://octopart.com>
 - <https://www.snapeda.com>
+- <https://www.findchips.com>
 
 ## Магазины запчастей для телефонов
 - all-spares
