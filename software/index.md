@@ -7,8 +7,6 @@ noindex: true
 
 :pushpin:[**Windows**](./windows.md), 
 :pushpin:[**Android**](./android.md), 
-:pushpin:[**Profi**](./profi-soft.md)
-
 
 {% include directory-listing.md %}
 
