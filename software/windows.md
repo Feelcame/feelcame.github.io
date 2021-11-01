@@ -22,7 +22,7 @@ Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector
 **упр. дисками:** Victoria, Acronis, CrystalDiskMark
 
 ## **СИСТЕМА**
-Unchecky, AdwCleaner, VirusTotal Uploader, Cureit  
+**безопасность:** [Unchecky](#) [[DL]](#), VirusTotal Uploader, SmartFix, AdwCleaner, Cureit  
 **бенчмарки:** Furmark, CPU-Z, HWinfo
 
 **дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
