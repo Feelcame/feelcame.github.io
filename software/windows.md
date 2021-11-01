@@ -12,7 +12,7 @@ modified: 2021-08-23T14:54:33+03:00
 </details>
 
 
-
+<https://tlgur.com/d/4rqo5v7g>
 
 ## **#медиа**
 
