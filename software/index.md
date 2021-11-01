@@ -5,8 +5,8 @@ modified: 2021-09-11T20:58:58+03:00
 noindex: true
 ---
 
-:pushpin:[**Windows**](./windows.md), 
-:pushpin:[**Android**](./android.md), 
+:pushpin:[**Windows**](./windows.md) 
+:pushpin:[**Android**](./android.md)
 
 {% include directory-listing.md %}
 
