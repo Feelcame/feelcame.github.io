@@ -30,7 +30,7 @@ Unchecky, AdwCleaner, VirusTotal Uploader, Cureit
 
 ## **USB/CD/DVD**
 **винда:** Windows 7, Windows10, Loader by Daz, KMS Auto Lite,  
-UltraISO, Rufus, WinNTSetup, BOOTICE, Easy BCD
+UltraISO, Rufus, WinNTSetup, BOOTICE, [Easy BCD](https://tlgur.com/d/4rqo5v7g)
 
 ## **РАЗРАБОТЧИКУ**
 GitHub Desktop, OpenServer, VS Code  
