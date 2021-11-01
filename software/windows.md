@@ -2,8 +2,8 @@
 title: 'FeelSoft - программы на комп'
 date: 2021-09-09T12:19:30+03:00
 modified: 2021-09-19T21:18:52+03:00
+comments: true
 ---
-Здесь только самое неоходимое. Полная коллекция в канале [@FeelSoft](https://t.me/feelsoft)
 
 ## **МЕДИА**
 PotPlayer, AIMP, XnView,  
