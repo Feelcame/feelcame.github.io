@@ -50,7 +50,7 @@ title: Jekyll CMS
 
 Что бы **вывести список всех страниц в папке** используй скрипт из исходников этого сайта.
 {% raw %}
-``` ruby
+``` html
 <ol reversed id="navigation">
 {% assign allpages = site.pages | where: "dir",  page.dir %}
 {% assign sorted = allpages | sort: 'date' | reverse %}
