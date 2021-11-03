@@ -1,10 +1,10 @@
 ---
-title: мои pet-проекты
+title: прожекты
 date: 2021-11-02T11:58:42+02:00
 modified: 2021-11-03T11:58:42+02:00
 noindex: true
 ---
 
-## прожекты
+## мои pet-проекты
 
 {% include directory-listing.md %}
