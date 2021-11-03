@@ -14,4 +14,4 @@ layout: home
 
 <https://t.me/FilmsRM> - канал про кино. Новый фильм каждую субботу
 
-[Проекты](/projects)
+[Другие проекты](/projects)
