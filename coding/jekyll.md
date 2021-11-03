@@ -122,8 +122,10 @@ kramdown:
 Пример для данной страницы в [самом верху](#) и дублируется ниже под спойлером:
 
 <details markdown="1"><summary markdown="0">+ Table of content</summary>
+
 * Table of Content  
 {: toc}
+
 </details>
 
 ### Вставить код как текст на страницу
