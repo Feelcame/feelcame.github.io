@@ -12,6 +12,8 @@ title: Генератор локальных ссылок для onedrive
 
 ## Листинг кода
 
-``` cmd
-start cmd
-```
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
