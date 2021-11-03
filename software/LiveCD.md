@@ -1,3 +1,9 @@
+---
+date: 2021-10-30T11:58:59+02:00
+modified: 2021-11-03T11:59:46+02:00
+title: LiveCD
+---
+
 ## LiveCD
 
 - [WinPE 10-8 Sergei Strelec (x86/x64/Native x86) 2021.10.14 Ru](https://nnmclub.to/forum/viewtopic.php?t=1502276). Ну это же стрелец!
