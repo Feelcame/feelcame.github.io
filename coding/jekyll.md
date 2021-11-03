@@ -6,7 +6,8 @@ title: Jekyll CMS
 
 
 
-## Содержание {: .no_toc }
+## Содержание
+{: .no_toc }
 <details markdown="1"><summary  markdown="0">+ Спиок разделов</summary>
 * Table of Content
 {: toc}
