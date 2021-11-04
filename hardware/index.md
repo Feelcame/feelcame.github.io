@@ -38,3 +38,8 @@ noindex: true
 
 
 {% include similar.md tags=page.tags %}
+
+
+### related-projects
+{% include related-projects.md tag="hardware" %}
+
