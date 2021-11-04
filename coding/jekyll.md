@@ -55,9 +55,9 @@ Jekyll используется на GitHub Pages, который предост
 ``` site.title ```
 
 Также есть сложные источники переменных, например:   
-``` site.github.is_project_page ```
+``` site.github.is_project_page ```   
 
-Они все опубликованы на сайте гитхаба, но ссылку не дам.  
+Они все опубликованы на сайте гитхаба, есть даже [ссылка на доку](https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md).  
 Там есть интересные переменные. Вот например: [site.github.repository_url]({{ site.github.repository_url }})  
 
 [Больше информации на официальном сайте](https://jekyllrb.com/docs/liquid/)
