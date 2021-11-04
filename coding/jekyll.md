@@ -198,7 +198,6 @@ kramdown:
 [//]: # "This is comment"
 ```
 Пример снутри скобок: (
-
 [//]: # "This is comment"
 ). Ахахa этого же не будет видно на сайте :) Вот тебе [скриншот](https://user-images.githubusercontent.com/17731587/140237713-3731b748-5244-4b39-9b0b-0b352b6b8b1d.png)
 
