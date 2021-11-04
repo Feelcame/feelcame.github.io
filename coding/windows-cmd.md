@@ -27,7 +27,7 @@ title: Скрипты CMD
 
 Альтернативный вариант - создать файл ```1.cmd``` и запускать непосредственно его.
 
-```start "" "..\Test Folder\1.txt"`"```
+```start "" "..\Test Folder\1.txt"```
 
 ```start "" "%onedrive%\Test Folder\1.txt"```
 
