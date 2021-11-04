@@ -162,9 +162,8 @@ kramdown:
 
 Иначе оно обработается как команда и будет выведен результат работы этой команды
 
-Этот тег может экранировать что угодно, кроме себя.  
-![image](https://user-images.githubusercontent.com/17731587/140236510-ce478c22-1671-41b4-b35b-be1ef1586266.png)
-
+Этот тег может экранировать что угодно [кроме себя](https://user-images.githubusercontent.com/17731587/140237209-3e4dc5fc-dcba-4331-8e81-0c39747712b7.png)  
+![кроме себя](https://user-images.githubusercontent.com/17731587/140237209-3e4dc5fc-dcba-4331-8e81-0c39747712b7.png)
 
 
 
