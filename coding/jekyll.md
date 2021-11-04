@@ -157,16 +157,14 @@ kramdown:
 ```
 {% raw %}{%{% endraw %} raw {% raw %}%}{% endraw %}
 {% raw %}
-    ```
-    {{ page.title }}
-    ```
+{{ page.title }}
 {% endraw %}
 {% raw %}{%{% endraw %} endraw {% raw %}%}{% endraw %}
 ```
 Иначе оно обработается как команда и будет выведен результат работы этой команды
 
-Этот тег может экранировать что угодно, но не может экранировать себя. 
-![image](https://user-images.githubusercontent.com/17731587/140236137-050212e0-2143-43e7-80b0-9ef9d5bd4493.png)
+Этот тег может экранировать что угодно, кроме себя. 
+![image](https://user-images.githubusercontent.com/17731587/140236510-ce478c22-1671-41b4-b35b-be1ef1586266.png)
 
 
 
