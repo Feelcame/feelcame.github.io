@@ -6,3 +6,10 @@ date: 2021-07-05T01:20:21+03:00
 # Полезные сервисы
 
 1. Генератор красивых QR-кодов <https://www.qrcode-monkey.com/#>
+
+
+## Хостинг картинок
+- github pages
+- telegra.ph
+- tlgur бот
+- 
