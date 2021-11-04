@@ -204,8 +204,6 @@ kramdown:
     </div>
     ```
 
-Пример как это выглядит: 
-
 ``` html
 <div class="row">
   <strong id="test">
@@ -225,7 +223,6 @@ end
 ```
 {% endraw %}
 
-Пример:
 {% highlight ruby %}
 def foo
   puts 'foo'
