@@ -15,7 +15,8 @@ Chrome, Telegram, Networx, AnyDesk, qBitTorrent,
 
 ## **ОФИС**
 SumatraPDF, STDU,  
-Notepad++, Microsoft Office
+[Notepad++](https://notepad-plus-plus.org/downloads/),  
+Microsoft Office
 
 ## **ФАЙЛЫ**
 Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector  
