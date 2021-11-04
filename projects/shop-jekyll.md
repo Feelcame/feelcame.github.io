@@ -70,6 +70,18 @@ comments: true
 
 Второй: Делать такую же страницу, но обрабатывать ее через джаваскрипт и выводить результаты в виде выпадающего меню, это более привычный вариант
 
+## Полезные ссылки
+- [Snipcart](https://snipcart.com/) - добавь функцию магазина на любой сайт
+- [Trolley](https://trolley.link/) - еще один сервис магазинов
+- [MemberSpace](https://www.memberspace.com/integrations/jekyll-membership/): Add memberships and paywall functionality to a Jekyll site
+- Что рекомендуют разработчики Jekyll <https://jekyllrb.com/resources/>
+- Репозиторий <https://github.com/snipcart/snipcart-jekyll>
+- <https://jekyllthemes.io/resources/jekyll-e-commerce-solutions>
+- Архивная статья по [настройке тем под snipcart](https://webcache.googleusercontent.com/search?q=cache:sNuAm3t-6QYJ:https://snipcart.com/blog/jekyll-ecommerce-tutorial+&cd=1&hl=ru&ct=clnk&gl=ua)
+- <https://github.com/jekyll-store>
+- <https://github.com/mikesprague/vuejs-shopping-cart>
+- <https://github.com/wsdo/shop-static>
+- <https://stackoverflow.com/questions/23447431/adding-e-commerce-to-a-jekyll-site>
 
 ## Твой фидбек
 Что думаешь про такую телегу? Стоит ли этот конь съеденого им сена? Напиши комментарий!
