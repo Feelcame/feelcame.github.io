@@ -67,10 +67,11 @@ title: Jekyll CMS
 ### Инклюд
 
 Некоторые мелкие скрипты удобно подключать черед инклюд
+{% raw %}
 ```
-{ % include directory-listing.md % }
+{% include directory-listing.md %}
 ```
-
+{% endraw %}
 
 
 
@@ -83,7 +84,7 @@ title: Jekyll CMS
 На Github Pages поддерживается строго ограниченный список модулей: <ссылка>
 
 Модули добавляются так:
-```
+``` yaml
 plugins:
   - jemoji
   - jekyll-paginate
@@ -96,14 +97,14 @@ plugins:
 
 **Парсинг markdown внутри html**
 Если нужно задать правило для всего сайта:
-```
+``` yaml
 kramdown:
   parse_span_html: true
   parse_block_html: true
 ```
 
 Если нужно запарсить (1) или наоборот исключить (0) из парсинга всего один блок:
-```
+``` html
 <div markdown="1">**markdown _text_**</div>
 ```
 
