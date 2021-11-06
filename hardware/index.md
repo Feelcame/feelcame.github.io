@@ -3,8 +3,7 @@ title: Железко и схемотехника
 date: 2020-12-17T00:51:55+02:00
 modified: 2021-11-06T19:47:05+03:00
 tags: железо
-noindex: true
-index: false
+index: 0
 ---
 
 {% include drlis.md %}
