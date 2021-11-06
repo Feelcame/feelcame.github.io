@@ -22,6 +22,10 @@ index: 1
 
 ## TODO
 - | strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
+- | lol
+
+| strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
+| lol
 
 ## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
