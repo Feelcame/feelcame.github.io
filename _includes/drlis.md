@@ -1,6 +1,5 @@
 {%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"{%- endcomment -%}
 
-{%- assign debug = true -%}  
 {%- assign directory = include.dir | default: page.dir -%}  
 
 {%- assign sorted_pages = site.pages | sort: "path" | where: "dir",  directory | sort: "date" | sort: "index" | reverse -%}  
@@ -12,10 +11,7 @@
 {%- assign finish_pages = finish_pages | where_exp: "item", "item.tags == rec_tag" -%}  
 {%- endif %}  
 
-{%- if debug -%}
-  В папке ```{{ directory }}``` {{ finish_pages.size }} страниц 
-  {%- if rec_tag != "" %}с тегом ```{{ rec_tag }}```{%- endif -%}
-{%- endif %}
+{%- comment -%}{%- endcomment -%}Дебаг: dir: ({{ directory }}), tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}).
 
 <ol reversed id="navigation">
 {%- for pg in finish_pages -%}
