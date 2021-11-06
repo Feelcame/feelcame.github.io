@@ -12,11 +12,8 @@ modified: 2021-11-06T13:14:45+02:00
 {% assign datepages = dirpages | sort: "date" | reverse %}
 {% assign sortedpages = datepages | sort: "index" | reverse %}
 
-
-
 DIR: ({{ directory }}). TAG: ({{ rec_tag }}). 
 {% if debug %}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
-
 
 <ol reversed id="navigation">
 {% for pg in sortedpages %}
