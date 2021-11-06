@@ -8,7 +8,7 @@ tags: coding
 
 ## Jekyll: вывод списка страниц в папке 
 В любом месте статьи можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
-{% raw %}```{{ include drlis.md dir="/projects/" tag="hardware" }}```{% endraw %}
+{% raw %}```{% include drlis.md dir="/projects/" tag="hardware" %}```{% endraw %}
 
 Код тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
 
@@ -19,8 +19,9 @@ tags: coding
 4. Вывести список оставшихся
 
 
-## New
-{{ include drlis2.md dir="/projects/" }}
+## New...
+
+{% include drlis2.md %}
 
 
 ## Листинг кода
@@ -62,24 +63,24 @@ tags: coding
 
 ## Примеры 
 
-```{ % include drlis.md dir="/projects/" tag="hardware" %}```
 <details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
+```{ % include drlis.md dir="/projects/" tag="hardware" %}```   
 {% include drlis.md dir="/projects/" tag="hardware" %}
 </details>
 
-```{ % include drlis.md tag="hardware" %}```
 <details markdown="1"><summary markdown="0">+ Передано TAG</summary>
+```{ % include drlis.md tag="hardware" %}```   
 {% include drlis.md tag="hardware" %}
 </details>
 
-```{ % include drlis.md dir="/projects/" %}```
 <details markdown="1"><summary markdown="0">+ Передано DIR</summary>
+```{ % include drlis.md dir="/projects/" %}```   
 {% include drlis.md dir="/projects/" %}
 </details>
 
 
-```{ % include drlis.md %}```
 <details markdown="1"><summary markdown="0">+ Нет параметров</summary>
+```{ % include drlis.md %}```   
 {% include drlis.md %}
 </details>
 
