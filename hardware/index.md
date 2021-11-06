@@ -40,6 +40,5 @@ noindex: true
 {% include similar.md tags=page.tags %}
 
 
-### related-projects
-{% include related-projects.md tag="hardware" %}
-
+### **related-projects**
+{% include directory-listing3.md dir="/projects/" tag="hardware" %}
