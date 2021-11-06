@@ -27,17 +27,15 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 Первая страница  в папке: {{ dirpages[0].url }}<br>
 
-{% assign tagpages = dirpages | where_exp:"page", "page.tags contains {{ first_tag }}" %}
-Первая страница с нужным тегом: {{ tagpages[0].url }}<br>
-
+Вывод страниц с нужным тегом:
 
 
 {% assign resultpages = tagpages %}
 <ol reversed id="navigation">
-{% for page in resultpages %}
+{% for page in resultpages %}{% if page.tags contains first_tag %}
 <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
 <time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endfor %}
+{% endif %}{% endfor %}
 </ol>
 
 ## Листинг кода
