@@ -19,6 +19,12 @@ comments: true
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
+
+{% assign test0 = true %}
+{% if test0 %}test0 is true<br>{% endif %}
+
+===
+
 {% assign test = "true" %}
 
 {% assign directory = include.dir %}
