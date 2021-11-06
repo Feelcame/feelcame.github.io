@@ -20,6 +20,9 @@ index: 1
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
+## TODO
+- | strip_newlines
+
 ## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
 
