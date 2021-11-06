@@ -19,14 +19,10 @@ tags: coding
 4. Вывести список оставшихся
 
 
-## New...
-
-{% include drlis2.md tag="coding" %}
-
 
 ## Листинг кода
 
-<details markdown="1"><summary markdown="0">+ Проверенно работает 2021-11-06</summary>
+<details markdown="1"><summary markdown="0">+ Версия 1. Проверенно работает 2021-11-06</summary>
 
 {% raw %}
 ``` html
