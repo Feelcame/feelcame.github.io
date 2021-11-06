@@ -28,9 +28,10 @@ index: 1
 ## Листинг кода
 Код тут: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
 
-
-``` html {% raw %}
-{%- comment %}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"{% endcomment -%}
+{% raw %}
+``` html
+{%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"
+{%- endcomment -%}
 
 {%- assign debug = false -%}
 {%- assign directory = include.dir | default: page.dir -%}
@@ -56,9 +57,8 @@ index: 1
 {%- endif -%}
 {%- endfor -%}
 </ol>
-{% endraw %}
 ```
-
+{% endraw %}
 
 ### Передано TAG и DIR
 ```{ % include drlis.md dir="/projects/" tag="hardware" %}```
