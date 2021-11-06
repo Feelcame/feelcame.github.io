@@ -27,16 +27,10 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 Первая страница  в папке: {{ dirpages[0].url }}<br>
 
-Вывод страниц с тегом ({{ first_tag }}): 
-
-{% assign resultpages = tagpages %}
-
-{% assign pg_tag = pg.tags | split: " " | first %}
-pg_tag: {{ pg_tag }}<br>
 
 
 <ol reversed id="navigation">
-{% for pg in resultpages %}
+{% for pg in dirpages %}
 <li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endfor %}
