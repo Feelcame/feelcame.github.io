@@ -17,6 +17,7 @@
 
 {% assign first_tag = "hardware" %}
 Переданный параметр tag: ({{ first_tag }})<br>
+Переданный параметр tag: ({{ page.first_tag }})<br>
 
 {% assign directory = "/projects/" %}
 Переданный параметр dir: ({{ directory }})<br>
@@ -27,12 +28,12 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 Первая страница  в папке: {{ dirpages[0].url }}<br>
 
-Вывод страниц с нужным тегом:
+Вывод страниц с тегом: {{ page.first_tag }}
 
 
 {% assign resultpages = tagpages %}
 <ol reversed id="navigation">
-{% for page in resultpages %}{% if page.tags contains page.first_tag %}
+{% for page in resultpages %}{% if page.tags[0] contains first_tag %}
 <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
 <time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}{% endfor %}
