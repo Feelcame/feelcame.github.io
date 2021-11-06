@@ -14,16 +14,27 @@
 2. выбрать только те что в нужной папке
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
+{% assign test = true %}
 
-{% assign first_tag = include.tag | split: " " | first %}   Проверка. include.tag: {{ first_tag }}<br>
-{% assign directory = include.dir | split: " " | first %}   Проверка. include.dir: ({{ directory }})<br>
-{% if directory == "" %}{% assign directory = page.dir %}{% endif %}   Проверка. if ditectory not set: {{ directory }}<br>
-{% if directory == "\test\" %}{% assign directory = "/projects/" %}{% endif %}   Проверка. if directory == "/test/": {{ directory }}<br>
+{% assign first_tag = include.tag | split: " " | first %}
+Переданный параметр tag: ({{ first_tag }})<br>
+{% if first_tag == "" %}{% assign first_tag = "hardware" %}{% endif %}
+Если tag пустой, он подменится на "hardware": {{ first_tag }}<br>
+
+{% assign directory = include.dir | split: " " | first %}
+Переданный параметр dir: ({{ directory }})<br>
+{% if directory == "" %}{% assign directory = page.dir %}{% endif %}
+Если dir пустой, он подменится на page.dir: {{ directory }}<br>
+{% if directory == "/test/" %}{% assign directory = "/projects/" %}{% endif %}
+Подменяем для теста /test/ на /projects/ {{ directory }}<br>
 
 
-{% assign allpages = site.pages | sort: "path" %}   Проверка. allpages: {{ allpages[0].url }}<br>
-{% assign dirpages = allpages | where: "dir",  directory %}   Проверка. dirpages: {{ dirpages[0].url }}<br> 
-{% assign tagpages = dirpages | | where_exp:"page", "page.tags contains 'hardware'" %}   Проверка. tagpages: {{ tagpages[0].url }}<br>
+{% assign allpages = site.pages | sort: "path" %}
+Первая страница на всем сайте: {{ allpages[0].url }}<br>
+{% assign dirpages = allpages | where: "dir",  directory %}
+Первая страница  в папке: {{ dirpages[0].url }}<br> 
+{% assign tagpages = dirpages | | where_exp:"page", "page.tags contains first_tag" %}
+Первая страница с нужным тегом: {{ tagpages[0].url }}<br>
 
 
 
