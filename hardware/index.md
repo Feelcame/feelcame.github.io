@@ -1,14 +1,26 @@
 ---
+title: Железо и схемотехника
 date: 2020-12-17T00:51:55+02:00
 modified: 2021-07-18T00:47:05+03:00
 tags: железо
-title: Железо и схемотехника
 noindex: true
+index: false
 ---
 
-### Статьи в папке {{ page.dir }}:
+**Актуально.**{% include drlis.md dir="/projects/" tag="hardware" %}
+
+**Все статьи.**{% include drlis.md dir="/projects/" tag="hardware" %}
+
+{% comment %}
+
+## Статьи в папке {{ page.dir }}:
 {% include listdir.md %}
 
+## **статьи блога с тегом: "{{ page.tags }}"**
+{% include similar.md tags=page.tags %}
+
+## **related-projects**
+{% include drlis.md dir="/projects/" tag="hardware" %}
 
 <!--
 ## Мобильные телефоны
@@ -20,8 +32,7 @@ noindex: true
 ## Сетевое оборудование
 ## Обучение
 
-
-### **Статьи по теме разработки/эксплуатации hardware**
+## **Статьи по теме разработки/эксплуатации hardware**
 1. [Типы коннекторов](./connectors.md)
 1. [Запись звука конференции](./запись-конференции-audacity.md)
 1. [RFID-идентификация](./RFID.md)
@@ -30,15 +41,5 @@ noindex: true
 1. [Питение и регуляторы напряжения](./регуляторы_напруги.md)
 1. [автостарт андроид телефона при подаче питания](автостарт-андроид-телефона.md)
 1. [Altium_Designer](Altium_Designer)
-
 -->
-
-
-### **статьи блога с тегом: "{{ page.tags }}"**
-
-
-{% include similar.md tags=page.tags %}
-
-
-### **related-projects**
-{% include directory-listing3.md dir="/projects/" tag="hardware" %}
+{% endcomment %}
