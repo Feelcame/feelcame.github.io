@@ -1,15 +1,12 @@
 {% assign debug = true %}
 
 {% assign directory = include.dir | default: page.dir %}
-{% if debug %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
-
 {% assign rec_tag = include.tag | default: "" %}
-{% if debug %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
+{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}){% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
-{% if debug == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
-
 {% assign dirpages = allpages | where: "dir",  directory %}
+{% if debug %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
 {% if debug %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
 
 <ol reversed id="navigation">
