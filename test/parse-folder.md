@@ -16,12 +16,11 @@
 4. вывести список оставшихся
 
 {% assign test = "true" %}
+{% assign first_tag = include.tag | split: " " | first %}
+{% if test == "true" %}{% assign first_tag = 'hardware' %}Переданный параметр tag: ({{ first_tag }})<br>{% endif %}
 
-{% assign first_tag = 'hardware' %}
-{% if test == "true" %}Переданный параметр tag: ({{ first_tag }})<br>{% endif %}
-
-{% assign directory = "/projects/" %}
-{% if test == "true" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
+{% assign directory = include.dir | split: " " | first %}
+{% if test == "true" %}{% assign directory = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
 {% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
