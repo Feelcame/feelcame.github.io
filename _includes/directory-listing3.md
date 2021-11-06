@@ -2,7 +2,7 @@
 
 {% assign directory = include.dir %}
 {% if directory == "" %}{% assign directory = page.dir %}{% endif %}
-{% if test == "true" %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
+{% if test == "true" %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}. {% if directory == page.dir %} dir и page.dir равны {% endif %}<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
 {% if test == "true" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
