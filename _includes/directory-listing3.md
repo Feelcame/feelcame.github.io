@@ -1,8 +1,7 @@
-{% assign test = true %}
+{% assign test = "true" %}
 
 {% assign directory = include.dir %}
 {% if directory == "" %}{% assign directory = page.dir %}{% endif %}
-
 {% if test == "true" %}{% assign directory_DEBUG = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
