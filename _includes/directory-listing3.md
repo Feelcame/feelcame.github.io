@@ -1,17 +1,17 @@
-{% assign test = 1 %}
+{% assign debug = true %}
 
+{% assign directory = page.dir %}
 {% assign directory = include.dir %}
-{% if !directory %}{% assign directory = page.dir %}Параметр DIR не получен. Задаем новый. {% endif %}
-{% if test == "true" %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
+{% if debug %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
-{% if test == "true" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
+{% if debug %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
-{% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
+{% if debug == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
 
 {% assign dirpages = allpages | where: "dir",  directory %}
-{% if test == "true" %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
+{% if debug %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
 
 <ol reversed id="navigation">
 {% for pg in dirpages %}
