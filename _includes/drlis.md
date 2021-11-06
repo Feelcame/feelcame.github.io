@@ -1,4 +1,5 @@
-{%- comment %}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"{% endcomment -%}
+{%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"
+{%- endcomment -%}
 
 {%- assign debug = false -%}
 {%- assign directory = include.dir | default: page.dir -%}
@@ -9,7 +10,7 @@
 {%- assign sortedpages = datepages | sort: "index" | reverse -%}
 
 Все страницы в папке ({{ directory }}){%- if rec_tag != "" %} с тегом ({{ rec_tag }}){%- endif -%}.  
-{% if debug %}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif -%}
+{% if debug -%}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){%- endif -%}
 
 <ol reversed id="navigation">
 {%- for pg in sortedpages -%}
