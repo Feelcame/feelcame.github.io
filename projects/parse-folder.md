@@ -1,8 +1,9 @@
 ---
 comments: true
+modified: 2021-11-06T11:21:41+02:00
 ---
 
-## Скрипт для вывода списка страниц в папке
+## Скрипт для вывода списка страниц в папке jekyll
 В любом месте страницы можно написать одну строчку и она выведет список страниц подходящих по параметрам.  
 {% raw %}```{{ include directory-listing.md tag="железо" }}```{% endraw %}
 
@@ -53,6 +54,3 @@ comments: true
 ### Тест параметра TAG
 ```{ % include directory-listing3.md tag="hardware" %}```  
 {% include directory-listing3.md tag="hardware" %}
-
-
-
