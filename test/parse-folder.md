@@ -12,8 +12,7 @@ comments: true
 Если комбинация этих параметров, то вывести только страницы с нужным тегом в  данной папке.
 Если параметров не передано - парсить текущую папку (из которой происходит вызов).
 
-## Тестовый пример
-
+**Алгоритм:**
 1. взять все страницы
 2. выбрать только те что в нужной папке
 3. выбрать только те что с нужным тегом
@@ -21,22 +20,22 @@ comments: true
 
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/directory-listing3.md>
 
-## Протестируем
+### Тест без параметров
 ```{ % include directory-listing3.md %}```
 
 {% include directory-listing3.md %}
 
-## Таст параметров
+### Таст с обоими параметрами
 ```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```
 
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
-## Таст параметра DIR
+### Таст параметра DIR
 ```{ % include directory-listing3.md dir="/projects/" %}```
 
 {% include directory-listing3.md dir="/projects/" %}
 
-## Таст параметра TAG
+### Таст параметра TAG
 ```{ % include directory-listing3.md tag="hardware" %}```
 
 {% include directory-listing3.md tag="hardware" %}
