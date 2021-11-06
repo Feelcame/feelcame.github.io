@@ -13,8 +13,8 @@
 {%- endif %}  
 
 {%- if debug -%}
-  В папке ({{ directory }}) {{ finish_pages.size }} страниц 
-  {%- if rec_tag != "" %}с тегом ({{ rec_tag }}){%- endif -%}
+  В папке ```{{ directory }}``` {{ finish_pages.size }} страниц 
+  {%- if rec_tag != "" %}с тегом ```{{ rec_tag }}```{%- endif -%}
 {%- endif %}
 
 <ol reversed id="navigation">
