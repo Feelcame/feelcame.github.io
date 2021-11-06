@@ -7,8 +7,7 @@
 {%- assign datepages = dirpages | sort: "date" -%}  
 {%- assign sortedpages = datepages | sort: "index" | reverse -%}  
 {%- assign notpinnedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  
-{%- assign pinnedpages = sortedpages | where_exp: "item", "item.index > 0" -%}  
-{%- assign finish_pages = pinnedpages | concat: notpinnedpages -%}  
+{%- assign finish_pages = sortedpages | where_exp: "item", "item.index > 0" | concat: notpinnedpages -%}  
 
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- if rec_tag != "" %}  
