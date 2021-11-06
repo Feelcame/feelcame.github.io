@@ -22,11 +22,10 @@ index: 1
 
 ## TODO
 
-| strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
+| strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>  
 | lol
 
 {{ site.github.source.path}}/_includes/listdir.md }}  
-{% include {{ site.github.source.path}}/_includes/listdir.md %}
 
 
 ## Листинг кода
