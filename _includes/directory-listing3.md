@@ -2,12 +2,12 @@
 
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
-{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}){% endif %}
+{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
-{% if debug %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
-{% if debug %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
+{% if debug %}allpages[0]: ({{ allpages[0].url }})<br>{% endif %}
+{% if debug %}dirpages[0]: {{ dirpages[0].url }}{% endif %}
 
 <ol reversed id="navigation">
 {% for pg in dirpages %}
