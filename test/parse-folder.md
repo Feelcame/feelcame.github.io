@@ -28,14 +28,14 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 Первая страница  в папке: {{ dirpages[0].url }}<br>
 
-Вывод страниц с тегом: {{ page.first_tag }}
+Вывод страниц с тегом ({{ first_tag }}): 
 
 
 {% assign resultpages = tagpages %}
 <ol reversed id="navigation">
-{% for page in resultpages %}{% if page.tags[0] contains first_tag %}
-<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
-<time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{% for pg in resultpages %}{% if pg.tags[0] contains first_tag %}
+<li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
+<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}{% endfor %}
 </ol>
 
