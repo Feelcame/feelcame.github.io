@@ -1,6 +1,6 @@
 {% assign test = "true" %}
 
-{% assign directory = include.dir %}
+{% assign directory = include.dir | inspect %}
 {% if directory == "" %}{% assign directory = page.dir %}Параметр DIR не получен{% endif %}
 {% if test == "true" %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
 
