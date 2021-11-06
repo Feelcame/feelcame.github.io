@@ -23,10 +23,8 @@ index: 1
 ## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
 
-{% assign source = "drlis.md" %}
-
 ``` html
-{% include source.content %}
+hello
 ```
 
 
