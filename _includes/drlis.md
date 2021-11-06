@@ -1,6 +1,6 @@
 ---
 date: 2021-11-06T11:24:29+02:00
-modified: 2021-11-06T11:56:55+02:00
+modified: 2021-11-06T12:21:45+02:00
 ---
 
 {% assign debug = true %}
@@ -15,6 +15,8 @@ modified: 2021-11-06T11:56:55+02:00
 
 
 {% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}). Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
+
+
 <ol reversed id="navigation">
 {% for pg in sortedpages %}
 {% if pg.tags contains rec_tag or rec_tag == "" %}
