@@ -15,9 +15,8 @@
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
-{% assign first_tag = "hardware" %}
+{% assign first_tag = 'hardware' %}
 Переданный параметр tag: ({{ first_tag }})<br>
-Переданный параметр tag: ({{ page.first_tag }})<br>
 
 {% assign directory = "/projects/" %}
 Переданный параметр dir: ({{ directory }})<br>
