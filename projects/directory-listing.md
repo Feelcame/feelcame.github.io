@@ -8,7 +8,7 @@ tags: coding
 
 ## Jekyll: вывод списка страниц в папке 
 В любом месте статьи можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
-{% raw %}```{% include drlis.md dir="/projects/" tag="hardware" %}```{% endraw %}
+```{ % include drlis.md dir="/projects/" tag="hardware" %}```
 
 Код тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
 
