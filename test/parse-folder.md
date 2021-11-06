@@ -15,24 +15,19 @@
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
-{% assign first_tag = include.tag | split: " " | first %}
+{% assign first_tag = "hardware" %}
 Переданный параметр tag: ({{ first_tag }})<br>
-{% if first_tag == "" %}{% assign first_tag = "hardware" %}{% endif %}
-Если tag пустой, он подменится на "hardware": {{ first_tag }}<br>
 
-{% assign directory = include.dir | split: " " | first %}
+{% assign directory = "/projects/" %}
 Переданный параметр dir: ({{ directory }})<br>
-{% if directory == "" %}{% assign directory = page.dir %}{% endif %}
-Если dir пустой, он подменится на page.dir: {{ directory }}<br>
-{% if directory == "/test/" %}{% assign directory = "/projects/" %}{% endif %}
-Подменяем для теста /test/ на /projects/ {{ directory }}<br>
-
 
 {% assign allpages = site.pages | sort: "path" %}
 Первая страница на всем сайте: {{ allpages[0].url }}<br>
+
 {% assign dirpages = allpages | where: "dir",  directory %}
-Первая страница  в папке: {{ dirpages[0].url }}<br> 
-{% assign tagpages = dirpages | where_exp:"page", "page.tags contains first_tag" %}
+Первая страница  в папке: {{ dirpages[0].url }}<br>
+
+{% assign tagpages = dirpages | where_exp:"page", "page.tags contains 'hardware'" %}
 Первая страница с нужным тегом: {{ tagpages[0].url }}<br>
 
 
