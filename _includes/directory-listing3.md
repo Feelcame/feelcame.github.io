@@ -1,4 +1,4 @@
-{% assign test = "true" %}
+{% assign test = "false" %}
 
 {% assign directory = include.dir %}
 {% if test == "true" %}{% assign directory = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
