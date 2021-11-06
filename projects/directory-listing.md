@@ -20,7 +20,7 @@ tags: coding
 
 
 ## New
-{{ include drlis2.md }}
+{{ include drlis2.md dir="/projects/" }}
 
 
 ## Листинг кода
