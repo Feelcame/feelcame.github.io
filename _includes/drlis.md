@@ -1,6 +1,6 @@
 ---
 date: 2021-11-06T11:24:29+02:00
-modified: 2021-11-06T12:37:12+02:00
+modified: 2021-11-06T12:46:21+02:00
 ---
 
 {% assign debug = true %}
@@ -22,7 +22,7 @@ modified: 2021-11-06T12:37:12+02:00
 {% if pg.tags contains rec_tag or rec_tag == "" %}
 {% assign index = pg.index | default: nil %}
 {% if index > 0 or index == nil %}
-<li>{{ index }}<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name | default: "New page" }}</a> 
+<li>{{ index | prepend: 📌 | append: "." }}<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}
 {% endif %}
