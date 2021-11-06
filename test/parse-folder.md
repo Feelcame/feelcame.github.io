@@ -27,7 +27,7 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 Первая страница  в папке: {{ dirpages[0].url }}<br>
 
-{% assign tagpages = dirpages | where_exp:"page", "page.tags contains 'hardware'" %}
+{% assign tagpages = dirpages | where_exp:"page", "page.tags contains {{ first_tag }}" %}
 Первая страница с нужным тегом: {{ tagpages[0].url }}<br>
 
 
