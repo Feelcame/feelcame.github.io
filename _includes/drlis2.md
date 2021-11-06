@@ -2,12 +2,10 @@
 
 {%- assign debug = true -%}  
 {%- assign directory = include.dir | default: page.dir -%}  
-{%- assign allpages = site.pages | sort: "path" -%}  
-{%- assign dirpages = allpages | where: "dir",  directory -%}  
-{%- assign datepages = dirpages | sort: "date" -%}  
-{%- assign sortedpages = datepages | sort: "index" | reverse -%}  
-{%- assign notpinnedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  
-{%- assign finish_pages = sortedpages | where_exp: "item", "item.index > 0" | concat: notpinnedpages -%}  
+
+{%- assign sorted_pages = site.pages | sort: "path" | where: "dir",  directory | sort: "date" | sort: "index" | reverse -%}  
+{%- assign not_pinned_pages = sorted_pages | where_exp: "item", "item.index == nil" -%}  
+{%- assign finish_pages = sorted_pages | where_exp: "item", "item.index > 0" | concat: not_pinned_pages -%}  
 
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- if rec_tag != "" %}  
