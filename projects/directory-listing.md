@@ -57,18 +57,22 @@ index: 1
 ```
 
 ### Передано TAG и DIR
-```{ % include drlis.md dir="/projects/" tag="hardware" %}```  
+```{ % include drlis.md dir="/projects/" tag="hardware" %}```
+
 {% include drlis.md dir="/projects/" tag="hardware" %}
 
 ### Передано TAG
-```{ % include drlis.md tag="hardware" %}```  
+```{ % include drlis.md tag="hardware" %}```
+
 {% include drlis.md tag="hardware" %}
 
 ### Передано DIR
-```{ % include drlis.md dir="/projects/" %}```  
+```{ % include drlis.md dir="/projects/" %}```
+
 {% include drlis.md dir="/projects/" %}
 
 ### Тест без параметров
-```{ % include drlis.md %}```  
+```{ % include drlis.md %}```
+
 {% include drlis.md %}
 
