@@ -7,7 +7,7 @@
 {%- assign allpages = site.pages | sort: "path" -%}  
 {%- assign dirpages = allpages | where: "dir",  directory -%}  
 {%- assign datepages = dirpages | sort: "date" | reverse -%}  
-{%- assign sortedpages = datepages | sort: "index" | reverse -%}  
+{%- assign sortedpages = datepages | sort: "index" -%}  
 
 Все страницы в папке ({{ directory }}){%- if rec_tag != "" %} с тегом ({{ rec_tag }}){%- endif -%}.  
 {% if debug -%}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){%- endif -%}
