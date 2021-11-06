@@ -25,6 +25,10 @@ index: 1
 | strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
 | lol
 
+{{ site.github.source.path}}/_includes/listdir.md
+{% include {{ site.github.source.path}}/_includes/listdir.md %}
+
+
 ## Листинг кода
 Код тут: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
 
