@@ -29,8 +29,8 @@ comments: true
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
 ### Таст параметра DIR
-```{ % include directory-listing3.md dir="/test/" %}```  
-{% include directory-listing3.md dir="/test/" %}
+```{ % include directory-listing3.md dir="/projects/" %}```  
+{% include directory-listing3.md dir="/projects/" %}
 
 ### Таст параметра TAG
 ```{ % include directory-listing3.md tag="hardware" %}```  
