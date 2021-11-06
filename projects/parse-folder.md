@@ -23,7 +23,7 @@ index: 1
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
 
 ``` html
-{% include_relative drlis.md %}
+{%- include drlis.md %}
 ```
 
 
