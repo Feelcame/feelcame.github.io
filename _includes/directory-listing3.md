@@ -1,6 +1,7 @@
 {% assign debug = true %}
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
+{% if rec_tag %}rec_tag is true<br>{% endif %}
 {% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}){% endif %}
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
