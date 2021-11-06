@@ -1,5 +1,4 @@
 {% assign debug = true %}
-
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
 {% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }})<br>{% endif %}
@@ -7,7 +6,6 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 {% if debug %}allpages[0]: ({{ allpages[0].url }})<br>{% endif %}
 {% if debug %}dirpages[0]: {{ dirpages[0].url }}{% endif %}
-
 <ol reversed id="navigation">
 {% for pg in dirpages %}
 {% if pg.tags contains rec_tag or rec_tag == "" %}
