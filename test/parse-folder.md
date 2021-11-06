@@ -42,15 +42,15 @@ comments: true
 ```{ % include directory-listing3.md %}```  
 {% include directory-listing3.md %}
 
-### Таст с обоими параметрами
+### Тест с обоими параметрами
 ```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```  
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
-### Таст параметра DIR
+### Тест параметра DIR
 ```{ % include directory-listing3.md dir="/projects/" %}```  
 {% include directory-listing3.md dir="/projects/" %}
 
-### Таст параметра TAG
+### Тест параметра TAG
 ```{ % include directory-listing3.md tag="hardware" %}```  
 {% include directory-listing3.md tag="hardware" %}
 
