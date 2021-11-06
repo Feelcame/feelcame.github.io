@@ -53,7 +53,14 @@ comments: true
 </ol>
 
 ## Протестируем
+include directory-listing3.md
+
 {% include directory-listing3.md %}
+
+## Таст параметров
+include directory-listing3.md dir="/projects/" tag="hardware"
+
+{% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
 
 ## Листинг кода
