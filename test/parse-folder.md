@@ -15,25 +15,27 @@
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
+{% assign test = "true" %}
+
 {% assign first_tag = 'hardware' %}
-Переданный параметр tag: ({{ first_tag }})<br>
+{% if test == "true" %}Переданный параметр tag: ({{ first_tag }})<br>{% endif %}
 
 {% assign directory = "/projects/" %}
-Переданный параметр dir: ({{ directory }})<br>
+{% if test == "true" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
-Первая страница на всем сайте: {{ allpages[0].url }}<br>
+{% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
 
 {% assign dirpages = allpages | where: "dir",  directory %}
-Первая страница  в папке: {{ dirpages[0].url }}<br>
-
-
+{% if test == "true" %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
 
 <ol reversed id="navigation">
-{% for pg in dirpages %} {% if pg.tags contains first_tag %}
+{% for pg in dirpages %}
+{% if pg.tags contains first_tag %}
 <li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}{% endfor %}
+{% endif %}
+{% endfor %}
 </ol>
 
 ## Листинг кода
