@@ -1,12 +1,9 @@
 {% assign debug = true %}
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
-{% if rec_tag %}rec_tag is true<br>{% endif %}
-{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}){% endif %}
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
-{% if debug %}allpages[0]: ({{ allpages[0].url }}){% endif %}
-{% if debug %}dirpages[0]: {{ dirpages[0].url }}{% endif %}
+{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}). Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
 <ol reversed id="navigation">
 {% for pg in dirpages %}
 {% if pg.tags contains rec_tag or rec_tag == "" %}
