@@ -22,7 +22,7 @@ comments: true
 {% assign test = "true" %}
 
 {% assign directory = include.dir %}
-{% if test == "true" %}{% assign directory = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
+{% if test == "true" %}{% assign directory = "/test/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
 {% if test == "true" %}{% assign rec_tag = "" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
