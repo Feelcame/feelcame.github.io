@@ -316,5 +316,8 @@ end
 * <http://jekyll.github.io/github-metadata/site.github/>
 + <https://devhints.io/jekyll-github>
 + Красивая тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
-
++ <https://shopify.dev/api/liquid>
++ <https://shopify.github.io/liquid/>
++ <https://idratherbewriting.com/documentation-theme-jekyll/mydoc_commenting_on_files.html>
++ <http://parpersson.github.io/Manualmall/pages/>
 
