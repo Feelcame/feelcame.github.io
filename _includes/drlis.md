@@ -1,9 +1,9 @@
 ---
 date: 2021-11-06T11:24:29+02:00
-modified: 2021-11-06T13:10:29+02:00
+modified: 2021-11-06T13:14:29+02:00
 ---
 
-{% assign debug = true %}
+{% assign debug = false %}
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
 {% assign allpages = site.pages | sort: "path" %}
@@ -13,8 +13,8 @@ modified: 2021-11-06T13:10:29+02:00
 
 
 
-
-{% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}). Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
+DIR: ({{ directory }}). TAG: ({{ rec_tag }}). 
+{% if debug %}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
 
 
 <ol reversed id="navigation">
