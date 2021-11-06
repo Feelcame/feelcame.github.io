@@ -6,10 +6,11 @@
 {%- assign allpages = site.pages | sort: "path" -%}  
 {%- assign dirpages = allpages | where: "dir",  directory -%}  
 {%- assign datepages = dirpages | sort: "date" -%}  
-{%- assign sortedpages = datepages | sort: "index" | reverse -%}  
-sortedpages.size: {{ sortedpages.size }}<br>
-{%- assign allowedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  
-allowedpages.size: {{ allowedpages.size }}<br>
+{%- assign sortedpages = datepages | sort: "index" | reverse -%}  sortedpages.size: {{ sortedpages.size }}<br>
+{%- assign pinnedpages = sortedpages | where_exp: "item", "item.index > 0" -%}  pinnedpages.size: {{ pinnedpages.size }}<br>
+{%- assign notpinnedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  notpinnedpages.size: {{ notpinnedpages.size }}<br>
+{%- assign finishpages = pinnedpages | concat: notpinnedpages -%}
+
 {%- if debug -%}
   Статьи в папке ({{ directory }})
   {%- if rec_tag != "" %}
@@ -18,7 +19,7 @@ allowedpages.size: {{ allowedpages.size }}<br>
 {%- endif %}
 
 <ol reversed id="navigation">
-{%- for pg in allowedpages -%}
+{%- for pg in finishpages -%}
   {%- if pg.tags contains rec_tag or rec_tag == "" -%}
     {%- assign pg_index = pg.index | default: nil -%}
     <li>{%- if pg_index > 0 -%}📌{%- endif -%}
