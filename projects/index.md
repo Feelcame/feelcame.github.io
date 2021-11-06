@@ -5,7 +5,7 @@ modified: 2021-11-06T11:59:00+02:00
 index: 0
 ---
 
-## мои pet-проекты
+## мои pet-проекты [+]({{ site.github.repository_url }}/new/master/{{ page.dir }})
 
 {% include drlis.md %}
 
