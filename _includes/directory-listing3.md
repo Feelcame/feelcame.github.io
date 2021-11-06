@@ -3,7 +3,6 @@
 {% assign directory = include.dir | default: page.dir %}
 {% assign rec_tag = include.tag | default: "" %}
 {% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }})<br>{% endif %}
-
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
 {% if debug %}allpages[0]: ({{ allpages[0].url }})<br>{% endif %}
