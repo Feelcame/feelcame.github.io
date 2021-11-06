@@ -2,13 +2,13 @@
 title: Программы
 date: 2021-07-13T00:00:00+03:00
 modified: 2021-09-11T20:58:58+03:00
-noindex: true
+index: 0
 ---
 
 :pushpin:[**Windows**](./windows.md) 
 :pushpin:[**Android**](./android.md)
 
-{% include directory-listing.md %}
+{% include drlis.md %}
 
-### **related-projects**
-{% include directory-listing3.md dir="/projects/" tag="software" %}
+**Проекты:**
+{% include drlis.md dir="/projects/" tag="software" %}
