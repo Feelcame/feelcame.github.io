@@ -21,7 +21,7 @@ index: 1
 4. вывести список оставшихся
 
 ## TODO
-- | strip_newlines
+- | strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
 
 ## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
