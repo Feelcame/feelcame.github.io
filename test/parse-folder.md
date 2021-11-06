@@ -33,7 +33,7 @@ dirpages{{ dirpages[0].url }}<br>
 tagpages{{ tagpages[0].url }}<br>
 {% assign sortedpages = tagpages | sort: 'date' | reverse %}
 sortedpages{{ sortedpages[0].url }}<br>
-{% assign allowedpages = sortedpages | where_exp: "page", "page.index >= 0"	 %}
+{% assign allowedpages = sortedpages | where_exp: "item", "item.index >= 0"	 %}
 allowedpages{{ allowedpages[0].url }}<br>
 {% assign resultpages = allowedpages %}
 resultpages{{ resultpages[0].url }}<br>
