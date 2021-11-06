@@ -32,7 +32,7 @@
 
 {% assign resultpages = tagpages %}
 <ol reversed id="navigation">
-{% for pg in resultpages %}{% if pg.tags contains first_tag %}
+{% for pg in resultpages %}{% if pg.tags contains 'hardware' %}
 <li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}{% endfor %}
