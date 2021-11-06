@@ -2,10 +2,10 @@
 
 {% assign directory = include.dir %}
 {% if directory == "" %}{% assign directory = page.dir %}{% endif %}
-{% if test == "true" %}{% assign directory_DEBUG = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
+{% if test == "true" %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
-{% if test == "true" %}{% assign rec_tag_DEBUG = "" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
+{% if test == "true" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
 {% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
