@@ -21,7 +21,7 @@
 {% if test == "true" %}{% assign directory = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
 
 {% assign rec_tag = include.tag %}
-{% if test == "true" %}{% assign rec_tag = "hardware" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
+{% if test == "true" %}{% assign rec_tag = "" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
 {% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
