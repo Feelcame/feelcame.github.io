@@ -20,25 +20,27 @@ index: 1
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
+## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
-
 ``` html
 {%- include drlis.md %}
 ```
 
 
+
+### Передано TAG и DIR
+```{ % include drlis.md dir="/projects/" tag="hardware" %}```  
+{% include drlis.md dir="/projects/" tag="hardware" %}
+
+### Передано TAG
+```{ % include drlis.md tag="hardware" %}```  
+{% include drlis.md tag="hardware" %}
+
+### Передано DIR
+```{ % include drlis.md dir="/projects/" %}```  
+{% include drlis.md dir="/projects/" %}
+
 ### Тест без параметров
-```{ % include directory-listing3.md %}```  
-{% include directory-listing3.md %}
+```{ % include drlis.md %}```  
+{% include drlis.md %}
 
-### Тест с обоими параметрами
-```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```  
-{% include directory-listing3.md dir="/projects/" tag="hardware" %}
-
-### Тест параметра DIR
-```{ % include directory-listing3.md dir="/projects/" %}```  
-{% include directory-listing3.md dir="/projects/" %}
-
-### Тест параметра TAG
-```{ % include directory-listing3.md tag="hardware" %}```  
-{% include directory-listing3.md tag="hardware" %}
