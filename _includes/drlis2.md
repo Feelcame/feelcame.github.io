@@ -1,5 +1,5 @@
 {%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"  
-
+{%- endcomment -%}
 
 {%- assign debug = true -%}  
 {%- assign directory = include.dir | default: page.dir -%}  
@@ -29,4 +29,4 @@
 {%- endif -%}
 {%- endfor -%}
 </ol>
-{%- endcomment -%}
+
