@@ -32,7 +32,7 @@
 
 {% assign resultpages = tagpages %}
 <ol reversed id="navigation">
-{% for page in resultpages %}{% if page.tags contains first_tag %}
+{% for page in resultpages %}{% if page.tags contains page.first_tag %}
 <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
 <time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}{% endfor %}
