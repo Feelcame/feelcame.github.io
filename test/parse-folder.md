@@ -33,7 +33,7 @@
 
 <ol reversed id="navigation">
 {% for pg in dirpages %}
-{% if pg.tags contains rec_tag %}
+{% if pg.tags contains rec_tag or pg.tags == "" %}
 <li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endif %}
