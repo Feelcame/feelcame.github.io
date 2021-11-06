@@ -8,7 +8,7 @@
 {%- assign datepages = dirpages | sort: "date" -%}  
 {%- assign sortedpages = datepages | sort: "index" | reverse -%}  
 sortedpages.size: {{ sortedpages.size }}<br>
-{%- assign allowedpages = sortedpages | where_exp: "item", "item.index == nil or item.index == 1" -%}  
+{%- assign allowedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  
 allowedpages.size: {{ allowedpages.size }}<br>
 {%- if debug -%}
   Статьи в папке ({{ directory }})
