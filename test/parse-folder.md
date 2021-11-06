@@ -17,8 +17,8 @@
 
 {% assign first_tag = include.tag | split: " " | first %}   Проверка. include.tag: {{ first_tag }}<br>
 {% assign directory = include.dir | split: " " | first %}   Проверка. include.dir: ({{ directory }})<br>
-{% assign directory = "/projects/" %}   Проверка. directory: {{ directory }}<br>
-{% if directory == "" %}{% assign directory = page.dir %}{% endif %}   Проверка. if !directory: {{ directory }}<br>
+{% if directory == "" %}{% assign directory = page.dir %}{% endif %}   Проверка. if ditectory not set: {{ directory }}<br>
+{% if directory == "\test\" %}{% assign directory = "/projects/" %}{% endif %}   Проверка. if directory == "/test/": {{ directory }}<br>
 
 
 {% assign allpages = site.pages | sort: "path" %}   Проверка. allpages: {{ allpages[0].url }}<br>
