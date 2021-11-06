@@ -16,23 +16,23 @@
 4. вывести список оставшихся
 
 {% assign first_tag = include.tag | split: " " | first %}
-first_tag: {{ first_tag }}<br>
+include.tag: {{ first_tag }}<br>
 {% assign directory = include.dir | split: " " | first %}
-directory: {{ directory }}<br>
+include.dir: ({{ directory }})<br>
 {% assign directory = "/projects/" %}
 directory: {{ directory }}<br>
 {% if directory == "" %}{% assign directory = page.dir %}{% endif %}
-if directory == "": {{ directory }}<br>
+if !directory: {{ directory }}<br>
 
 
 {% assign allpages = site.pages | sort: page.path %}
 allpages: {{ allpages[0].url }}<br>
 {% assign dirpages = allpages | where: "dir",  directory %}
-dirpages{{ dirpages[0].url }}<br>
+dirpages: {{ dirpages[0].url }}<br>
 {% assign tagpages = dirpages | where: "tags",  first_tag %}
-tagpages{{ tagpages[0].url }}<br>
-{% assign resultpages = sortedpages %}
-resultpages{{ resultpages[0].url }}<br>
+tagpages: {{ tagpages[0].url }}<br>
+{% assign resultpages = tagpages %}
+resultpages: {{ resultpages[0].url }}<br>
 
 <ol reversed id="navigation">
 {% for page in resultpages %}
@@ -66,8 +66,5 @@ resultpages{{ resultpages[0].url }}<br>
 
 
 ## Тесты
-- page.dir: {{ page.dir }}
-- page.path: {{ page.path }}
-- page.dir:{{ page.dir }}
 
 
