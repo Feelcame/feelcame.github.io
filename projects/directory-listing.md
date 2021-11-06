@@ -21,24 +21,11 @@ index: 1
 4. вывести список оставшихся
 
 ## TODO
-- | strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
-- | lol
-
 | strip_newlines <https://shopify.github.io/liquid/basics/whitespace/>
 | lol
 
 ## Листинг кода
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
-
-<pre class="highlight">
-<iframe src="https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md" width="100%" height="500" align="left">фрейм</iframe>
-</pre>
-
-<iframe src="https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md" width="100%" height="500" align="left">фрейм</iframe>
-
-
-
-
 
 ### Передано TAG и DIR
 ```{ % include drlis.md dir="/projects/" tag="hardware" %}```  
