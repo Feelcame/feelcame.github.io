@@ -8,10 +8,10 @@
 {%- assign dirpages = allpages | where: "dir",  directory -%}  
 {%- assign datepages = dirpages | sort: "date" -%}  
 {%- assign sortedpages = datepages | sort: "index" | reverse -%}  
-<br>sortedpages.size: {{ sortedpages.size }}
+sortedpages.size: {{ sortedpages.size }}<br>
 
-{%- assign allowedpages = sortedpages | where_exp: "item", "item.index > 0" -%}  
-<br>allowedpages.size: {{ allowedpages.size }}
+{%- assign allowedpages = sortedpages | where_exp: "item", "item.index == nil" -%}  
+allowedpages.size: {{ allowedpages.size }}<br>
 
 
 
@@ -19,13 +19,13 @@
 {%- endif -%}
 <ol reversed id="navigation">
 {%- for pg in allowedpages -%}
-{%- if pg.tags contains rec_tag or rec_tag == "" -%}
-{%- assign pg_index = pg.index | default: nil -%}
-<li>{%- if pg_index > 0 -%}📌{%- endif -%}
-<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a> 
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
-</li>
-{%- endif -%}
+  {%- if pg.tags contains rec_tag or rec_tag == "" -%}
+    {%- assign pg_index = pg.index | default: nil -%}
+    <li>{%- if pg_index > 0 -%}📌{%- endif -%}
+      <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a> 
+    <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
+    </li>
+  {%- endif -%}
 {%- endfor -%}
 </ol>
 
