@@ -25,7 +25,7 @@ directory: {{ directory }}<br>
 if directory == "": {{ directory }}<br>
 
 
-{% assign allpages = site.pages %}
+{% assign allpages = site.pages | sort: page.path %}
 allpages: {{ allpages[0].url }}<br>
 {% assign dirpages = allpages | where: "dir",  directory %}
 dirpages{{ dirpages[0].url }}<br>
@@ -71,6 +71,7 @@ resultpages{{ resultpages[0].url }}<br>
 
 ## Тесты
 - page.dir: {{ page.dir }}
-
+- page.path: {{ page.path }}
+- page.dir:{{ page.dir }}
 
 
