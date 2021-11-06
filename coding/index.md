@@ -10,7 +10,11 @@ noindex: true
 {% include directory-listing.md %}
 
 ### **related-projects**
-{% include directory-listing3.md dir="/projects/" tag="coding" %}
+{% include drlis.md dir="/projects/" tag="coding" %}
+
+
+***
+> Все права защищены. Тексты в свободном доступе. Если понравился код - копируй на здоровье! Только обязательно проверяй перед использованием
 
 {% comment %}
 <!--
@@ -74,5 +78,4 @@ noindex: true
 -->
 {% endcomment %}
 
-***
-> Все права не защитишь. Тексты в свободном доступе. Копируйте на здоровье!
+
