@@ -12,7 +12,7 @@ index: false
 **Все статьи.**{% include drlis.md dir="/projects/" tag="hardware" %}
 
 {% comment %}
-
+<!--
 ## Статьи в папке {{ page.dir }}:
 {% include listdir.md %}
 
@@ -21,8 +21,8 @@ index: false
 
 ## **related-projects**
 {% include drlis.md dir="/projects/" tag="hardware" %}
+-->
 
-<!--
 ## Мобильные телефоны
 ## Компьютеры
 ## Печатные платы
@@ -41,5 +41,5 @@ index: false
 1. [Питение и регуляторы напряжения](./регуляторы_напруги.md)
 1. [автостарт андроид телефона при подаче питания](автостарт-андроид-телефона.md)
 1. [Altium_Designer](Altium_Designer)
--->
+
 {% endcomment %}
