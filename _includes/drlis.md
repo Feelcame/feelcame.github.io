@@ -1,6 +1,6 @@
 ---
 date: 2021-11-06T11:24:29+02:00
-modified: 2021-11-06T11:54:22+02:00
+modified: 2021-11-06T11:56:55+02:00
 ---
 
 {% assign debug = true %}
@@ -8,7 +8,7 @@ modified: 2021-11-06T11:54:22+02:00
 {% assign rec_tag = include.tag | default: "" %}
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
-{% assign datepages = dirpages | sort: "date" %}
+{% assign datepages = dirpages | sort: "date" | reverse %}
 {% assign sortedpages = datepages | sort: "index" %}
 
 
