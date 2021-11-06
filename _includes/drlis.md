@@ -11,7 +11,7 @@
 {%- assign finish_pages = finish_pages | where_exp: "item", "item.tags == rec_tag" -%}  
 {%- endif %}  
 
-{%- comment -%}{%- endcomment -%}Дебаг: dir: ({{ directory }}), tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}).
+{%- comment -%}{%- endcomment -%}Дебаг. dir: ({{ directory }}), tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}).
 
 <ol reversed id="navigation">
 {%- for pg in finish_pages -%}

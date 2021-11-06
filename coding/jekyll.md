@@ -321,4 +321,5 @@ end
 + <https://shopify.github.io/liquid/>
 + <https://idratherbewriting.com/documentation-theme-jekyll/mydoc_commenting_on_files.html>
 + <http://parpersson.github.io/Manualmall/pages/>
+- <https://runebook.dev/ru/docs/jekyll/liquid/filters/index>
 
