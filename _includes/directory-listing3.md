@@ -13,9 +13,7 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 {% if test == "true" %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
 
-{% assign resultpages = dirpages | sort: "date" %}
-
-{% if test == "true" %}Все страницы с тегом ({{ rec_tag }}):<br>{% endif %}
+{% assign resultpages = dirpages %}
 
 <ol reversed id="navigation">
 {% for pg in resultpages %}
