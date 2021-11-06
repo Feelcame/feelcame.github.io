@@ -1,4 +1,4 @@
-{% assign test = "true" %}
+{% assign test = true %}
 
 {% assign directory = include.dir %}
 {% if !directory %}{% assign directory = page.dir %}Параметр DIR не получен. Задаем новый. {% endif %}
