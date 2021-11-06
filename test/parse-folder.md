@@ -20,8 +20,8 @@ comments: true
 4. вывести список оставшихся
 
 
-{% assign test0 = true %}
-{% if test0 %}test0 is true<br>{% endif %}
+{% assign test0 = "" %}
+{% if test1 %}test0 is true<br>{% endif %}
 
 ===
 
@@ -53,7 +53,7 @@ comments: true
 </ol>
 
 ## Протестируем
-{% include directory-listing3.md dir="/software/" %}
+{% include directory-listing3.md dir="/projects/" %}
 
 
 ## Листинг кода
