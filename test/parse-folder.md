@@ -21,23 +21,19 @@ comments: true
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/directory-listing3.md>
 
 ### Тест без параметров
-```{ % include directory-listing3.md %}```
-
+```{ % include directory-listing3.md %}```  
 {% include directory-listing3.md %}
 
 ### Таст с обоими параметрами
-```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```
-
+```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```  
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
 ### Таст параметра DIR
-```{ % include directory-listing3.md dir="/test/" %}```
-
+```{ % include directory-listing3.md dir="/test/" %}```  
 {% include directory-listing3.md dir="/test/" %}
 
 ### Таст параметра TAG
-```{ % include directory-listing3.md tag="hardware" %}```
-
+```{ % include directory-listing3.md tag="hardware" %}```  
 {% include directory-listing3.md tag="hardware" %}
 
 
