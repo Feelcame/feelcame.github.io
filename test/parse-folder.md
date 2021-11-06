@@ -47,7 +47,7 @@ comments: true
 </ol>
 
 ## Протестируем
-{% include directory-listing3.md %}
+{% include directory-listing3.md dir="/software/" %}
 
 
 ## Листинг кода
