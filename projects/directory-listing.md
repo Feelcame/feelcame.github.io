@@ -21,7 +21,7 @@ tags: coding
 
 ## New...
 
-{% include drlis2.md tag="coding" %}
+{% include drlis2.md %}
 
 
 ## Листинг кода
