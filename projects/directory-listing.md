@@ -78,3 +78,4 @@ tags: coding
 {% include drlis.md %}
 </details>
 
+## Ваши отзывы. Напиши что думаешь по этому поводу
