@@ -22,22 +22,22 @@ comments: true
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/directory-listing3.md>
 
 ## Протестируем
-```{ % include directory-listing3.md % }```
+```{ % include directory-listing3.md %}```
 
 {% include directory-listing3.md %}
 
 ## Таст параметров
-```{ % include directory-listing3.md dir="/projects/" tag="hardware" % }```
+```{ % include directory-listing3.md dir="/projects/" tag="hardware" %}```
 
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
 ## Таст параметра DIR
-```{ % include directory-listing3.md dir="/projects/" % }```
+```{ % include directory-listing3.md dir="/projects/" %}```
 
 {% include directory-listing3.md dir="/projects/" %}
 
-## Таст параметра ЕФП
-```{ % include directory-listing3.md tag="hardware" % }```
+## Таст параметра TAG
+```{ % include directory-listing3.md tag="hardware" %}```
 
 {% include directory-listing3.md tag="hardware" %}
 
