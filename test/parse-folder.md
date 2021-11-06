@@ -14,7 +14,7 @@
 2. выбрать только те что в нужной папке
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
-{% assign test = true %}
+{% assign test = "true" %}
 
 {% assign first_tag = include.tag | split: " " | first %}
 Переданный параметр tag: ({{ first_tag }})<br>
