@@ -53,7 +53,7 @@ comments: true
 </ol>
 
 ## Протестируем
-{% include directory-listing3.md dir="/projects/" %}
+{% include directory-listing3.md %}
 
 
 ## Листинг кода
