@@ -21,43 +21,25 @@ comments: true
 
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/directory-listing3.md>
 
-{% assign test = "true" %}
-
-{% assign directory = include.dir %}
-{% if test == "true" %}{% assign directory = "/projects/" %}Переданный параметр dir: ({{ directory }})<br>{% endif %}
-
-{% assign rec_tag = include.tag %}
-{% if test == "true" %}{% assign rec_tag = "hardware" %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
-
-{% assign allpages = site.pages | sort: "path" %}
-{% if test == "true" %}Первая страница на всем сайте: {{ allpages[0].url }}<br>{% endif %}
-
-{% assign dirpages = allpages | where: "dir",  directory %}
-{% if test == "true" %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
-
-{% assign resultpages = dirpages | sort: "date" %}
-
-{% if test == "true" %}Все страницы с тегом ({{ rec_tag }}):<br>{% endif %}
-
-<ol reversed id="navigation">
-{% for pg in resultpages %}
-{% if pg.tags contains rec_tag or rec_tag == "" %}
-<li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}
-{% endfor %}
-</ol>
-
 ## Протестируем
-include directory-listing3.md
+```{ % include directory-listing3.md % }```
 
 {% include directory-listing3.md %}
 
 ## Таст параметров
-include directory-listing3.md dir="/projects/" tag="hardware"
+```{ % include directory-listing3.md dir="/projects/" tag="hardware" % }```
 
 {% include directory-listing3.md dir="/projects/" tag="hardware" %}
 
+## Таст параметра DIR
+```{ % include directory-listing3.md dir="/projects/" % }```
+
+{% include directory-listing3.md dir="/projects/" %}
+
+## Таст параметра ЕФП
+```{ % include directory-listing3.md tag="hardware" % }```
+
+{% include directory-listing3.md tag="hardware" %}
 
 
 
