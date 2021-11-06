@@ -1,10 +1,9 @@
 {% assign debug = true %}
 
-{% assign directory = page.dir %}
-{% assign directory = include.dir %}
+{% assign directory = include.dir | default: page.dir %}
 {% if debug %}Переданный параметр dir: ({{ directory }}). page.dir: {{ page.dir }}<br>{% endif %}
 
-{% assign rec_tag = include.tag %}
+{% assign rec_tag = include.tag | default: "" %}
 {% if debug %}Переданный параметр tag: ({{ rec_tag }})<br>{% endif %}
 
 {% assign allpages = site.pages | sort: "path" %}
