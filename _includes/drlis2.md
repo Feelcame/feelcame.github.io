@@ -14,7 +14,7 @@
 {% if debug -%}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){%- endif -%}
 
 
-{%- assign allowedpages = sortedpages | where_exp: "index", "index == '1' or index == nil" -%}  
+{%- assign allowedpages = sortedpages | where_exp: "index", "index > 0" -%}  
 
 
 
