@@ -55,33 +55,26 @@ tags: coding
 {% endraw %}
 </details>
 
+## Примеры 
 
-
-### Передано TAG и DIR
 ```{ % include drlis.md dir="/projects/" tag="hardware" %}```
-
-<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
+<details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
 {% include drlis.md dir="/projects/" tag="hardware" %}
 </details>
 
-### Передано TAG
 ```{ % include drlis.md tag="hardware" %}```
-
-<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
+<details markdown="1"><summary markdown="0">+ Передано TAG</summary>
 {% include drlis.md tag="hardware" %}
 </details>
 
-### Передано DIR
 ```{ % include drlis.md dir="/projects/" %}```
-
-<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
+<details markdown="1"><summary markdown="0">+ Передано DIR</summary>
 {% include drlis.md dir="/projects/" %}
 </details>
 
-### Нет параметров
-```{ % include drlis.md %}```
 
-<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
+```{ % include drlis.md %}```
+<details markdown="1"><summary markdown="0">+ Нет параметров</summary>
 {% include drlis.md %}
 </details>
 
