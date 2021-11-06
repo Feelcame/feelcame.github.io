@@ -15,29 +15,62 @@
 3. выбрать только те что с нужным тегом
 4. вывести список оставшихся
 
-{% assign tag_first = include.tag | split: " " | first %}
-<ol reversed>
-{% for tag in site.tags %}
-  {% if tag[0] == tag_first %}
-    {% for post in tag[1] %}
-      {% if page.dir == "/hardware/" %}
-        <li>{{ post.date | date: "%y%m%d" }}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | default: Без имени}}</a></li>
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+{% assign first_tag = include.tag | split: " " | first %}
+first_tag: {{ first_tag }}<br>
+{% assign directory = include.dir | split: " " | first %}
+directory: {{ directory }}<br>
+{% assign directory = "/projects/" %}
+directory: {{ directory }}<br>
+{% if directory == "" %}{% assign directory = page.dir %}{% endif %}
+if directory == "": {{ directory }}<br>
+
+
+{% assign allpages = site.pages %}
+allpages: {{ allpages[0].url }}<br>
+{% assign dirpages = allpages | where: "dir",  directory %}
+dirpages{{ dirpages[0].url }}<br>
+{% assign tagpages = dirpages | where: "tags",  first_tag %}
+tagpages{{ tagpages[0].url }}<br>
+{% assign sortedpages = tagpages | sort: 'date' | reverse %}
+sortedpages{{ sortedpages[0].url }}<br>
+{% assign allowedpages = sortedpages | where_exp: "page", "page.index >= 0"	 %}
+allowedpages{{ allowedpages[0].url }}<br>
+{% assign resultpages = allowedpages %}
+resultpages{{ resultpages[0].url }}<br>
+
+<ol reversed id="navigation">
+{% for page in resultpages %}
+<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
+<time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {% endfor %}
 </ol>
 
-
+## Листинг кода
 {% raw %}
 ``` 
+{% assign first_tag = include.tag | split: " " | first %}
+{% assign directory = include.dir | split: " " | first %}
+{% if directory == "" %}{% assign directory = page.dir %}{% endif %}
+
+{% assign allpages = site.pages %}
+{% assign dirpages = allpages | where: "dir",  directory %}
+{% assign tagpages = dirpages | where: "tags",  first_tag %}
+{% assign sortedpages = tagpages | sort: 'date' | reverse %}
+{% assign allowedpages = sortedpages | where_exp: "page", "page.index >= 0"	 %}
+{% assign resultpages = allowedpages %}
+
 <ol reversed id="navigation">
-{% assign allpages = site.pages | where: "dir",  page.dir %}
-{% assign sorted = allpages | sort: 'date' | reverse %}
-{% for p in sorted %}{% if p.noindex != true %}
-<li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title | default: "New page" }}</a> 
-<time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}{% endfor %}
+{% for page in resultpages %}
+<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title | default: "New page" }}</a> 
+<time class="shaded">{{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{% endfor %}
 </ol>
 ```
 {% endraw %}
+
+
+## Тесты
+- page.dir: {{ page.dir }}
+
+
+
