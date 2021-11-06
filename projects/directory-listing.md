@@ -7,38 +7,36 @@ tags: coding
 ---
 
 ## Jekyll: вывод списка страниц в папке 
-В любом месте страницы можно написать одну строчку и она выведет список страниц подходящих по параметрам.  
-{% raw %}```{{ include directory-listing.md tag="железо" }}```{% endraw %}
+В любом месте статьи можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
+{% raw %}```{{ include drlos.md dir="/projects/" tag="hardware" }}```{% endraw %}
 
-Нужно спарсить папку ```/projects/```.  
-Если передан параметр ```dir```, то парсить полностью всю папку по принятому адресу относительно корня сайта.  
-Если передан параметр ```tag```, то вывести только те страницы, которые помечены тегом, нопр. "hardware".  
-Если комбинация этих параметров, то вывести только страницы с нужным тегом в  данной папке.  
-Если параметров не передано - парсить текущую папку (из которой происходит вызов).  
+Код тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
 
-1. взять все страницы
-2. выбрать только те что в нужной папке
-3. выбрать только те что с нужным тегом
-4. вывести список оставшихся
+## Описание
+1. Если передан параметр ```dir```, то парсить полностью всю папку.  
+2. Если передан параметр ```tag```, то вывести только те страницы, которые помечены нужным тегом.  
+3. Если параметров не передано - парсить текущую папку (из которой происходит вызов).  
+4. Вывести список оставшихся
 
 ## Листинг кода
-Код тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
+
+<details markdown="1"><summary markdown="0">+ Проверенно работает 2021-11-06</summary>
 
 {% raw %}
 ``` html
-{%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"
+{%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"  
 {%- endcomment -%}
 
-{%- assign debug = false -%}
-{%- assign directory = include.dir | default: page.dir -%}
-{%- assign rec_tag = include.tag | default: "" -%}
-{%- assign allpages = site.pages | sort: "path" -%}
-{%- assign dirpages = allpages | where: "dir",  directory -%}
-{%- assign datepages = dirpages | sort: "date" | reverse -%}
-{%- assign sortedpages = datepages | sort: "index" | reverse -%}
+{%- assign debug = false -%}  
+{%- assign directory = include.dir | default: page.dir -%}  
+{%- assign rec_tag = include.tag | default: "" -%}  
+{%- assign allpages = site.pages | sort: "path" -%}  
+{%- assign dirpages = allpages | where: "dir",  directory -%}  
+{%- assign datepages = dirpages | sort: "date" -%}  
+{%- assign sortedpages = datepages | sort: "index" | reverse -%}  
 
 Все страницы в папке ({{ directory }}){%- if rec_tag != "" %} с тегом ({{ rec_tag }}){%- endif -%}.  
-{% if debug %}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif -%}
+{% if debug -%}Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){%- endif -%}
 
 <ol reversed id="navigation">
 {%- for pg in sortedpages -%}
@@ -55,24 +53,35 @@ tags: coding
 </ol>
 ```
 {% endraw %}
+</details>
+
+
 
 ### Передано TAG и DIR
 ```{ % include drlis.md dir="/projects/" tag="hardware" %}```
 
+<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
 {% include drlis.md dir="/projects/" tag="hardware" %}
+</details>
 
 ### Передано TAG
 ```{ % include drlis.md tag="hardware" %}```
 
+<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
 {% include drlis.md tag="hardware" %}
+</details>
 
 ### Передано DIR
 ```{ % include drlis.md dir="/projects/" %}```
 
+<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
 {% include drlis.md dir="/projects/" %}
+</details>
 
-### Тест без параметров
+### Нет параметров
 ```{ % include drlis.md %}```
 
+<details markdown="1"><summary markdown="0">+ Открыть спойлер</summary>
 {% include drlis.md %}
+</details>
 
