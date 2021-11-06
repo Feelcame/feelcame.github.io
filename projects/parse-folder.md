@@ -21,11 +21,11 @@ index: 1
 4. вывести список оставшихся
 
 Код тута: <https://github.com/Feelcame/feelcame.github.io/blob/master/_includes/drlis.md>
-{% raw %}
+
+``` html
+{% include_relative drlis.md %}
 ```
-{% include drlis.md %}
-```
-{% endraw %}
+
 
 ### Тест без параметров
 ```{ % include directory-listing3.md %}```  
