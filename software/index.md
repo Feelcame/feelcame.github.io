@@ -10,3 +10,5 @@ noindex: true
 
 {% include directory-listing.md %}
 
+### **related-projects**
+{% include directory-listing3.md dir="/projects/" tag="software" %}
