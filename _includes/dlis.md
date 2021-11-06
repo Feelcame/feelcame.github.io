@@ -1,6 +1,6 @@
 ---
 date: 2021-11-06T11:24:29+02:00
-modified: 2021-11-06T11:32:09+02:00
+modified: 2021-11-06T11:43:58+02:00
 ---
 
 {% assign debug = true %}
@@ -8,13 +8,20 @@ modified: 2021-11-06T11:32:09+02:00
 {% assign rec_tag = include.tag | default: "" %}
 {% assign allpages = site.pages | sort: "path" %}
 {% assign dirpages = allpages | where: "dir",  directory %}
-{% assign sortedpages = dirpages | sort: "index" %}
+{% assign bydatepages = dirpages | sort: "date" %}
+{% assign sortedpages = bydatepages | sort: "index" %}
+
+
+
+
 {% if debug %}DIR: ({{ directory }}). TAG: ({{ rec_tag }}). Allpages[0]: ({{ allpages[0].url }}). Dirpages[0]: ({{ dirpages[0].url }}){% endif %}
 <ol reversed id="navigation">
 {% for pg in sortedpages %}
-{% if pg.tags contains rec_tag or rec_tag == "" %}
+{% if pg.tags contains rec_tag or rec_tag == "" %}{% assign index = pg.index | default: "" %}
+{% if index >= 0 or index == "" %}
 <li><a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: "New page" }}</a> 
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{% endif %}
 {% endif %}
 {% endfor %}
 </ol>
