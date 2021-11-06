@@ -29,6 +29,8 @@
 {% assign dirpages = allpages | where: "dir",  directory %}
 {% if test == "true" %}Первая страница  в папке: {{ dirpages[0].url }}<br>{% endif %}
 
+{% if test == "true" %}Все страницы с тегом ({{ first_tag }}):<br>{% endif %}
+
 <ol reversed id="navigation">
 {% for pg in dirpages %}
 {% if pg.tags contains first_tag %}
