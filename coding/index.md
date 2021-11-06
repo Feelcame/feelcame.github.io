@@ -7,7 +7,7 @@ index: 0
 ---
 
 ### кодинг.категории.читать()
-{% include directory-listing.md %}
+{% include drlis.md %}
 
 **Проекты:**
 {% include drlis.md dir="/projects/" tag="coding" %}
