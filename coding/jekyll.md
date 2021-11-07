@@ -249,11 +249,12 @@ title: test
 
 
 ## Полезные ссылки
-+ Официальный сайт Jekyll CMS  <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-+ Официальный сайт Github Pages <https://pages.github.com>
-+ Официальный сайт Shopify Liquid <https://shopify.github.io/liquid/>
-+ Официальный сайт kramdown parser <https://kramdown.gettalong.org/converter/html.html>
-+ Официальный сайт Rogue highlighter
++ Оф. сайт Jekyll CMS  <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
++ Оф. сайт Github Pages <https://pages.github.com>
++ Справка по Github Pages <https://docs.github.com/en/pages>
++ Справка Shopify Liquid <https://shopify.github.io/liquid/>
++ Оф. сайт kramdown parser <https://kramdown.gettalong.org/converter/html.html>
++ Оф. сайт Rogue highlighter <http://rouge.jneen.net/>
 
 - Все про liquid-скрипты на одной странице <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
 + Возможно официальны сайт<https://shopify.dev/api/liquid>
