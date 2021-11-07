@@ -39,9 +39,7 @@
 			<time class="shaded"> 
 				{{ site.time }} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
-				
-				{{ page.name  }}
-				{% if page.name == index.md %} 
+				{% if page.name == "index.md" %} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/new/master/{{ page.dir }}">[+]</a>
 				{% endif %}
 			</time>
