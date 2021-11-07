@@ -87,7 +87,9 @@ markdown="0" <span markdown="0">_markdown_ **запрещен**</span>
 
 При генерации страниц Jekyll может исполнить сценарии, так называемые **liquid-скрипты**. Их придумали и реализовали в компании Shopify. 
 
-Shopify использовали их для своего eCommerce решения. Пользователям понравилось, вот и Jekyll тоже перенял этот опыт. Liquid напомнил мне о шаблонах TPL в OpenCart, которая написана на языке PHP. Там тоже используются вставки типа ```{ { page.title }}```, это одно и то же.
+Через Liquid реализованы: Переменные, Условия, Логика, Фильтры, Циклы... В обзем все, что нужно программисту для счастья.
+
+Shopify использовали их для своего eCommerce решения. Пользователям понравилось, вот и Jekyll тоже перенял этот опыт. Liquid напомнил мне о шаблонах TPL в OpenCart, которая написана на языке PHP. Там тоже используются вставки типа ```{ { page.title }}```, возможно, это одно и то же.
 
 Дока от Jekyll: <https://jekyllrb.com/docs/liquid/>  
 Дока Shopify: <https://shopify.github.io/liquid/>
@@ -106,7 +108,7 @@ title: test
 
 Дока от Jekyll: <https://jekyllrb.com/docs/variables/>  
 Дока от Shopify: <https://shopify.github.io/liquid/tags/variable/>  
-Про еременную [site.github](https://jekyll.github.io/github-metadata/docs/site.github)
+Про переменную [site.github](https://jekyll.github.io/github-metadata/docs/site.github)
 
 ### Условия, Логика
 Условия работают через опереатор IF [или другие](https://shopify.github.io/liquid/tags/control-flow/). 
