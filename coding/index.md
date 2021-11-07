@@ -9,10 +9,12 @@ index: 0
 ### кодинг.категории.читать()
 {% include drlis.md %}
 
-**Проекты:**
-{% include drlis.md dir="/projects/" tag="coding" %}
 
+**Проекты**
 {% include drlis.md tag="project" %}
+
+**Идеи:**
+{% include drlis.md dir="/projects/" tag="coding" %}
 
 **Web:** 
 {% include drlis.md tag="web" %}
