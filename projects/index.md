@@ -8,13 +8,13 @@ index: 0
 ## мои pet-проекты
 
 Кодинг: 
-{% include drlis.md dir="/coding/" %}
+{% include drlis.md dir="/coding/" tag="project" %}
 
 Софт: 
-{% include drlis.md dir="/software/" %}
+{% include drlis.md dir="/software/" tag="project" %}
 
 Хард: 
-{% include drlis.md dir="/hardware/" %}
+{% include drlis.md dir="/hardware/" tag="project" %}
 
 Черновики: 
 {% include drlis.md %}
