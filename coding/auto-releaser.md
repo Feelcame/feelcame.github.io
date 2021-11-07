@@ -1,6 +1,6 @@
 ---
 date: 2021-11-06T19:13:13+02:00
-tags: software
+tags: software project
 modified: 2021-11-06T11:22:23+02:00
 ---
 
