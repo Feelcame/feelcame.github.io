@@ -6,9 +6,14 @@ index: 0
 ---
 
 ## мои pet-проекты
-[[+]]({{ site.github.repository_url }}/new/master/{{ page.dir }})
 
-{% include drlis.md %}
+Кодинг: {% include drlis.md dir="/coding/" %}
+
+Софт: {% include drlis.md dir="/software/" %}
+
+Хард: {% include drlis.md dir="/hardware/" %}
+
+Черновики: {% include drlis.md %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master/{{ page.dir }})
 
