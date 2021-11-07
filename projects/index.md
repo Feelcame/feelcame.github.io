@@ -7,13 +7,17 @@ index: 0
 
 ## мои pet-проекты
 
-Кодинг: {% include drlis.md dir="/coding/" %}
+Кодинг: 
+{% include drlis.md dir="/coding/" %}
 
-Софт: {% include drlis.md dir="/software/" %}
+Софт: 
+{% include drlis.md dir="/software/" %}
 
-Хард: {% include drlis.md dir="/hardware/" %}
+Хард: 
+{% include drlis.md dir="/hardware/" %}
 
-Черновики: {% include drlis.md %}
+Черновики: 
+{% include drlis.md %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master/{{ page.dir }})
 
