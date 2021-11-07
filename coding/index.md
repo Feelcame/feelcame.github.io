@@ -10,17 +10,22 @@ index: 0
 {% include drlis.md %}
 
 
-**Проекты**
+<details markdown="1"><summary markdown="0">+ Мои проекты</summary>
 {% include drlis.md tag="project" %}
+</details>
 
-**Идеи:**
+
+<details markdown="1"><summary markdown="0">+ Идеи</summary>
 {% include drlis.md dir="/projects/" tag="coding" %}
+</details>
 
-**Web:** 
+<details markdown="1"><summary markdown="0">+ Web</summary>
 {% include drlis.md tag="web" %}
-
-
+</details>
 
 
 ***
+
+[[+] добавить ещё]({{ site.github.repository_url }}/new/master/{{ page.dir }})
+
 > Все права защищены. Тексты в свободном доступе. Если понравился код - копируй на здоровье! Только обязательно проверяй перед использованием
