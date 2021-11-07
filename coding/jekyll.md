@@ -29,15 +29,19 @@ index: 1
 - Там же, по желанию, выбрать тему. Вместе с ней установится файл ```_config.yml```
 - Все, сайт доступен по адресу username.github.io. Можно переходить к наполнению
 
+Еще желательно чуть-чуть разбираться как работает Jekyll и Liquid-скрипты. 
 
+Документация по Jekyll: <https://jekyllrb.com/docs/pages/>  
 
 ## Шаблоны страниц, Инклюд
-При создании html, за основу берутся шаблоны. Они хранятся в папке _layouts. Полную структуру каталогов можно посмотреть в исходниках тем. Вот для примера [репозиторий темы minima](https://github.com/jekyll/minima). Когда выбираешь тему оформления в настройках, то к репозиторию сайта по сути заливается содержимое репозитория темы.
+При создании html, за основу берутся шаблоны. Они хранятся в папке _layouts. Когда выбираешь тему оформления в настройках, то в репозиторий сайта, по сути копируются все файлы темы.
 
 Основной шаблон, который используется по умолчанию для генерации страниц: ```/_layouts/default.html```.  
-Внутри шаблона используются элементы программирования: [переменные](#переменные), [liquid-скрипты](#liquid-скрипты). Про них ниже.
+Показательный пример шаблона из темы Cyan: [cyan/_layouts/default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html)
 
-Код шаблона на примере темы Cyan: [cyan/_layouts/default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html)
+Полную структуру каталогов можно посмотреть в исходниках тем.  
+Вот для примера [репозиторий темы minima](https://github.com/jekyll/minima).  
+Про назначение папок читай на оф.сайте: <https://jekyllrb.com/docs/structure/>
 
 **Инклюд**
 
@@ -85,12 +89,13 @@ markdown="0" <span markdown="0">_markdown_ **запрещен**</span>
 
 Shopify использовали их для своего eCommerce решения. Пользователям понравилось, вот и Jekyll тоже перенял этот опыт. Liquid напомнил мне о шаблонах TPL в OpenCart, которая написана на языке PHP. Там тоже используются вставки типа ```{ { page.title }}```, это одно и то же.
 
-Лучшая документация всегда у производителя: <https://shopify.github.io/liquid/>
+Дока от Jekyll: <https://jekyllrb.com/docs/liquid/>  
+Дока Shopify: <https://shopify.github.io/liquid/>
 
 ### Переменные  
 
-- Вывести: {% raw %}```{{ page.title }}```{% endraw %}. Перед именем переменной содержится ее источник.    
-- Задать через assign: {% raw %}```{% assign my_var = "value" %}```{% endraw %}
+- **Вывести**: {% raw %}```{{ page.title }}```{% endraw %}. Перед именем переменной содержится ее источник.    
+- Задать через **assign**: {% raw %}```{% assign my_var = "value" %}```{% endraw %}
 - Здать через **capture**: {% raw %}```{% capture my_var %} anything {% endcapture %}```{% endraw %}
 - Задать в заголовке страницы:  
 ```
@@ -99,9 +104,9 @@ title: test
 ---
 ```
 
-Дока от Jekyll: <https://jekyllrb.com/docs/variables/>
-Дока от Shopify: <https://shopify.github.io/liquid/tags/variable/>
-Переменная [site.github](https://jekyll.github.io/github-metadata/docs/site.github).  
+Дока от Jekyll: <https://jekyllrb.com/docs/variables/>  
+Дока от Shopify: <https://shopify.github.io/liquid/tags/variable/>  
+Про еременную [site.github](https://jekyll.github.io/github-metadata/docs/site.github)
 
 ### Условия, Логика
 Условия работают через опереатор IF [или другие](https://shopify.github.io/liquid/tags/control-flow/). 
