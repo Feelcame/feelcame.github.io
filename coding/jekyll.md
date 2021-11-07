@@ -12,36 +12,83 @@ index: 1
 </details>
 
 ## Что оно делает
-**Jekyll** преобразовывает человекочитаемые markdown-тексты в обычный HTML. Про Markdown у меня есть [**целая статья**](./markdown.md). Что бы не повторяться, скажу лишь что MD - это по сути обычные файлы TXT, но круче. Когда технологии шагнут так далеко, что не смогут обработать весь сегодняшний джаваскрипт, то потомкам останутся читабельные исходники.
+**Jekyll** преобразовывает человекочитаемые markdown-тексты в обычный HTML. 
 
-Jekyll используется на GitHub Pages, который предоставляет энтузиастам **бесплатный хостинг для документации**. Грех этим не пользоваться! Этот сайт тоже сделан на jekyll. 
+Про **Markdown** у меня есть целая [статья](./markdown.md). Что бы не повторяться, скажу лишь он значительно ускоряет написание статей. Когда технологии шагнут так далеко, что не смогут обработать весь сегодняшний джаваскрипт, то потомкам останутся читабельные исходники в формате ```.md```.
+
+На [GitHub Pages](https://pages.github.com/), который предоставляет энтузиастам **бесплатный хостинг для документации**, используется именно Jekyll. Грех этим не пользоваться! Этот сайт тоже хостится на гитхабе. 
 
 Не глядя на то что jekyll всего лишь конвертирует md в html, это вполне себе CMS. Официально предлагается использовать сайт как блог (читай доки), но можно все перестроить под себя. Он не генерирует страницу из БД при каждом запросе пользователя. И это плюс: **статика держит невероятные нагрузки!**
 
-Удобство при написании статей обеспечивают такие функции как: markdown, шаблоны, переменные и liquid-скрипты.
 
-Написан на ruby, соответственно заимствует его синтаксис. Это хорошо, потому что руби очень продуманный высокоуровневый язык. 
-
-
-## Программирование и Liquid скрипты
-При генерации страниц Jekyll может исполнить сценарии, написанные на ruby. Некоторые из поддерживаемых возможностей: условия, циклы, сортировки...
-
-Некоторые функции именно от разработчиков Jekyll, а некоторые ими были позаимствованы у Shopify.
-
-Компания Shopify создала систему гибкого скриптования шаблонов для своего сервиса интернет-магазинов shopify.com. Это напоминает мне о шаблонах TPL в OpenCart 3, которая написана на языке PHP. Там тоже используются похожие вставки типа {% raw %}```{{ page.title }}```{% endraw %}
-
-Так вот, для настройки страниц можно (и нужно) использовать так называемые Liquid-скрипты. Это как голый код на PHP или Ruby, но он предподготовленный и можно использовать только те функции, которые уже заданы и разрешены. При любой ошибке в команде либо перестанет собираться сайт, команда будет интерпретирована как обычный текст.
+## Минимум для работы с Github Pages
+Что бы **захостить свой сайт на Github Pages**, необходимо:
+- На сайте <https://github.com/> создать репозиторий с названием username.github.io
+- Создать в корне репозитория файл index.md или index.html. В файлах .md будет обрабатываться markdown, поэтому рекомендую использовать его
+- В настройках репозитория на вкладке Pages активировать публикацию сайта.
+- Там же, по желанию, выбрать тему. Вместе с ней установится файл ```_config.yml```
+- Все, сайт доступен по адресу username.github.io. Можно переходить к наполнению
 
 
-### Условия  
-- if site.github.is_project_page: {% if site.github.is_project_page %}TRUE{% endif %}
-- if site.show_downloads: {% if site.show_downloads %}TRUE{% endif %}
 
-### Логика
-- **Логическое "или":** page.title | default: site.title:
-{{ page.title | default: site.title }};
-- **Логическое "и":**
- 
+## Шаблоны страниц
+При создании html, за основу берутся шаблоны. Они хранятся в папке _layouts. Полную структуру каталогов можно посмотреть в исходниках тем. Вот для примера [репозиторий темы minima](https://github.com/jekyll/minima). Когда выбираешь тему оформления в настройках, то к репозиторию сайта по сути заливается содержимое репозитория темы.
+
+
+## Инклюд
+
+Некоторые мелкие скрипты удобно подключать черед инклюд
+{% raw %}
+```
+{% include directory-listing.md %}
+```
+{% endraw %}
+
+
+
+## Конфигурация через ```_config.yml```
+В файле ```_config.yml``` задаются все основные настройки сайта. Формат написания конфигов [YAML](#). Все заданные здесь параметры будут доступны из любого места сайта через переменную. Например ```{ { site.theme }}``` выведет название активированной темы. Такие переменныен активно используются в [шаблонах страниц](#)
+
+Через файл ```_config.yaml``` можно очень тонко настраивать сайт. Например изменяя парсер markdown файлов добавляя модули - эдакие доп. обработчики содержимого перед публикацией. На Github Pages поддерживается строго ограниченный список модулей: <ссылка>
+
+Модули добавляются так:
+``` yaml
+plugins:
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
+```
+
+**Парсинг markdown внутри html**
+Если нужно задать правило для всего сайта:
+``` yaml
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+```
+
+Исключения для единичных случаев можно добавив атрибут markdown.  
+markdown="1": <span markdown="1">**markdown _разрешен_**</span>  
+markdown="0" <span markdown="0">**markdown _запрещен_**</span>  
+``` html
+<div markdown="1">**markdown _text_**</div>
+```
+
+
+Основной шаблон, который используется по умолчанию для генерации страниц: ```/_layouts/default.html```.  
+Внутри шаблона используются элементы программирования: [переменные](#переменные), [liquid-скрипты](#liquid-скрипты). Про них ниже.
+
+Код шаблона на примере темы Cyan: [cyan/_layouts/default.html](https://github.com/pages-themes/cayman/blob/master/_layouts/default.html)
+
+## Программирование
+Шаблонизация страниц - отнюдь не новая тема. Шаблоны широко используются в популярных CMS и в конструкторах сайтов. Генератор статики Jekyll работает немного по другому, но принципы сохрангились прежние.
+
+При генерации страниц Jekyll может исполнить сценарии, так называемые [liquid-скрипты](#liquid-скрипты). Их придумали и реализовали в компании Shopify. 
+
+Shopify использовали их для своего eCommerce SaaS решения. Пользователям понравилось и вот, Jekyll тоже перенял этот опыт. Это напоминает мне о шаблонах TPL в OpenCart, которая написана на языке PHP. Там тоже используются вставки типа ```{ { page.title }}```, возможно это и есть liquid.
+
+Лучшая документация всегда у производителя: <https://shopify.github.io/liquid/>
+
 ### Переменные  
 Задается несколькими путями. Основной - задать в заголовке в формате YAML:  
 ``` title: test ```
@@ -61,116 +108,94 @@ Jekyll используется на GitHub Pages, который предост
 Они все опубликованы на сайте гитхаба, есть даже [ссылка на доку](https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md).  
 Там есть интересные переменные. Вот например: [site.github.repository_url]({{ site.github.repository_url }})  
 
-[Больше информации на официальном сайте](https://jekyllrb.com/docs/liquid/)
+### Условия, Логика
+Условия работают через опереатор IF [или другие](https://shopify.github.io/liquid/tags/control-flow/). 
+Поддерживаемые [опреаторы](https://shopify.github.io/liquid/basics/operators/): ```==, !=, >, <, >=, <=, or, and, contains```
 
-## Циклы, вывод всех страниц
-С помощью цикла for можно вывести список всех страниц (постов) на сайте. То-есть не нужно прописывать ссылки вручную. Это дает возможность сосредоточиться на написании качественного контента вместо того что бы переживать не забыл ли ты часом добавить ссылку в навигацию. Я сначала пытался делать сайт таким образо, поэтому знаком личнго стем какая это попоболь. При количестве страниц больше десяти начинаются сложности.
+{% raw %}
+```
+{% if site.theme == "manima" and page.layout %}
+На странице используется тема Minima со стандартным шаблоном
+{% endif %}
+```
+{% endraw %}
 
-Пример такого цикла:
+### Фильтры
+Фильтры модифицируют содержимое переменной. Это пожалуй самое мощное средство автоматизации в Jekyll.
+Через них можно делать что угодно, от разворачивания массива до кодирования url. Разве что циклы ими н еполучится заменить.  
+Пример: ```{{{ page.title | default: site.title }}}```
+
+Подребнее на сайте [Jekyll](https://jekyllrb.com/docs/liquid/filters/)
+ 
+### Циклы
+В примере ниже через цикл for выводится список всех страниц на сайте. 
+Я использую такой же скрипт, но допиленный под себя. Можешь посмотреть [исходники]({{ site.github.repository_url }}/blob/master/_includes/drlis.md) и пример работы на [отдельной странице](/coding/directory-listing.html)  
 {% raw %}
 ``` html
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{ { post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
+  {% for page in site.pages %}
+  <li>
+	<h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+  </li>
   {% endfor %}
 </ul>
 ```
 {% endraw %}
 
 
-Это пример для выведения постов. Они должны храниться в папке \_posts и иметь специфичное название 2001-01-01-Filename.md
 
-**Что бы вывести список всех страниц в папке** используй скрипт из [исходников этого сайта]({{ site.github.repository_url }}/blob/master/_includes/drlis.md). 
-По этому поводу я даже создал [отдельную страницу](/projects/directory-listing.html)  
+### Экранирование
+1. Экранирования одного символа обратным слешем ```\*md\*```. Распространяется на большинство служебных символов: (**\* \- \`**)
+3. Экранирование переменной ```{{{ page.title }}}```
+2. Экранирования блоков кода ```{ % raw %}{ % endraw %}```
+
+Экранировать Liquid скрипт можно обернув его в блок ```{ % raw %}```. Этот тег может экранировать что угодно, кроме себя самого :)  
+[image](https://user-images.githubusercontent.com/17731587/140237209-3e4dc5fc-dcba-4331-8e81-0c39747712b7.png)
+
+    {% raw %}{%{% endraw %} raw %}	
+	{% raw %}
+    ```
+    {{ page.title }}
+    ```
+	{% endraw %}
+	{% raw %}{%{% endraw %} raw %}	
+
+
+
+### Коментарии
+1. Нативные комментарии Jekyll ```{ % comment %}{ % endcomment %}```
+2. Комментарий HTML ```<!--  -->```
+3. Однострочный комментарий ```[//]: # "This is comment```
+
 {% raw %}
-``` html
-<ol reversed id="navigation">
-{% assign allpages = site.pages | where: "dir",  page.dir %}
-{% assign sorted = allpages | sort: 'date' | reverse %}
-{% for p in sorted %}{% if p.noindex != true %}
-<li><a href="{{ p.url | prepend: site.baseurl }}">{{ p.title | default: "New page" }}</a> 
-<time class="shaded">{{ p.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{% endif %}{% endfor %}
-</ol>
+```
+{% comment %}Этот комментарий никогда не попадет на страницу {% endcomment %}
 ```
 {% endraw %}
 
-
-
-
-
-## Инклюд
-
-Некоторые мелкие скрипты удобно подключать черед инклюд
-{% raw %}
-```
-{% include directory-listing.md %}
-```
-{% endraw %}
-
-
-
-
-## Конфигурация через config.yml
-Также стоит знать что кроме "жидких" скриптов для ещё большей кастомизации генератор можно настраивать в файле конфига \_config.yaml. Вплоть до того, что можно изменить парсер markdown файлов. Стандартный, кстати, называется kramdown. Его официальная документация хорошо гуглится [google]
-
-В файле \_config.yml задается вся конфигурация публикуемого с помощью Jekyll сайта. В том числде модули - эдакие доп. обработчики содержимого перед публикацией.
-
-На Github Pages поддерживается строго ограниченный список модулей: <ссылка>
-
-Модули добавляются так:
-``` yaml
-plugins:
-  - jemoji
-  - jekyll-paginate
-  - jekyll-gist
-```
-
-
-
-
-
-**Парсинг markdown внутри html**
-Если нужно задать правило для всего сайта:
-``` yaml
-kramdown:
-  parse_span_html: true
-  parse_block_html: true
-```
-
-Если нужно запарсить (1) или наоборот исключить (0) из парсинга всего один блок:
 ``` html
-<div markdown="1">**markdown _text_**</div>
+<!-- Комментарий HTML не будет отображаться браузером, но сохранится в исходниках страницы. -->
 ```
+Открой исходник страницы что бы увидеть пасхалку. <!-- https://youtu.be/dQw4w9WgXcQ -->
 
-
-
+Однострочный комментарий представляет из себя объявнение переменной, которая нигде не используется и не выводится.
 
 
 ## Полезные фишки
-### Спойлеры с форматированием markdown
+### Спойлеры с markdown
 
 ``` html
 <details markdown="1"><summary markdown="0">+ Заголовок спойлера</summary>
-Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку, 
-если правильно сконфигурировать Jekyll
+Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку
 </details>
 ```
-
 <details markdown="1"><summary markdown="0">+ Нажми на меня</summary>
-Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку, 
-если правильно сконфигурировать Jekyll
+Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку
 </details>
 
 
 
-
-
-### Вывести содержание страницы
-
+### Содержание
 ```
 ## Содержание
 {: .no_toc }
@@ -182,144 +207,72 @@ kramdown:
 
 
 
-
-### Вставить листинг кода с подсветкой синтаксиса
-- Тройной символ обратного ударения ( **\`\`\`** )
-- четыре поробела перед каждой строчкой кода
+### Подсветка кода
+- Три символа обратного ударения ( **\`\`\`** )
+- Четыре поробела перед каждой строчкой кода
 - Блок highlight. {% raw %}```{% highlight ruby %} ... {% endhighlight %}```{% endraw %}
 
 **Три символа обратного ударения ( \`\`\` )**  
 Добавлять нужно в начале и в конце блока кода. Это самый простой вариант вставить код на страницу.
+Чтобы работала подсветка, после трех кавычек нужно указать язык ( **\`\`\`** html ). 
+Список доступных на [официальном сайте](https://github.com/rouge-ruby/rouge/wiki/List-of-supported-languages-and-lexers).
 
-Поддерживается подсветка. Что-бы включить ее, после трех кавычек нужно написать название языка ( **\`\`\`** html ).
-Подробнее на [официальном сайте](https://jekyllrb.com/docs/liquid/tags/#code-snippet-highlighting).
-
+**Четыре поробела перед каждой строчкой кода**
 Что бы добавить сами кавычки, как часть кода, мне пришлось комбинировать методы вставки кода. Перед каждой строчкой добавлены по четыре пробела. 
 [Скриншот](https://user-images.githubusercontent.com/17731587/140298165-48775712-ffb4-43af-b770-1a14a579233a.png)
 
-
-
     ``` html
-    <div class="row">
-      <strong id="test">
-        your text is here
-      </strong>
-    </div>
+	<strong id="test">Hello world!</strong>
     ```
-
+	
 ``` html
-<div class="row">
-  <strong id="test">
-    your text is here
-  </strong>
-</div>
+<strong id="test">Hello world!</strong>
 ```
 
 **Блок highlight**  
 {% raw %}
 ```
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
+{% highlight html linenos %}
+<strong>Hello world!</strong>
 {% endhighlight %}
 ```
 {% endraw %}
 
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
+{% highlight html %}
+<strong id="test">Hello world!</strong>
 {% endhighlight %}
-
-Можно задать параметр ```linenos``` для добавления номеров строк
-
-### Экранирование
-1. Обратный слеш для экранирования одного символа ```\_config.yml```. Распространяется на большинство служебных символов: (**\* \- \`**)
-2. Блок ```raw``` для экранирования блоков текста.
-
-Если нужно экранировать текст или код, который содержит двойные фигурные скобки или Liquid скрипт, нужно его обернуть в блок ```raw```.  
-Иначе он обработается как команда и будет выведен результат работы такого кода.
-
-    {% raw %}{%{% endraw %} raw {% raw %}%}{% endraw %}{% raw %}
-    ```
-    {{ page.title }}
-    ```{% endraw %}
-    {% raw %}{%{% endraw %} endraw {% raw %}%}{% endraw %}
-
-
-Этот тег может экранировать что угодно, кроме себя самого :)  
-![image](https://user-images.githubusercontent.com/17731587/140237209-3e4dc5fc-dcba-4331-8e81-0c39747712b7.png)
-
-
-
-
-
-## Коментарии 
-**Нативные комментарии Jekyll**
-{% raw %}
-```
-{% comment %} Этот текст никогда не попадет на страницу {% endcomment %}
-```
-{% endraw %}
-
-Пример внутри скобок: 
-({% comment %} Этот текст никогда не попадет на страницу {% endcomment %}).  
-Текст не должен вывестись совсем. Если ты его видишь, значит что то пошло не по плану.
-
-
-
-**Еще вариант использовать HTML**.  
-В таком случае текст не будет отображаться браузером, но сохранится в исходниках страницы.
-``` html
-<!-- <strong id="test">hidden</strong> text -->
-```
-Пример снутри скобок: 
-(<!-- <b>hidden</b> text -->).  
-Открой исходник страницы что бы увидеть.
-
-
-
-**Однострочный комментарий**.  
-Представляет из себя объявнение переменной, которая нигде не используется и не выводится.
-```
-
-[//]: # "This is comment"
-```
-Пример ниже:
-
-[//]: # "This is comment"
-Ахахa этого же не будет видно на сайте :) 
-Вот тебе скриншот  
-![image](https://user-images.githubusercontent.com/17731587/140238467-6f68abb2-15e6-410c-84b3-91915680d759.png)
 
 
 
 
 
 ## Полезные ссылки
-* kramdown: <https://kramdown.gettalong.org/converter/html.html>  
-* <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
-* Jekyll: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-* Официальная джокументация по жидким скриптам: <https://shopify.github.io/liquid/basics/operators/#order-of-operations>  
-* Доки от Github: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>  
-* [Источник примера ниже](http://alexprivalov.org/markdown-short-reference)
-* <https://devhints.io/jekyll-github>
-* [Jekyll for GitHub pages cheatsheet](https://devhints.io/jekyll-github)
-* Блогинг: <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-* [Инклюдинг. Передача параметров в вызываемый инклюд](https://jekyllrb.com/docs/includes/)
-* А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
-* Вот официальная документация по "жидким" скриптам: <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
-* [Дока как по апи гитхаба вытянуить комменнтарии из issue](https://docs.github.com/en/rest/reference/issues#comments)
-* [Пример комментариев через github issues на статическом сайте ](https://github.com/dwilliamson/donw.io)
-* <https://shopify.github.io/liquid/filters/date/>
-* <https://shopify.dev/docs/themes/liquid/reference/basics>
-- <https://jekyllrb.com/docs/datafiles/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=ru&_x_tr_pto=ajax,se,elem>
-* <http://jekyll.github.io/github-metadata/site.github/>
-+ <https://devhints.io/jekyll-github>
++ Официальный сайт Jekyll CMS  <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
++ Официальный сайт Github Pages
++ Официальный сайт Shopify Liquid <https://shopify.github.io/liquid/>
++ Официальный сайт kramdown parser <https://kramdown.gettalong.org/converter/html.html>
++ Официальный сайт Rogue highlighter
+
+- Все про liquid-скрипты на одной странице <https://github.com/Shopify/liquid/wiki/Liquid-for-Designers>
++ Возможно официальны сайт<https://shopify.dev/api/liquid>
+- Примеры <https://shopify.dev/docs/themes/liquid/reference/basics>
++ Шпаргалка по Jekyll <https://devhints.io/jekyll>  
++ Шпаргалка по Jekyll для Github<https://devhints.io/jekyll-github>  
+- Data Files <https://jekyllrb.com/docs/datafiles>
+- GitHub Metadata, a.k.a. site.github <http://jekyll.github.io/github-metadata/site.github/>
+
+
+- Шпаргалка по Markdown <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
+- Источник примера ниже <http://alexprivalov.org/markdown-short-reference>
+- А это инфа по настройке jekyll <https://webref.ru/dev/building-jekyll-site/converting-static-site-to-jekyll>
+- Дока как по апи гитхаба вытянуить комменнтарии из issue <https://docs.github.com/en/rest/reference/issues#comments>
+- Пример комментов через issues <https://github.com/dwilliamson/donw.io>
 + Красивая тема <https://mademistakes.com/work/hpstr-jekyll-theme/>
-+ <https://shopify.dev/api/liquid>
-+ <https://shopify.github.io/liquid/>
 + <https://idratherbewriting.com/documentation-theme-jekyll/mydoc_commenting_on_files.html>
 + <http://parpersson.github.io/Manualmall/pages/>
 - <https://runebook.dev/ru/docs/jekyll/liquid/filters/index>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script>anchors.add();</script>
