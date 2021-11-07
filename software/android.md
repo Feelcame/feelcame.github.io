@@ -2,6 +2,7 @@
 date: 2021-07-24T00:00:00+03:00
 modified: 2021-09-25T11:24:47+03:00
 title: Софт для Android
+index: 2
 ---
 
 <details markdown="1">
