@@ -11,6 +11,13 @@ index: 0
 
 **Проекты:**
 {% include drlis.md dir="/projects/" tag="coding" %}
+{% include drlis.md tag="project" %}
+
+**Web:** 
+{% include drlis.md tag="web" %}
+
+
+
 
 ***
 > Все права защищены. Тексты в свободном доступе. Если понравился код - копируй на здоровье! Только обязательно проверяй перед использованием
