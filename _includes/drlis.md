@@ -4,7 +4,7 @@
 
 {%- assign sorted_pages = site.pages | sort: "path" | where: "dir",  directory | sort: "date" | sort: "index" | reverse -%}  
 {%- assign not_pinned_pages = sorted_pages | where_exp: "item", "item.index == nil" -%}  
-{%- assign finish_pages = sorted_pages | where_exp: "item", "item.index > 0" | concat: not_pinned_pages -%}  
+{%- assign finish_pages = sorted_pages | where_exp: "item", "item.index > 0" | reverse | concat: not_pinned_pages -%}  
 
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- if rec_tag != "" %}  
