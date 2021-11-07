@@ -278,3 +278,4 @@ title: test
 - <http://jlord.us/forkngo/>
 - <http://jlord.us/sheetsee.js/>
 
+- Коллекция плагинов (не работают на github) <https://github.com/planetjekyll/awesome-jekyll-plugins>
