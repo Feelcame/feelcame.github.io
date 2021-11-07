@@ -15,7 +15,7 @@
 
 <ol reversed id="navigation">
 {%- for pg in finish_pages -%}
-  <li>{%- if pg.index > 0 -%}📌{%- endif -%}
+  <li>{%- if pg.index > 0 -%}:pushpin:{%- endif -%}
     <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a> 
     <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
   </li>
