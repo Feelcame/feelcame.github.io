@@ -8,7 +8,7 @@
 
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- if rec_tag != "" %}  
-{%- assign finish_pages = finish_pages | where_exp: "item", "item.tags == rec_tag" -%}  
+{%- assign finish_pages = finish_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
 {%- endif %}  
 
 {%- comment -%}Дебаг. dir: ({{ directory }}), tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}).{%- endcomment -%}
