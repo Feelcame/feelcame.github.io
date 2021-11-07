@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "ru-RU" }}">
 <head>
-	{% if site.google_analytics %}
-	<script async src="http://t.me/?{{ site.google_analytics }}"></script>
-	{% endif %}
 	<meta charset="UTF-8">
 	{% seo %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -16,47 +13,55 @@
 </head>
 <body>
 	<a href="#content" id="vverh" onclick="showNav()"></a>
-	<a id="skip-to-content" href="#content">Там чуточку выше появилась навигация</a>
+	<a id="skip-to-content" href="#content">навигация выше</a>
 	<header class="page-header" role="banner">
 		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 		<a href="/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
-		{% include header.inc.html %}
-		{% if page.expand_nav %}{% endif %}
+		<div id="nav">
+		<a href="/hardware/" class="btn">😎 Железки</a>
+		<a href="/coding/" class="btn">😱 Кодинг</a>
+		<a href="/software/" class="btn">💾 Софт</a>
+		<a href="/about" class="btn">🔍</a>
+		<!--
+		<a href="/" class="btn" id="home">&#127968; Главная</a>
+		<a href="/dl" class="btn">🤟 Загрузки</a>
+		<a href="/blog" class="btn">😀 Блог</a>
+		<a href="/donate" class="btn" ><b>❤️ Донатъ!</b></a>
+		-->
+		</div>
 	</header>
 	<main id="content" class="main-content" role="main">
 		{{ content }}
-		{% if page.comments | default: site.comments %}
-		<p>
-			{% include comments.inc.html %}
-		</p>
-		{% endif %}
+		{% if page.comments | default: site.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
-			{% if site.github.is_project_page %}
-                        {% endif %}
 			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
 			<time class="shaded"> 
 				{{ site.time }} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
+				{% if page.name == index.md %} 
+				<a target = "_blank" href="{{ site.github.repository_url }}/new/master/{{ page.dir }}">[+]</a>
+				{% endif %}
 			</time>
-			</span>
-			
-                        
+			</span>        
 		</footer>
 	</main>
-	<script>
-		// переключатель кнопки навигации
-		function showNav() {
-		document.getElementById('nav').style.display='block'; 
-		document.getElementById('navButton').style.display='none';
-		return(false);
-		}
-		
-		// переопределение всех внешних ссылок на открытие в новой вкладке
-		var links = document.links;
-		for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-    		if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
-		}
-	</script>
+<script>
+// переключатель кнопки навигации
+function showNav() {
+document.getElementById('nav').style.display='block'; 
+document.getElementById('navButton').style.display='none';
+return(false);
+}
+
+// переопределение всех внешних ссылок на открытие в новой вкладке
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+}
+</script>
+<!-- Добавление ссылки на якорь возле заголовков -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script>anchors.add();</script>
 </body>
 </html>

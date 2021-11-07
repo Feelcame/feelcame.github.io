@@ -89,23 +89,19 @@ Shopify использовали их для своего eCommerce решени
 
 ### Переменные  
 
-Выводится в двойных фигурных скобках. Перед именем переменной содержится ее источник.    
-{% raw %}```{{ page.title }}```{% endraw %}
+- Вывести: {% raw %}```{{ page.title }}```{% endraw %}. Перед именем переменной содержится ее источник.    
+- Задать через assign: {% raw %}```{% assign my_var = "value" %}```{% endraw %}
+- Здать через **capture**: {% raw %}```{% capture my_var %} anything {% endcapture %}```{% endraw %}
+- Задать в заголовке страницы:  
+```
+---
+title: test
+---
+```
 
-Глобавльные переменные: page, site, [site.github](https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md).  
-
-Задается несколькими путями. Основной - задать в заголовке страницы:  
-	---
-	title: test
-	---
-
-Можно задать через **assign**
-{% raw %}```{% assign var = "" %}```{% endraw %}
-
-Сложные переменные задаются через **capture**  
-{% raw %}```{% capture my_var %} anything {% endcapture %}```{% endraw %}
-
-Дока: <https://shopify.github.io/liquid/tags/variable/>
+Дока от Jekyll: <https://jekyllrb.com/docs/variables/>
+Дока от Shopify: <https://shopify.github.io/liquid/tags/variable/>
+Переменная [site.github](https://jekyll.github.io/github-metadata/docs/site.github).  
 
 ### Условия, Логика
 Условия работают через опереатор IF [или другие](https://shopify.github.io/liquid/tags/control-flow/). 
@@ -247,7 +243,7 @@ Shopify использовали их для своего eCommerce решени
 
 ## Полезные ссылки
 + Официальный сайт Jekyll CMS  <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
-+ Официальный сайт Github Pages
++ Официальный сайт Github Pages <https://pages.github.com>
 + Официальный сайт Shopify Liquid <https://shopify.github.io/liquid/>
 + Официальный сайт kramdown parser <https://kramdown.gettalong.org/converter/html.html>
 + Официальный сайт Rogue highlighter
@@ -271,7 +267,3 @@ Shopify использовали их для своего eCommerce решени
 + <http://parpersson.github.io/Manualmall/pages/>
 - <https://runebook.dev/ru/docs/jekyll/liquid/filters/index>
 
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-<script>anchors.add();</script>
