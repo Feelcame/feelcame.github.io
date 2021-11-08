@@ -1,6 +1,7 @@
 ---
 title: Search helper
 date: 2021-11-07T22:58:42+02:00
+date: 2021-11-08T22:58:42+02:00
 ---
 
 ## Search helper
@@ -17,4 +18,6 @@ date: 2021-11-07T22:58:42+02:00
 
 При вводе запроса лучше не напрямую заменять данные в ссылках, а копировать их из скрытого поля и уже в скопированных заменять все
 
-Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}. {% if page.modified %}Изм.: {{ page.modified | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}{% endif %}
+<time class="shaded">
+Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}{% if page.modified %}. Изм.: {{ page.modified | date: "%Y-%m-%d %H:%M" | default: "гггг-мм-дд" }}{% endif %}
+</time>
