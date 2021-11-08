@@ -17,6 +17,8 @@ comments: false
 
 Мои pet-проекты доступны [по ссылке](/projects/)
 
+Мой GitHub: [{{ site.github.owner_name }}]({{ site.github.owner_url }})
+
 ## Мои контакты 
 Личка Telegram: [@feelcame](https://t.me/feelcame)  
 Форум GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions)  
