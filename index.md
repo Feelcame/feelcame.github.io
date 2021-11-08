@@ -38,11 +38,13 @@ layout: home
 </style>
 
 <div class="grid" markdown="1">
+
 - [@Feelsoft](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
 - [@Filmbusta](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
 - [Мои проекты](./projects)
 - [Черновички](./blog.md)
 - [Контакты](./about.md)
+
 </div>
 
 
