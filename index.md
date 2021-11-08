@@ -9,8 +9,6 @@ layout: home
 <h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
 <br>
 
-***
-
 <style>
 .drid {
 	overflow: hidden; 
@@ -40,7 +38,7 @@ layout: home
 	}
 </style>
 
-***
+---
 
 <div class="grid" markdown="1">
 На правах рекламы:
