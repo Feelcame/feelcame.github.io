@@ -48,12 +48,12 @@ layout: home
 
 ---
 
-- [Железко](./hardware)
-- [Софтец](./software)
-- [Кодинг](./coding)
-- [Мои проекты](./projects)
-- [Черновички](./blog)
-- [**Контакты**](./about)
+- [Железко](./hardware/)
+- [Софтец](./software/)
+- [Кодинг](./coding/)
+- [Мои проекты](./projects/)
+- [Черновички](./blog.html)
+- [**Контакты**](./about.html)
 
 </div>
 
