@@ -33,6 +33,12 @@
 	</header>
 	<main id="content" class="main-content" role="main">
 		{{ content }}
+		{% if page.date or page.modified %}
+		<time class="shaded">
+		Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}
+		{%- if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+		</time>
+		{%- endif -%}
 		{% if page.comments | default: site.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
 			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
