@@ -5,7 +5,7 @@ modified: 2021-11-03T12:01:31+02:00
 layout: home
 ---
 
-<img style="text-align:center" src="/assets/arrow-home.png" alt="">
+<p style="text-align:center"><img src="/assets/arrow-home.png" alt=""></p>
 <h2 style="text-align:center">Для начала выбери раздел :+1:</h2>
 
 ***
