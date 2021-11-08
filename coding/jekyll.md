@@ -128,7 +128,7 @@ title: test
 Пример: ```{ { page.title | default: site.title }}```
 
 Дока от Jekyll:<https://jekyllrb.com/docs/liquid/filters/>  
-Дока от Shopify: <https://shopify.github.io/liquid/> 
+Дока от Shopify: <https://shopify.github.io/liquid/> (слева в навигации)
 
 ### Циклы
 В примере ниже через цикл for выводится список всех страниц на сайте. Я использую такой же скрипт, но допиленный под себя - ссылка под примером. 
@@ -144,8 +144,7 @@ title: test
 ```
 {% endraw %}
 
-Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/drlis.md)  
-и [пример работы](/coding/directory-listing.html)  
+Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/drlis.md) и [пример работы](/coding/directory-listing.html)  
 
 ### Экранирование
 1. Экранирования одного символа обратным слешем ```\*md\*```. Распространяется на большинство служебных символов: (**\* \- \`**)
