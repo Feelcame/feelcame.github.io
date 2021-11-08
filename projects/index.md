@@ -19,7 +19,7 @@ index: 0
 Черновики: 
 {% include drlis.md %}
 
-[[+] добавить ещё]({{ site.github.repository_url }}/new/master/{{ page.dir }})
+[[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
 > Тут пишу заметки о своих идеях. Большинство из них вызваны личными потребностями. И если кто то помимо меня их реализует - буду только рад
 
