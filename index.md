@@ -5,9 +5,10 @@ modified: 2021-11-03T12:01:31+02:00
 layout: home
 ---
 
-![](./assets/arrow-home.png) ## Сначала выбери раздел :+1:
-{: style="text-align:center" }
-<!-- ## Для продолжения выбери интересующий раздел выше :+1: -->
+<p style="text-align:center">
+  <img src="/assets/arrow-home.png" alt="">
+  <h2>Сначала выбери раздел :+1:</h2>
+</p>
 
 ***
 
