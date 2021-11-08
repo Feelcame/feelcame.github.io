@@ -26,7 +26,5 @@ Email по работе: заполни [форму ниже](#обратная-
 Отвечу с _корпоративной_ почты
 
 ## Обратная связь
-<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="450" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
+<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
 
-## native telegram comments
-<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="rf_art/807" data-comments-limit="5"></script>
