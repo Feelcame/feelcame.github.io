@@ -125,7 +125,14 @@ title: test
 ### Фильтры
 Фильтры модифицируют содержимое переменной. Это пожалуй самое мощное средство автоматизации в Jekyll.
 Через них можно делать что угодно, от разворачивания массива до кодирования url. Разве что циклы ими н еполучится заменить.  
-Пример: ```{ { page.title | default: site.title }}```
+
+Пример:  
+{% raw %}
+```{{ "Feelcame" | prepend: "github.com/" }}```
+{% endraw %}  
+```
+{{ "Feelcame" | prepend: "github.com/" }}
+```
 
 Дока от Jekyll:<https://jekyllrb.com/docs/liquid/filters/>  
 Дока от Shopify: <https://shopify.github.io/liquid/> (слева в навигации)
