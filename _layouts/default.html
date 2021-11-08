@@ -41,7 +41,7 @@
 		{%- endif -%}
 		{% if page.comments | default: site.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
-			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.
+			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about.md">{{ site.github.owner_name }}</a>.
 			<time class="shaded"> 
 				{{ site.time }} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
