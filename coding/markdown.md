@@ -77,7 +77,8 @@ title: Markdown
 | Row2 Cell1    | Row2 Cell2    |
 
 Наглядная визуальная шпаргалка:
-![Image](./image_picker4286818869274656233.jpg)
+![image_picker4286818869274656233](https://user-images.githubusercontent.com/17731587/140794493-35babddd-9bfb-4fb6-a26f-3c3f89ff9ce4.jpg)
+
 
 [1]: http://ru.wikipedia.org/wiki/Markdown "Markdown"
 [2]: https://www.github.com/ "GitHub"
