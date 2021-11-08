@@ -8,15 +8,20 @@ layout: home
 <p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
 <h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
 
+***
+
 <style>
-.drid {overflow: hidden; flex-wrap: wrap;}
+.drid {
+	overflow: hidden; 
+	flex-wrap: wrap;
+	}
 .grid ul {  
-  //display: table;
-  //flex-wrap: wrap;
-  display: flex;
-  flex-flow: row wrap;
-  padding: 0;
-}
+	//display: table;
+	//flex-wrap: wrap;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 0;
+	}
 .grid li {
 	text-align:center;
 	float: left;
@@ -31,7 +36,7 @@ layout: home
 	padding-left: 15px;
 	padding-right: 15px;
 	border-radius: 10px;
-}
+	}
 </style>
 
 ***
@@ -44,6 +49,9 @@ layout: home
 
 ---
 
+- [Железко](./)
+- [Программирование](./)
+- [Софтик](./)
 - [Мои проекты](./projects)
 - [Черновички](./blog.md)
 - [Контакты](./about.md)
