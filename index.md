@@ -8,9 +8,6 @@ layout: home
 <p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
 <h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
 
-***
-
-
 <style>
 .drid {overflow: hidden; flex-wrap: wrap;}
 .grid ul {  
@@ -37,10 +34,12 @@ layout: home
 }
 </style>
 
+***
+
 <div class="grid" markdown="1">
 
-- [@Feelsoft](https://t.me/feelsoft)<br>телеграм канал с авторскими подборками программ
-- [@Filmbusta](https://t.me/FilmsRM)<br>канал про кино. Новый фильм каждую субботу
+- [@Feelsoft](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
+- [@Filmbusta](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
 
 ---
 
