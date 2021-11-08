@@ -7,6 +7,7 @@ layout: home
 
 <p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
 <h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
+<br>
 
 ***
 
