@@ -6,7 +6,7 @@ comments: true
 index: 1
 ---
 
-<details markdown="1"><summary  markdown="0">+ Спиок разделов</summary>
+<details markdown="1" open><summary  markdown="0">+ Спиок разделов</summary>
 * Table of Content
 {: toc }
 </details>
