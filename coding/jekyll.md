@@ -111,8 +111,8 @@ title: test
 Про переменную [site.github](https://jekyll.github.io/github-metadata/docs/site.github)
 
 ### Условия, Логика
-Условия работают через опереатор IF [или другие](https://shopify.github.io/liquid/tags/control-flow/). 
-Поддерживаемые [опреаторы](https://shopify.github.io/liquid/basics/operators/): ```==, !=, >, <, >=, <=, or, and, contains```
+Условия работают через опереатор IF [и другие](https://shopify.github.io/liquid/tags/control-flow/).  
+Поддерживаемые [логические опреаторы](https://shopify.github.io/liquid/basics/operators/): ```==, !=, >, <, >=, <=, or, and, contains```
 
 {% raw %}
 ```
