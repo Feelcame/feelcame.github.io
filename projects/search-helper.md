@@ -1,7 +1,7 @@
 ---
 title: Search helper
 date: 2021-11-07T22:58:42+02:00
-date: 2021-11-08T22:58:42+02:00
+modified: 2021-11-08T22:58:42+02:00
 ---
 
 ## Search helper
