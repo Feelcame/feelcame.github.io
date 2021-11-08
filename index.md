@@ -10,13 +10,40 @@ layout: home
 
 ***
 
-<https://t.me/feelsoft> - телеграм канал с авторскими подборками программ
 
-<https://t.me/FilmsRM> - канал про кино. Новый фильм каждую субботу
+<style>
+.drid {overflow: hidden; flex-wrap: wrap;}
+.grid ul {  
+  //display: table;
+  //flex-wrap: wrap;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+}
+.grid li {
+	
+	float: left;
+	box-sizing: border-box;
+	width: calc(50% - 8px);
+	padding: 7px 10px;
+	background: #eee;
+	margin: 4px; 
+	list-style-type: none;
+	min-height: 50px;
+	//height: 5em;
+	padding-left: 15px;
+    padding-right: 15px;
+	border-radius: 10px;
+}
+</style>
 
-[Другие проекты](./projects)
+<div class="grid" markdown="1">
+- [@Feelsoft](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
+- [@Filmbusta](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
+- [Мои проекты](./projects)
+- [Черновички](./blog.md)
+- [Контакты](./about.md)
+</div>
 
-[Черновички](./blog.md)
 
-[Контакты](./about.md)
 
