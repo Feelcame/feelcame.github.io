@@ -5,8 +5,8 @@ modified: 2021-11-03T12:01:31+02:00
 layout: home
 ---
 
-<p style="text-align:center"><img src="/assets/arrow-home.png" alt=""></p>
-<h2 style="text-align:center">Для начала выбери раздел :+1:</h2>
+<p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
+<h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
 
 ***
 
@@ -21,7 +21,7 @@ layout: home
   padding: 0;
 }
 .grid li {
-	
+	text-align:center;
 	float: left;
 	box-sizing: border-box;
 	width: calc(50% - 8px);
@@ -32,15 +32,18 @@ layout: home
 	min-height: 50px;
 	//height: 5em;
 	padding-left: 15px;
-    padding-right: 15px;
+	padding-right: 15px;
 	border-radius: 10px;
 }
 </style>
 
 <div class="grid" markdown="1">
 
-- [@Feelsoft](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
-- [@Filmbusta](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
+- [@Feelsoft](https://t.me/feelsoft)<br>телеграм канал с авторскими подборками программ
+- [@Filmbusta](https://t.me/FilmsRM)<br>канал про кино. Новый фильм каждую субботу
+
+---
+
 - [Мои проекты](./projects)
 - [Черновички](./blog.md)
 - [Контакты](./about.md)
