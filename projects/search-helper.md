@@ -18,4 +18,31 @@ modified: 2021-11-08T22:58:42+02:00
 
 При вводе запроса лучше не напрямую заменять данные в ссылках, а копировать их из скрытого поля и уже в скопированных заменять все
 
+## Пример
+
+<form>
+<input id="text" type="text" onchange="updateLinks();"></input>
+</form>
+
+<div id="results"></div>
+
+<div id="links" class="hidden">
+- [Mouser](#)
+- [Digikey](#)
+</div>
+
+<script>
+  function updateLinks(){
+  // скопировать ссылки в блок results
+  
+  // заменить в них ключевую фразу на содержимое поля ввода
+  
+  }
+</script>
+
+## Листинг кода с подсветкой
+
+``` js
+var test = "hello";
+```
 
