@@ -127,7 +127,7 @@ title: test
 Через них можно делать что угодно, от разворачивания массива до кодирования url. Разве что циклы ими н еполучится заменить.  
 Пример: ```{ { page.title | default: site.title }}```
 
-Дока от Jekyll:<https://jekyllrb.com/docs/liquid/filters/>
+Дока от Jekyll:<https://jekyllrb.com/docs/liquid/filters/>  
 Дока от Shopify: <https://shopify.github.io/liquid/> 
 
 ### Циклы
@@ -144,7 +144,8 @@ title: test
 ```
 {% endraw %}
 
-Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/drlis.md) и [пример работы](/coding/directory-listing.html)  
+Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/drlis.md)  
+и [пример работы](/coding/directory-listing.html)  
 
 ### Экранирование
 1. Экранирования одного символа обратным слешем ```\*md\*```. Распространяется на большинство служебных символов: (**\* \- \`**)
