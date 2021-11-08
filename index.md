@@ -38,6 +38,7 @@ layout: home
 
 <div class="grid" markdown="1">
 На правах рекламы:
+
 - [@Feelsoft](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
 - [@Filmbusta](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
 
