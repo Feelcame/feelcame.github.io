@@ -48,7 +48,7 @@ layout: home
 
 ---
 
-- [Железко](./hardware/). Почему 40px?
+- [Железко](./hardware/). Почему тут 40px?
 - [Софтец](./software/)
 - [Кодинг](./coding/)
 - [Мои проекты](./projects/)
