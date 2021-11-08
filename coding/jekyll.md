@@ -128,7 +128,9 @@ title: test
 
 Пример:  
 {% raw %}
-```{{ "Feelcame" | prepend: "github.com/" }}```
+```
+{{ "Feelcame" | prepend: "github.com/" }}
+```
 {% endraw %}  
 ```
 {{ "Feelcame" | prepend: "github.com/" }}
