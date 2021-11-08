@@ -19,5 +19,5 @@ modified: 2021-11-08T22:58:42+02:00
 При вводе запроса лучше не напрямую заменять данные в ссылках, а копировать их из скрытого поля и уже в скопированных заменять все
 
 <time class="shaded">
-Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}{% if page.modified %}. Изм.: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}{% if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
 </time>
