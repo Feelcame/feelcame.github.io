@@ -25,15 +25,14 @@
 		{% if site.show_downloads %}{% endif %}
 	</header>
 
-    </header>
-
     <main id="content" class="main-content" role="main">
       {{ content }}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %} {% endif %}
-          <span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about">{{ site.github.owner_name }}</a>.</span>
-       
+		<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about">{{ site.github.owner_name }}</a>.</span>
+		<span> Сайт хостится на <a href="{{ site.github.repository_url }}">Github Pages</a>.</span>
+		<span>Собирается через <a href="/software/jekyll">Jekyll</a>.</span>
       </footer>
     </main>
   </body>
