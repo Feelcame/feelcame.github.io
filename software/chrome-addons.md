@@ -18,7 +18,7 @@ comments: true
 
 **Все методы установки расширений:**
 - установки расширений из магазина расширений (основной). [Доки](https://developer.chrome.com/docs/extensions/mv3/hosting/#hosting)
-- чечез реестр или конфигурационный файл (при установке вместе с другим ПО). [доки](https://developer.chrome.com/docs/extensions/mv3/external_extensions/#registry)
+- через реестр или конфигурационный файл (при установке вместе с другим ПО). [доки](https://developer.chrome.com/docs/extensions/mv3/external_extensions/#registry)
 - через групповые политики домена (для компаний)
 - Установка в режиме разработчика (для отладки)
 - из файла .crx на Linux (все лучшее в опенсорсе)
