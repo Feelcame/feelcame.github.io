@@ -53,9 +53,9 @@ layout: home
 - [Железко](./hardware/)
 - [Софтец](./software/)
 - [Кодинг](./coding/)
+- [**Контакты**](./about.html)
 - [Мои проекты](./projects/)
 - [Черновички](./blog.html)
-- [**Контакты**](./about.html)
 
 </div>
 
