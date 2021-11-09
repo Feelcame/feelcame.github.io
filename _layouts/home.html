@@ -21,18 +21,23 @@
 	<header class="page-header" role="banner">
 		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-		{% include header.inc.html %}
-		{% if site.show_downloads %}{% endif %}
+		<div id="nav">
+			<a href="/hardware/" class="btn">😎 Железки</a>
+			<a href="/coding/" class="btn">😱 Кодинг</a>
+			<a href="/software/" class="btn">💾 Софт</a>
+			<a href="/about" class="btn">🔍</a>
+		</div>
 	</header>
 
     <main id="content" class="main-content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %} {% endif %}
-		<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about">{{ site.github.owner_name }}</a>.</span>
-		<span> Сайт хостится на <a href="{{ site.github.repository_url }}">Github Pages</a>.</span>
-		<span>Собирается через <a href="/software/jekyll">Jekyll</a>.</span>
+	<footer class="site-footer">
+		<span class="site-footer-owner">
+			{{ site.copyright | default: © }}  <a href="/about">{{ site.github.owner_name }}</a>.
+			Сайт хостится на <a href="{{ site.github.repository_url }}">Github Pages</a>. 
+			Собирается через <a href="/software/jekyll">Jekyll</a>.
+		</span>
       </footer>
     </main>
   </body>
