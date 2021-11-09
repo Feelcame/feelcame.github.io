@@ -31,9 +31,9 @@ cls
 echo Сейчас будут установлены расширения. Подтверди
 pause
 rem Добавляет раздел с именем расширения
-REG ADD HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\Extensions\cajejbcjfkhgmfbapmhopccephhjedeb \f
+REG ADD HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\Extensions\cfhdojbkjhnklbpkdaibdccddilifddb /f
 rem Добавляет параметр с адресом магазина расширений (имя: update_url, тип: REG_SZ, данные: url)
-REG ADD HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\Extensions\cajejbcjfkhgmfbapmhopccephhjedeb /v update_url /t REG_SZ /d https://clients2.google.com/service/update2/crx /f
+REG ADD HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Google\Chrome\Extensions\cfhdojbkjhnklbpkdaibdccddilifddb /v update_url /t REG_SZ /d https://clients2.google.com/service/update2/crx /f
 cls
 echo OK
 echo Перезагрузи браузер!
