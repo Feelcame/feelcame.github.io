@@ -21,19 +21,23 @@ modified: 2021-11-08T22:58:42+02:00
 ## Пример
 
 <form>
-<input id="text" type="text" onchange="updateLinks();"></input>
+Введи запрос: <input id="text" type="text" onchange="updateLinks();">
 </form>
 
-<div id="results"></div>
+<div id="results">
+Тут будут выведены ссылки с запросом: "###keywor###"
+</div>
 
-<div id="links" class="hidden">
-- [Mouser](#)
-- [Digikey](#)
+Список сервисов для поиска:  
+<div id="links" class="hidden" markdown="1">
+- [Mouser](https://www.google.com/search?q=###keywor###)
+- [Mouser](#search.html?q=keyword)
+- [Digikey](#search.html?q=keyword)
 </div>
 
 <script>
   function updateLinks(){
-  // скопировать ссылки в блок results
+  // скопировать ссылки из блока links в блок results
   
   // заменить в них ключевую фразу на содержимое поля ввода
   
@@ -42,7 +46,30 @@ modified: 2021-11-08T22:58:42+02:00
 
 ## Листинг кода с подсветкой
 
-``` js
-var test = "hello";
+``` html
+<form>
+Введи запрос: <input id="text" type="text" onchange="updateLinks();">
+</form>
+
+<div id="results">
+Тут будут выведены ссылки с запросом: "###keywor###"
+</div>
+
+Список сервисов для поиска:  
+<div id="links" class="hidden" markdown="1">
+- [Mouser](https://www.google.com/search?q=###keywor###)
+- [Mouser](#search.html?q=keyword)
+- [Digikey](#search.html?q=keyword)
+</div>
+<script></script>
+```
+
+``` javascript
+function updateLinks(){
+// скопировать ссылки из блока links в блок results
+
+// заменить в них ключевую фразу на содержимое поля ввода
+
+}
 ```
 
