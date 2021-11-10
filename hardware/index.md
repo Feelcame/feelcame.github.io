@@ -6,7 +6,6 @@ tags: железо
 index: 0
 ---
 
-### Железко
 {% include drlis.md spoiler="Все статьи" %}
 
 {% include drlis.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
