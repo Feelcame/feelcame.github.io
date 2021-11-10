@@ -191,7 +191,7 @@ index: 1
 - **Windows 7 adguard**<br>Интегрированы smartfix и обновы по 2021 год  
   [Поиск на rutracker.org](#) +
   [Loader by Daz](#)
-- **Windows10**<br>
+- **Windows10**<br>Качать самую свежую официальную версию  
   [Поиск на nnmclub.to](#) - 
   [KMS Auto Lite](#) 
 - **UltraISO** - создание, изменение ISO  
