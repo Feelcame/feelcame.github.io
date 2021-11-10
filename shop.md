@@ -6,7 +6,7 @@
 <ul>
 {% for product in site.data.products %}
 <li>
-  {% assign photo = site.data.photos | split: " " %}
+  {% assign photo = product.photos | split: " " %}
   Фото: {{ photo.size }} шт<br>
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
