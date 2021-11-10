@@ -7,12 +7,10 @@ index: 1
 ---
 
 Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
-<details markdown="1"><summary markdown="0">+ Навигация</summary>
-
+<details markdown="1">
 - toc
 {: toc }
 </details>
-
 
 <style>
 .drid {
@@ -191,10 +189,10 @@ index: 1
 
 ## USB/CD/DVD
 - **Windows 7 adguard**<br>Интегрированы smartfix и обновы по 2021 год  
-  [Поиск на nnmclub.to](#) +
+  [Поиск на rutracker.org](#) +
   [Loader by Daz](#)
-- **Windows10**
-  [найти](#) - 
+- **Windows10**<br>
+  [Поиск на nnmclub.to](#) - 
   [KMS Auto Lite](#) 
 - **UltraISO** - создание, изменение ISO  
   [скачать](#)
