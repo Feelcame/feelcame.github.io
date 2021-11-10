@@ -1,5 +1,5 @@
 <p>
-{%- if page.comments > 1 -%}
+{%- if page.comments > 1 -%}  
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ site.chtg | default: "rf_art" }}/{{ page.comments }}" data-comments-limit="5"></script>
 {%- else -%}
 <b>Комментарии:</b>
