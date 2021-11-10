@@ -5,7 +5,7 @@ modified: 2021-09-11T20:58:58+03:00
 index: 0
 ---
 
-{% include drlis.md %}
+{% include drlis.md spoiler="Все статьи" %}
 
 **Проекты:**
 {% include drlis.md dir="/projects/" tag="software" %}
