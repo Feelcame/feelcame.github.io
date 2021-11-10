@@ -1,4 +1,4 @@
-index,stock,price,name,categories,description,photos
-1,10,100,Nokia 1101,Телефоны Аксессуары,Самый продаваемый в истории телефон,001-1.png 001-2.png
-2,0,200,Nokia 1110,Телефоны, Чуть менее популярный телефон,002-1.png 002-2.png
-3,0,0,Nokia 5130 Express Music,Телефоны,Nokia-5130-c2.md,003-1.png 003-2.png
+index,stock,price,name,categories,description,photo1,photo2,photo3
+1,10,100,Nokia 1101,Телефоны Аксессуары,Самый продаваемый в истории телефон,001-1.png
+2,0,200,Nokia 1110,Телефоны,Чуть менее популярный телефон,002-1.png 002-2.png
+3,0,0,Nokia 5130 Express Music,Телефоны,Nokia-5130-c2.md,003-1.png, 003-2.png
