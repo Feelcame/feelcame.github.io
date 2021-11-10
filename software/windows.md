@@ -36,6 +36,7 @@ index: 1
 	border-radius: 10px;
 	}
 </style>
+
 <div class="grid">
 ## **МЕДИА**
 - **PotPlayer** - видеоплеер.  
