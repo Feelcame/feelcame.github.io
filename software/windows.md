@@ -6,11 +6,62 @@ comments: true
 index: 1
 ---
 
-Подпишись на канал: [**@FeelSoft**](https://t.me/s/FeelSoft)
+Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
+
+<style>
+.drid {
+	overflow: hidden; 
+	flex-wrap: wrap;
+	}
+.grid ul {  
+	//display: table;
+	//flex-wrap: wrap;
+	display: flex;
+	flex-flow: row wrap;
+	padding: 0;
+	}
+.grid li {
+	text-align:center;
+	float: left;
+	box-sizing: border-box;
+	width: calc(50% - 8px);
+	padding: 7px 10px;
+	background: #eee;
+	margin: 4px; 
+	list-style-type: none;
+	min-height: 50px;
+	//height: 5em;
+	padding-left: 15px;
+	padding-right: 15px;
+	border-radius: 10px;
+	}
+</style>
 
 ## **МЕДИА**
-PotPlayer, AIMP, XnView,  
-Bandicam, Audacity, Paint.Net
+- **PotPlayer** - видеоплеер.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
+- **AIMP** - акдиоплеер.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
+- **XnView** - просмотр фото.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
+- **Bandicam** - хапись экрана.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
+- **Audacity** - запись микрофона.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
+- **Paint.Net** - редактор фото.  
+[скачать](#)  
+[обновить](#)  
+[telegram](#)  
 
 ## **ИНТЕРНЕТ**
 Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
