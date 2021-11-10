@@ -6,6 +6,10 @@
 
 <ul>
 {% for product in site.data.products %}
-- **{{ product.name }}**<br>Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>Описание: {{ product.description }}</a>
+<li>
+  {% if product.photos.size > 0 %}{{ product.photo | first }}{% endif %}
+  <b>{{ product.name }}</b><br>
+  Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
+  Описание: {{ product.description }}
 {% endfor %}
 </ul>
