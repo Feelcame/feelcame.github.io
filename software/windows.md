@@ -36,13 +36,13 @@ index: 1
 	border-radius: 10px;
 	}
 </style>
-
+<div class="grid">
 ## **МЕДИА**
 - **PotPlayer** - видеоплеер.  
 [скачать](#)  
 [обновить](#)  
 [telegram](#)  
-- **AIMP** - акдиоплеер.  
+- **AIMP** - аудиоплеер.  
 [скачать](#)  
 [обновить](#)  
 [telegram](#)  
@@ -62,6 +62,7 @@ index: 1
 [скачать](#)  
 [обновить](#)  
 [telegram](#)  
+</div>
 
 ## **ИНТЕРНЕТ**
 Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
