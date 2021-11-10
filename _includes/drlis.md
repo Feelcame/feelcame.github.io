@@ -22,12 +22,16 @@
 </ol>
 {%- endcapture -%}
 
-{%- if include.spoiler != nil -%}
+{%- if include.spoiler == nil -%}
+{{ result }}
+{%- elseif include.spoiler == "" -%}
 <details markdown="1" open><summary markdown="0">+ Все статьи в папке {{ directory }} с тегом: ({{ rec_tag }}), qty: ({{ finish_pages.size }})</summary>
 {{ result }}
 </details>
-{%- else -%}
+{%- elseif include.spoiler != "" and include.spoiler != nil -%}
+<details markdown="1" open><summary markdown="0">+ include.spoiler</summary>
 {{ result }}
+</details>
 {%- endif -%}
 {%- comment -%}
 {%- endcomment -%}
