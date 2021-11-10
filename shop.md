@@ -6,6 +6,8 @@
 <ul>
 {% for product in site.data.products %}
 <li>
+  {% assign photos = product.photos | default: "" | split " " %}
+  {% if photos.size > 0 %}Фото: {{ photos | first }}{% endif %}
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
   Описание: {{ product.description }}
