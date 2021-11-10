@@ -3,12 +3,9 @@
 - Аксессуары
 
 ## Список товаров
-{% comment %}{% endcomment %}
 <ul>
 {% for product in site.data.products %}
 <li>
-  {% assign photos = product.photos | split " " %}
-  {% if photos > 0 %}Фото: {{ photos | first }}{% endif %}
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
   Описание: {{ product.description }}
@@ -16,6 +13,20 @@
 {% endfor %}
 </ul>
 
+
+{% comment %}
+<ul>
+{% for product in site.data.products %}
+<li>
+  {% assign photos = product.photos | default: "" | split " " %}
+  {% if photos > 0 %}Фото: {{ photos | first }}{% endif %}
+  Название: <b>{{ product.name }}</b><br>
+  Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
+  Описание: {{ product.description }}
+</li>
+{% endfor %}
+</ul>
+{% endcomment %}
 
 ## Example
 <ul>
