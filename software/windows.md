@@ -68,13 +68,12 @@ index: 1
 - qBitTorrent,  
 
 **расширения:** 
-AdBlock, 
-Yandex Acces, 
-Переводчик, 
-Darkreader, 
-Sponsor Block, 
-Video Resume
-
+- AdBlock, 
+- Yandex Acces, 
+- Переводчик, 
+- Darkreader, 
+- Sponsor Block, 
+- Video Resume
 </div>
 
 ## **ОФИС**
