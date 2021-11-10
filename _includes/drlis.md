@@ -22,16 +22,14 @@
 </ol>
 {%- endcapture -%}
 
-{%- if include.spoiler == nil -%}
-{{ result }}
-{%- elseif include.spoiler == "" -%}
-<details markdown="1" open><summary markdown="0">+ Все статьи в папке {{ directory }} с тегом: ({{ rec_tag }}), qty: ({{ finish_pages.size }})</summary>
-{{ result }}
-</details>
-{%- elseif include.spoiler != "" and include.spoiler != nil -%}
-<details markdown="1" open><summary markdown="0">+ include.spoiler</summary>
+{%- assign spoiler = include.spoiler | default: "" -%}
+{%- if spoiler != "" -%}
+<details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
 {{ result }}
 </details>
+{%- else -%}
+{{ result }}
 {%- endif -%}
 {%- comment -%}
 {%- endcomment -%}
+<!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}) -->
