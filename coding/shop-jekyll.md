@@ -6,6 +6,9 @@ tags: project coding web
 comments: true
 ---
 
+- toc
+{: toc }
+
 Возможно ли сделать магазин на Jekyll?
 
 Если я когда нибудь его реализую, то пример будет тут: [Shop](../shop.md)
