@@ -94,6 +94,16 @@ index: 1
 </details>
 
 
+
+<details markdown="1"><summary markdown="0">+ Версия 3.211111 Добавлен вывод спойлера</summary>
+
+{% raw %}
+``` html
+пока что тут пусто
+```
+{% endraw %}
+</details>
+
 ## Примеры 
 
 <details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
