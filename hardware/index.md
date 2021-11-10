@@ -7,10 +7,9 @@ index: 0
 ---
 
 ### Железко
-{% include drlis.md %}
+{% include drlis.md spoiler="Все статьи" %}
 
-**Проекты**  
-{% include drlis.md dir="/projects/" tag="hardware" spoiler="+ Все статьи" %}
+{% include drlis.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
 
 <!--
 - Мобильные телефоны
