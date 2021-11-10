@@ -37,7 +37,7 @@ index: 1
 	}
 </style>
 
-<div class="grid">
+<div class="grid" markdown="1">
 ## **МЕДИА**
 - **PotPlayer** - видеоплеер.  
 [скачать](#)  
