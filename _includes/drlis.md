@@ -11,6 +11,7 @@
 {%- assign finish_pages = finish_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
 {%- endif %}  
 
+{%- capture result -%}
 <ol reversed id="navigation">
 {%- for pg in finish_pages -%}
   <li>{%- if pg.index > 0 -%}:pushpin:{%- endif -%}
@@ -19,16 +20,14 @@
   </li>
 {%- endfor -%}
 </ol>
-{%- comment -%}Добавить обработку параметра spoiler. Дебаг. dir: ({{ directory }}), tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }}).{%- endcomment -%}
-<details markdown="1"><summary markdown="0">+ Заголовок спойлера</summary>
-</details>
+{%- endcapture -%}
 
-{%- comment -%}
-{% if include.spoiler != nil %}
-<details markdown="1" open><summary markdown="0">+ Все статьи в папке {{ directory }}. tag: ({{ rec_tag }}), qty: ({{ finish_pages.size }})</summary>
+{%- if include.spoiler != nil -%}
+<details markdown="1" open><summary markdown="0">+ Все статьи в папке {{ directory }} с тегом: ({{ rec_tag }}), qty: ({{ finish_pages.size }})</summary>
 {{ result }}
 </details>
-{% else %}
+{%- else -%}
 {{ result }}
-{% endif %}
+{%- endif -%}
+{%- comment -%}
 {%- endcomment -%}
