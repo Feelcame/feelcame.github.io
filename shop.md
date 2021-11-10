@@ -15,7 +15,6 @@
 </li>
 {% endfor %}
 </ul>
-{% endcomment %}
 
 
 ## Example
