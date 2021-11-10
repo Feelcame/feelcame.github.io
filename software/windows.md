@@ -59,11 +59,21 @@ index: 1
 [скачать](#) -
 [обновить](#)
 
-</div>
 
 ## **ИНТЕРНЕТ**
-Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
-**расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
+- Chrome, 
+- Telegram, 
+- Networx, 
+- AnyDesk, 
+- qBitTorrent,  
+
+**расширения:** 
+AdBlock, 
+Yandex Acces, 
+Переводчик, 
+Darkreader, 
+Sponsor Block, 
+Video Resume
 
 </div>
 
