@@ -10,7 +10,9 @@ index: 1
 В любом месте статьи можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
 ```{ % include drlis.md dir="/projects/" tag="hardware" %}```
 
-Код тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
+Мой велосипед тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
+
+Туториал как сделать навигацию от Jekyll: <https://jekyllrb.com/tutorials/navigation/>
 
 ## Описание
 1. Если передан параметр ```dir```, то парсить полностью всю папку.  
