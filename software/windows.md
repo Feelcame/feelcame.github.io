@@ -8,12 +8,7 @@ index: 1
 
 Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
 
-<details><summary>+ Навигация</summary>
 
-- toc
-{: toc }
-
-</details>
 
 <style>
 .drid {
