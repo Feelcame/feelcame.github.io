@@ -6,6 +6,7 @@
 <ul>
 {% for product in site.data.products %}
 <li>
+  Фото: {{ site.data.photos | split: " " | first }}<br>
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
   Описание: {{ product.description }}
