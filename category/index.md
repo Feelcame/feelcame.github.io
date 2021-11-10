@@ -3,7 +3,7 @@
 - Аксессуары
 
 ## Список товаров
-
+{% comment %}
 <ul>
 {% for product in site.data.products %}
 <li>
@@ -15,6 +15,7 @@
 </li>
 {% endfor %}
 </ul>
+{% endcomment %}
 
 
 ## Example
