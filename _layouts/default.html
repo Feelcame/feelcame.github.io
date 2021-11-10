@@ -39,7 +39,7 @@
 		{%- if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
 		</time>
 		{%- endif -%}
-		{% if page.comments | default: site.comments %}{% include comments.md %}{% endif %}
+		{% if page.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
 			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about.html">{{ site.github.owner_name }}</a>.
 			<time class="shaded"> 
