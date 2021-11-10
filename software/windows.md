@@ -7,7 +7,7 @@ index: 1
 ---
 
 Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
-
+{% include drlis.md spoiler="Навигация" %}
 <style>
 .drid {
 	overflow: hidden; 
