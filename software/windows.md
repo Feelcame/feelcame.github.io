@@ -65,6 +65,8 @@ index: 1
 Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
 **расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
+</div>
+
 ## **ОФИС**
 SumatraPDF, STDU,  
 [Notepad++](https://notepad-plus-plus.org/downloads/),  
