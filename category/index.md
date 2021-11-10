@@ -7,7 +7,8 @@
 <ul>
 {% for product in site.data.products %}
 <li>
-  {% if product.photos.size > 0 %}Фото: {{ product.photo | first }}{% endif %}
+  {% assign photos = product.photo | split " " %}
+  {% if photos > 0 %}Фото: {{ photos | first }}{% endif %}
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
   Описание: {{ product.description }}
