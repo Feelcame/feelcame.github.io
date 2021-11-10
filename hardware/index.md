@@ -10,7 +10,7 @@ index: 0
 {% include drlis.md %}
 
 **Проекты**  
-{% include drlis.md dir="/projects/" tag="hardware" spoiler="Все статьи" %}
+{% include drlis.md dir="/projects/" tag="hardware" spoiler="+ Все статьи" %}
 
 <!--
 - Мобильные телефоны
