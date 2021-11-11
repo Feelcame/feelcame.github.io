@@ -4,8 +4,10 @@ date: 2021-09-09T12:19:30+03:00
 modified: 2021-09-19T21:18:52+03:00
 comments: true
 index: 1
-style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0}.grid li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}
+style: ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}
 ---
+
+{% comment %}style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0}.grid li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}<div class="grid" markdown="1">{% endcomment %}
 
 Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
 <details markdown="1">
@@ -13,7 +15,6 @@ style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:w
 {: toc }
 </details>
 
-<div class="grid" markdown="1">
 
 ## Медиа
 - **PotPlayer** - видеоплеер.  
@@ -191,7 +192,6 @@ style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:w
   [оф.сайт](#)
 
 
-</div>
 
 ## Обновления
 Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
