@@ -3,7 +3,7 @@ date: 2021-11-09T19:19:12
 comments: 93
 ---
 
-## Модули WiFi от Espressif
+## Чипы WiFi от Espressif
 
 | Название |  Год   | Описание
 :--------- | :----: | :----------
@@ -14,5 +14,20 @@ comments: 93
 | ESP32    | (2015) | Более мощная версия с Bluetooth и двухядерным процессором. Дороже и глючная
 | ESP32-s2 | (2019) | Попытка сделать ESP32 такой же популярной как и ESP8266. Не вышло
 | ESP32-s3 | (2021) | Новый супер мощный чип. Дорогой. Заточен под аудио, дисплеи, искусственный интелект. Софт еще сырой
+
+## Программирование
+- PlatformIO. Это надстройка для VS Code. Поддерживает разные фреймворки
+- Arduino Framework.
+- ESP-IDF от Espresif 
+
+## Универсальные прошивки
+- Tasmota
+
+## Документация
+- [Вся оф. документация](https://www.espressif.com/en/support/documents/technical-documents)
+- [Arduino ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/) by ESP8266 Community Forum
+- [Arduino ESP32](https://docs.espressif.com/projects/arduino-esp32/en/latest/) by Espressif
+- [ESP-IoT](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) Espressif-IoT-Development-Framework
+- [ESP-AT](https://docs.espressif.com/projects/esp-at/en/latest) доки по AT-командам
 
 ## Комментаторы тут?
