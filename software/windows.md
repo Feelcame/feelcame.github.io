@@ -13,7 +13,7 @@ style: .drid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:w
 {: toc }
 </details>
 
-<p class="grid" markdown="1">
+<div class="grid" markdown="1">
 
 ## Медиа
 - **PotPlayer** - видеоплеер.  
@@ -191,7 +191,7 @@ style: .drid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:w
   [оф.сайт](#)
 
 
-</p>
+</div>
 
 ## Обновления
 Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
