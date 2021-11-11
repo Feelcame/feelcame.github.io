@@ -4,42 +4,198 @@ date: 2021-09-09T12:19:30+03:00
 modified: 2021-09-19T21:18:52+03:00
 comments: true
 index: 1
+style: ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}
 ---
 
-Подпишись на канал: [**@FeelSoft**](https://t.me/s/FeelSoft)
+{% comment %}style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0}.grid li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}<div class="grid" markdown="1">{% endcomment %}
 
-## **МЕДИА**
-PotPlayer, AIMP, XnView,  
-Bandicam, Audacity, Paint.Net
+Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
+<details markdown="1">
+- toc
+{: toc }
+</details>
 
-## **ИНТЕРНЕТ**
-Chrome, Telegram, Networx, AnyDesk, qBitTorrent,  
-**расширения:** AdBlock, Yandex Acces, Переводчик, Darkreader, Sponsor Block, Video Resume
 
-## **ОФИС**
-SumatraPDF, STDU,  
-[Notepad++](https://notepad-plus-plus.org/downloads/),  
-Microsoft Office
+## Медиа
+- **PotPlayer** - видеоплеер.  
+  [скачать](#) -
+  [обновить](#)
+- **AIMP** - аудиоплеер.  
+  [скачать](#) -
+  [обновить](#)
+- **XnView** - просмотр фото.  
+  [скачать](#) -
+  [обновить](#)
+- **Bandicam** - запись экрана.  
+  [скачать](#) -
+  [обновить](#)
+- **Audacity** - запись звука.  
+  [скачать](#) -
+  [обновить](#)
+- **Paint.Net** - редактор фото.  
+  [скачать](#) -
+  [обновить](#)
 
-## **ФАЙЛЫ**
-Uninstall Tool, 7-zip, WinRAR, Total Commander, WizTree, Duplicate File Detector  
-**упр. дисками:** Victoria, Acronis, CrystalDiskMark
 
-## **СИСТЕМА**
-**безопасность:** [Unchecky](#) [_(?)_](#), VirusTotal Uploader, SmartFix, AdwCleaner, Cureit  
-**бенчмарки:** Furmark, CPU-Z, HWinfo
+## Интернет
++ **Браузер Chrome**<br>Никто не скроется от взора большого брата<br>
+  [скачать MSI с оф.сайта](#)
++ **Mozilla Firefox**<br>Браузер для людей<br>
+  [скачать](#)
++ **Telegram**<br>Самый удобный мессенджер<br>
+  [обновить](#)
++ **Networx**<br>мониторинг скорости сети<br>
+  [скачать v5.5](#) -
+  [обновить](#)
++ **AnyDesk**<br>удаленное управление<br>
+  [скачать](#) -
+  [обновить](#)
++ **qBitTorrent**<br>скачивание файлов<br>
+  [скачать](#) -
+  [обновить](#)
 
-**дрова:** SDI, VisualC++, RuntimePack, DirectX, NetFramework  
-**твики:** откл.обнов, удалить папки, почему не спит, откл. локскрин ...
+## Расширения
+- **AdBlock Plus**<br>Блокировщик рекламы.<br>
+  [оф.сайт](#) -
+  [скачать](#)
+- **Yandex Acces**<br>доступ к вк, ок и афк.<br>
+  [скачать](#)
+- **Переводчик SailorMax**<br>удобный, универсальный<br>
+  [скачать](#)
+- **Darkreader**<br>затемняет страницы<br>
+  [скачать](#)
+- **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
+  [скачать](#)
+- **Video Resume**<br>продолжает видео с места остановки в ютубе<br>
+  [скачать](#)
 
-## **USB/CD/DVD**
-**винда:** Windows 7, Windows10, Loader by Daz, KMS Auto Lite,  
-UltraISO, Rufus, WinNTSetup, BOOTICE, [Easy BCD](https://tlgur.com/d/4rqo5v7g)
+## Офис
+- **SumatraPDF** - простая читалка с редактором аннотаций.  
+  [скачать](#) -
+  [обновить](#)
+- **STDU** - простая читалка PDF родом из нулевых.  
+  [скачать](#) -
+  [обновить](#)
+- **Notepad++** - мощный редактор текста с подсветкой синтаксиса.     
+  [скачать](#) - 
+  [обновить](https://notepad-plus-plus.org/downloads/)
+- **Microsoft Office Word, Excell и тд.**  
+  [2007 в tg](#) -
+  [2010 в tg](#) -
+  [365 web](#)
 
-## **РАЗРАБОТЧИКУ**
-GitHub Desktop, OpenServer, VS Code  
 
-## **Обновления**
+## Файлы
+- **Uninstall Tool** - удаление программ с корнями  
+  [скачать](#) -
+  [обновить](#)
+- **7-zip** - архиватор с открытым исходным кодом  
+  [скачать v19.00](#) -
+  [обновить](#)
+- **WinRAR** - мощный архиватор с большой историей  
+  [скачать](#) -
+  [обновить](#)
+- **Total Commander** - двухпанельный файл-менеджер  
+  [скачать](#) -
+  [обновить](#)
+- **WizTree** - анализ места на диске  
+  [скачать](#) -
+  [обновить](#)
+- **Duplicate File Detector** - поиск дубликатов файлов  
+  [скачать](#)
+
+## Упр. дисками 
+- **Victoria** - проверка диска на битые сектора  
+  [скачать](#) -
+  [обновить](#)
+- **Acronis** - переразбивка и клонирование диска  
+  [скачать](#) -
+  [обновить](#)
+- **CrystalDiskMark** - проверка скорости накопителя  
+  [скачать](#) -
+  [обновить](#)
+
+## Безопасность 
+- **Unchecky** - снимает галочки при установке софта  
+  [скачать](#) -
+  [обновить](#)
+- **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню  
+  [скачать](#)
+- **SmartFix** - восстановление слетевших настроек системы после вирусов  
+  [скачать](#) -
+  [обновить](#)
+- **AdwCleaner** - очистка от малвари  
+  [скачать](#) -
+  [обновить](#)
+- **Cureit** - антивирус для одноразовой очистки  
+  [скачать](#) -
+  [обновить](#)
+
+## Бенчмарки
+- **Furmark** - нагрузи видуху по полной  
+  [скачать](#) -
+  [обновить](#)
+- **CPU-Z** - показывает х-ки компа, бенчмарк проца  
+  [скачать](#) -
+  [обновить](#)
+- **HWinfo** - бесплатный просмотрщик характеристик железа  
+  [скачать](#) -
+  [обновить](#)
+
+## Драйвера
++ **Snappy Driver Installer** - драйверпак без рекламы  
+  [скачать](#) -
+  [обновить](#)
++ **VisualC++** - набор библиотек VisualC++ от майкрософт  
+  [скачать](#) -
+  [обновить](#)
++ **RuntimePack** - дополнительные либы к предыдущему  
+  [скачать](#) -
+  [обновить](#)
++ **DirectX** - для работы игр и графических приложений  
+  [скачать](#) -
+  [обновить](#)
++ **NetFramework** - либы для некоторых прог  
+  [скачать](#) -
+  [обновить](#)
++ **Моя подборка скриптов**<br>откл.обнов, удалить папки, почему не спит, откл. локскрин  
+  [скачать](#)
+
+## USB/CD/DVD
+- **Windows 7 adguard**<br>Интегрированы smartfix и обновы по 2021 год  
+  [Поиск на rutracker.org](#) +
+  [Loader by Daz](#)
+- **Windows10**<br>Качать самую свежую официальную версию  
+  [Поиск на nnmclub.to](#) - 
+  [KMS Auto Lite](#) 
+- **UltraISO** - создание, изменение ISO  
+  [скачать](#)
+- **Rufus** - запись винды на флешку  
+  [скачать](#) -
+  [скачать с оф.сайта](#)
+- **WinNTSetup** - установка новой винды без заходов в биос  
+  [скачать SFX](#)
+- **BOOTICE** - редактор загрузчика  
+  [скачать SFX](#)
+- **Easy BCD** - редактор загрузчика с красивым GUI    
+  [скачать v4.2](https://tlgur.com/d/4rqo5v7g)
+
+## Разработчику
+- **VS Code** - универсальная среда разработки  
+  [оф.сайт](#)
+- **Eagle CAD** - разводка печатных плат  
+  [оф.сайт](#)
+- **GitHub Desktop** - GUI для системой контроля версий Git  
+  [оф.сайт](#)
+- **OpenServer** - сервер PHP для отладки сайтов  
+  [скачать урезаную версию](#) -
+  [обновить](#)
+- **Gitea** - серверная часть гита<br>
+  [оф.сайт](#)
+
+
+
+## Обновления
 Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>

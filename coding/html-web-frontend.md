@@ -53,6 +53,9 @@ F.A.Q
 4. <https://learn.javascript.ru/searching-elements-dom>
 5. <>
 
+Про иерархию селекторов CSS и нгаследование
+- Тут понятно описано <https://webref.ru/course/css-basics/selectors>
+- А тут детально <https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance>
 
 ## Севрисы комментариев на статический сайт
 

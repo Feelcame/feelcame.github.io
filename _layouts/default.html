@@ -9,7 +9,7 @@
 	<link rel="shortcut icon" href="/assets/img/favicon.png" type="image/png">
 	<link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	<link rel="stylesheet" href="{{ '/assets/custom.css?v=' | append: site.github.build_revision | relative_url }}">
-	<style></style>
+	<style>{{ page.style }}</style>
 </head>
 <body>
 	<a href="#content" id="vverh" onclick="showNav()"></a>
@@ -25,9 +25,9 @@
 		<a href="/about" class="btn">🔍</a>
 		<!--
 		<a href="/" class="btn" id="home">&#127968; Главная</a>
-		<a href="/dl" class="btn">🤟 Загрузки</a>
+		<a href="/media" class="btn">🤟 Загрузки</a>
 		<a href="/blog" class="btn">😀 Блог</a>
-		<a href="/donate" class="btn" ><b>❤️ Донатъ!</b></a>
+		<a href="/about" class="btn" ><b>❤️ Донатъ!</b></a>
 		-->
 		</div>
 	</header>
@@ -39,7 +39,7 @@
 		{%- if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
 		</time>
 		{%- endif -%}
-		{% if page.comments | default: site.comments %}{% include comments.md %}{% endif %}
+		{% if page.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
 			<span class="site-footer-owner">{{ site.copyright | default: © }}  <a href="/about.html">{{ site.github.owner_name }}</a>.
 			<time class="shaded"> 
