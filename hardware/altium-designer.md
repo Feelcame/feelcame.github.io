@@ -70,6 +70,10 @@ modified: 2021-09-04T12:30:58+03:00
 * [IntLib by Sandy](https://rutracker.org/forum/viewtopic.php?t=4864824) 2015 03.22
 * [IntegratedLibrary](https://rutracker.org/forum/viewtopic.php?t=5722123) Library(Sandy) 11.06.2020
 
+## Механика
+- <https://russianblogs.com/article/54691440932/>
+- <https://electronix.ru/forum/index.php?app=forums&module=forums&controller=topic&id=143615>
+- <https://askentire.net/q/import-chertezhej-dxf-v-altium-61051434693>
 
 4. создание проекта печатнойй платы
 5. связь схемы с платой. анотация
