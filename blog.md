@@ -6,11 +6,11 @@ title: Черновики
 
 ## Блог
 <ol reversed="reversed">
-{% for post in site.posts %}
+{% for post in site.posts %}  
 <li>
-{{ post.date | default: "2099-01-01T00:00:00+02:00" | date: "%Y-%m-%d" }} 
-<a href="{{ post.url | prepend: site.baseurl }}">
-{{ post.title | default: "Новая запись" }}
+{{ post.date | default: "2099-01-01T00:00:00+02:00" | date: "%Y-%m-%d" }}  
+<a href="{{ post.url | prepend: site.baseurl }}">  
+{{ post.title | default: "Новая запись" }}  
 </a>
 </li>
 {% endfor %}
