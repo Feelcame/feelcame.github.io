@@ -4,17 +4,17 @@ title: Черновики
 ---
 
 
-## Черновички
-<ul reversed="reversed">
+## Блог
+<ol reversed="reversed">
 {% for post in site.posts %}
-  <li>
-    {{ post.date | date: "%Y-%m-%d" | default: "гг-мм-дд" }} 
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        {{ post.title | default: "Новая запись" }}
-      </a>
-  </li>
+<li>
+{{ post.date | default: "2099-01-01T00:00:00+02:00" | date: "%Y-%m-%d" }} 
+<a href="{{ post.url | prepend: site.baseurl }}">
+{{ post.title | default: "Новая запись" }}
+</a>
+</li>
 {% endfor %}
-</ul>
+</ol>
 
 
 {% comment %}
