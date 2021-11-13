@@ -1,7 +1,7 @@
 ---
 date: 2021-11-02T11:58:59+02:00
 modified: 2021-11-03T11:59:46+02:00
-title: Генератор локальных ссылок для onedrive
+title: OneDrive Linker. Локальные ссылки на onedrive
 tags: software project
 ---
 
