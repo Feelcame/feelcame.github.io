@@ -1,6 +1,6 @@
 <div>
 <h2>Комментарии:</h2>
-{% assign com_id = page.comments | default: 0 %}  
+{% assign com_id = page.comments | default: 0 | abs %}  
 <!-- com_id: ({{ com_id }}) -->
 {%- if com_id > 1 -%}
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ site.chtg | default: "rf_art" }}/{{ com_id }}" data-comments-limit="5"></script>  
