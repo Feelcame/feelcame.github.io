@@ -1,6 +1,7 @@
 ---
 date: 2021-11-08T20:42:00
 title: Сервисы комментариев для статического сайта
+Comments: true
 ---
 
 ## native telegram comments
