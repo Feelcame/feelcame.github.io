@@ -3,7 +3,7 @@ date: 2021-11-05T11:58:23+02:00
 modified: 2021-11-06T11:58:23+02:00
 tags: project coding
 comments: true
-index: 1
+index: 5
 ---
 
 ## Вывод навигации в Jekyll
