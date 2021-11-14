@@ -1,15 +1,15 @@
 ---
-title: FeelSoft - программы на комп
+title: 'FeelSoft - программы на комп'
 date: 2021-09-09T12:19:30+03:00
-modified: 2021-09-19T21:18:52+03:00
+modified: 2021-11-14T12:37:46+02:00
 comments: 96
 index: 1
-style: ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}
+style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
 ---
 
-{% comment %}style: .grid{overflow:hidden;flex-wrap:wrap}.grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0}.grid li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}<div class="grid" markdown="1">{% endcomment %}
 
-Моя лайтовая подборочка программ. Подпишись на канал в телеграме: [**@FeelSoft**](https://t.me/s/FeelSoft)
+Моя лайтовая подборочка программ.  
+Следи за обновлениями в телеграм-канале: [**@FeelSoft**](https://t.me/FeelSoftWin/105)
 <details markdown="1">
 - toc
 {: toc }
