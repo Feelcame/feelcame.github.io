@@ -1,15 +1,21 @@
 ---
-title: 'FeelSoft - программы на комп'
+title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
-modified: 2021-11-14T12:37:46+02:00
+modified: 2021-11-14T13:14:41+02:00
 comments: 96
 index: 1
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
 ---
 
-
 Моя лайтовая подборочка программ.  
-Следи за обновлениями в телеграм-канале: [**@FeelSoft**](https://t.me/FeelSoftWin/105)
+Следи за обновлениями в телеграм-канале:
+<center>
+<a style="font-size: 13px;"
+href="https://t.me/s/FeelSoftWin/105">
+<strong>t.me/FeelSoftWin</strong>
+</a>
+</center>
+
 <details markdown="1">
 - toc
 {: toc }
@@ -196,9 +202,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Обновления
-Смотри актуалочку в телеграм-канале: <a href="https://t.me/s/FeelSoft"><b>@FeelSoft</b></a>
+Напоминаю про телеграм-канал: <https://t.me/FeelSoftWin/105>
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a></center>  
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/125" data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/106" data-width="100%"></script>
 </details>
