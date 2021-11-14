@@ -1,7 +1,7 @@
 ---
 title: Jekyll CMS
 date: 2021-09-05T10:40:58+03:00
-modified: 2021-11-07T10:03:18+02:00
+modified: 2021-11-14T21:16:29+02:00
 comments: 95
 index: 1
 ---
@@ -289,3 +289,4 @@ title: test
 - <http://jlord.us/sheetsee.js/>
 
 - Коллекция плагинов (не работают на github) <https://github.com/planetjekyll/awesome-jekyll-plugins>
+- breadcrumbs <https://jekyllcodex.org/without-plugin/breadcrumbs/>
