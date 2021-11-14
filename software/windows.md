@@ -1,7 +1,7 @@
 ---
 title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
-modified: 2021-11-14T13:14:41+02:00
+modified: 2021-11-14T13:15:51+02:00
 comments: 96
 index: 1
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
@@ -205,6 +205,6 @@ href="https://t.me/s/FeelSoftWin/105">
 Напоминаю про телеграм-канал: <https://t.me/FeelSoftWin/105>
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
-<center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/125"><strong>t.me/FeelSoftWin</strong></a></center>  
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/106" data-width="100%"></script>
+<center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/109" data-width="100%"></script>
 </details>
