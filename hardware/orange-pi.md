@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T02:00:29+02:00
+modified: 2021-11-15T13:30:23+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -20,6 +20,29 @@ title: Одноплатные компьютеры Orange Pi
 Banana Pi, ODROID, LattePanda, ThinkerBoard...
 
 ## Линейка Zero
+**Zero с 1xUSB и 1xEthernet**
+<spoiler>photo</spoiler>
+Модель       |чип | опера | год
+:----------- |:-- |:----- |:----
+Zero         | H2 | 512Mb | 2015
+Zero LTS     | H2 | 512Mb | 2019
+Zero (new)   | H3 | 512Mb | 2021
+Zero Plus H3 | H3 | 512Mb | N/A
+Zero Plus H5 | H5 | 512Mb | N/A
+
+**Без Ethernet, но с HDMI**
+<spoiler>photo</spoiler>
+Модель       |чип | опера | год
+:----------- |:-- |:----- |:----
+Zero         | H2 | 512Mb | 2015
+Zero LTS     | H2 | 512Mb | 2019
+Zero (new)   | H3 | 512Mb | 2021
+Zero Plus H3 | H3 | 512Mb | N/A
+Zero Plus H5 | H5 | 512Mb | N/A
+
+
+
+
 - Orange Pi Zero 512Mb H2 (2015) - старая добрая плата для IoT на чипе H2
 - **Orange Pi Zero LTS** H2 512Mb (2019) - слегка переработана плата, уменьшен нагрев
 - opi zero 512Mb H3 (2021-11-04) - Вышла взамен zero LTS. Чип помощнее, как у one и многих других. Цена $21
