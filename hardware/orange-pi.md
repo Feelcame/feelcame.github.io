@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T13:48:45+02:00
+modified: 2021-11-15T13:50:18+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -36,9 +36,9 @@ Zero Plus H5 512Mb |N/A |$25
 
 Название            |год |цена
 :-------------------|:---|:---
-Zero Plus2 H3 512Mb |N/A |N/A
-Zero Plus2 H5 512Mb |N/A |N/A
-Zero2 H616 1Gb      |N/A |N/A
+Zero Plus2 H3 512Mb |N/A |$35
+Zero Plus2 H5 512Mb |N/A |$25
+Zero2 H616 1Gb      |N/A |$26
 
 
 
