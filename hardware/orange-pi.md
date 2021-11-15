@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T13:30:23+02:00
+modified: 2021-11-15T13:34:46+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -22,6 +22,7 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 ## Линейка Zero
 **Zero с 1xUSB и 1xEthernet**
 <spoiler>photo</spoiler>
+
 Модель       |чип | опера | год
 :----------- |:-- |:----- |:----
 Zero         | H2 | 512Mb | 2015
