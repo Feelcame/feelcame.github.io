@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T13:45:50+02:00
+modified: 2021-11-15T13:48:45+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -21,7 +21,7 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 
 ## Линейка Zero
 **Zero с 1xUSB и 1xEthernet**
-<spoiler>photo</spoiler>
+<details>photo</details>
 
 Название,чип,память|год |цена
 :------------------|:---|:---
@@ -31,20 +31,14 @@ Zero(new) H3 512Mb |2021|$21
 Zero Plus H3 512Mb |N/A |N/A
 Zero Plus H5 512Mb |N/A |$25
 
-**HDMI вместо Ethernet**
-<spoiler>photo</spoiler>
+**Как зиро, но нет**
+<details>photo</details>
 
 Название            |год |цена
 :-------------------|:---|:---
 Zero Plus2 H3 512Mb |N/A |N/A
 Zero Plus2 H5 512Mb |N/A |N/A
-
-**Как зиро, но нет**
-<spoiler>photo</spoiler>
-
-Название       |год |цена
-:--------------|:---|:---
-Zero2 H616 1Gb |N/A |N/A
+Zero2 H616 1Gb      |N/A |N/A
 
 
 
