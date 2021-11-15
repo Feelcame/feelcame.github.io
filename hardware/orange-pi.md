@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T13:35:08+02:00
+modified: 2021-11-15T13:45:50+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -23,24 +23,28 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 **Zero с 1xUSB и 1xEthernet**
 <spoiler>photo</spoiler>
 
-Модель       |чип | опера | год
-:----------- |:-- |:----- |:----
-Zero         | H2 | 512Mb | 2015
-Zero LTS     | H2 | 512Mb | 2019
-Zero (new)   | H3 | 512Mb | 2021
-Zero Plus H3 | H3 | 512Mb | N/A
-Zero Plus H5 | H5 | 512Mb | N/A
+Название,чип,память|год |цена
+:------------------|:---|:---
+Zero H2 512Mb      |2015|$15
+Zero LTS H2 512Mb  |2019|$17
+Zero(new) H3 512Mb |2021|$21
+Zero Plus H3 512Mb |N/A |N/A
+Zero Plus H5 512Mb |N/A |$25
 
-**Без Ethernet, но с HDMI**
+**HDMI вместо Ethernet**
 <spoiler>photo</spoiler>
 
-Модель       |чип | опера | год
-:----------- |:-- |:----- |:----
-Zero         | H2 | 512Mb | 2015
-Zero LTS     | H2 | 512Mb | 2019
-Zero (new)   | H3 | 512Mb | 2021
-Zero Plus H3 | H3 | 512Mb | N/A
-Zero Plus H5 | H5 | 512Mb | N/A
+Название            |год |цена
+:-------------------|:---|:---
+Zero Plus2 H3 512Mb |N/A |N/A
+Zero Plus2 H5 512Mb |N/A |N/A
+
+**Как зиро, но нет**
+<spoiler>photo</spoiler>
+
+Название       |год |цена
+:--------------|:---|:---
+Zero2 H616 1Gb |N/A |N/A
 
 
 
