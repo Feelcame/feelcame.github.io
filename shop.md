@@ -1,10 +1,10 @@
 ---
-modified: 2021-11-15T23:10:34+02:00
+modified: 2021-11-15T23:10:55+02:00
 ---
 
 [**Все категории**](./category/index.md)
 - Телефоны
-- [Компьютеры](./category/index.md)
+- [Компьютеры](./category/computers/index.md)
   - 
   - 
 - Аксессуары
