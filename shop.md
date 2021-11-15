@@ -1,8 +1,8 @@
 ---
-modified: 2021-11-15T23:08:13+02:00
+modified: 2021-11-15T23:08:44+02:00
 ---
 
-[**Все категории**](./category/)
+[**Все категории**](./category/index.md)
 - Телефоны
 - [Компьютеры](category/computers/index.md)
   - 
