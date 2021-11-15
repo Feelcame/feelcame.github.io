@@ -1,9 +1,8 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T17:01:32+02:00
+modified: 2021-11-15T17:20:45+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
-
 
 ## Почему не малина?
 В основном цена. И еще для нужд IoT не нужен HDMI.  
@@ -38,7 +37,7 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 
 **Начальный уровень**
 <details>
-photo
+![Image](../assets/images/7dd82647514cb0b43aef22493c54a9ae.jpg)
 </details>
 
 Модель, чип, опера |год |цена
