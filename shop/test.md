@@ -5,7 +5,7 @@ modified: 2021-11-15T23:10:55+02:00
 
 **Все категории**
 - Телефоны
-- [Компьютеры](./category/computers/index.md)
+- [Компьютеры](./computers/index.md)
   - c
   - c
 - Аксессуары
