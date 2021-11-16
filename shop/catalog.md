@@ -22,7 +22,7 @@ modified: 2021-11-15T23:10:55+02:00
 <ul>
 {% for cat in categories %}
 <li>
-  <a href="{{ cat.url }}">{{ cat.title | default: cat.name }}</a><!-- {{ cat.index }} -->
+  <a href="{{ cat.url }}">{{ cat.title | default: cat.dir | remove: page.dir }}</a><!-- {{ cat.index }} -->
 </li>
 {% endfor %}
 </ul>
