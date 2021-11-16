@@ -9,7 +9,3 @@ title: Компьютеры в сборе
 
 {% include products-list.html %}
 
-
-{% comment %}
-
-{% endcomment %}
