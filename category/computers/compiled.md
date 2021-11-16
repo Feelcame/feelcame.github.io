@@ -7,7 +7,9 @@ title: Компьютеры в сборе
 
 ## Список товаров
 
-{% comment %}
 {% include products-list.html %}
+
+
+{% comment %}
 
 {% endcomment %}
