@@ -3,7 +3,7 @@ title: Все категори
 modified: 2021-11-15T23:10:55+02:00
 ---
 
-[**Все категории**](./category/index.md)
+**Все категории**
 - Телефоны
 - [Компьютеры](./category/computers/index.md)
   - c
