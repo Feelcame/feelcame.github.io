@@ -8,7 +8,7 @@ index: 0
 {% include drlis.md %}
 
 
-## Список товаров
+## Список рекомендуемых товаров
 <ul>
 {% for product in site.data.products %}
 <li>
@@ -21,7 +21,7 @@ index: 0
 {% endfor %}
 </ul>
 
-
+{% comment %}
 ## Example
 <ul>
 {% for member in site.data.members %}
@@ -32,3 +32,4 @@ index: 0
   </li>
 {% endfor %}
 </ul>
+{% endcomment %}
