@@ -14,7 +14,7 @@ modified: 2021-11-15T23:10:55+02:00
 
 {% 
   assign categories = site.pages 
-  | where_exp: "item", "item.dir contains page.dir" 
+  | where: "name", "index.md" 
   | sort: "index"
 %}
 
