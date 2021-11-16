@@ -1,6 +1,6 @@
 ---
 modified: 2021-11-16T01:04:40+02:00
-title: Компьютеры в сборе
+title: Собранные
 ---
 
 {% include breadcrumbs.html %}
