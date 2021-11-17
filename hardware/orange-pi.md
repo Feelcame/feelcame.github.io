@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-17T16:25:22+02:00
+modified: 2021-11-17T16:51:27+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -58,7 +58,7 @@ photos
 Zero Plus2, $35 |H3 512Mb 8ssd
 Zero Plus2, $37 |H5 512Mb 8ssd
 Zero2, $26      |H616 1Gb 
-opi R1, $24     |H2 512Mb
+opi R1, $24     |H2 512Mb, 2xRJ45
 
 
 **Старшие модели**
