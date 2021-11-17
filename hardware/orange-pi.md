@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-15T17:30:17+02:00
+modified: 2021-11-17T11:45:21+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -35,7 +35,7 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 
 ## Каталог
 
-**Начальный уровень**
+**Базовые модели zero**
 <details>
 ![Image](../assets/images/7dd82647514cb0b43aef22493c54a9ae.jpg)
 </details>
@@ -68,6 +68,9 @@ opi R1 H2 512Mb     |N/A |$24
 :--------------|:---|:---
 opi One H3 1Gb |N/A |$35
 Pi PC | ?? | ??
+Pi PC plus | ?? | ??
+Pi PC Plus2e | ?? | $75
+
 
 
 
