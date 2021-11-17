@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-17T16:10:19+02:00
+modified: 2021-11-17T16:25:22+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -45,7 +45,6 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 Zero, $15      |H2 512Mb, 2015
 Zero LTS, $17  |H2 512Mb, 2019
 Zero(new), $21 |H3 512Mb, 2021
-Zero Plus      |H3 512Mb
 Zero Plus, $23 |H5 512Mb
 
 **Косят под zero**
@@ -66,8 +65,8 @@ opi R1, $24     |H2 512Mb
 
 Название     |Характеристики
 :------------|:-------------
-Pi One, $26  |H3 1Gb 
-Pi Lite, $27 |H3 1Gb 
+Pi One, $26  |H3 1Gb, мини
+Pi Lite, $27 |H3 1Gb, 2xUSB
 Pi PC, $28   |H3 1Gb 
 Pi PC2, $29  |H5 1Gb
 
