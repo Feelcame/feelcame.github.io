@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-17T14:14:38+02:00
+modified: 2021-11-17T14:21:38+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -66,11 +66,12 @@ opi R1 H2 512Mb     |N/A |$24
 
 Название       |год |цена
 :--------------|:---|:---
-Pi One H3 1Gb | N/A |$26
+One H3 1Gb | N/A |$26
 Lite H3 1Gb | N/A | $27
-Pi PC | ?? | $28
-Pi PC plus H3 1Gb 8ssd | N/A | $36
-Pi PC Plus2e H3 2Gb 16ssd | M/A | $75
+Pi PC H3 1Gb | N/A | $28
+PC plus H3 1Gb 8ssd | N/A | $36
+PC Plus2e H3 2Gb 16ssd | M/A | $75
+Pc2 H5 1Gb | N/A | $29
 
 
 
@@ -79,6 +80,7 @@ Pi PC Plus2e H3 2Gb 16ssd | M/A | $75
 
 Название      |год |цена
 :-------------|:---|:---
+PC3 H6 1Gb 8ssd
 PC 4          |N/A |$35
 
 **С поддержкой сотовых сетей**
