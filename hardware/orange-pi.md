@@ -1,6 +1,6 @@
 ---
 date: 2021-11-01T00:00:00+02:00
-modified: 2021-11-17T15:49:52+02:00
+modified: 2021-11-17T16:06:35+02:00
 title: Одноплатные компьютеры Orange Pi
 ---
 
@@ -40,13 +40,13 @@ Banana Pi, ODROID, LattePanda, ThinkerBoard...
 ![Image](../assets/images/7dd82647514cb0b43aef22493c54a9ae.jpg)
 </details>
 
-Модель, чип, опера |год |цена
-:------------------|:---|:---
-Zero H2 512Mb      |2015|$15
-Zero LTS H2 512Mb  |2019|$17
-Zero(new) H3 512Mb |2021|$21
-Zero Plus H3 512Mb |N/A |N/A
-Zero Plus H5 512Mb |N/A |$23
+Название       | Описание
+:--------------|:---
+Zero, $15      |H2 512Mb, 2015
+Zero LTS, $17  |H2 512Mb, 2019
+Zero(new), $21 |H3 512Mb, 2021
+Zero Plus      |H3 512Mb
+Zero Plus, $23 |H5 512Mb
 
 **Косят под zero**
 
@@ -54,33 +54,32 @@ Zero Plus H5 512Mb |N/A |$23
 photos
 </details>
 
-Название            |год |цена
-:-------------------|:---|:---
-Zero Plus2 H3 512Mb |N/A |$35
-Zero Plus2 H5 512Mb |N/A |$37
-Zero2 H616 1Gb      |N/A |$26
-opi R1 H2 512Mb     |N/A |$24
+Название        |год |цена
+:---------------|:---|:---
+Zero Plus2, $35 |H3 512Mb
+Zero Plus2, $37 |H5 512Mb
+Zero2, $26       |H616 1Gb 
+opi R1, $24     |H2 512Mb
 
 
 **Старшие модели**
 
+Название     |Характеристики
+:------------|:-------------
+Pi One, $26  |H3 1Gb 
+Pi Lite, $27 |H3 1Gb 
+Pi PC, $28   |H3 1Gb 
+Pi PC2, $29  |H5 1Gb
+
+
+**Умощненные + eMMC**
+
 Название        |Характеристики
-:---------------|:-------------
-Pi One, $26     |H3 1Gb 
-Pi Lite, $27    |H3 1Gb 
-Pi PC, $28      |H3 1Gb 
+:---------------|:---
 Pi PC plus, $36 |H3 1Gb 8ssd 
-
-
-
-**Умощненные модели**
-
-Название       |Характеристики
-:--------------|:---
-Pi PC2, $29    |H5 1Gb
-PC Plus2e, $75 |H3 2Gb 16ssd
-Pi PC3, $80    |H6 2Gb 8ssd
-Pi 4, $105     |RK3399 4Gb 8ssd 
+PC Plus2e, $75  |H3 2Gb 16ssd
+Pi PC3, $80     |H6 2Gb 8ssd
+Pi 4, $105      |RK3399 4Gb 8ssd 
 
 **С поддержкой сотовых сетей**
 
