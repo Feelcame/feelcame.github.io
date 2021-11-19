@@ -31,6 +31,7 @@ comments: 93
 ## Универсальные прошивки
 - [Tasmota](https://tasmota.github.io/docs/)
 - [ESP Easy](https://www.letscontrolit.com/index.php#ESPEasy). Отдельно [wiki](https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction)
+- [ESPHome](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ## Документация
 - [Product selector](https://products.espressif.com/#/product-selector?language=en). Какой модуль/чип выбрать? Тут только официальные.
