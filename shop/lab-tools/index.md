@@ -8,3 +8,4 @@ index: 0
 
 ## добавить
 - мультиметр <https://megasnab.com.ua/p1367293143-multimetr-accta-110.html>
+- токовые клещи 
