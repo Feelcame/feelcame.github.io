@@ -54,3 +54,7 @@ title: Где купить компоненты
 ## Барахолки
 * <https://aliexpress.com> - китайский супермаркет. много подделок.
 * <https://prom.ua> - украинский онлайн-базар. есть все, в т.ч. компоненты
+
+## в рашке
+- <https://www.youtube.com/watch?v=b1eec7TfTwI>
+- <https://www.youtube.com/watch?v=S3o2RDq4r50>
