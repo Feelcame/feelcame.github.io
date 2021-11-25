@@ -1,5 +1,5 @@
 ---
-title: 
+title: Разъемы
 index: 0
 ---
 
