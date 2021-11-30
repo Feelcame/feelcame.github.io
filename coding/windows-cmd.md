@@ -6,13 +6,17 @@ title: Скрипты CMD
 
 ### Узнать почему комп не уходит в сон
 Скрипт ниже. Запускать от админа. Источник: <https://tinyurl.com/b43nh2mz>  
-```cmd /k powercfg /requests```
+```
+cmd /k powercfg /requests
+```
 
 
 
 ### Запустить команду из меню Win+R и оставить консоль открытой
 Позволяет запихнуть сложные сценарии в одну строчку.   
-```cmd /k echo test && pause```
+```
+"cmd /k cd c:\adb31 & cls & adb start-server & echo FASTBOOT: & fastboot devices & echo ADB: & adb devices"
+```
 
 
 
