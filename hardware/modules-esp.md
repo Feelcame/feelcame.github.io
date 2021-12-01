@@ -15,6 +15,9 @@ comments: 93
 | ESP32-s2 | (2019) | Попытка сделать ESP32 такой же популярной как и ESP8266. Не вышло
 | ESP32-s3 | (2021) | Новый супер мощный чип. Дорогой. Заточен под аудио, дисплеи, искусственный интелект. Софт еще сырой
 
+- [Product selector](https://products.espressif.com/#/product-selector?language=en). Какой чип/модуль выбрать? Спроси у производителя
+- [Оф. сайт](https://www.espressif.com/en/support/documents/technical-documents)
+
 ## Модули и Отладочные платы
 - Wemos D1 mini - минимальная плата на основе модуля ESP-12 (esp8266)
 - MH-ET LIVE MiniKit for ESP32 - плата на ESP32, совместимая с предыдущей по пинам
@@ -34,8 +37,7 @@ comments: 93
 - [ESPHome](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ## Документация
-- [Product selector](https://products.espressif.com/#/product-selector?language=en). Какой модуль/чип выбрать? Тут только официальные.
-- [Вся оф. документация](https://www.espressif.com/en/support/documents/technical-documents)
+- [Документация Espressif](https://www.espressif.com/en/support/documents/technical-documents)
 - [Arduino ESP8266](https://arduino-esp8266.readthedocs.io/en/latest/). Доки от ESP8266 Community Forum
 - [Arduino ESP32](https://docs.espressif.com/projects/arduino-esp32/en/latest/). Доки от Espressif
 - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/). Espressif-IoT-Development-Framework
