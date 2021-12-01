@@ -32,7 +32,7 @@ comments: 93
 
 ## Универсальные прошивки
 - [**Tasmota**](https://tasmota.github.io/docs/). Изначально предназначена для WiFi реле Sonoff
-- [**ESP Easy**](https://www.letscontrolit.com/index.php#ESPEasy). Отдельно [wiki](https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction)
+- [**ESP Easy**](https://www.letscontrolit.com/index.php#ESPEasy). ([документация](https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction)). Конструктор прошивок
 - [**ESPHome**](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
 ## Документация
