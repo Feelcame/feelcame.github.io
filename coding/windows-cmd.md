@@ -13,9 +13,9 @@ cmd /k powercfg /requests
 
 
 ### Запустить команду из меню Win+R и оставить консоль открытой
-Позволяет запихнуть сложные сценарии в одну строчку.   
+Позволяет запихнуть сложные сценарии в одну строчку. Ниже притмер длдя запуска из бат-файла, если запускть через Win+R, то нужно убрать кавычки
 ```
-"cmd /k cd c:\adb31 & cls & adb start-server & echo FASTBOOT: & fastboot devices & echo ADB: & adb devices"
+"cmd /k cls & cd & adb start-server & echo FASTBOOT: & fastboot --version & fastboot devices & echo ADB: & adb version & adb devices"
 ```
 
 
