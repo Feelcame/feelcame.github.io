@@ -27,9 +27,10 @@ index: 2
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
   [4pda](#), 
   [телега](https://t.me/FeelSoftAn/164)
+<details markdown="1">
 - Sync
 - RAR
-<details markdown="1"></details>
+</details>
 
 ## Музыка
 - AIMP. 
@@ -45,14 +46,15 @@ index: 2
 ## Фото и видео
 - QuickPic
 - MX Player
-- NewPipe
+- NewPipe  
+<details markdown="1">
 - Youtube Vanced (мод)
 - PowerTube
 - HD VideoBox (закрыли) <https://tlgur.com/d/g2XkXzM8>
 - LazyMedia 
 - Кино HD
 - Wink (мод)
-<details markdown="1"></details>
+</details>
 
 ## Медиа редакторы
 - PicSay – фоторедактор  
@@ -104,7 +106,7 @@ index: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=587771)
 - App Backup&Restore. 
   [v3.11.old](#)
-  <details markdown="1">
+<details markdown="1">
 - Powerful Control
 - Titanium Backup
 - System App Remover. 
