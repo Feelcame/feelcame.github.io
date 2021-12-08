@@ -120,6 +120,10 @@ index: 2
 - Darker Pro
 - Google Play Blocker
 - TTL Master
+- Microsoft Launcher
+- Launcher<3
+- Copy
+- Клавиатура Google
 </details>
 
 
@@ -142,7 +146,7 @@ index: 2
 
 ## Сеть
 - Internet Speed Meter. 
-  [v1.5.9.And8+](https://tlgur.com/d/G7BY5Nd8), 
+  [v1.5.9(an8)](https://tlgur.com/d/G7BY5Nd8), 
   [4pda](https://4pda.to/forum/index.php?showtopic=453821)
 - PingTools
 <details markdown="1">
@@ -160,10 +164,6 @@ index: 2
 - blablacar
 
 ## Прочее
-- Microsoft Launcher
-- Launcher<3
-- Copy
-- Клавиатура Google
 - Виджет громкости
 - Сканер штрих-кодов
 - Mi Band Master 
