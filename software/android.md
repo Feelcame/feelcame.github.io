@@ -62,8 +62,8 @@ index: 2
 </details>
 
 ## Медиа редакторы
-- PicSay – фоторедактор  
-  [скачать](#), [шрифты](#), [4pda](#)
+- PicSay Pro – фоторедактор. 
+  [v1.8.0.5](https://tlgur.com/d/GdX03zrG), [шрифты](#), [4pda](https://4pda.to/forum/index.php?showtopic=131210)
 - Hi-Q MP3 Recorder – диктофон
 - XRecorder  – запись экрана
 
