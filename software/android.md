@@ -13,38 +13,48 @@ index: 2
 
 Прямые ссылки на старые версии, зато доступные прямо здесь и сейчас. Обновлять не обещаю
 
-<https://tlgur.com/d/g2XkXzM8>
+
 
 ## Файлы
 - ES Проводник 3.2.5
-- Total Commander. [v3.23](https://tlgur.com/d/GW1rxPb4)
-- USB stick plugin 1.3.6 от OperaFan.  
-[скачать](https://tlgur.com/d/GVqJmM68), [телега](https://t.me/FeelSoftAn/164)
+- Total Commander. 
+  [v3.23](https://tlgur.com/d/GW1rxPb4), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
+  [обновить](https://www.ghisler.com/android.htm#download), 
+  [https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander](play)
+- TotalCmd-WiFi-обмен
+- TotalCmd USB stick plugin by OperaFan. 
+  [v1.3.6](https://tlgur.com/d/GVqJmM68), 
+  [4pda](#), 
+  [телега](https://t.me/FeelSoftAn/164)
 - Sync
 - RAR
 
 ## Интернет 
+- Bromite
 - Opera браузер
-- Opera mini 7 - старая версия
+- Opera Mini 7 - старая версия
 - OpenVPN
 - Unified Remote
 - Remote Ripple VNC
 - AnyDesk
 
 ## Музыка
-- AIMP. [v3.10](#), [latest](http://www.aimp.ru/?do=download&os=android)
+- AIMP. 
+  [v3.20](https://tlgur.com/d/gm6VYQN4), 
+  [обновить](http://www.aimp.ru/?do=download&os=android)
 - PlayerPro
 - Яндекс музыка (мод)
 - Spotify
 - Shazam
 
-## Видео и фото
+## Фото и видео
 - QuickPic
 - MX Player
 - NewPipe
 - Youtube Vanced (мод)
 - PowerTube
-- HD VideoBox (прикрыли)
+- HD VideoBox (закрыли) <https://tlgur.com/d/g2XkXzM8>
 - LazyMedia 
 - Кино HD
 - Wink (мод)
@@ -62,43 +72,50 @@ index: 2
 - Flud – торрент клиент
 
 ## Соц. сети
-- Telegram [оф.сайт](#)
+- Telegram. 
+  [v8.3.0](https://tlgur.com/d/GXjVmwl4), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
+  [телега](https://t.me/TAndroidAPK), 
+  [обновить](https://telegram.org/android?setln=ru)
 - Viber
 - Instander
 
-## Маркет (приложений)
-- Aurora Store. 
-[v4.0.7](https://tlgur.com/d/4x5bADY8), [телега](https://t.me/AuroraOfficial)
-- App Backup&Restore 3.11 (старая, мод)
-- App&Game 4PDA. 
-[v5.3.7](https://tlgur.com/d/89BMN9OG),
-[4pda](https://4pda.to/forum/index.php?showtopic=275433)
-
 ## Система
-- LuckyPatcher 
-[v9.7.0](https://tlgur.com/d/g306JW64), [4pda](https://4pda.to/forum/index.php?showtopic=298302)
-- GP Blocker. 
-  [4pda](#), [скачать](#)
+- LuckyPatcher. 
+  [v9.7.0](https://tlgur.com/d/g306JW64), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
+  [обновить](https://www.luckypatchers.com/lucky-patcher-all-versions/)
+- Aurora Store. 
+  [v4.0.7](https://tlgur.com/d/4x5bADY8), 
+  [обновить](https://t.me/AuroraOfficial), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=887569)
+- App&Game 4PDA. 
+  [v5.3.7](https://tlgur.com/d/89BMN9OG),
+  [4pda](https://4pda.to/forum/index.php?showtopic=275433)
+- My android tools. 
+  [v1.6.8](https://tlgur.com/d/GL0ZNxBG)
+  [4pda](https://4pda.to/forum/index.php?showtopic=587771)
+- App Backup&Restore. 
+  [v3.11.old](#)
+- Powerful Control
+- Titanium Backup
 - System App Remover. 
   [телега](https://t.me/FeelSoftAn/170)
 - 4G Switcher
 - TTL Manager
 - CPU Spy
-- Internet speed meter
 - AdAway
 - CPU Spy
 - Darker Pro
 - Google Play Blocker
 - TTL Master
-- Powerful Control
-- Titanium Backup
-- My android tools
+
 
 ## Офис
+- ReadEra
 - GitJournal
 - Acode
 - Microsoft Office
-- ReadEra
 - Aqua Mail
 - StyleNote заметки
 - EBookDroid
@@ -109,6 +126,8 @@ index: 2
 
 
 ## Сеть
+- Internet Speed Meter. 
+  [v1.5.9_An8+](https://tlgur.com/d/G7BY5Nd8), [4pda](#)
 - PingTools
 - Network scanner
 - Network Utilities
@@ -126,7 +145,6 @@ index: 2
 - Launcher 3
 - Copy
 - Клавиатура Google
-- Internet Speed Meter. [v1.5.9android6](https://tlgur.com/d/G7BY5Nd8), 
 - Виджет громкости
 - Сканер штрих-кодов
 - Launcher<3
@@ -137,7 +155,6 @@ index: 2
 - kWS
 - primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - IP Webcam
-- TotalCmd-WiFi-обмен
 
 ## Игры
 - Shake me - #batman
