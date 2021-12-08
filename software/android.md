@@ -16,18 +16,18 @@ index: 2
 
 
 ## Файлы
-- ES Проводник 3.2.5
 - Total Commander. 
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
   [сайт](https://www.ghisler.com/android.htm#download), 
   [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
 - TotalCmd-WiFi-обмен
+- ES Проводник 3.2.5
+<details markdown="1">
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
   [4pda](#), 
   [телега](https://t.me/FeelSoftAn/164)
-<details markdown="1">
 - Sync
 - RAR
 </details>
@@ -36,9 +36,9 @@ index: 2
 - AIMP. 
   [v3.20](https://tlgur.com/d/gm6VYQN4), 
   [сайт](http://www.aimp.ru/?do=download&os=android)
+- Яндекс музыка (мод)
 <details markdown="1">
 - PlayerPro
-- Яндекс музыка (мод)
 - Spotify
 - Shazam
 </details>
@@ -46,7 +46,10 @@ index: 2
 ## Фото и видео
 - QuickPic
 - MX Player
-- NewPipe  
+- NewPipe. 
+  [v](#), 
+  [4pda](#), 
+  [сайт](#), 
 <details markdown="1">
 - Youtube Vanced (мод)
 - PowerTube
@@ -62,12 +65,6 @@ index: 2
 - Hi-Q MP3 Recorder – диктофон
 - XRecorder  – запись экрана
 
-## Загрузки
-- LoaderDroid
-- Advanced Download Manager
-- Flow – для rutracker.org
-- Flud – торрент клиент
-
 ## Интернет 
 - Telegram. 
   [v8.3.0](https://tlgur.com/d/GXjVmwl4), 
@@ -81,6 +78,10 @@ index: 2
 - Viber
 - Instander
 - Opera браузер
+- LoaderDroid
+- Advanced Download Manager
+- Flow – для rutracker.org
+- Flud – торрент клиент
 - OpenVPN
 - Unified Remote
 - Remote Ripple VNC
@@ -126,7 +127,9 @@ index: 2
 - ReadEra
 - GitJournal
 - Acode
+- Калькулятор++
 <details markdown="1">
+- Простой календарь
 - Microsoft Office
 - Aqua Mail
 - StyleNote заметки
@@ -142,8 +145,13 @@ index: 2
   [v1.5.9.And8+](https://tlgur.com/d/G7BY5Nd8), 
   [4pda](https://4pda.to/forum/index.php?showtopic=453821)
 - PingTools
+<details markdown="1">
 - Network scanner
 - Network Utilities
+- kWS
+- primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
+- IP Webcam
+</details>
 
 ## Карты
 - Яндекс карты
@@ -152,22 +160,13 @@ index: 2
 - blablacar
 
 ## Прочее
-- Калькулятор++
-- Простой календарь
 - Microsoft Launcher
-- Launcher 3
+- Launcher<3
 - Copy
 - Клавиатура Google
 - Виджет громкости
 - Сканер штрих-кодов
-- Launcher<3
-- Microsoft Launcher
 - Mi Band Master 
-
-## Server
-- kWS
-- primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
-- IP Webcam
 
 ## Игры
 - Shake me - #batman
