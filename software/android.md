@@ -47,9 +47,11 @@ index: 2
 - QuickPic
 - MX Player
 - NewPipe. 
-  [v](#), 
+  [v0.21.13](https://tlgur.com/d/81vyjo6G), 
+  [v0.20.8 (4.1+)](https://tlgur.com/d/GL0ZDJ6G), 
   [4pda](#), 
-  [сайт](#), 
+  [github](https://github.com/TeamNewPipe/NewPipe/releases), 
+  [сайт](https://newpipe.net/#download), 
 <details markdown="1">
 - Youtube Vanced (мод)
 - PowerTube
@@ -146,7 +148,7 @@ index: 2
 
 ## Сеть
 - Internet Speed Meter. 
-  [v1.5.9(an8)](https://tlgur.com/d/G7BY5Nd8), 
+  [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [4pda](https://4pda.to/forum/index.php?showtopic=453821)
 - PingTools
 <details markdown="1">
