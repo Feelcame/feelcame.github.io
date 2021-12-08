@@ -20,8 +20,8 @@ index: 2
 - Total Commander. 
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
-  [обновить](https://www.ghisler.com/android.htm#download), 
-  [https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander](play)
+  [сайт](https://www.ghisler.com/android.htm#download), 
+  [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
 - TotalCmd-WiFi-обмен
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
@@ -42,7 +42,7 @@ index: 2
 ## Музыка
 - AIMP. 
   [v3.20](https://tlgur.com/d/gm6VYQN4), 
-  [обновить](http://www.aimp.ru/?do=download&os=android)
+  [сайт](http://www.aimp.ru/?do=download&os=android)
 - PlayerPro
 - Яндекс музыка (мод)
 - Spotify
@@ -76,7 +76,7 @@ index: 2
   [v8.3.0](https://tlgur.com/d/GXjVmwl4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [телега](https://t.me/TAndroidAPK), 
-  [обновить](https://telegram.org/android?setln=ru)
+  [сайт](https://telegram.org/android?setln=ru)
 - Viber
 - Instander
 
@@ -84,16 +84,17 @@ index: 2
 - LuckyPatcher. 
   [v9.7.0](https://tlgur.com/d/g306JW64), 
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
-  [обновить](https://www.luckypatchers.com/lucky-patcher-all-versions/)
+  [сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/)
 - Aurora Store. 
   [v4.0.7](https://tlgur.com/d/4x5bADY8), 
-  [обновить](https://t.me/AuroraOfficial), 
-  [4pda](https://4pda.to/forum/index.php?showtopic=887569)
+  [телега](https://t.me/AuroraOfficial), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
+  [сайт](https://auroraoss.com/download/#aurora-store)
 - App&Game 4PDA. 
   [v5.3.7](https://tlgur.com/d/89BMN9OG),
   [4pda](https://4pda.to/forum/index.php?showtopic=275433)
 - My android tools. 
-  [v1.6.8](https://tlgur.com/d/GL0ZNxBG)
+  [v1.6.8](https://tlgur.com/d/GL0ZNxBG), 
   [4pda](https://4pda.to/forum/index.php?showtopic=587771)
 - App Backup&Restore. 
   [v3.11.old](#)
@@ -127,7 +128,8 @@ index: 2
 
 ## Сеть
 - Internet Speed Meter. 
-  [v1.5.9_An8+](https://tlgur.com/d/G7BY5Nd8), [4pda](#)
+  [v1.5.9.And8+](https://tlgur.com/d/G7BY5Nd8), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=453821)
 - PingTools
 - Network scanner
 - Network Utilities
