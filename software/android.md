@@ -29,24 +29,18 @@ index: 2
   [телега](https://t.me/FeelSoftAn/164)
 - Sync
 - RAR
-
-## Интернет 
-- Bromite
-- Opera браузер
-- Opera Mini 7 - старая версия
-- OpenVPN
-- Unified Remote
-- Remote Ripple VNC
-- AnyDesk
+<details markdown="1"></details>
 
 ## Музыка
 - AIMP. 
   [v3.20](https://tlgur.com/d/gm6VYQN4), 
   [сайт](http://www.aimp.ru/?do=download&os=android)
+<details markdown="1">
 - PlayerPro
 - Яндекс музыка (мод)
 - Spotify
 - Shazam
+</details>
 
 ## Фото и видео
 - QuickPic
@@ -58,12 +52,13 @@ index: 2
 - LazyMedia 
 - Кино HD
 - Wink (мод)
+<details markdown="1"></details>
 
 ## Медиа редакторы
 - PicSay – фоторедактор  
   [скачать](#), [шрифты](#), [4pda](#)
-- XRecorder  – запись экрана
 - Hi-Q MP3 Recorder – диктофон
+- XRecorder  – запись экрана
 
 ## Загрузки
 - LoaderDroid
@@ -71,14 +66,25 @@ index: 2
 - Flow – для rutracker.org
 - Flud – торрент клиент
 
-## Соц. сети
+## Интернет 
 - Telegram. 
   [v8.3.0](https://tlgur.com/d/GXjVmwl4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [телега](https://t.me/TAndroidAPK), 
   [сайт](https://telegram.org/android?setln=ru)
+- Bromite
+- Opera Mini 7 - старая версия
+- AnyDesk  
+<details markdown="1">
 - Viber
 - Instander
+- Opera браузер
+- OpenVPN
+- Unified Remote
+- Remote Ripple VNC
+</details>
+
+
 
 ## Система
 - LuckyPatcher. 
@@ -98,6 +104,7 @@ index: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=587771)
 - App Backup&Restore. 
   [v3.11.old](#)
+  <details markdown="1">
 - Powerful Control
 - Titanium Backup
 - System App Remover. 
@@ -110,20 +117,22 @@ index: 2
 - Darker Pro
 - Google Play Blocker
 - TTL Master
+</details>
 
 
 ## Офис
 - ReadEra
 - GitJournal
 - Acode
+<details markdown="1">
 - Microsoft Office
 - Aqua Mail
 - StyleNote заметки
 - EBookDroid
 - ElectroDroid
-- Acode
 - Переводчик
 - Секундомер
+</details>
 
 
 ## Сеть
@@ -160,6 +169,10 @@ index: 2
 
 ## Игры
 - Shake me - #batman
+
+## Программы для компа
+- ADB-RUN
+- ADB AppControl
 
 ## Полезные ссылки
 - источник. Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
