@@ -43,7 +43,7 @@ index: 2
 - Shazam
 </details>
 
-## Фото и видео
+## Медиа
 - QuickPic
 - MX Player
 - NewPipe. 
@@ -52,6 +52,10 @@ index: 2
   [4pda](#), 
   [github](https://github.com/TeamNewPipe/NewPipe/releases), 
   [сайт](https://newpipe.net/#download), 
+- PicSay Pro – фоторедактор. 
+  [v1.8.0.5](https://tlgur.com/d/GdX03zrG), [шрифты](#), [4pda](https://4pda.to/forum/index.php?showtopic=131210)
+- Hi-Q MP3 Recorder – диктофон
+- XRecorder  – запись экрана
 <details markdown="1">
 - Youtube Vanced (мод)
 - PowerTube
@@ -60,12 +64,6 @@ index: 2
 - Кино HD
 - Wink (мод)
 </details>
-
-## Медиа редакторы
-- PicSay Pro – фоторедактор. 
-  [v1.8.0.5](https://tlgur.com/d/GdX03zrG), [шрифты](#), [4pda](https://4pda.to/forum/index.php?showtopic=131210)
-- Hi-Q MP3 Recorder – диктофон
-- XRecorder  – запись экрана
 
 ## Интернет 
 - Telegram. 
@@ -88,7 +86,6 @@ index: 2
 - Unified Remote
 - Remote Ripple VNC
 </details>
-
 
 
 ## Система
@@ -149,8 +146,11 @@ index: 2
 ## Сеть
 - Internet Speed Meter. 
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
-  [4pda](https://4pda.to/forum/index.php?showtopic=453821)
-- PingTools
+  [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
+  [play](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite)
+- PingTools. 
+  [play](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools)
 <details markdown="1">
 - Network scanner
 - Network Utilities
