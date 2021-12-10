@@ -88,6 +88,23 @@ index: 2
 </details>
 
 
+## Офис
+- ReadEra
+- Калькулятор++
+<details markdown="1">
+- Acode
+- GitJournal
+- Простой календарь
+- Microsoft Office
+- Aqua Mail
+- StyleNote заметки
+- EBookDroid
+- ElectroDroid
+- Переводчик
+- Секундомер
+</details>
+
+
 ## Система
 - LuckyPatcher. 
   [v9.7.0](https://tlgur.com/d/g306JW64), 
@@ -107,6 +124,7 @@ index: 2
 - App Backup&Restore. 
   [v3.11.old](#)
 <details markdown="1">
+- Copy
 - Powerful Control
 - Titanium Backup
 - System App Remover. 
@@ -121,25 +139,7 @@ index: 2
 - TTL Master
 - Microsoft Launcher
 - Launcher<3
-- Copy
 - Клавиатура Google
-</details>
-
-
-## Офис
-- ReadEra
-- GitJournal
-- Acode
-- Калькулятор++
-<details markdown="1">
-- Простой календарь
-- Microsoft Office
-- Aqua Mail
-- StyleNote заметки
-- EBookDroid
-- ElectroDroid
-- Переводчик
-- Секундомер
 </details>
 
 
@@ -161,17 +161,20 @@ index: 2
 
 ## Карты
 - Яндекс карты
+<details markdown="1">
 - 2gis
 - on taxi
 - blablacar
+</details>
 
 ## Прочее
-- Виджет громкости
 - Сканер штрих-кодов
+- Shake me - игра про пьяненького бетмена
+<details markdown="1">
+- Виджет громкости
 - Mi Band Master 
-
-## Игры
 - Shake me - #batman
+</details>
 
 ## Программы для компа
 - ADB-RUN
