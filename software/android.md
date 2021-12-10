@@ -56,8 +56,8 @@ index: 2
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), [шрифты](#), [4pda](https://4pda.to/forum/index.php?showtopic=131210)
 - Hi-Q MP3 Recorder – диктофон
 - XRecorder  – запись экрана. 
-  [v2.1.2.1 (5+)](#), 
-  [4pda](#), 
+  [v2.1.2.1 (5+)](https://tlgur.com/d/GaxZEpE8), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
   [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder)
 <details markdown="1">
 - Youtube Vanced (мод)
@@ -92,7 +92,8 @@ index: 2
 
 
 ## Офис
-- ReadEra
+- ReadEra. 
+  [play](#)
 - Калькулятор++
 <details markdown="1">
 - Acode
