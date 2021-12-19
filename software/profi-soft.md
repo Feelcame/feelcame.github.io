@@ -40,3 +40,13 @@ modified: 2021-08-23T13:58:34+03:00
 - Proxmox Virtual Environment (Proxmox VE) — система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux.
 
 
+## Программы для просмотра scattering parameters
+
+Нашел всего несколько на просторах интернета. Делюсь:
+* [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
+* [SnP View](#)
+* https://www.dataweek.co.za/63748n
+* http://www.hp.woodshot.com/
+* https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s
+* https://snpview.com/
+* 
