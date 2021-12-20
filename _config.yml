@@ -5,7 +5,7 @@ comments: true
 show_downloads: true
 google_analytics: false
 theme: jekyll-theme-cayman
-copyright: © 2018+
+copyright: © 20<span style="background:green;">18+</span>
 markdown: kramdown
 highlighter: rouge
 #markdown: GFM
