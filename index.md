@@ -56,6 +56,6 @@ layout: home
 - [Черновички](./blog.html)
 - [**Мои проекты**](./projects/)
 - [**Контакты**](./about.html)
-- [магазин](./shop/index.md)
+- [стор](./shop/index.md)
 
 </div>
