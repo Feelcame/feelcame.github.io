@@ -16,14 +16,13 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
   | sort: "index"
 %}
 
+<div class="grid">
 <ul>
 {% for cat in categories %}
-<li>
-  <a href="{{ cat.url }}">{{ cat.title | default: cat.dir | remove: page.dir }}</a><!-- {{ cat.index }} -->
-</li>
+<li><a href="{{ cat.url }}">{{ cat.title | default: cat.dir | remove: page.dir }}</a><!--{{ cat.index }}--></li>
 {% endfor %}
 </ul>
-
+</div>
 {% comment %}
 {% endcomment %}
 
