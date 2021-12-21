@@ -148,6 +148,20 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% endfor %}
 </ul>
 
+## Список рекомендуемых товаров 2
+<ul>
+{% for product in site.data.products %}
+<li>
+  <b>{{ product.name }}</b><br> 
+  Цена: $<b>{{ product.price }}</b>.  
+  <a href="{{ product.photos | split: ">" | first }}">фото</a>, 
+  <a href="#{{ product.description }}">описание</a>, 
+  <a href="#{{ product.stock }}">наличие</a>.<br>
+  <a href="#">Купить</a>
+</li>
+{% endfor %}
+</ul>
+
 {% comment %}
 ## Example
 <ul>
