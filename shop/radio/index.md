@@ -8,28 +8,29 @@ index: 0
 
 
 ## Антенны 
-{: #antennas}
+{: #antennas }
 - Антенна WiFi 2.4ГГц
 - Антенна WiFi 2.4ГГц направленная
 - Антенна LTE направленная
 - antennas
 
 ## Усилители
+{: #amplifiers }
 - широкополосный усилитель LNA
-- amplifiers
-{: #amplifiers}
+
 
 ## Повторители
+{: #repeaters }
 - Репитер UMTS Lintratek
 
 
 ## Анализаторы
+{: #analyzers}
 - Универсальный радиоприемник SDR
 - Векторный анализатор NanoVNA
 - Анализатор спектра SignalHound
-- analyzers
 
 
 ## Радиомодули
+{: #radiomodules }
 - Модуль на CC1101
-- radiomodules
