@@ -152,10 +152,10 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% for product in site.data.products %}
 <li>
   <b>{{ product.name }}</b><br> 
-  Цена: <b>${{ product.price }}</b>.  
+  <b>${{ product.price }}</b>.  
+  в наличии: <a href="#">{{ product.stock }}</a>.
   <a href="{{ product.photos | split: ">" | first }}">фото</a>, 
-  <a href="#{{ product.description }}">описание</a>, 
-  <a href="#{{ product.stock }}">наличие</a>.<br>
+  <a href="#{{ product.description }}">описание</a>.<br>
   <a href="#">Купить</a>
 </li>
 {% endfor %}
