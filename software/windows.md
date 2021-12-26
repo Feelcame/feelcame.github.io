@@ -44,7 +44,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 + **Mozilla Firefox**<br>Браузер для людей<br>
   [скачать](#)
 + **Telegram**<br>удобный мессенджер<br>
-  [сайт](#), [Kotatogram](#)
+  [сайт](https://desktop.telegram.org/), [Kotatogram](https://kotatogram.github.io/ru/download/#beta)
 + **Networx**<br>мониторинг скорости сети<br>
   [скачать v5.5](#) -
   [обновить](#)
