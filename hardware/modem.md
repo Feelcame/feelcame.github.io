@@ -37,6 +37,7 @@ pin: 5
 - **Архивные модели:** E392(старый)
 - **Модемы для сетей 3G:** Huawei **E3531**, E3533, E3131 - эти по 300грн, ZTE MF667, Evdo-Link EL3277 
 
+<details markdown="1"><summary markdown="0">+ Роутеры, направленные антенны и др.</summary>
 ## Wi-Fi роутер с USB для модема
 - TP-Link TL MR3020 (v3.20). 400грн. Маленький
 - Netis MW5230. 400грн. Три антенны, мощный передатчик
@@ -89,6 +90,7 @@ pin: 5
   [UFI_UF230_XXX (13)](https://aliexpress.ru/item/1005002124424135.html), 
   [UFI_UF230_XXX ($12)](https://aliexpress.ru/item/4000208102252.html)
     
+</details>
 
 
 
