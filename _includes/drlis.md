@@ -54,7 +54,7 @@
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 
 {%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
-{%- assign modul = forloop.index0 | modulo: 5 -%}
+{%- assign modul = forloop.index | modulo: 5 -%}
 {%- if modul == 0 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
