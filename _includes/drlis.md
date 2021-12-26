@@ -44,8 +44,18 @@
 -%} 
 
 
-
+{%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
+<ul>
+{%- for pg in pinned_pages -%}
+<li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
+<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+
+{% endfor -%}
+</ul>
+
+
 <!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->
 <ol reversed id="navigation">
 {%- for pg in output_pages -%}
@@ -66,6 +76,8 @@
 </ul>
 {%- endcapture -%}
 
+
+{%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
 {%- if spoiler != "" -%}
 <details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
 {{ result }}
