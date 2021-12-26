@@ -1,12 +1,45 @@
-{%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"{%- endcomment -%}
+{%- comment -%}  
+Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag".  
+Сортирует все найденные страницы по дате (сначала новые). Если у страницы нет даты - она выводится внизу.  
+Закрепленные страницы выводит вверху со специальной пометкой.  
+{%- endcomment -%}  
 
 {%- assign directory = include.dir | default: page.dir -%}  
-
-{%- assign sorted_pages = site.pages | sort: "path" | where: "dir",  directory | sort: "date" | sort: "index" | reverse -%}  
-{%- assign not_pinned_pages = sorted_pages | where_exp: "item", "item.index == nil" -%}  
-{%- assign finish_pages = sorted_pages | where_exp: "item", "item.index > 0" | reverse | concat: not_pinned_pages -%}  
-
 {%- assign rec_tag = include.tag | default: "" -%}  
+
+{%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}
+{%- 
+  assign all_pages = site.pages 
+  | sort: "path" 
+  | where: "dir",  directory 
+  | sort: "date" 
+  | reverse 
+-%}  
+
+{%- {%- comment -%}ЗАКРЕПЛЕННЫЕ{%- endcomment -%}
+  assign pinned_pages = all_pages 
+  | where_exp: "item", "item.index != nil" 
+  | where_exp: "item", "item.index > 0" 
+  | sort: "index" 
+-%}  
+
+{%- {%- comment -%}ТОЛЬКО БЕЗ ДАТЫ{%- endcomment -%}
+  assign wo_date_pages = all_pages 
+  | where_exp: "item", "item.date == nil" 
+-%}  
+
+{%- {%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}
+  assign output_pages = all_pages 
+  | where_exp: "item", "item.date != nil" 
+-%} 
+
+{%- comment -%}ЛЕГАСИ{%- endcomment -%}
+{%- assign sorted_pages = all_pages -%}  
+{%- assign not_pinned_pages = sorted_pages | where_exp: "item", "item.index == nil" -%}  
+{%- assign finish_pages = output_pages -%}  
+
+
+
 {%- if rec_tag != "" %}  
 {%- assign finish_pages = finish_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
 {%- endif %}  
@@ -31,5 +64,4 @@
 {%- else -%}
 {{ result }}
 {%- endif -%}
-{%- comment -%}
-{%- endcomment -%}
+{%- comment -%}{%- endcomment -%}
