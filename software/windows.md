@@ -81,9 +81,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать](#) - 
   [обновить](https://notepad-plus-plus.org/downloads/)
 - **Microsoft Office Word, Excell и тд.**  
-  [2007 в tg](#) -
-  [2010 в tg](#) -
-  [365 web](#)
+  [v2007](#) -
+  [v2010](#) -
+  [v365](#)
 
 
 ## Файлы
