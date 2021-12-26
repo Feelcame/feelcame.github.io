@@ -55,7 +55,7 @@
 
 {%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
 {%- assign modul = forloop.index0 | modulo: 5 -%}
-{%- if modul == 4 -%}<br>{%- endif %}
+{%- if modul == 0 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
 
