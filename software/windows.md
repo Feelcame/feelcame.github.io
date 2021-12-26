@@ -43,8 +43,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать MSI с оф.сайта](#)
 + **Mozilla Firefox**<br>Браузер для людей<br>
   [скачать](#)
-+ **Telegram**<br>Самый удобный мессенджер<br>
-  [обновить](#)
++ **Telegram**<br>удобный мессенджер<br>
+  [сайт](#), [Kotatogram](#)
 + **Networx**<br>мониторинг скорости сети<br>
   [скачать v5.5](#) -
   [обновить](#)
