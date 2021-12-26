@@ -7,7 +7,7 @@
 {%- assign directory = include.dir | default: page.dir -%}  
 {%- assign rec_tag = include.tag | default: "" -%}  
 
-{%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}
+{%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
 {%- 
   assign all_pages = site.pages 
   | sort: "path" 
@@ -16,32 +16,32 @@
   | reverse 
 -%}  
 
-{%- {%- comment -%}ЗАКРЕПЛЕННЫЕ{%- endcomment -%}
+{%- {%- comment -%}ЗАКРЕПЛЕННЫЕ{%- endcomment -%}  
   assign pinned_pages = all_pages 
   | where_exp: "item", "item.index != nil" 
   | where_exp: "item", "item.index > 0" 
   | sort: "index" 
 -%}  
 
-{%- {%- comment -%}ТОЛЬКО БЕЗ ДАТЫ{%- endcomment -%}
+{%- {%- comment -%}ТОЛЬКО БЕЗ ДАТЫ{%- endcomment -%}  
   assign wo_date_pages = all_pages 
   | where_exp: "item", "item.date == nil" 
 -%}  
 
-{%- {%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}
+{%- {%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}  
   assign output_pages = all_pages 
   | where_exp: "item", "item.date != nil" 
 -%} 
 
-{%- comment -%}ЛЕГАСИ{%- endcomment -%}
+{%- comment -%}ЛЕГАСИ{%- endcomment -%}  
 {%- assign sorted_pages = all_pages -%}  
 {%- assign not_pinned_pages = sorted_pages | where_exp: "item", "item.index == nil" -%}  
 {%- assign finish_pages = output_pages -%}  
 
 
-
+{%- comment -%}ОБРАБОТКА ТЕГОВ{%- endcomment -%}  
 {%- if rec_tag != "" %}  
-{%- assign finish_pages = finish_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
+{%- assign finish_pages = output_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
 {%- endif %}  
 
 {%- capture result -%}
