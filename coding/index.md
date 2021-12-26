@@ -6,9 +6,7 @@ tags: coding программирование
 index: 0
 ---
 
-<details markdown="1" open><summary markdown="0">+ Все статьи</summary>
-{% include drlis.md %}
-</details>
+{% include drlis.md spoiler="Все статьи" %}
 
 <details markdown="1"><summary markdown="0">+ Мои проекты</summary>
 {% include drlis.md tag="project" %}
