@@ -8,7 +8,9 @@
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- assign spoiler = include.spoiler | default: "" -%}
 
-{%- {%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
+
+{%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
+{%- 
   assign all_pages = site.pages 
   | sort: "path" 
   | where: "dir",  directory 
@@ -16,19 +18,22 @@
   | reverse 
 -%}  
 
-{%- {%- comment -%}ЗАКРЕП{%- endcomment -%}  
+{%- comment -%}ЗАКРЕП{%- endcomment -%} 
+{%-  
   assign pinned_pages = all_pages 
   | where_exp: "item", "item.index != nil" 
   | where_exp: "item", "item.index > 0" 
   | sort: "index" 
 -%}  
 
-{%- {%- comment -%}БЕЗ ДАТЫ{%- endcomment -%}  
+{%- comment -%}БЕЗ ДАТЫ{%- endcomment -%}  
+{%- 
   assign wo_date_pages = all_pages 
   | where_exp: "item", "item.date == nil" 
 -%}  
 
-{%- {%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}  
+{%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}  
+{%- 
   assign output_pages = all_pages 
   | where_exp: "item", "item.date != nil" 
 -%} 
