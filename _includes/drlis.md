@@ -53,11 +53,11 @@
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 {%- assign modul = pg.index0 | modulo: 5 -%}
-{%- if modul == 0 -%}<br>{%- endif %}
+{%- if modul == 4 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
 
-{%- comment -%}СТРАНИЦЫ БЕЗ ДАТЫ{%- endcomment -%}  
+{%- comment -%}СПИСОК СТРАНИЦ БЕЗ ДАТЫ{%- endcomment -%}  
 <ul>
 {%- for pg in wo_date_pages -%}
 <li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
