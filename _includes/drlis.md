@@ -55,7 +55,7 @@
 
 {%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
 {%- assign ostatok = forloop.length | modulo: 5 -%}
-{%- assign modul = forloop.index | plus: ostatok | modulo: 5 -%}
+{%- assign modul = forloop.index | plus: 5 | minus: ostatok | modulo: 5 -%}
 {%- if modul == 0 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
