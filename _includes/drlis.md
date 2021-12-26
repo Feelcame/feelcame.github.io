@@ -26,9 +26,9 @@
 {%- comment -%}ЗАКРЕП{%- endcomment -%}  
 {%- 
   assign pinned_pages = all_pages 
-  | where_exp: "item", "item.index != nil" 
-  | where_exp: "item", "item.index > 0" 
-  | sort: "index" 
+  | where_exp: "item", "item.pin != nil" 
+  | where_exp: "item", "item.pin > 0" 
+  | sort: "pin" 
 -%}  
 
 {%- comment -%}БЕЗ ДАТЫ{%- endcomment -%}  
@@ -49,7 +49,7 @@
 <!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->
 <ol reversed id="navigation">
 {%- for pg in output_pages -%}
-<li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
+<li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 
@@ -62,7 +62,7 @@
 {%- comment -%}СПИСОК СТРАНИЦ БЕЗ ДАТЫ{%- endcomment -%}  
 <ul>
 {%- for pg in wo_date_pages -%}
-<li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
+<li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
 
