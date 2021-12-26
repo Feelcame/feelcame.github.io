@@ -52,7 +52,7 @@
 <li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{%- assign modul = 3 | modulo: 5 -%}
+{%- assign modul = pg.index0 | modulo: 5 -%}
 {%- if modul == 0 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
@@ -72,7 +72,7 @@
 {%- comment -%}ФОРМИРУЕМ ЗАКРЕП{%- endcomment -%}  
 {%- capture pins -%}
 <ul>
-{%- for pg.index0 in pinned_pages -%}
+{%- for pg.index in pinned_pages -%}
 <li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
