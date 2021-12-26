@@ -52,7 +52,9 @@
 <li>{%- if pg.index > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
-{%- assign modul = pg.index0 | modulo: 5 -%}
+
+{%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
+{%- assign modul = forloop.index0 | modulo: 5 -%}
 {%- if modul == 4 -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
