@@ -35,6 +35,7 @@
 {%- 
   assign wo_date_pages = all_pages 
   | where_exp: "item", "item.date == nil" 
+  | reverse
 -%}  
 
 {%- comment -%}ТОЛЬКО С ДАТОЙ{%- endcomment -%}  
