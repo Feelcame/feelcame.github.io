@@ -3,7 +3,7 @@ title: Разработка програм
 date: 2020-06-29T22:23:22+03:00
 modified: 2021-08-25T11:36:08+03:00
 tags: coding программирование
-index: 0
+pin: 0
 ---
 
 {% include drlis.md spoiler="Все статьи" %}
