@@ -12,8 +12,8 @@
 {%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
 {%- 
   assign all_pages = site.pages 
-  | sort: "path" 
   | where: "dir",  directory 
+  | where_exp: "item", "item.pin != 0"
   | sort: "date" 
   | reverse 
 -%}  
