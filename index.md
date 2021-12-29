@@ -38,12 +38,9 @@ layout: home
 	}
 </style>
 
----
-
 <div class="grid" markdown="1">
-На правах рекламы:
 
-- [**@Feelsoft**](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
+- [**Мои проекты**](./projects/)
 - [**@Filmbusta**](https://t.me/FilmsRM) - канал про кино. Новый фильм каждую субботу
 
 ---
@@ -54,8 +51,8 @@ layout: home
 - [Софтец](./software/)
 - [Кодинг](./coding/)
 - [Черновички](./blog.html)
-- [**Мои проекты**](./projects/)
 - [**Контакты**](./about.html)
 - [стор](./shop/index.md)
+- [**@Feelsoft**](https://t.me/feelsoft) - телеграм канал с авторскими подборками программ
 
 </div>
