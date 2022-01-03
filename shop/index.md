@@ -154,7 +154,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
   <b>{{ product.name }}</b><br> 
   в наличии: <a href="#">{{ product.stock }}</a>.
   <a href="{{ product.photos | split: ">" | first }}">фото</a>, 
-  <a href="#{{ product.description }}">описание</a>.<br>
+  <a href="#" title"#{{ product.description }}">описание</a>.<br>
   <b>${{ product.price }}</b>.  
   <a href="#">Купить</a>
 </li>
