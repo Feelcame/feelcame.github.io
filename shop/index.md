@@ -31,11 +31,11 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <li>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-<a href="{{ product.photos | split: ";" | first }}">открыть фото</a>, 
-<a href="#" title="{{ product.description }}">показать описание</a>.<br>
+<a href="{{ product.photos | split: ";" | first }}">открыть фото</a><br>  
+{{ product.description }}...<a href="#" title="{{ product.description }}">подробнее</a>.<br>
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
-<input type="number" value="1" min="1" max="5" size="1">
+<input type="number" value="1" min="1" max="5" size="4">
 <input type="submit" value="Купить" onclick="alert('Добавлено в корзину');return false;">
 </form>
 </li><br>
