@@ -1,7 +1,7 @@
 ---
 date: 2021-10-15T00:00:00+02:00
 modified: 2021-11-03T00:00:00+02:00
-title: Где купить компоненты
+title: Где купить компоненты? + доставка
 ---
 
 ## Магазины в украине
@@ -58,3 +58,10 @@ title: Где купить компоненты
 ## в рашке
 - <https://www.youtube.com/watch?v=b1eec7TfTwI>
 - <https://www.youtube.com/watch?v=S3o2RDq4r50>
+
+
+## Доставка онлайн-покупок из-за границы
+
+- <https://npshopping.com/ru/>
+- <https://ua.meest.com/ru>
+- DHL. Дорого
