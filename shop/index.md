@@ -32,7 +32,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
 <a href="{{ product.photos | split: ";" | first }}">открыть фото</a><br>  
-{{ product.description }}...<a href="#" title="{{ product.description }}">подробнее</a>.<br>
+Описание: {{ product.description }}<br>
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
 <input type="number" value="1" min="1" max="5" size="4">
