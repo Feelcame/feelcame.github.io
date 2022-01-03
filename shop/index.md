@@ -30,15 +30,15 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% for product in site.data.products %}
 <li>
 <b>{{ product.name }}</b><br> 
-Цена: <b>${{ product.price }}</b>.  
-<a href="{{ product.photos | split: ";" | first }}">открыть фото</a>, 
+Цена: <b>${{ product.price }}</b>.<br>  
+<a href="{{ product.photos | split: ">" | first }}">открыть фото</a>, 
 <a href="#" title="{{ product.description }}">показать описание</a>.<br>
 <form name="item-id" method="get" action="#add-to-cart">
-<label class="" for="">  в наличии {{ product.stock }}</label><br>
-<input type="number" value="1" min="1" max="9" size="1" autocomplete="off">
+<label class="" for="">в наличии: {{ product.stock }}</label><br>
+<input type="number" value="1" min="1" max="5" size="1">
 <input type="submit" value="Купить" onclick="alert('Добавлено в корзину');return false;">
 </form>
-</li>
+</li><br>
 {% endfor %}
 </ul>
 
