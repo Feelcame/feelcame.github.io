@@ -31,10 +31,10 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <li>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-<a href="{{ product.photos | split: ">" | first }}">открыть фото</a>, 
+<a href="{{ product.photos | split: ";" | first }}">открыть фото</a>, 
 <a href="#" title="{{ product.description }}">показать описание</a>.<br>
 <form name="item-id" method="get" action="#add-to-cart">
-<label class="" for="">в наличии: {{ product.stock }}</label><br>
+<label class="" for="">в наличии: {{ product.stock }}</label><br>  
 <input type="number" value="1" min="1" max="5" size="1">
 <input type="submit" value="Купить" onclick="alert('Добавлено в корзину');return false;">
 </form>
@@ -46,7 +46,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <ul>
 {% for product in site.data.products %}
 <li>
-  Фото: {{ product.photos | split: ">" | first }}<br>
+  Фото: {{ product.photos | split: ";" | first }}<br>
   Название: <b>{{ product.name }}</b><br>
   Цена: {{ product.price }}. Наличие: {{ product.stock }}<br>
   Описание: {{ product.description }}<br>
