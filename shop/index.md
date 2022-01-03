@@ -156,9 +156,9 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
   в наличии: <a href="#">{{ product.stock }}</a>.
   <a href="{{ product.photos | split: ">" | first }}">фото</a>, 
   <a href="#" title"#{{ product.description }}">описание</a>.<br>
-<form name="item-id" method="get" action="#add-to-cart">
-<input type="number" value="1" min="1" max="9" size="1">
-<input type="submit" value="Купить" onclick="alert('Добавлено в корзину');return false;">
+<form name="item-id" method="get" action="#add-to-cart" autocomplete="off">
+<input type="number" value="1" min="1" max="9" size="1" autocomplete="off">
+<input type="submit" value="Купить" autocomplete="off" onclick="alert('Добавлено в корзину');return false;">
 </form>
 </li>
 {% endfor %}
