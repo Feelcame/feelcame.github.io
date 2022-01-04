@@ -29,10 +29,12 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <ul>
 {% for product in site.data.products %}
 <li>
+{% assign photos = "" %}
+{% if photos != '' %}тут будет фотка<br>{% endif %}  
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-{% if product.photos != "" %}<a href="{{ product.photos | split: ";" | first }}">открыть фото</a><br>{% endif %}  
-Описание: {{ product.description }}<br>
+{% if photos != '' %}Показать фото: <a href="{{ photos }}">[1]</a>, [2], [3]<br>{% endif %}  
+{% if product.description != '' %}{{ product.description }}<br>{% endif %}  
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
 <input type="number" value="1" min="1" max="5" size="4">
