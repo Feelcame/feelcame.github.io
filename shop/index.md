@@ -34,7 +34,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% assign photo = photos | first %}
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-{% if photos %}Показать фото({{ photos.size }}): <a href="{{ product.path }}">[1]</a>, [2], [3]<br>{% endif %}  
+{% if photos %}Показать фото({{ photos.size }}): <a href="{{ photo.path }}">[1]</a>, [2], [3]<br>{% endif %}  
 {% if product.description != '' %}{{ product.description }}<br>{% endif %}  
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
