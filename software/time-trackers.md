@@ -58,3 +58,10 @@ modified: 2021-08-23T14:00:10+03:00
 - alternativeto.net [Self-Hosted CRM Apps ](https://alternativeto.net/category/business-and-commerce/customer-relationship-manager/?platform=self-hosted)
 - [Name](#)
 
+## Списки TODO
+- <https://todoist.com/>
+- Telegram приватный канал
+- [Joplin](https://play.google.com/store/apps/details?id=net.cozic.joplin)
+- [Dynalist](https://play.google.com/store/apps/details?id=io.dynalist)
+- [Git-journal](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
+- [Workflowy - Notes, Lists, Outlines](https://play.google.com/store/apps/details?id=com.workflowy.android)
