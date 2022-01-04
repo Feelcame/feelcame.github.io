@@ -36,7 +36,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% else %}
 {% assign mainphoto = "/shop/img/nophoto.jpg" %}
 {% endif %}
-{{ mainphoto.name }}<br>
+<img src="{{ mainphoto.path }}" alt="фотография"><br>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
 {% if photos.size > 1 %}Фото({{ photos.size }}): 
