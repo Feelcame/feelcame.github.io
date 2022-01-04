@@ -31,10 +31,11 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <li>
 {% assign namemask = "/shop/img/" | append: product.vendorcode %}
 {% assign photos = site.static_files | where_exp: "item", "item.path contains namemask" %}
-{% assign photo = photos | first %}
+{% assign mainphoto = photos | first %}
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-{% if photos %}Показать фото({{ photos.size }}): <a href="{{ photo.path }}">[1]</a>, [2], [3]<br>{% endif %}  
+{% if photos %}Фото({{ photos.size }}): 
+{% for photo in photos %}<a href="{{ photo.path }}" target="_blank">[{{ forloop.index }}]</a> {% endfor %}<br>{% endif %}  
 {% if product.description != '' %}{{ product.description }}<br>{% endif %}  
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
