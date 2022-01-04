@@ -34,7 +34,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% assign mainphoto = photos | first %}
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-{% if photos %}Фото({{ photos.size }}): 
+{% if photos != '' %}Фото({{ photos.size }}): 
 {% for photo in photos %}<a href="{{ photo.path }}" target="_blank">[{{ forloop.index }}]</a> {% endfor %}<br>{% endif %}  
 {% if product.description != '' %}{{ product.description }}<br>{% endif %}  
 <form name="item-id" method="get" action="#add-to-cart">
