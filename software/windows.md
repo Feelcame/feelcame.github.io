@@ -83,6 +83,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Microsoft Office Word, Excell и тд.**  
   [v2007](#) -
   [v2010](#) -
+  [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
   [v365](#)
 
 
