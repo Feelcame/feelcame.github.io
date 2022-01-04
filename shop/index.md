@@ -43,6 +43,12 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% endfor %}
 </ul>
 
+
+
+
+{% comment %}
+
+
 ## Список рекомендуемых товаров 1
 <ul>
 {% for product in site.data.products %}
@@ -57,7 +63,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 </ul>
 
 
-{% comment %}
+
 ## Example
 <ul>
 {% for member in site.data.members %}
