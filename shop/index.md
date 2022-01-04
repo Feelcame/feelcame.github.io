@@ -29,15 +29,13 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <ul>
 {% for product in site.data.products %}
 <li>
-{% assign photos = site.static_files 
-  | where: "path", "path contains '/shop/img/'" 
-  | where_exp: "name", "name contains product.vendorcode" 
-  | first
-%}
-<!-- ({{ photos.size }}) -->
+{% assign namemask = "/shop/img/" | append: product.vendorcode %}
+{% assign photos = site.static_files | where_exp: "path", "path contains namemask" %}
+{% assign photo = photos | first %}
+{{ photo.name }}<br>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
-{% if photos %}Показать фото: <a href="{{ photos }}">[1]</a>, [2], [3]<br>{% endif %}  
+{% if photos %}Показать фото({{ photos.size }}): <a href="#">[1]</a>, [2], [3]<br>{% endif %}  
 {% if product.description != '' %}{{ product.description }}<br>{% endif %}  
 <form name="item-id" method="get" action="#add-to-cart">
 <label class="" for="">в наличии: {{ product.stock }}</label><br>  
