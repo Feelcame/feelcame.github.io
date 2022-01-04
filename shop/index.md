@@ -29,8 +29,14 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 <ul>
 {% for product in site.data.products %}
 <li>
-{% assign photos = "" %}
-{% if photos != '' %}тут будет фотка<br>{% endif %}  
+{% assign photos = site.static_files 
+  | where: "path", "path contains '/shop/img/'" 
+  | where_exp: "name", "name contains product.vendorcode" 
+%}
+{% if photos %}
+{% assign photo = photos | first %}
+<img src="{{ photo.path }}"><br>
+{% endif %}  
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
 {% if photos != '' %}Показать фото: <a href="{{ photos }}">[1]</a>, [2], [3]<br>{% endif %}  
