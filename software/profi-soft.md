@@ -57,9 +57,17 @@ modified: 2021-08-23T13:58:34+03:00
 
 ## веб-сервер
 - nginx
+- openvpn
+- shadowsocks + heroku
+- ngrock и другие хостинги
 
 ## текстовые редакторы
 - emacs
 
 ## файл менеджер
 - midnight commander
+
+
+## FTP-клиенты
+- WinSCP
+- Putty
