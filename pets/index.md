@@ -19,14 +19,13 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
 <b>Идентификатор:</b> {{ pet.number }}<br>
-<b>Хозяин:</b> <!-- ({{pet.owner }}) -->
-{% if pet.owner == false %}
-<div style="background: yellow;">Ищем хозяина!</div> 
-Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>
-{% else %}
+<b>Хозяин:</b> <!-- ({{pet.owner }})<summary markdown="0">+ Подробная информация</summary> -->
+{% if pet.owner != false %}
 Хозяин найден! Благодарим за внимание!
-{% endif %}
-<details markdown="1"><summary markdown="0">+ Подробная информация</summary>
+{% else %}
+<div style="background: yellow;">Ищем хозяина!</div> 
+Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}
+<details markdown="1">
 <b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
 <b>Место вылова:</b> {{ pet.mestovylova }}
