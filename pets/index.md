@@ -25,12 +25,9 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 Хозяин найден! Благодарим за внимание!
 {% else %}
 <div style="background-color: yellow;">Ищем хозяина!</div> 
-Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}
-<details markdown="1">
-<b>Вакцинация:</b> {{ pet.vaccine }}<br> 
+Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}<details markdown="1"><b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
-<b>Место вылова:</b> {{ pet.mestovylova }}
-</details> 
+<b>Место вылова:</b> {{ pet.mestovylova }}</details> 
 <br>
 </li>
 <br>
