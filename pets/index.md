@@ -1,7 +1,8 @@
 ---
 title: Забери питомца из приюта
 style: 'a img.photo { border-color: transparent; border-width: 3px; border-style: solid; }
-a:hover img.photo { border-color: #88CCCC; }'
+a:hover img.photo { border-color: #88CCCC; }
+li.card { border-color: #f9f9f9; border-width: 1px; border-style: solid; background-color: #f9f9f9; }'
 ---
 
 Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
@@ -10,7 +11,7 @@ a:hover img.photo { border-color: #88CCCC; }'
 
 <ul>
 {% for pet in site.data.pets %}
-<li>
+<li class="card">
 {% if pet.photo != "" %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>
 <br>
