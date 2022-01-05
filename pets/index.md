@@ -11,7 +11,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 
 <ul>
 {% for pet in site.data.pets %}
-<li class="card"><br>
+<li class="card"><p>
 {% if pet.photo != "" %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>
 <br>
@@ -31,6 +31,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
 <b>Место вылова:</b> {{ pet.mestovylova }}
 </details> 
+</p>
 </li>
 <br>
 {% endfor %}
