@@ -17,11 +17,11 @@ style:
 <br>
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
-<b>Идентификатор:</b> {{ pet.number }}<br> 
+<b>Идентификатор:</b> {{ pet.number }}
 <details markdown="1"><summary markdown="0">+ Подробная информация</summary>
 <b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
-<b>Место вылова:</b> {{ pet.mestovylova }}<br> 
+<b>Место вылова:</b> {{ pet.mestovylova }}
 </details> 
 <b>Хозяин:</b> 
 {% if pet.owner == "" %}
