@@ -11,7 +11,8 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 
 <ul>
 {% for pet in site.data.pets %}
-<li class="card"><p>
+<li class="card">
+<br>
 {% if pet.photo != "" %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>
 <br>
@@ -23,14 +24,14 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 {% if pet.owner != false %}
 Хозяин найден! Благодарим за внимание!
 {% else %}
-<div style="background: yellow;">Ищем хозяина!</div> 
+<div style="background-color: yellow;">Ищем хозяина!</div> 
 Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}
 <details markdown="1">
 <b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
 <b>Место вылова:</b> {{ pet.mestovylova }}
 </details> 
-</p>
+<br>
 </li>
 <br>
 {% endfor %}
