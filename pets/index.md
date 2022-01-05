@@ -19,8 +19,8 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
 <b>Идентификатор:</b> {{ pet.number }}<br>
-<b>Хозяин:</b> 
-{% if pet.owner == "" %}
+<b>Хозяин:</b> <!-- ({{pet.owner }}) -->
+{% if pet.owner == '' %}
 <div style="background: yellow;">Ищем хозяина!</div> 
 Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>
 {% else %}
