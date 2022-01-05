@@ -18,11 +18,6 @@ style:
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
 <b>Идентификатор:</b> {{ pet.number }}
-<details markdown="1"><summary markdown="0">+ Подробная информация</summary>
-<b>Вакцинация:</b> {{ pet.vaccine }}<br> 
-<b>Стерилизация:</b> {{ pet.sterile }}<br> 
-<b>Место вылова:</b> {{ pet.mestovylova }}
-</details> 
 <b>Хозяин:</b> 
 {% if pet.owner == "" %}
 <div style="background: yellow;">Ищем хозяина!</div> 
@@ -30,6 +25,11 @@ style:
 {% else %}
 Хозяин найден! Благодарим за внимание!
 {% endif %}
+<details markdown="1"><summary markdown="0">+ Подробная информация</summary>
+<b>Вакцинация:</b> {{ pet.vaccine }}<br> 
+<b>Стерилизация:</b> {{ pet.sterile }}<br> 
+<b>Место вылова:</b> {{ pet.mestovylova }}
+</details> 
 </li>
 <br>
 <br>
