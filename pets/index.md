@@ -2,7 +2,7 @@
 title: Забери питомца из приюта
 style: 'a img.photo { border-color: transparent; border-width: 3px; border-style: solid; }
 a:hover img.photo { border-color: #88CCCC; }
-li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; }'
+li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; list-style: none; }'
 ---
 
 Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
@@ -27,7 +27,8 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <div style="background-color: yellow;">Ищем хозяина!</div> 
 Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}<details markdown="1"><b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
-<b>Место вылова:</b> {{ pet.mestovylova }}</details> 
+<b>Место вылова:</b> {{ pet.mestovylova }}
+</details> 
 <br>
 </li>
 <br>
