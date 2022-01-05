@@ -9,10 +9,10 @@ style:
 
 <ul>
 {% for pet in site.data.pets %}
-<li>  
+<li>
 {% if pet.photo != "" %}  
-<img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px"><br>  
-<a href="./img/dog.jpg">*скачать фото*</a>  
+<br>
+<a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px"><br><em>скачать фото</em></a>  
 {% endif %}
 <br>
 <b>Кличка:</b> {{ pet.name }}<br> 
