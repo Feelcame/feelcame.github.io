@@ -14,7 +14,6 @@ a:hover img.photo { border-color: #88CCCC; }'
 {% if pet.photo != "" %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>  
 {% endif %}
-<br>
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
 <b>Идентификатор:</b> {{ pet.number }}
