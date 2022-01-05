@@ -5,7 +5,6 @@ a:hover img.photo { border-color: #88CCCC; }
 li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; list-style: none; }'
 ---
 
-Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
 
 ## Список животин
 
@@ -36,3 +35,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 </ul>
 {% comment %}
 {% endcomment %}
+
+
+Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
+
