@@ -10,7 +10,7 @@ style:
 <ul>
 {% for pet in site.data.pets %}
 <li>
-{% if pet.photo != "" %}
+{% if pet.photo != "" %}  
 <img src="./img/dog.jpg" alt="фото"><br><a href="./img/dog.jpg">скачать фото</a>
 {% endif %}
 <br>
