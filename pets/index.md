@@ -6,6 +6,8 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 ---
 
 
+Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
+
 ## Список животин
 
 <ul>
@@ -37,6 +39,4 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 {% comment %}
 {% endcomment %}
 
-
-Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
 
