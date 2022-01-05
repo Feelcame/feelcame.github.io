@@ -22,9 +22,10 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <b>Хозяин:</b> <!-- ({{pet.owner }})<summary markdown="0">+ Подробная информация</summary> -->
 {% if pet.owner %}
 Хозяин найден! Благодарим за внимание!
-{% else %}
+{% else %}Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html"><strong>Контакты</strong></a>
 <div style="background-color: yellow;">Ищем хозяина!</div> 
-Что бы забрать питомца к себе позвоните нам. <a href="#/contacts.html">Контакты</a>{% endif %}<details markdown="1"><b>Вакцинация:</b> {{ pet.vaccine }}<br> 
+{% endif %}
+<details markdown="1"><b>Вакцинация:</b> {{ pet.vaccine }}<br> 
 <b>Стерилизация:</b> {{ pet.sterile }}<br> 
 <b>Место вылова:</b> {{ pet.mestovylova }}
 </details> 
