@@ -6,7 +6,6 @@ style:
 
 ## Список животин
 
-{% comment %}
 <ul>
 {% for pet in site.data.pets %}
 <li>
@@ -33,4 +32,5 @@ style:
 <br> 
 {% endfor %}
 </ul>
+{% comment %}
 {% endcomment %}
