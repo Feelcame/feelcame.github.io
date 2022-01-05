@@ -11,7 +11,8 @@ style:
 {% for pet in site.data.pets %}
 <li>
 {% if pet.photo != "" %}  
-<img src="./img/dog.jpg" alt="фото"><br><a href="./img/dog.jpg">скачать фото</a>
+<img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px"><br>
+<a href="./img/dog.jpg">*скачать фото*</a>
 {% endif %}
 <br>
 <b>Кличка:</b> {{ pet.name }}<br> 
