@@ -4,7 +4,7 @@ style: 'a img.photo { border-color: transparent; border-width: 3px; border-style
 a:hover img.photo { border-color: #88CCCC; }
 li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; list-style: none; }'
 ---
-
+{% comment %}
 <ul>
 {% for pet in site.data.pets %}
 <li class="card">
@@ -31,5 +31,6 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <br>
 {% endfor %}
 </ul>
+{% endcomment %}
 
 
