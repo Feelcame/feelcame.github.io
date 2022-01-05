@@ -41,7 +41,7 @@ modified: 2021-08-23T13:58:34+03:00
 ## Виртуализация
 - Portainer is a self-service container service delivery platform. It is the definitive container management GUI for Kubernetes, Docker and Swarm.
 - Proxmox Virtual Environment (Proxmox VE) — система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux.
-
+- docker
 
 ## Программы для просмотра scattering parameters
 
@@ -71,3 +71,6 @@ modified: 2021-08-23T13:58:34+03:00
 ## FTP-клиенты
 - WinSCP
 - Putty
+
+## автоматизация
+- <https://corezoid.com/>
