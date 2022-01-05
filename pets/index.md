@@ -12,7 +12,8 @@ a:hover img.photo { border-color: #88CCCC; }'
 {% for pet in site.data.pets %}
 <li>
 {% if pet.photo != "" %}  
-<a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>  
+<a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>
+<br>
 {% endif %}
 <b>Кличка:</b> {{ pet.name }}<br> 
 <b>Масть:</b> {{ pet.color }}<br> 
