@@ -1,6 +1,7 @@
 ---
 title: Забери питомца из приюта
-style: 
+style: 'a img.photo { border-color: transparent; border-width: 3px; border-style: solid; }
+a:hover img.photo { border-color: #88CCCC; }'
 ---
 
 Чтобы все нормально работало - нужно в региональных настройках выставить разделитель элементов списка - запятую ","
@@ -12,7 +13,7 @@ style:
 <li>
 {% if pet.photo != "" %}  
 <br>
-<a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px"><br><em>скачать фото</em></a>  
+<a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>  
 {% endif %}
 <br>
 <b>Кличка:</b> {{ pet.name }}<br> 
