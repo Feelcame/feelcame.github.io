@@ -13,7 +13,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 {% for pet in site.data.pets %}
 <li class="card">
 <br>
-{% if pet.photo != "" %}  
+{% if pet.photo %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo"><br><em>скачать фото</em></a>
 <br>
 {% endif %}
@@ -21,7 +21,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 <b>Масть:</b> {{ pet.color }}<br> 
 <b>Идентификатор:</b> {{ pet.number }}<br>
 <b>Хозяин:</b> <!-- ({{pet.owner }})<summary markdown="0">+ Подробная информация</summary> -->
-{% if pet.owner != false %}
+{% if pet.owner %}
 Хозяин найден! Благодарим за внимание!
 {% else %}
 <div style="background-color: yellow;">Ищем хозяина!</div> 
