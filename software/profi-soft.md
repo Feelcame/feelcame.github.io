@@ -20,10 +20,13 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-## программирование программ
+## программирование программ и контроллеров
 - arduino
 - Visual Studio Code
 - Platformio
+- stm32 cubeIDE
+
+
 
 
 ## рисование чертежей
@@ -50,3 +53,13 @@ modified: 2021-08-23T13:58:34+03:00
 * https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s
 * https://snpview.com/
 * 
+
+
+## веб-сервер
+- nginx
+
+## текстовые редакторы
+- emacs
+
+## файл менеджер
+- midnight commander
