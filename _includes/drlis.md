@@ -88,16 +88,12 @@
 {%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
 {%- if pinnedonly == "yes" %}
 {{ pins }}
-pinnedonly
 {%- endif %}  
 
 {%- if spoiler != "" -%}
-{{ pins }}
 <details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
 {{ result }}
 </details>
 {%- else -%}
-{{ pins }}
 {{ result }}
 {%- endif -%}
-{%- comment -%}{%- endcomment -%}
