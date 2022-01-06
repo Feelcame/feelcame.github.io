@@ -95,7 +95,7 @@ pin: 5
 
 
 
-<details markdown="1"><summary markdown="0">+ Версия 3.220107 Добавлен вывод спойлера и управление закрепом</summary>
+<details markdown="1"><summary markdown="0">+ Версия 3.220107 спойлер, закреп, блоки</summary>
 
 {% raw %}
 ``` html
@@ -205,11 +205,11 @@ pin: 5
 </details>
 
 
-<details markdown="1"><summary markdown="0">+ Версия 3.211111 Добавлен вывод спойлера</summary>
+<details markdown="1"><summary markdown="0">+ Версия 4.</summary>
 
 {% raw %}
 ``` html
-пока что тут пусто
+пока что тут пусто. надеюсь так и останется
 ```
 {% endraw %}
 </details>
