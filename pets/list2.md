@@ -18,7 +18,7 @@ layout: page
   </a>
 {%- endif -%}
 {%- endfor %}
-<br>таблица <a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv">тут</a>
+<br>таблица <a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv"><b>тут</b></a>
 </div>  
 
 <style>
