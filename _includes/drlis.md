@@ -90,7 +90,7 @@
 {{ pins }}
 {%- endif %}  
 
-{%- if spoiler != "" -%}
+{%- if spoiler -%}
 <details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
 {{ result }}
 </details>
