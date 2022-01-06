@@ -19,7 +19,7 @@ layout: page
 {%- endif -%}
 {%- endfor %}
 </div>  
-таблица тут: [ссылка](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv)
+таблица тут: [ссылка](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv)  
 
 <style>
 a img.photo { border-color: transparent; border-width: 3px; border-style: solid; }
