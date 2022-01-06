@@ -20,7 +20,7 @@ layout: page
 {%- endfor %}
 <br>исходники: 
 <a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv"><b>таблица</b></a>, 
-<a href="https://github.com/Feelcame/feelcame.github.io/blob/master/pets/list2.md"><b>скрипт рендеринга</b></a>
+<a href="https://github.com/Feelcame/feelcame.github.io/blob/master/pets/list2.md">скрипт рендеринга</a>
 </div>  
 
 <style>
