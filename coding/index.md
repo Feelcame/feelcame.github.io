@@ -6,7 +6,7 @@ tags: coding программирование
 pin: 0
 ---
 
-{% include drlis.md spoiler="Все статьи" %}
+{% include drlis.md spoiler="Все статьи" pinned="" %}
 
 <details markdown="1"><summary markdown="0">+ Мои проекты</summary>
 {% include drlis.md tag="project" %}
