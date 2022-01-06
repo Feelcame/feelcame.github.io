@@ -6,7 +6,7 @@ tags: железо
 pin: 0
 ---
 
-{% include drlis.md pinnedonly="yes" %}
+{% include drlis.md pinned="yes" %}
 
 {% include drlis.md spoiler="Все статьи" %}
 
