@@ -18,7 +18,9 @@ layout: page
   </a>
 {%- endif -%}
 {%- endfor %}
-<br>таблица <a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv"><b>тут</b></a>
+<br>исходники: 
+<a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv"><b>таблица</b></a>, 
+<a href="https://github.com/Feelcame/feelcame.github.io/blob/master/pets/list2.md"><b>скрипт рендеринга</b></a>
 </div>  
 
 <style>
