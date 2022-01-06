@@ -7,7 +7,7 @@
 {%- assign directory = include.dir | default: page.dir -%}  
 {%- assign rec_tag = include.tag | default: "" -%}  
 {%- assign spoiler = include.spoiler | default: "" -%}
-
+{%- assign pinnedonly = include.pinned | default: false -%}
 
 {%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
 {%- 
@@ -86,6 +86,11 @@
 
 
 {%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
+{%- if pinnedonly == "yes" %}
+{{ pins }}
+pinnedonly
+{%- endif %}  
+
 {%- if spoiler != "" -%}
 {{ pins }}
 <details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
