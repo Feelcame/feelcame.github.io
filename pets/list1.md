@@ -4,22 +4,7 @@ style: 'a img.photo { border-color: transparent; border-width: 3px; border-style
 a:hover img.photo { border-color: #88CCCC; }
 li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; list-style: none; }'
 ---
-<div id="breadcrumbs">
-{%- assign crumbs = page.url | remove:'/index.html' | split: '/' -%}
-<a href="/">Home</a>
-{%- for crumb in crumbs offset: 1 -%}
-{%- if forloop.last %} / {{ page.title -}}
-{%- else %}
- / <a href="
-  {%- assign crumb_limit = forloop.index | plus: 1 -%}
-  {%- for crumb in crumbs limit: crumb_limit -%}
-    {{- crumb | append: '/' | replace:'without-plugin/','without-plugins/' -}}
-  {%- endfor -%}">
-  {{- crumb | replace:'-',' ' | remove:'.html' | capitalize -}}
-  </a>
-{%- endif -%}
-{%- endfor %}
-</div>
+{% include breadcrumbs.html %}
 [таблица тут](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets1.csv)
 
 <ul>
