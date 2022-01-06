@@ -9,10 +9,10 @@ pin: 5
 ## Вывод навигации в Jekyll
 В любом месте статьи можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
 ```
-{ % include drlis.md dir="/projects/" tag="hardware" %}
+{ % include ls.md dir="/projects/" tag="hardware" pinned="yes" %}
 ```
 
-Мой велосипед тут: <{{ site.github.repository_url }}/blob/master/_includes/drlis.md>
+Мой велосипед тут: <{{ site.github.repository_url }}/blob/master/_includes/ls.md>
 
 Туториал как сделать навигацию от Jekyll: <https://jekyllrb.com/tutorials/navigation/>
 
