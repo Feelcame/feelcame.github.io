@@ -1,5 +1,5 @@
 ---
-title: Страница учета животных
+title: Страницы учета животных
 pin: 0
 ---
 {% include breadcrumbs.html %}
