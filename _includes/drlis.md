@@ -86,7 +86,7 @@
 
 
 {%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
-{%- if showpinned == "yes" %}
+{%- if showpinned %}
 {{ pins }}
 {%- endif %}  
 
