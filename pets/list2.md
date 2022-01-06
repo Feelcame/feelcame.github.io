@@ -18,7 +18,7 @@ layout: page
   </a>
 {%- endif -%}
 {%- endfor %}
-</div>
+</div>  
 таблица тут: [ссылка](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv)
 
 <style>
