@@ -1,5 +1,5 @@
 ---
-title: Забери питомца домой
+title: Забери питомца из приюта 2
 layout: page
 ---
 
@@ -18,7 +18,7 @@ layout: page
   </a>
 {%- endif -%}
 {%- endfor %}
-таблица [тут](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv)  
+<br>таблица <a href="https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets2.csv">тут</a>
 </div>  
 
 <style>
