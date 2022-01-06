@@ -8,7 +8,7 @@ li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; backgro
 [таблица тут](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets.csv)
 
 <ul>
-{% for pet in site.data.pets %}
+{% for pet in site.data.pets1 %}
 <li class="card">
 {% if pet.photo %}  
 <a href="./img/dog.jpg"><img alt="фото самого красивого убийцы" src="./img/dog.jpg" width="300px" height="300px" class="photo" title="скачать фото"></a><br>
