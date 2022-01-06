@@ -2,4 +2,4 @@
 Возьми животину с приюта
 ---
 
-{% include drlid.md %}
+{% include drlis.md %}
