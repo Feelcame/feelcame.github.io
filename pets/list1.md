@@ -4,8 +4,7 @@ style: 'a img.photo { border-color: transparent; border-width: 3px; border-style
 a:hover img.photo { border-color: #88CCCC; }
 li.card { border-color: #f3f3f3; border-width: 1px; border-style: solid; background-color: #f9f9f9; border-radius: 0.9rem; padding: 10px; list-style: none; }'
 ---
-{% include breadcrumbs.html %}
-[таблица тут](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets1.csv)
+{% include breadcrumbs.html %}[таблица тут](https://github.com/Feelcame/feelcame.github.io/blob/master/_data/pets1.csv)
 
 <ul>
 {% for pet in site.data.pets1 %}
