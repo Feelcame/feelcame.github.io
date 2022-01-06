@@ -5,8 +5,8 @@
 {%- endcomment -%}  
 
 {%- assign directory = include.dir | default: page.dir -%}  
-{%- assign rec_tag = include.tag | default: "" -%}  
-{%- assign spoiler = include.spoiler | default: "" -%}
+{%- assign rec_tag = include.tag | default: false -%}  
+{%- assign spoiler = include.spoiler | default: false -%}
 {%- assign showpinned = include.pinned | default: false -%}
 
 {%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
