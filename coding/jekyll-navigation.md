@@ -12,10 +12,12 @@ pin: 5
 { % include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}
 ```
 
-Исходники моего велосипеда: [**тут**]({{ site.github.repository_url }}/blob/master/_includes/ls.md).  
+Исходники моего велосипеда: [**тут**]({{ site.github.repository_url }}/blob/master/_includes/ls.md). 
 Данный скрипт был написан до того, как я обнаружил туториал от Jekyll: [**как сделать навигацию**](https://jekyllrb.com/tutorials/navigation/).
 
-### Параметр ```DIR```
+## Описание
+
+**Параметр ```DIR```**
 Указывает какую папку парсить. Если параметр не передан - парсить текущую папку (из которой происходит вызов).
 
 ### Параметр ```TAG```
