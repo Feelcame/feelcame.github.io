@@ -7,7 +7,9 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 этот магазин задуман как демо для [shop-jekyll](../coding/shop-jekyll.md)
 
 ## Все категории
+<div class="grid">
 {% include ls.md %}
+</div>
 
 ## Список рекомендуемых
 <ul>
@@ -20,7 +22,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 {% else %}
 {% assign mainphoto = "/shop/img/nophoto.jpg" %}
 {% endif %}
-<img src="{{ mainphoto.path }}" alt="фотография"><br>
+<img src="{{ mainphoto.path }}" alt="фотография" width="300px" height="300px"><br>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
 {% if photos.size > 1 %}Фото({{ photos.size }}): 
@@ -54,7 +56,6 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 
 
 {% comment %}
-
 ## Example
 <ul>
 {% for member in site.data.members %}
