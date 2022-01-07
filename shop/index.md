@@ -1,31 +1,15 @@
 ---
 title: Все категории
-index: 0
+pin: 0
 style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} .grid ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
 ---
 
 этот магазин задуман как демо для [shop-jekyll](../coding/shop-jekyll.md)
 
 ## Все категории
+{% include ls.md %}
 
-{% 
-  assign categories = site.pages 
-  | where_exp: "item", "item.dir contains page.dir" 
-  | where: "name", "index.md" 
-  | sort: "index"
-%}
-
-<div class="grid">
-<ul>
-{% for cat in categories %}
-<li><a href="{{ cat.url }}">{{ cat.title | default: cat.dir | remove: page.dir }}</a><!--{{ cat.index }}--></li>
-{% endfor %}
-</ul>
-</div>
-
-
-
-## Список рекомендуемых товаров 2
+## Список рекомендуемых
 <ul>
 {% for product in site.data.products %}
 <li>
@@ -53,11 +37,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 </ul>
 
 
-
-
 {% comment %}
-
-
 ## Список рекомендуемых товаров 1
 <ul>
 {% for product in site.data.products %}
@@ -70,8 +50,10 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 </li>
 {% endfor %}
 </ul>
+{% endcomment %}
 
 
+{% comment %}
 
 ## Example
 <ul>
@@ -87,7 +69,23 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 
 
 {% comment %}
+## Все категории
+{% 
+  assign categories = site.pages 
+  | where_exp: "item", "item.dir contains page.dir" 
+  | where: "name", "index.md" 
+  | sort: "index"
+%}
+
+<div class="grid">
+<ul>
+{% for cat in categories %}
+<li><a href="{{ cat.url }}">{{ cat.title | default: cat.dir | remove: page.dir }}</a><!--{{ cat.index }}--></li>
+{% endfor %}
+</ul>
+</div>
 {% endcomment %}
+
 
 <details markdown="1">
 ```

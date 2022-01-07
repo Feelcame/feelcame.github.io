@@ -1,9 +1,6 @@
 ---
 title: Разъемы
-index: 0
 ---
-
-{% include drlis.md %}
 
 ## USB
 - USB-M на плату

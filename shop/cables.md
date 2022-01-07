@@ -1,9 +1,6 @@
 ---
 title: Провода
-index: 0
 ---
-
-{% include drlis.md %}
 
 ## USB
 - Кабель USB-MicroUSB
