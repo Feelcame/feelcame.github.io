@@ -10,7 +10,9 @@ pin: 5
 В любом месте страницы можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.  
 Синтаксис:
 ```
-{ % include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}
+{% raw %}
+{% include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}
+{% endraw %}
 ```
 
 Исходники моего велосипеда: [**тут**]({{ site.github.repository_url }}/blob/master/_includes/ls.md). 
