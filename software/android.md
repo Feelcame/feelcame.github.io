@@ -11,7 +11,8 @@ pin: 2
 {: toc }
 </details>
 
-Прямые ссылки на старые версии, доступны прямо здесь и сейчас. Обновления ищи на оф.сайте
+Прямые ссылки здесь и сейчас.  
+Обновления ищи на оф.сайте
 
 
 
@@ -98,7 +99,9 @@ pin: 2
 <details markdown="1">
 - Acode
 - GitJournal
-- Простой календарь
+- Простой календарь. 
+  [v](#), 
+  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
 - Microsoft Office
 - Aqua Mail
 - StyleNote заметки
