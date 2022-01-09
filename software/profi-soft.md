@@ -5,14 +5,13 @@ modified: 2021-08-23T13:58:34+03:00
 ---
 
 ### Электромагнитное моделирование
-Моделирование
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
 - AWR MWO
 - HFSS
 - Ansys
 
-### разводка PCB
+### Разводка печатных плат
 - altium
 - eagle
 - kicad
@@ -20,14 +19,12 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-### программирование программ и контроллеров
+### Программирование программ и контроллеров
 - arduino
 - Visual Studio Code
 - Platformio
 - stm32 cubeIDE
 
-### контроль версий
-- gitea
 
 ### репозитории программ
 - chokolately
@@ -63,6 +60,8 @@ modified: 2021-08-23T13:58:34+03:00
 - openvpn
 - shadowsocks + heroku
 - ngrock и другие хостинги
+- gitea - Контроль версий
+
 
 ### текстовые редакторы
 - emacs
@@ -70,9 +69,11 @@ modified: 2021-08-23T13:58:34+03:00
 ### файл менеджер
 - midnight commander
 
-### FTP-клиенты
+### FTP-клиенты, терминал
 - WinSCP
 - Putty
+
+
 
 ### автоматизация
 - <https://corezoid.com/>
