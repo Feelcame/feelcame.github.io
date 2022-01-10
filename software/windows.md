@@ -71,20 +71,25 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать](#)
 
 ## Офис
-- **SumatraPDF** - простая читалка с редактором аннотаций.  
-  [скачать](#) -
-  [обновить](#)
 - **STDU** - простая читалка PDF родом из нулевых.  
   [скачать](#) -
   [обновить](#)
 - **Notepad++** - мощный редактор текста с подсветкой синтаксиса.     
   [скачать](#) - 
   [обновить](https://notepad-plus-plus.org/downloads/)
-- **Microsoft Office Word, Excell и тд.**  
+- **Microsoft Office** - Word, Excell и тд.  
   [v2007](#) -
   [v2010](#) -
   [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
   [v365](#)
+<details markdown="1">
+- **SumatraPDF** - простая читалка с редактором аннотаций.  
+  [скачать](#) -
+  [обновить](#)
+- Notable
+- Obsidian
+- Notion
+</details>
 
 
 ## Файлы
@@ -100,11 +105,13 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Total Commander** - двухпанельный файл-менеджер  
   [скачать](#) -
   [обновить](#)
+<details markdown="1">
 - **WizTree** - анализ места на диске  
   [скачать](#) -
   [обновить](#)
 - **Duplicate File Detector** - поиск дубликатов файлов  
   [скачать](#)
+</details>
 
 ## Упр. дисками 
 - **Victoria** - проверка диска на битые сектора  
@@ -126,12 +133,14 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **SmartFix** - восстановление слетевших настроек системы после вирусов  
   [скачать](#) -
   [обновить](#)
+<details markdown="1">
 - **AdwCleaner** - очистка от малвари  
   [скачать](#) -
   [обновить](#)
 - **Cureit** - антивирус для одноразовой очистки  
   [скачать](#) -
   [обновить](#)
+</details>
 
 ## Бенчмарки
 - **Furmark** - нагрузи видуху по полной  
@@ -148,7 +157,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 + **Snappy Driver Installer** - драйверпак без рекламы  
   [скачать](#) -
   [обновить](#)
-+ **VisualC++** - набор библиотек VisualC++ от майкрософт  
++ **Microsoft Visual C++** - набор библиотек для стабильной работы програм  
   [скачать](#) -
   [обновить](#)
 + **RuntimePack** - дополнительные либы к предыдущему  
@@ -160,7 +169,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 + **NetFramework** - либы для некоторых прог  
   [скачать](#) -
   [обновить](#)
-+ **Моя подборка скриптов**<br>откл.обнов, удалить папки, почему не спит, откл. локскрин  
++ **Скрипты**<br>Моя подборка скриптов. откл.обнов, удалить папки, почему не спит, откл. локскрин  
   [скачать](#)
 
 ## USB/CD/DVD
@@ -181,20 +190,6 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать SFX](#)
 - **Easy BCD** - редактор загрузчика с красивым GUI    
   [скачать v4.2](https://tlgur.com/d/4rqo5v7g)
-
-## Разработчику
-- **VS Code** - универсальная среда разработки  
-  [оф.сайт](#)
-- **Eagle CAD** - разводка печатных плат  
-  [оф.сайт](#)
-- **GitHub Desktop** - GUI для системой контроля версий Git  
-  [оф.сайт](#)
-- **OpenServer** - сервер PHP для отладки сайтов  
-  [скачать урезаную версию](#) -
-  [обновить](#)
-- **Gitea** - серверная часть гита<br>
-  [оф.сайт](#)
-
 
 
 ## Обновления
