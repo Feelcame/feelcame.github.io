@@ -187,6 +187,9 @@ pin: 2
 - ADB-RUN
 - ADB AppControl
 - ApkShellext2
+- adb
+- ADB_AppControl_171
+- xiaomi debloater
 
 ## Полезные ссылки
 - источник. Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
