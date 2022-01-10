@@ -192,6 +192,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать v4.2](https://tlgur.com/d/4rqo5v7g)
 
 
+## Разработчику
+Программы для профессиональных нужд в другом разделе [profi-soft](./profi-soft)
+
+
 ## Обновления
 Напоминаю про телеграм-канал: <https://t.me/FeelSoftWin/105>
 
