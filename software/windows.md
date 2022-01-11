@@ -40,29 +40,32 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Интернет
-+ **Браузер Chrome**<br>Никто не скроется от взора большого брата<br>
-  [скачать MSI с оф.сайта](#)
++ **Google Chrome**<br>слей свои данные<br>
+  [оф.сайт (standalone)](http://google.com/intl/ru/chrome/?standalone=1)
 + **Mozilla Firefox**<br>Браузер для людей<br>
-  [скачать](#)
+  [оф.сайт](https://www.mozilla.org/ru/firefox/all/) -
+  [portable](https://portableapps.com/apps/internet/firefox_portable#:~:text=Russian)
 + **Telegram**<br>удобный мессенджер<br>
-  [сайт](https://desktop.telegram.org/), [Kotatogram](https://kotatogram.github.io/ru/download/#beta)
+  [оф.сайт](https://desktop.telegram.org/) - 
+  [**Kotatogram**](https://kotatogram.github.io/ru/download/#beta)
 + **Networx**<br>мониторинг скорости сети<br>
-  [скачать v5.5](#) -
-  [обновить](#)
+  [v5.5(free)](http://biblprog.org.ua/ru/networx/download) -
 + **AnyDesk**<br>удаленное управление<br>
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](http://anydesk.com/ru/downloads) -
 + **qBitTorrent**<br>скачивание файлов<br>
-  [скачать](#) -
-  [обновить](#)
+  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
+  [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 <details markdown="1">
 </details>
 
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus**<br>Блокировщик рекламы.<br>
-  [оф.сайт](#) -
+  [оф.сайт](https://adblockplus.org/ru/) -
   [скачать](#)
+- **Video Resume**<br>продолжает видео с места остановки в ютубе<br>
+  [скачать](#)
+<details markdown="1">
 - **Yandex Acces**<br>доступ к вк, ок и афк.<br>
   [скачать](#)
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
@@ -71,9 +74,6 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать](#)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
   [скачать](#)
-- **Video Resume**<br>продолжает видео с места остановки в ютубе<br>
-  [скачать](#)
-<details markdown="1">
 </details>
 
 ## Офис
@@ -114,35 +114,37 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 <details markdown="1">
 - **WizTree** - анализ места на диске  
   [скачать](#) -
-  [обновить](#)
+  [ссылка2](#)
 - **Duplicate File Detector** - поиск дубликатов файлов  
   [скачать](#)
+- WinDirStat
 </details>
 
 ## Упр. дисками 
 - **Victoria** - проверка диска на битые сектора  
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
+  [v5.36](#)
 - **Acronis** - переразбивка и клонирование диска  
   [скачать](#) -
-  [обновить](#)
+  [ссылка2](#)
 - **CrystalDiskMark** - проверка скорости накопителя  
   [скачать](#) -
-  [обновить](#)
+  [ссылка2](#)
 
 ## Безопасность 
 - **Unchecky** - снимает галочки при установке софта  
-  [скачать](#) -
+  [лф.сайт](https://unchecky.com/) -
   [обновить](#)
 - **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню  
-  [скачать](#)
+  [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader) - 
+  [ссылка2](#)
 - **SmartFix** - восстановление слетевших настроек системы после вирусов  
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](https://smartfix.pro/) -
+  [ссылка2](#)
 <details markdown="1">
 - **AdwCleaner** - очистка от малвари  
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) -
+  [ссылка2](#)
 - **Cureit** - антивирус для одноразовой очистки  
   [скачать](#) -
   [обновить](#)
