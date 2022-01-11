@@ -56,6 +56,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [обновить](#)
 
 ## Расширения
+*<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus**<br>Блокировщик рекламы.<br>
   [оф.сайт](#) -
   [скачать](#)
