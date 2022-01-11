@@ -19,24 +19,25 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Медиа
 - **PotPlayer** - видеоплеер.  
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](https://potplayer.ru/download/) -
+  [#](#)
 - **AIMP** - аудиоплеер.  
-  [скачать](#) -
+  [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
   [обновить](#)
 - **XnView** - просмотр фото.  
-  [скачать](#) -
+  [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [обновить](#)
+- **Paint.Net** - редактор фото.  
+  [оф.сайт](https://paintnet.ru/download/) -
+  [обновить](#)
+<details markdown="1">
 - **Bandicam** - запись экрана.  
   [скачать](#) -
   [обновить](#)
 - **Audacity** - запись звука.  
   [скачать](#) -
   [обновить](#)
-- **Paint.Net** - редактор фото.  
-  [скачать](#) -
-  [обновить](#)
-
+</details>
 
 ## Интернет
 + **Браузер Chrome**<br>Никто не скроется от взора большого брата<br>
@@ -54,6 +55,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 + **qBitTorrent**<br>скачивание файлов<br>
   [скачать](#) -
   [обновить](#)
+<details markdown="1">
+</details>
 
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
@@ -70,6 +73,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать](#)
 - **Video Resume**<br>продолжает видео с места остановки в ютубе<br>
   [скачать](#)
+<details markdown="1">
+</details>
 
 ## Офис
 - **STDU** - простая читалка PDF родом из нулевых.  
@@ -79,10 +84,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать](#) - 
   [обновить](https://notepad-plus-plus.org/downloads/)
 - **Microsoft Office** - Word, Excell и тд.  
-  [v2007](#) -
-  [v2010](#) -
+  [v2007](http://nnmclub.to/forum/viewtopic.php?t=1282841) -
+  [v2010](http://nnmclub.to/forum/viewtopic.php?t=1376069) -
   [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
-  [v365](#)
+  [v365(офф)](https://www.office.com/?auth=2)
 <details markdown="1">
 - **SumatraPDF** - простая читалка с редактором аннотаций.  
   [скачать](#) -
@@ -153,6 +158,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **HWinfo** - бесплатный просмотрщик характеристик железа  
   [скачать](#) -
   [обновить](#)
+<details markdown="1">
+</details>
 
 ## Драйвера
 + **Snappy Driver Installer** - драйверпак без рекламы  
@@ -172,6 +179,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [обновить](#)
 + **Скрипты**<br>Моя подборка скриптов. откл.обнов, удалить папки, почему не спит, откл. локскрин  
   [скачать](#)
+<details markdown="1">
+</details>
 
 ## USB/CD/DVD
 - **Windows 7 adguard**<br>Интегрированы smartfix и обновы по 2021 год  
@@ -191,6 +200,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [скачать SFX](#)
 - **Easy BCD** - редактор загрузчика с красивым GUI    
   [скачать v4.2](https://tlgur.com/d/4rqo5v7g)
+<details markdown="1">
+</details>
 
 
 ## Разработчику
