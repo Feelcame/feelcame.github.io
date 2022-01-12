@@ -20,23 +20,23 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 ## Медиа
 - **PotPlayer** - видеоплеер.  
   [оф.сайт](https://potplayer.ru/download/) -
-  [#](#)
+  [ссылка](#)
 - **AIMP** - аудиоплеер.  
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
-  [обновить](#)
+  [ссылка](#)
 - **XnView** - просмотр фото.  
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
-  [обновить](#)
+  [ссылка](#)
 - **Paint.Net** - редактор фото.  
   [оф.сайт](https://paintnet.ru/download/) -
-  [обновить](#)
+  [ссылка](#)
 <details markdown="1">
 - **Bandicam** - запись экрана.  
-  [скачать](#) -
-  [обновить](#)
+  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428)
+  [ссылка](#)
 - **Audacity** - запись звука.  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 </details>
 
 ## Интернет
@@ -77,21 +77,21 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Офис
-- **STDU** - простая читалка PDF родом из нулевых.  
+- **STDU Viewer**<br>Читалка PDF родом из нулевых<br>
   [скачать](#) -
   [обновить](#)
-- **Notepad++** - мощный редактор текста с подсветкой синтаксиса.     
-  [скачать](#) - 
-  [обновить](https://notepad-plus-plus.org/downloads/)
-- **Microsoft Office** - Word, Excell и тд.  
+- **SumatraPDF** - простая читалка с редактором аннотаций<br>
+  [скачать](#) -
+  [обновить](#)
+- **Microsoft Office**<br>Word, Excell, PowerPoint. Долго ставится. Торренты<br>
   [v2007](http://nnmclub.to/forum/viewtopic.php?t=1282841) -
   [v2010](http://nnmclub.to/forum/viewtopic.php?t=1376069) -
   [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
-  [v365(офф)](https://www.office.com/?auth=2)
+  [v365(оф.сайт)](https://www.office.com/?auth=2)
+- **Notepad++**<br>Редактор текста с подсветкой синтаксиса<br>
+  [скачать](#) - 
+  [обновить](https://notepad-plus-plus.org/downloads/)
 <details markdown="1">
-- **SumatraPDF** - простая читалка с редактором аннотаций.  
-  [скачать](#) -
-  [обновить](#)
 - Notable
 - Obsidian
 - Notion
@@ -99,24 +99,24 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Файлы
-- **Uninstall Tool** - удаление программ с корнями  
-  [скачать](#) -
-  [обновить](#)
 - **7-zip** - архиватор с открытым исходным кодом  
-  [скачать v19.00](#) -
-  [обновить](#)
+  [v19.00](#) -
+  [ссылка](#)
 - **WinRAR** - мощный архиватор с большой историей  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 - **Total Commander** - двухпанельный файл-менеджер  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
+- **Uninstall Tool** - удаление программ с корнями  
+  [ссылка](#)
+  [ссылка](#)
 <details markdown="1">
 - **WizTree** - анализ места на диске  
-  [скачать](#) -
+  [ссылка](#)
   [ссылка2](#)
 - **Duplicate File Detector** - поиск дубликатов файлов  
-  [скачать](#)
+  [ссылка](#)
 - WinDirStat
 </details>
 
@@ -125,16 +125,16 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
 - **Acronis** - переразбивка и клонирование диска  
-  [скачать](#) -
+  [ссылка](#)
   [ссылка2](#)
 - **CrystalDiskMark** - проверка скорости накопителя  
-  [скачать](#) -
+  [ссылка](#)
   [ссылка2](#)
 
 ## Безопасность 
 - **Unchecky** - снимает галочки при установке софта  
-  [лф.сайт](https://unchecky.com/) -
-  [обновить](#)
+  [оф.сайт](https://unchecky.com/) -
+  [ссылка](#)
 - **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню  
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader) - 
   [ссылка2](#)
@@ -144,70 +144,70 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 <details markdown="1">
 - **AdwCleaner** - очистка от малвари  
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) -
-  [ссылка2](#)
+  [ссылка](#)
 - **Cureit** - антивирус для одноразовой очистки  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 </details>
 
 ## Бенчмарки
-- **Furmark** - нагрузи видуху по полной  
-  [скачать](#) -
-  [обновить](#)
 - **CPU-Z** - показывает х-ки компа, бенчмарк проца  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
+- **Furmark** - нагрузи видуху по полной  
+  [ссылка](#)
+  [ссылка](#)
 - **HWinfo** - бесплатный просмотрщик характеристик железа  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 <details markdown="1">
 </details>
 
 ## Драйвера
 + **Snappy Driver Installer** - драйверпак без рекламы  
-  [скачать](#) -
-  [обновить](#)
+  [оф.сайт](https://sdi-tool.org/download/) -
+  [ссылка](#)
 + **Microsoft Visual C++** - набор библиотек для стабильной работы програм  
-  [скачать](#) -
-  [обновить](#)
-+ **RuntimePack** - дополнительные либы к предыдущему  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 + **DirectX** - для работы игр и графических приложений  
-  [скачать](#) -
-  [обновить](#)
-+ **NetFramework** - либы для некоторых прог  
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#)
+  [ссылка](#)
 + **Скрипты**<br>Моя подборка скриптов. откл.обнов, удалить папки, почему не спит, откл. локскрин  
-  [скачать](#)
+  [ссылка](#)
 <details markdown="1">
++ **NetFramework** - либы для некоторых прог  
+  [ссылка](#)
+  [ссылка](#)
++ **RuntimePack** - дополнительные либы к предыдущему  
+  [ссылка](#)
+  [ссылка](#)
 </details>
 
 ## USB/CD/DVD
-- **Windows 7 adguard**<br>Интегрированы smartfix и обновы по 2021 год  
-  [Поиск на rutracker.org](#) +
-  [Loader by Daz](#)
-- **Windows10**<br>Качать самую свежую официальную версию  
-  [Поиск на nnmclub.to](#) - 
-  [KMS Auto Lite](#) 
-- **UltraISO** - создание, изменение ISO  
-  [скачать](#)
-- **Rufus** - запись винды на флешку  
-  [скачать](#) -
-  [скачать с оф.сайта](#)
-- **WinNTSetup** - установка новой винды без заходов в биос  
+- **Windows OS**<br>Win7 с обновами. Win10 официальные. Торренты
+  [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard)+
+  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz) - 
+  [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows)+
+  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto) 
+- **UltraISO**<br>Cоздание, изменение ISO. Запись загрузочных дисков на флешку  
+  [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
+- **Rufus**<br>Запись винды на флешку  
+  [ссылка](#)
+  [оф.сайт](#)
+- **BOOTICE**<br>Редактор загрузчика  
   [скачать SFX](#)
-- **BOOTICE** - редактор загрузчика  
-  [скачать SFX](#)
-- **Easy BCD** - редактор загрузчика с красивым GUI    
-  [скачать v4.2](https://tlgur.com/d/4rqo5v7g)
 <details markdown="1">
+- **WinNTSetup**<br>Установка новой винды без заходов в биос  
+  [v4.2sfx](https://t.me/s/FeelSoftWin/238) - 
+  [оф.сайт(без либ)](http://wntsetup.ru/)
+- **Easy BCD**<br>Редактор загрузчика с красивым GUI    
+  [v4.2](https://tlgur.com/d/4rqo5v7g)
 </details>
 
 
 ## Разработчику
-Программы для профессиональных нужд в другом разделе [profi-soft](./profi-soft)
+Программы для профессиональных нужд в другом разделе: [**profi-soft**](./profi-soft)
 
 
 ## Обновления
