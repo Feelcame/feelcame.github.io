@@ -9,7 +9,7 @@ modified: 2021-08-23T14:00:10+03:00
 В приоритете бесплатные selfhosted проекты. Что бы не запутаться в изобилии разных вариантов пишу эту заметку. Может еще кому пригодится, кто знает....
 
 **Отностительно бесплатные:**
-- [**JetBrains YouTrack**](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - до 10 пользователей бесплатная. Далее $4/месяц за человека. Вродебы надежный производитель
+- [**JetBrains YouTrack**](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - до 10 пользователей бесплатная. Далее $4/месяц за человека. Вродебы надежный производитель. Своими конкурентами считают Jira and GitHub, Mantis and Redmine, FogBugz, Bugzilla
 - [**Clockify**](https://clockify.me) - лидирует а поисковике по запросу _free time-tracker_
 - **[Traggo](https://traggo.net/install/)**
 - [Toggl](https://toggl.com/) - 
