@@ -44,7 +44,6 @@ modified: 2021-11-09T03:03:34+02:00
 
 
 <details markdown="1"><summary markdown="0">+ Отключить UAC для ускорения установки софта</summary>
-
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
 "ConsentPromptBehaviorAdmin"=dword:00000000
@@ -80,14 +79,13 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1"><summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
-[ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
-
 ```
 [HKEY_CURRENT_USER\Keyboard Layout\Toggle]
 "Hotkey"="2"
 "Language Hotkey"="2"
 "Layout Hotkey"="3"
 ```
+[ссылка на скрипт](https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 </details>
 
 
