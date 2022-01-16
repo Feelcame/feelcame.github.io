@@ -44,7 +44,7 @@ modified: 2021-11-09T03:03:34+02:00
 
 
 <details markdown="1">
-<summary markdown="0">+ Отключить UAC для ускорения установки софта</summary>
+<summary markdown="0">+ 1. Отключить UAC для ускорения установки софта</summary>
 
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
@@ -55,7 +55,7 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ Отключить Defender</summary>
+<summary markdown="0">+ 2. Отключить Defender</summary>
 Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
 
 ```
@@ -82,7 +82,7 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+<summary markdown="0">+ 3. Переключить метод смены языка на Ctrl+Shift</summary>
 [ссылка на источник](https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 
 ```
@@ -94,7 +94,7 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ Включить темную тему</summary>
+<summary markdown="0">+ 4. Включить темную тему</summary>
 
 ```
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
@@ -104,24 +104,28 @@ modified: 2021-11-09T03:03:34+02:00
 
 <details markdown="1">
 
-<summary markdown="0">+ Добавить значок мой компьютер на рабочий стол</summary>
+<summary markdown="0">+ 5. Добавить значок мой компьютер на рабочий стол</summary>
 
 ```
-Когда жил в общаге
-```
-</details>
-
-<summary markdown="0">+ </summary>
-
-```
-
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu]
+"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
 ```
 </details>
 
 <summary markdown="0">+ </summary>
 
 ```
+ёёё
+```
+</details>
 
+<summary markdown="0">+ </summary>
+
+```
+ёёё
 ```
 </details>
 
