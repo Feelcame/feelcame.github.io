@@ -36,9 +36,60 @@ modified: 2021-11-09T03:03:34+02:00
 ### **Первичная настройка**  
 Попытаться предотвратить установку OneDrive, Teams и Edge
 - Настроить панель задач. Убрать поиск, новости, кортану
-- Отключить UAC для ускорения установки софта. <https://remontka.pro/uac-disable-windows-10/>
-- Отключить Defender
-- Переключить метод смены языка на Ctrl+Shift [ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
+
+### **Твики**
+Настройки винды хранятся в реестре. Туда и будем вносить изменения.
+<details markdown="1"><summary markdown="0">+ Как вносить изменения в реестр</summary>
+В текстовый файл с расширением .reg копируешь текст ```Windows Registry Editor Version 5.00``` + пустая строка + сам твик. 
+Их можно комбинировать. Сохраняешь, запускаешь. Успех! 
+</details>
+
+<details markdown="1"><summary markdown="0">+ - Отключить UAC для ускорения установки софта</summary>
+<https://remontka.pro/uac-disable-windows-10/>
+```
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"ConsentPromptBehaviorAdmin"=dword:00000000
+"EnableLUA"=dword:00000000
+"PromptOnSecureDesktop"=dword:00000000
+```
+</details>
+
+<details markdown="1"><summary markdown="0">+ Отключить Defender</summary>
+Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки".  
+Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
+```
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000001
+"AllowFastServiceStartup"=dword:00000000
+"ServiceKeepAlive"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
+"DisableIOAVProtection"=dword:00000001
+"DisableRealtimeMonitoring "=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
+"DisableBlockAtFirstSeen"=dword:00000001
+"LocalSettingOverrideSpynetReporting"=dword:00000000
+"SubmitSamplesConsent"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications]
+"DisableNotifications"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Notifications]
+"DisableNotifications"=dword:00000001
+```
+</details>
+
+<details markdown="1"><summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+[ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
+```
+[HKEY_CURRENT_USER\Keyboard Layout\Toggle]
+"Hotkey"="2"
+"Language Hotkey"="2"
+"Layout Hotkey"="3"
+```
+</details>
+
 - Включить темную тему <https://remontka.pro/explorer-dark-theme-windows-10/>
 - В пуске удалить ярлыки на установку игр и прочей мешуры
 - Удалить предустановленный софт: OneDrive, игры, офис, скайп
