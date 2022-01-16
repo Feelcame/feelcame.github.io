@@ -43,8 +43,8 @@ modified: 2021-11-09T03:03:34+02:00
 Их можно комбинировать. Сохраняешь, запускаешь. Успех! 
 
 
-<details markdown="1">
-<summary markdown="0">+ - Отключить UAC для ускорения установки софта</summary>
+<details markdown="1"><summary markdown="0">+ Отключить UAC для ускорения установки софта</summary>
+
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
 "ConsentPromptBehaviorAdmin"=dword:00000000
@@ -53,8 +53,7 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<details markdown="1">
-<summary markdown="0">+ Отключить Defender</summary>
+<details markdown="1"><summary markdown="0">+ Отключить Defender</summary>
 Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
 
 ```
@@ -80,8 +79,7 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<details markdown="1">
-<summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+<details markdown="1"><summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
 [ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 
 ```
