@@ -115,7 +115,8 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<summary markdown="0">+ </summary>
+<details markdown="1">
+<summary markdown="0">+ 6. Отключить Отключить Windows Update</summary>
 Актуально для очень слабых устройств. Это официальный способ отключить обновы. Инфа взята у [simplix.info](https://blog.simplix.info/disable-update-win10/) и у [remontka.pro](https://remontka.pro/disable-updates-windows-10/). Еще непроверенный вариант программа "winaero".
 
 ```
@@ -163,8 +164,6 @@ modified: 2021-11-09T03:03:34+02:00
 - [remontka.pro Отключить уведомления Защитника Windows 10](https://remontka.pro/windows-protection-notification-disable/)
 - [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
 
-**Отключить обновления.**  
-НЕ рекомендую отключать обнывления. НО это 
 ### **Установить драйвера.**  
 - Лучший вариант - из сайта производителя.  
 - Чуть хуже - если десятка сама подтянет из серверов майкрософта.  
