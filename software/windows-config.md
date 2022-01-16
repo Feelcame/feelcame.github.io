@@ -116,9 +116,29 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <summary markdown="0">+ </summary>
+Актуально для очень слабых устройств. Это официальный способ отключить обновы. Инфа взята у [simplix.info](https://blog.simplix.info/disable-update-win10/) и у [remontka.pro](https://remontka.pro/disable-updates-windows-10/). Еще непроверенный вариант программа "winaero".
 
 ```
-ёёё
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"DoNotConnectToWindowsUpdateInternetLocations"=dword:00000001
+"WUServer"="localhost"
+"WUStatusServer"="localhost"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"UseWUServer"=dword:00000001
+"NoAutoUpdate"=dword:00000001
+```
+
+Вернуть все взад
+```
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"DoNotConnectToWindowsUpdateInternetLocations"=-
+"WUServer"=-
+"WUStatusServer"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"UseWUServer"=-
+"NoAutoUpdate"=-
 ```
 </details>
 
@@ -144,10 +164,7 @@ modified: 2021-11-09T03:03:34+02:00
 - [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
 
 **Отключить обновления.**  
-НЕ рекомендую отключать обнывления. НО это актуально для очень слабых устройств. А майки прям насильно принуждают обновляться, и им пофиг что после обновления мой китайский планшет на атоме может вообще не загрузиться или, что еще хуже, будет просто вечность ставить обновления так и зависнув в бесконечном цикле невежественной жадности. Поэтому ниже описан способ корректно отключить обновления в Windows 10. 
-- <https://blog.simplix.info/disable-update-win10/>
-- Еще варианты (непроверенные): winaero и советы от remontka.pro.
-
+НЕ рекомендую отключать обнывления. НО это 
 ### **Установить драйвера.**  
 - Лучший вариант - из сайта производителя.  
 - Чуть хуже - если десятка сама подтянет из серверов майкрософта.  
