@@ -37,15 +37,14 @@ modified: 2021-11-09T03:03:34+02:00
 Попытаться предотвратить установку OneDrive, Teams и Edge
 - Настроить панель задач. Убрать поиск, новости, кортану
 
-### **Твики**
-Настройки винды хранятся в реестре. Туда и будем вносить изменения.
-<details markdown="1"><summary markdown="0">+ Как вносить изменения в реестр</summary>
-В текстовый файл с расширением .reg копируешь текст ```Windows Registry Editor Version 5.00``` + пустая строка + сам твик. 
+### **Твики реестра**
+Настройки винды хранятся в реестре. Туда и будем вносить изменения.  
+В текстовый файл с расширением .reg копируешь текст ```Windows Registry Editor Version 5.00``` + пустая строка + сам твик.  
 Их можно комбинировать. Сохраняешь, запускаешь. Успех! 
-</details>
 
-<details markdown="1"><summary markdown="0">+ - Отключить UAC для ускорения установки софта</summary>
-<https://remontka.pro/uac-disable-windows-10/>
+
+<details markdown="1">
+<summary markdown="0">+ - Отключить UAC для ускорения установки софта</summary>
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
 "ConsentPromptBehaviorAdmin"=dword:00000000
@@ -54,9 +53,12 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<details markdown="1"><summary markdown="0">+ Отключить Defender</summary>
-Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки".  
-Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
+
+<details markdown="1">
+<summary markdown="0">+ Отключить Defender</summary>
+
+Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
+
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001
