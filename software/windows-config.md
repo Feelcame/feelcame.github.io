@@ -53,10 +53,8 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-
 <details markdown="1">
 <summary markdown="0">+ Отключить Defender</summary>
-
 Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
 
 ```
@@ -84,7 +82,6 @@ modified: 2021-11-09T03:03:34+02:00
 
 <details markdown="1">
 <summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
-
 [ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 
 ```
@@ -93,7 +90,6 @@ modified: 2021-11-09T03:03:34+02:00
 "Language Hotkey"="2"
 "Layout Hotkey"="3"
 ```
-
 </details>
 
 
