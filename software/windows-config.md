@@ -80,15 +80,20 @@ Win10: Параметры > Обновление и безопасность > �
 ```
 </details>
 
-<details markdown="1"><summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+<details markdown="1">
+<summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+
 [ссылка на скрипт](<https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
+
 ```
 [HKEY_CURRENT_USER\Keyboard Layout\Toggle]
 "Hotkey"="2"
 "Language Hotkey"="2"
 "Layout Hotkey"="3"
 ```
+
 </details>
+
 
 - Включить темную тему <https://remontka.pro/explorer-dark-theme-windows-10/>
 - В пуске удалить ярлыки на установку игр и прочей мешуры
