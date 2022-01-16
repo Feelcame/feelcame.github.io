@@ -43,7 +43,8 @@ modified: 2021-11-09T03:03:34+02:00
 Их можно комбинировать. Сохраняешь, запускаешь. Успех! 
 
 
-<details markdown="1"><summary markdown="0">+ Отключить UAC для ускорения установки софта</summary>
+<details markdown="1">
+<summary markdown="0">+ Отключить UAC для ускорения установки софта</summary>
 
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
@@ -53,8 +54,10 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<details markdown="1"><summary markdown="0">+ Отключить Defender</summary>
+<details markdown="1">
+<summary markdown="0">+ Отключить Defender</summary>
 Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
+
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001
@@ -78,7 +81,9 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<details markdown="1"><summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+<details markdown="1">
+<summary markdown="0">+ Переключить метод смены языка на Ctrl+Shift</summary>
+[ссылка на источник](https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 
 ```
 [HKEY_CURRENT_USER\Keyboard Layout\Toggle]
@@ -86,11 +91,41 @@ modified: 2021-11-09T03:03:34+02:00
 "Language Hotkey"="2"
 "Layout Hotkey"="3"
 ```
-[ссылка на скрипт](https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
+</details>
+
+<details markdown="1">
+<summary markdown="0">+ Включить темную тему</summary>
+
+```
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000
+```
+</details>
+
+<details markdown="1">
+
+<summary markdown="0">+ Добавить значок мой компьютер на рабочий стол</summary>
+
+```
+Когда жил в общаге
+```
+</details>
+
+<summary markdown="0">+ </summary>
+
+```
+
+```
+</details>
+
+<summary markdown="0">+ </summary>
+
+```
+
+```
 </details>
 
 
-- Включить темную тему <https://remontka.pro/explorer-dark-theme-windows-10/>
 - В пуске удалить ярлыки на установку игр и прочей мешуры
 - Удалить предустановленный софт: OneDrive, игры, офис, скайп
 - Добавить значок мой компьютер на рабочий стол <https://remontka.pro/computer-desktop-icon-windows-10/>
