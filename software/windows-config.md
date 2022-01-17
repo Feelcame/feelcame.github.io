@@ -160,10 +160,38 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ ёёё</summary>
+<summary markdown="0">+ Добавить диспетчер задач в автозугрузку</summary>
 
 ```
-ёёё
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
+"Task Manager"="C:\Windows\System32\Taskmgr.exe"
+```
+
+То же самое, но добавлением ярлыка в shell:startup через скрипт.bat
+
+```
+@echo off
+@chcp 1251
+cls
+
+echo Создание ярлыка...
+
+set SCRIPT="%TEMP%\%RANDOM%-%RANDOM%-%RANDOM%-%RANDOM%.vbs"
+
+echo Set oWS = WScript.CreateObject("WScript.Shell") >> %SCRIPT%
+echo sLinkFile = "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Task Manager.lnk" >> %SCRIPT%
+echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %SCRIPT%
+echo oLink.WindowStyle = 7 >> %SCRIPT%
+echo oLink.TargetPath = "taskmgr" >> %SCRIPT%
+echo oLink.Save >> %SCRIPT%
+
+cscript /nologo %SCRIPT%
+del %SCRIPT%
+
+echo OK
+echo.
+start shell:startup
+timeout /t 5
 ```
 </details>
 
