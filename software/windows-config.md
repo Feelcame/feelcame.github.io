@@ -56,7 +56,8 @@ modified: 2021-11-09T03:03:34+02:00
 
 <details markdown="1">
 <summary markdown="0">+ 2. Отключить Defender</summary>
-Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)
+Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)<br>
+Источник: [remontka.pro Откл. защитник](https://remontka.pro/windows-defender-turn-off/), [remontka.pro Откл. уведомления](https://remontka.pro/windows-protection-notification-disable/)
 
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
@@ -117,7 +118,7 @@ modified: 2021-11-09T03:03:34+02:00
 
 <details markdown="1">
 <summary markdown="0">+ 6. Отключить Отключить Windows Update</summary>
-Актуально для очень слабых устройств. Это официальный способ отключить обновы. Инфа взята у [simplix.info](https://blog.simplix.info/disable-update-win10/) и у [remontka.pro](https://remontka.pro/disable-updates-windows-10/). Еще непроверенный вариант программа "winaero".
+Актуально для очень слабых устройств. Это официальный способ отключить обновы. Еще непроверенный вариант - программа "winaero". Инфа взята у [simplix.info](https://blog.simplix.info/disable-update-win10/) и у [remontka.pro](https://remontka.pro/disable-updates-windows-10/)
 
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
@@ -130,7 +131,7 @@ modified: 2021-11-09T03:03:34+02:00
 "NoAutoUpdate"=dword:00000001
 ```
 
-Вернуть все взад
+Вернуть все взад:
 ```
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
 "DoNotConnectToWindowsUpdateInternetLocations"=-
@@ -143,7 +144,29 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
-<summary markdown="0">+ </summary>
+<summary markdown="0">+ Отключение SmartScreen</summary>
+Источник: [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
+
+```
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"SmartScreenEnabled"="Off"
+
+[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\PhishingFilter]
+"EnabledV9"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\AppHost]
+"EnableWebContentEvaluation"=dword:00000000
+```
+</details>
+
+<summary markdown="0">+ ёёё</summary>
+
+```
+ёёё
+```
+</details>
+
+<summary markdown="0">+ ёёё</summary>
 
 ```
 ёёё
@@ -160,9 +183,6 @@ modified: 2021-11-09T03:03:34+02:00
 
 **Отключить Windows Defender и Smart Screen.**  
 Можно сделать через активатор выше. В нем есть такая функция. Этот защитник никого не защищает. Так зачем он нужен??? В новой версии он научился защищать себя, так что возможно, придется отключать более официальными способами. Например через редактор груповых политик (он недоступен в версии Home).  
-- [remontka.pro Как отключить защитник Windows](https://remontka.pro/windows-defender-turn-off/)
-- [remontka.pro Отключить уведомления Защитника Windows 10](https://remontka.pro/windows-protection-notification-disable/)
-- [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
 
 ### **Установить драйвера.**  
 - Лучший вариант - из сайта производителя.  
