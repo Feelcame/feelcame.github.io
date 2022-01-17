@@ -104,7 +104,6 @@ modified: 2021-11-09T03:03:34+02:00
 </details>
 
 <details markdown="1">
-
 <summary markdown="0">+ 5. Добавить значок мой компьютер на рабочий стол</summary>
 
 ```
@@ -144,6 +143,7 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
+<details markdown="1">
 <summary markdown="0">+ Отключение SmartScreen</summary>
 Источник: [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
 
@@ -159,6 +159,7 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
+<details markdown="1">
 <summary markdown="0">+ ёёё</summary>
 
 ```
@@ -166,6 +167,7 @@ modified: 2021-11-09T03:03:34+02:00
 ```
 </details>
 
+<details markdown="1">
 <summary markdown="0">+ ёёё</summary>
 
 ```
