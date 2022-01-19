@@ -98,6 +98,8 @@ id; Наличие; Цена в у.е; Название; Категории че
 Второй: Делать такую же страницу, но обрабатывать ее через джаваскрипт и выводить результаты в виде выпадающего меню, это более привычный вариант
 
 ## Полезные ссылки
+
+- <https://learn.javascript.ru/localstorage>
 - [Snipcart](https://snipcart.com/) - добавь функцию магазина на любой сайт
 - [Trolley](https://trolley.link/) - еще один сервис магазинов
 - [MemberSpace](https://www.memberspace.com/integrations/jekyll-membership/): Add memberships and paywall functionality to a Jekyll site
