@@ -38,29 +38,45 @@ modified: 2021-11-09T03:03:34+02:00
 ### **Твики реестра**
 Настройки винды хранятся в реестре. Туда и будем вносить изменения, автоматически, в обход графического интерфейса
 
-Как пользоваться? В текстовый файл с расширением .reg копируешь текст ```Windows Registry Editor Version 5.00``` + пустая строка + сам твик. Сохраняешь, запускаешь, радуешься!  
-Из представленных здесь твиков можно собрать свой мегапак.
+Как пользоваться? Запустить скачанный файл .reg и согласиться на применение настроек. 
 
->Скачать все вместе: [ссылка](#).  
->Для отключения Windows Defender требуются ручные действия
+>Для отключения Windows Defender требуются сначала вручную отключить "Защиту от подделки"
+
+Если какие-то изменения не требуется - файл можно отредактировать перед запуском в блокноте. Список применяемых твиков - под спойлером.
+
+Скачать все вместе: [**ссылка**](#).  
+
+00. Применить все разом
+01. Отключить Defender
+02. Отключить UAC
+03. Отключить Smart Screen
+04. Отключить Windows Update
+05. Смена языка по Ctrl+Shift
+06. Темная тема оформления
+07. Добавить значок Компьютер на рабочий стол
+08. Открывать Компьютер при запуске проводника
+09. Отключить показ недавних файлов
 
 <details markdown="1">
-<summary markdown="0">+ 1. Отключить UAC для ускорения установки софта</summary>
+<summary markdown="0">+ 00. Исходники твика все в одном</summary>
 
 ```
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
-"ConsentPromptBehaviorAdmin"=dword:00000000
-"EnableLUA"=dword:00000000
-"PromptOnSecureDesktop"=dword:00000000
-```
-</details>
+Windows Registry Editor Version 5.00
 
-<details markdown="1">
-<summary markdown="0">+ 2. Отключить Defender</summary>
-Полное отключение сработает только если сначала вручную отключить пункт "Защита от подделки". Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление нрастройкамии) > Защита от подделки (Откл)<br>
-Источник: [remontka.pro Откл. защитник](https://remontka.pro/windows-defender-turn-off/), [remontka.pro Откл. уведомления](https://remontka.pro/windows-protection-notification-disable/)
+;00. Применить все разом (этот файл)
+;01. Отключить Defender
+;02. Отключить UAC
+;03. Отключить Smart Screen
+;04. Отключить Windows Update
+;05. Смена языка по Ctrl+Shift
+;06. Темная тема оформления
+;07. Добавить значок Компьютер на рабочий стол
+;08. Открывать Компьютер при запуске проводника
+;09. Отключить показ недавних файлов
 
-```
+
+;01. Отключить Defender. Сработает только если сначала вручную отключить пункт "Защита от подделки".
+;Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление настройками) > Защита от подделки (Откл)
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
 "DisableAntiSpyware"=dword:00000001
 "AllowFastServiceStartup"=dword:00000000
@@ -80,75 +96,16 @@ modified: 2021-11-09T03:03:34+02:00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Notifications]
 "DisableNotifications"=dword:00000001
-```
-</details>
 
-<details markdown="1">
-<summary markdown="0">+ 3. Переключить метод смены языка на Ctrl+Shift</summary>
-[ссылка на источник](https://softikbox.com/kak-izmenit-sochetanie-klavish-dlya-smenyi-raskladki-klaviaturyi-na-windows-10-21931.html)
 
-```
-[HKEY_CURRENT_USER\Keyboard Layout\Toggle]
-"Hotkey"="2"
-"Language Hotkey"="2"
-"Layout Hotkey"="3"
-```
-</details>
+;02. Отключить UAC
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
+"ConsentPromptBehaviorAdmin"=dword:00000000
+"EnableLUA"=dword:00000000
+"PromptOnSecureDesktop"=dword:00000000
 
-<details markdown="1">
-<summary markdown="0">+ 4. Включить темную тему</summary>
 
-```
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
-"AppsUseLightTheme"=dword:00000000
-```
-</details>
-
-<details markdown="1">
-<summary markdown="0">+ 5. Добавить значок мой компьютер на рабочий стол</summary>
-
-```
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
-"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
- 
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu]
-"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
-```
-</details>
-
-<details markdown="1">
-<summary markdown="0">+ 6. Отключить Windows Update</summary>
-Актуально для очень слабых устройств. Это официальный способ отключить обновы. Еще непроверенный вариант - программа "winaero". Инфа взята у [simplix.info](https://blog.simplix.info/disable-update-win10/) и у [remontka.pro](https://remontka.pro/disable-updates-windows-10/)
-
-```
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
-"DoNotConnectToWindowsUpdateInternetLocations"=dword:00000001
-"WUServer"="localhost"
-"WUStatusServer"="localhost"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
-"UseWUServer"=dword:00000001
-"NoAutoUpdate"=dword:00000001
-```
-
-Вернуть все взад:
-```
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
-"DoNotConnectToWindowsUpdateInternetLocations"=-
-"WUServer"=-
-"WUStatusServer"=-
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
-"UseWUServer"=-
-"NoAutoUpdate"=-
-```
-</details>
-
-<details markdown="1">
-<summary markdown="0">+ Отключение SmartScreen</summary>
-Источник: [remontka.pro Отключение SmartScreen](https://remontka.pro/smartscreen-off-windows-10/)
-
-```
+;03. Отключить Smart Screen
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
 "SmartScreenEnabled"="Off"
 
@@ -157,50 +114,60 @@ modified: 2021-11-09T03:03:34+02:00
 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\AppHost]
 "EnableWebContentEvaluation"=dword:00000000
-```
-</details>
 
-<details markdown="1">
-<summary markdown="0">+ Добавить диспетчер задач в автозугрузку</summary>
 
-```
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run]
-"Task Manager"="C:\Windows\System32\Taskmgr.exe"
-```
+;04. Отключить обновления Win10. Официальный способ
+;Инфа тут https://blog.simplix.info/disable-update-win10/ и тут https://remontka.pro/disable-updates-windows-10/
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"DoNotConnectToWindowsUpdateInternetLocations"=dword:00000001
+"WUServer"="localhost"
+"WUStatusServer"="localhost"
 
-То же самое, но добавлением ярлыка в shell:startup через скрипт.bat
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"UseWUServer"=dword:00000001
+"NoAutoUpdate"=dword:00000001
 
-```
-@echo off
-@chcp 1251
-cls
 
-echo Создание ярлыка...
+;Как вернуть все взад? Раскомментируй, скопируй в отдельный файл и запусти.
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+;"DoNotConnectToWindowsUpdateInternetLocations"=-
+;"WUServer"=-
+;"WUStatusServer"=-
 
-set SCRIPT="%TEMP%\%RANDOM%-%RANDOM%-%RANDOM%-%RANDOM%.vbs"
+;[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+;"UseWUServer"=-
+;"NoAutoUpdate"=-
 
-echo Set oWS = WScript.CreateObject("WScript.Shell") >> %SCRIPT%
-echo sLinkFile = "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Task Manager.lnk" >> %SCRIPT%
-echo Set oLink = oWS.CreateShortcut(sLinkFile) >> %SCRIPT%
-echo oLink.WindowStyle = 7 >> %SCRIPT%
-echo oLink.TargetPath = "taskmgr" >> %SCRIPT%
-echo oLink.Save >> %SCRIPT%
 
-cscript /nologo %SCRIPT%
-del %SCRIPT%
+;05. Смена языка по Ctrl+Shift
+[HKEY_CURRENT_USER\Keyboard Layout\Toggle]
+"Hotkey"="2"
+"Language Hotkey"="2"
+"Layout Hotkey"="3"
 
-echo OK
-echo.
-start shell:startup
-timeout /t 5
-```
-</details>
 
-<details markdown="1">
-<summary markdown="0">+ ёёё</summary>
+;06. Темная тема оформления
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"AppsUseLightTheme"=dword:00000000
 
-```
-ёёё
+
+;07. Добавить значок Компьютер на рабочий стол
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
+ 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu]
+"{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
+
+
+;08. Открывать Компьютер при запуске проводника (вместо избранного)
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"LaunchTo"=dword:00000001
+
+
+;09. Отключить показ недавних файлов
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"ShowRecent"=dword:00000000
+"ShowFrequent"=dword:00000000
 ```
 </details>
 
