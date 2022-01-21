@@ -41,9 +41,10 @@ pin: 6
 
 - Спойлеры
 ```html
-<details markdown="1"><summary markdown="0">+ Сегодня в программе</summary>
+<details markdown="1">
+<summary markdown="0">+ Сегодня в программе</summary>
 * Table of Content  
-{: toc}
+{ : toc}
 </details>
 ```
 
