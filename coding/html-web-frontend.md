@@ -3,37 +3,45 @@ title: HTML, веб и ваще
 date: 2021-01-17T00:34:10+02:00
 modified: 2021-09-17T00:20:23+03:00
 tags: web
+pin: 6
 ---
 
-F.A.Q
+Технологии для написания сайтов, где их хостить. Полезные фишки по фронтенду (html, css, js). Чуть про бэкенд (cms, фреймворки) на разных языках программирования. Ссылки на полезные сервисы и, конечно же, сниппеты (примеры кода).
 
-## Масштаб по экрану
+## Содержание
+{: .no_toc }
+- Table of Content  
+{: toc }
+
+
+## Полезные сниппеты
+- **Масштаб по экрану**
 Задать ширину страницы в соответствии с размером экрана.  
 Документация: [ссылка](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
 ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 
-## Событие onclick
+- **Событие onclick**
 Как отменить переход по ссылке с обработчиком onclick?  
 Нужно что бы выполняемая функция вернула false.  
 Вот пример: <a href="#" onclick="alert('test');return(false);">Ссылка</a>  
 ```<a href="#" onclick="alert('test');return(false);">ссылка</a>```
 
-## Как задать базовый урл для всех относительных ссылок на странице?  
+- Как задать базовый урл для всех относительных ссылок на странице?  
 Например для таких: "/index.html", "./file.png" или "../../img/file.png  
 ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 
-## Ссылка для скачивания
-Скачать файл по ссылке: <a href="#" download="test.html">ссылка</a>   
+- Ссылка для скачивания
+Скачать файл по ссылке: <a href="#" download="test.txt">ссылка</a>   
 ```<a href="#" download="test.html">ссылка</a>```
 
-## Данные внутри ссылки
+- Данные внутри ссылки
 Протокол ссылки data:base64. Документация: [ссылка](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
 Пример ссылки с протоколом data: <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>  
 ```<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>```
 
-## Спойлер
+- Спойлеры
 ```html
-<details markdown="1"><summary>+ Сегодня в программе</summary>
+<details markdown="1"><summary markdown="0">+ Сегодня в программе</summary>
 * Table of Content  
 {: toc}
 </details>
@@ -41,9 +49,9 @@ F.A.Q
 
 ### Сайты референсные:
 1. w3c
-3. <https://webref.ru/>
-4. <https://webreff.ru/>
-5. <https://developer.mozilla.org/ru/docs/Web>
+1. <https://webref.ru/>
+1. <https://webreff.ru/>
+1. <https://developer.mozilla.org/ru/docs/Web>
 
 ## HTML JS CSS
 
@@ -68,6 +76,14 @@ F.A.Q
 1. <https://gitlab.com/commento/commento>  
 
 *** 
+
+## CMS
+**Темы wordpress**
+1. <https://www.cryoutcreations.eu/wordpress-themes/mantra>
+1. <https://alx.media/themes/>
+1. <https://wordpress.org/themes/anther/>
+1. <https://generatepress.com/>  
+{: reversed="reversed"}
 
 ## Фреймворки
 
@@ -107,6 +123,7 @@ bootstrap/
 [Раздел вынесен на отдельную страницу](./hosting.md)
 
 
-## Javascript-фреймворки
+## Javascript
+**Фреймворки**  
 [на отдельной странице](./javascript.md)
 
