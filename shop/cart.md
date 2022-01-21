@@ -29,5 +29,4 @@ function addToCart(param) {
   renderCart();
   return(false);
 }
-renderCart();
 </script>
