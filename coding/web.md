@@ -40,6 +40,8 @@ pin: 6
 ```<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>```
 
 - Спойлеры
+{% raw %}
+
 ```html
 <details markdown="1">
 <summary markdown="0">+ Сегодня в программе</summary>
@@ -47,6 +49,8 @@ pin: 6
 { : toc}
 </details>
 ```
+
+{% endraw %}
 
 ### Сайты референсные:
 1. w3c
