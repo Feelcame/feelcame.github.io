@@ -18,16 +18,16 @@ pin: 0
 
 <script>
 function renderCart() {
-  let cart = document.getElementById('cart')';
-  cart.document.getElementById('cart').style.display='block';
+  let cart = document.getElementById('cart');
+  cart.style.display='block';
   cart.innerHTML = localStorage.getItem('key1');
-  alert( localStorage.getItem('key1') );
   return(false);
 }
 
 function addToCart(param) {
   localStorage.setItem('key1', param);
-  alert("Добавлено");
+  renderCart();
   return(false);
 }
+renderCart();
 </script>
