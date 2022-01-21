@@ -23,6 +23,7 @@ tags: project
 7) MicroSD кардридер
 8) Тестовые точки внутри
 
+<http://we.easyelectronics.ru/electro-and-pc/fe11-fe21-ili-chto-nam-stoit-usb-hub-postroit.html>
 
 # Компоненты
 - [Разъем USB Type A (мама, двойной, горизонтальный)](https://www.lcsc.com/product-detail/span-style-background-color-ff0-USB-span-Connectors_Jing-Extension-of-the-Electronic-Co-907-111A1022D10200_C12049.html)
