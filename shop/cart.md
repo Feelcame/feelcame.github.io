@@ -3,10 +3,12 @@ title: Корзина
 pin: 0
 ---
 
+Инфа хранится в [LocalStorage](https://learn.javascript.ru/localstorage)
 
-<a href="#" onclick="addToCart();">Добавить в корзину</a>
+<a href="#" onclick="addToCart("1");">Добавить "1" в корзину</a><br>
+<a href="#" onclick="addToCart("2");">Добавить "2" в корзину</a><br>
+<a href="#" onclick="renderCart();">Показать корзину</a><br>
 
-<a href="#" onclick="renderCart();">Показать корзину</a>
 
 <div id="cart" style="display: none;">Содержимое корзины:</div>
 
@@ -18,8 +20,8 @@ function renderCart() {
   return(false);
 }
   
-function addToCart() {
-  localStorage.setItem('key1', "1");
+function addToCart(param) {
+  localStorage.setItem('key1', param);
   alert("Добавлено");
   return(false);
 }
