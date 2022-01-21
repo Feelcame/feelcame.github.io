@@ -15,33 +15,32 @@ pin: 6
 
 
 ## Полезные сниппеты
-- **Масштаб по экрану**
+- **Масштаб по экрану**  
 Задать ширину страницы в соответствии с размером экрана.  
 Документация: [ссылка](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
 ```<meta name="viewport" content="width=device-width, initial-scale=1">```
 
-- **Событие onclick**
+- **Событие onclick**  
 Как отменить переход по ссылке с обработчиком onclick?  
 Нужно что бы выполняемая функция вернула false.  
 Вот пример: <a href="#" onclick="alert('test');return(false);">Ссылка</a>  
 ```<a href="#" onclick="alert('test');return(false);">ссылка</a>```
 
-- Как задать базовый урл для всех относительных ссылок на странице?  
+- **Как задать базовый урл для всех относительных ссылок на странице?**  
 Например для таких: "/index.html", "./file.png" или "../../img/file.png  
 ```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
 
-- Ссылка для скачивания
+- **Ссылка для скачивания**  
 Скачать файл по ссылке: <a href="#" download="test.txt">ссылка</a>   
 ```<a href="#" download="test.html">ссылка</a>```
 
-- Данные внутри ссылки
+- **Данные внутри ссылки**  
 Протокол ссылки data:base64. Документация: [ссылка](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
 Пример ссылки с протоколом data: <a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>  
 ```<a href="data:text/html,%3Ch1%3EHello%2C%20World!%3C%2Fh1%3E" download="test2.html">ссылка</a>```
 
-- Спойлеры
+- **Спойлеры**  
 {% raw %}
-
 ```html
 <details markdown="1">
 <summary markdown="0">+ Сегодня в программе</summary>
@@ -49,7 +48,6 @@ pin: 6
 { : toc}
 </details>
 ```
-
 {% endraw %}
 
 ### Сайты референсные:
