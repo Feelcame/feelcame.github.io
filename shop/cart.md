@@ -10,7 +10,7 @@ pin: 0
 <a href="#" onclick="renderCart();">Показать корзину</a>  
 
 Содержимое:
-<div id="cart" style="display: none;">
+<div id="cart" style="display: block;">
 Корзина пуста!
 </div>
 
