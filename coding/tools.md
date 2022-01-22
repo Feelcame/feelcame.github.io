@@ -4,7 +4,7 @@ modified: 2021-08-25T11:36:24+03:00
 title: Инструменты программиста
 ---
 
-#### Как писать? IDE's + редакторы кода
+## Редакторы кода
 - [**Visual Studio Code**](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
 - Visual Studio
@@ -16,9 +16,15 @@ title: Инструменты программиста
 
 На телефон
 - AIDE
-- Acode
+* Acode
+* TrebEdit
+* a writer
+* HTML Editor
+* AWD
+* Subedi
 
-#### пакетные менеджеры
+
+## пакетные менеджеры
 - <https://yarnpkg.com/getting-started/recipes>
 
 ## Контроль версий
@@ -31,21 +37,17 @@ title: Инструменты программиста
 * MGit
 * GitReference
 * FastHub
-        
-   
-Редакторы кода:
-* Acode
-* TrebEdit
-* a writer
-* HTML Editor
-* AWD
-* Subedi
-  
-Для синхронизации:
+
+
+Сервер:
+* Gitea
+
+еще есть svn
+
+## Для синхронизации:
 * Sync
 * Synching
 * Termius
 * juiceSSH
 
-Сервер:
-* Gitea
+
