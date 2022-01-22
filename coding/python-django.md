@@ -1,5 +1,5 @@
 ---
-title: Python. Django
+title: Python. Django веб сервер
 date: 2021-02-12T01:40:22+02:00
 modified: 2021-08-25T11:37:21+03:00
 ---
