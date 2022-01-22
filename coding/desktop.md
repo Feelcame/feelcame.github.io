@@ -25,3 +25,12 @@ GUI:
 Телеграм:
 * <https://medium.com/golang-notes/%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-%D0%B1%D0%BE%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-telegram-%D0%BD%D0%B0-go-71c9acd102d1>
 * 
+
+
+## gui python
+* <https://habr.com/ru/company/edison/blog/480884/>  
+* <https://techrocks.ru/2018/04/26/13-python-gui-frameworks/>  
+* <https://www.youtube.com/watch?v=cK-hvG-Q9B0>  
+* <https://docs.python.org/3/faq/gui.html>  
+* <https://pythonworld.ru/gui>
+* <https://docs.python.org/3/faq/gui.html#wxwidgets>
