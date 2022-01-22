@@ -14,6 +14,83 @@ pin: 6
 {: toc }
 
 
+## Хранитиели древних знаний
+1. <https://developer.mozilla.org/ru/docs/Web>
+2. https://learn.javascript.ru/
+1. w3c
+1. <https://webref.ru/>
+1. <https://webreff.ru/>
+
+
+## HTML
+Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.
+CSS
+
+1. CSS Grid <https://tproger.ru/translations/how-css-flexbox-works/>
+2. <https://puzzleweb.ru/javascript/element_innerhtml.php>
+3. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
+4. <https://learn.javascript.ru/searching-elements-dom>
+5. <>
+
+## CSS
+Каскадные таблицы стилей используются для описания внешнего вида веб-контента.
+
+Про иерархию селекторов CSS и нгаследование
+- Тут понятно описано <https://webref.ru/course/css-basics/selectors>
+- А тут детально <https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance>
+
+## Javascript
+JavaScript — язык программирования, широко используемый для реализации взаимодействия пользователя с веб-сайтами и приложениями.
+
+**Фреймворки** [на отдельной странице](./javascript.md)
+
+## CMS
+**Темы wordpress**
+1. <https://www.cryoutcreations.eu/wordpress-themes/mantra>
+1. <https://alx.media/themes/>
+1. <https://wordpress.org/themes/anther/>
+1. <https://generatepress.com/>  
+{: reversed="reversed"}
+
+## Хостинг
+[Раздел вынесен на отдельную страницу](./hosting.md)
+
+## Фреймворки и библиотеки
+Когда нужно ускорить решение повторяющихся задач - используют библиотеки с заранее написанными функциями. Когда вся работа состоит из решения массива задач и ловкому маневрированию между ними - используют фреймворки. Они позволяют не только расширнить границы возможностей разработчика, но и в значительной мере ограждают от ошибок. Некоторые крутые фреймворки можно даже считать отдельными языками программирования. Ниже кратко про вот это вот все.
+- twitter bootstrap - для быстрой разработки адаптивных страниц.  
+- react - асинхронная обработка запросов, похоже на AJAX
+- vue - позволяет без обновления страницы перегенерировать ее содержимое
+- 
+Мне понравилось оформление дерева с помощью спецсимволов, решил скопировать
+
+```
+bootstrap/  
+├── css/  
+│   ├── bootstrap-grid.css  
+│   └── bootstrap.min.css.map  
+└── js/  
+    ├── bootstrap.bundle.js  
+    └── bootstrap.min.js.map  
+```
+
+## Песочницы
+Песочница - это место для игры с кодом. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример - это хорошее демо ;-)
+1. [JsFiddle](http://jsfiddle.net/sLZq8/2/) + [еще пример](https://jsfiddle.net/GdSVn/) + <https://jsfiddle.net/gableroux/S2SMK/>
+3. [Plunker](https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview)
+4. [JsBin](http://jsbin.com/rebogevoga/edit?html,output)
+5. [CodePen](https://codepen.io/liptonicetea/pen/NdvxYe)
+6. [w3school](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle)
+7. [pagedemos](http://pagedemos.com/)
+8. ...
+
+## Бьютифаеры, форматтеры
+1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
+2. [beautifier.io](https://beautifier.io/)
+3. <https://codebeautify.org/jsviewer>
+4. <https://html-cleaner.com/js/>
+5. <https://beautifytools.com/javascript-beautifier.php>
+
+
 ## Полезные сниппеты
 - **Масштаб по экрану**  
 Задать ширину страницы в соответствии с размером экрана.  
@@ -50,24 +127,6 @@ pin: 6
 ```
 {% endraw %}
 
-### Сайты референсные:
-1. w3c
-1. <https://webref.ru/>
-1. <https://webreff.ru/>
-1. <https://developer.mozilla.org/ru/docs/Web>
-
-## HTML JS CSS
-
-1. CSS Grid <https://tproger.ru/translations/how-css-flexbox-works/>
-2. <https://puzzleweb.ru/javascript/element_innerhtml.php>
-3. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
-4. <https://learn.javascript.ru/searching-elements-dom>
-5. <>
-
-Про иерархию селекторов CSS и нгаследование
-- Тут понятно описано <https://webref.ru/course/css-basics/selectors>
-- А тут детально <https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance>
-
 ## Севрисы комментариев на статический сайт
 
 **Севрисы комментариев:**  
@@ -80,53 +139,6 @@ pin: 6
 
 *** 
 
-## CMS
-**Темы wordpress**
-1. <https://www.cryoutcreations.eu/wordpress-themes/mantra>
-1. <https://alx.media/themes/>
-1. <https://wordpress.org/themes/anther/>
-1. <https://generatepress.com/>  
-{: reversed="reversed"}
-
-## Фреймворки
-
-## Структура файлов twitter bootstrap
-Мне понравилось оформление дерева с помощью спецсимволов, решил скопировать
-
-```
-bootstrap/  
-├── css/  
-│   ├── bootstrap-grid.css  
-│   └── bootstrap.min.css.map  
-└── js/  
-    ├── bootstrap.bundle.js  
-    ├── bootstrap.bundle.js.map  
-    └── bootstrap.min.js.map  
-```
-
-## Песочницы
-Песочница - это место для игры с кодом. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример - это хорошее демо ;-)
-1. [JsFiddle](http://jsfiddle.net/sLZq8/2/) + [еще пример](https://jsfiddle.net/GdSVn/) + <https://jsfiddle.net/gableroux/S2SMK/>
-3. [Plunker](https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview)
-4. [JsBin](http://jsbin.com/rebogevoga/edit?html,output)
-5. [CodePen](https://codepen.io/liptonicetea/pen/NdvxYe)
-6. [w3school](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle)
-7. [pagedemos](http://pagedemos.com/)
-8. ...
-
-## Бьютифаеры, форматтеры
-1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
-2. [beautifier.io](https://beautifier.io/)
-3. <https://codebeautify.org/jsviewer>
-4. <https://html-cleaner.com/js/>
-5. <https://beautifytools.com/javascript-beautifier.php>
 
 
-## хостинг
-[Раздел вынесен на отдельную страницу](./hosting.md)
-
-
-## Javascript
-**Фреймворки**  
-[на отдельной странице](./javascript.md)
 
