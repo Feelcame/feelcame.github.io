@@ -20,3 +20,32 @@ title: Инструменты программиста
 
 #### пакетные менеджеры
 - <https://yarnpkg.com/getting-started/recipes>
+
+## Контроль версий
+Программы для работы с GitHub. 
+Как оказалось это большая редкость найти программу, которая умеет в git.
+Ниже привожу список тех, работа которых мне понравилась.
+
+* GitHub
+* Git journal
+* MGit
+* GitReference
+* FastHub
+        
+   
+Редакторы кода:
+* Acode
+* TrebEdit
+* a writer
+* HTML Editor
+* AWD
+* Subedi
+  
+Для синхронизации:
+* Sync
+* Synching
+* Termius
+* juiceSSH
+
+Сервер:
+* Gitea
