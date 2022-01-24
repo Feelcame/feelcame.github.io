@@ -17,20 +17,20 @@ modified: 2021-09-27T16:51:43+03:00
 ### **YouTube** ###
 - [@SaveYoutubeBot](tg://resolve?domain=SaveYoutubeBot) - хранит весь ютуб на серверах телеграма. Присылает файл мгновенно. Может скачать плейлист из песен в MP3
 - [@youtubabot](tg://resolve?domain=youtubabot) - от автора предыдущего бота на случай его бана
-- [@downloadyoutubebot](#) - медленно
-- [@utubebot](#) - реалама
+- [@downloadyoutubebot](tg://resolve?domain=downloadyoutubebot) - медленно
+- [@utubebot](tg://resolve?domain=utubebot) - реалама
 
 ### **Файлы** ###
 - [@tlgurbot](tg://resolve?domain=tlgurbot) - дает прямую ссылку на файл из телеграма
 - [@mediauploader_bot](tg://resolve?domain=mediauploader_bot) - выгружает картинки и видео размером до 5мб на сервис telegra.ph
-- [@uploadbot](#) - загружает файлы по прямой ссылке в телеграм. реклама
-- [@apkdl_bot](#) - скачивает APK из Play маркета. тупой
+- [@uploadbot](tg://resolve?domain=utubebot) - загружает файлы по прямой ссылке в телеграм. реклама
+- [@apkdl_bot](tg://resolve?domain=utubebot) - скачивает APK из Play маркета. тупой
 
 ### **Напоминалки** ###
-- [@Skeddy](#) - уведомления и заметки
-- [@AlertBot](#) - уведомления
-- [@NovaPoshta_Bot](#) - проверить статус доставки посылки
-- [@Gmailbot](#) - пересылает почту в телеграм
+- [@Skeddy](tg://resolve?domain=utubebot) - уведомления и заметки
+- [@AlertBot](tg://resolve?domain=utubebot) - уведомления
+- [@NovaPoshta_Bot](tg://resolve?domain=utubebot) - проверить статус доставки посылки
+- [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
 Админу: @combot @ChatKeeperBot @ControllerBot @junction_bot @redirectsbot @PostBot @showjsonbot 
 
