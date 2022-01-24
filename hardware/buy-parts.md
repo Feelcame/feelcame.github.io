@@ -44,6 +44,7 @@ title: Где купить компоненты? + доставка
 - <https://octopart.com>
 - <https://www.snapeda.com>
 - <https://www.findchips.com>
+- <https://www.chipfind.ru/>
 
 ## Магазины запчастей для телефонов
 - all-spares
