@@ -14,30 +14,32 @@ pin: 6
 
 ## Хранитиели древних знаний
 1. <https://developer.mozilla.org/ru/docs/Web>
-2. https://learn.javascript.ru/
+2. <https://learn.javascript.ru/>
 1. w3c
 1. <https://webref.ru/>
 1. <https://webreff.ru/>
 
 
-## HTML
-Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.
-CSS
+## HTML разметка
+Язык гипертекстовой разметки — это язык, используемый для определения структуры и описания содержания веб-страницы в структурированной форме.[скопипатчено]
 
-1. CSS Grid <https://tproger.ru/translations/how-css-flexbox-works/>
+Все сайты написаны на HTML. Да, даже если какой-то маньяк и написал весь фронт на javascript. Для правильного отображения его все-равно нужно перегнать в HTML. 
+Плохой пример - это данные в виде json и т.п. форматов для машинной обработки данных. Хороший пример - markdown для удобного написания статей человеком. Все они в итоге преобразуются в хтмл.
+
 2. <https://puzzleweb.ru/javascript/element_innerhtml.php>
 3. <https://frontblog.ru/javascript-kak-poluchit-get-parametr.html>
 4. <https://learn.javascript.ru/searching-elements-dom>
-5. <>
 
-## CSS
+## CSS стили
 Каскадные таблицы стилей используются для описания внешнего вида веб-контента.
 
-Про иерархию селекторов CSS и нгаследование
+Про иерархию селекторов CSS и наследование
 - Тут понятно описано <https://webref.ru/course/css-basics/selectors>
 - А тут детально <https://developer.mozilla.org/ru/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance>
 
-## Javascript
+1. CSS Grid <https://tproger.ru/translations/how-css-flexbox-works/>
+
+## Javascript сценарии
 JavaScript — язык программирования, широко используемый для реализации взаимодействия пользователя с веб-сайтами и приложениями.
 
 ## Фреймворки и библиотеки
@@ -76,7 +78,8 @@ bootstrap/
 1. <https://wordpress.org/themes/anther/>
 1. <https://generatepress.com/>  
 
-## Песочницы
+## Полезные сервисы
+### Песочницы
 Песочница - это место для игры с кодом. Его можно отлаживать, тестировать, сохранять и делиться. Ниже перечень известных мне сайтов-песочниц. Возможно некоторые ссылки ведут на какой либо пример - это хорошее демо ;-)
 1. [JsFiddle](http://jsfiddle.net/sLZq8/2/) + [еще пример](https://jsfiddle.net/GdSVn/) + <https://jsfiddle.net/gableroux/S2SMK/>
 3. [Plunker](https://plnkr.co/edit/ATV5zGc1JUSb9O9Xszcs?p=preview&preview)
@@ -85,33 +88,50 @@ bootstrap/
 6. [w3school](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_style_display_toggle)
 7. [pagedemos](http://pagedemos.com/)
 
-## Бьютифаеры, форматтеры
+### Бьютифаеры, форматтеры
 1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
 2. [beautifier.io](https://beautifier.io/)
 3. <https://codebeautify.org/jsviewer>
 4. <https://html-cleaner.com/js/>
 5. <https://beautifytools.com/javascript-beautifier.php>
 
+### Севрисы комментариев на статический сайт
+
+1. <https://github.com/utterance/utterances>  
+1. <https://github.com/gitalk/gitalk>  
+1. <https://github.com/meteorlxy/vssue>
+
+1. <https://www.hypercomments.com/>
+1. <https://gitlab.com/commento/commento>  
+
 
 ## Полезные сниппеты
-- **Масштаб по экрану**  
+**Масштаб по экрану**  
 Задать ширину страницы в соответствии с размером экрана.  
 Документация: [ссылка](https://developer.mozilla.org/ru/docs/Glossary/Viewport)  
-```<meta name="viewport" content="width=device-width, initial-scale=1">```
+```
+<meta name="viewport" content="width=device-width, initial-scale=1">
+```
 
-- **Событие onclick**  
+**Отменить переход по нажатой ссылке**  
 Как отменить переход по ссылке с обработчиком onclick?  
 Нужно что бы выполняемая функция вернула false.  
 Вот пример: <a href="#" onclick="alert('test');return(false);">Ссылка</a>  
-```<a href="#" onclick="alert('test');return(false);">ссылка</a>```
+```
+<a href="#" onclick="alert('test');return(false);">ссылка</a>
+```
 
 - **Как задать базовый урл для всех относительных ссылок на странице?**  
 Например для таких: "/index.html", "./file.png" или "../../img/file.png  
-```<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">```
+```
+<base href="/example/images/">``` или для jekyll: ```<base href="%site.baseurl%">
+```
 
-- **Ссылка для скачивания**  
-Скачать файл по ссылке: <a href="#" download="test.txt">ссылка</a>   
-```<a href="#" download="test.html">ссылка</a>```
+- **Скачать ссылку принудительно**  
+Скачать эту страницу как txt-файл: <a href="#" download="test.txt">ссылка</a>   
+```
+<a href="#" download="test.html">ссылка</a>
+```
 
 - **Данные внутри ссылки**  
 Протокол ссылки data:base64. Документация: [ссылка](https://developer.mozilla.org/ru/docs/Web/HTTP/Basics_of_HTTP/Data_URIs>).  
@@ -129,15 +149,7 @@ bootstrap/
 ```
 {% endraw %}
 
-## Севрисы комментариев на статический сайт
 
-**Севрисы комментариев:**  
-1. <https://github.com/utterance/utterances>  
-1. <https://github.com/gitalk/gitalk>  
-1. <https://github.com/meteorlxy/vssue>
-
-1. <https://www.hypercomments.com/>
-1. <https://gitlab.com/commento/commento>  
 
  
 
