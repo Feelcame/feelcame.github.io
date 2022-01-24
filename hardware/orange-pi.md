@@ -27,6 +27,8 @@ title: Одноплатные компьютеры Orange Pi и другие
 - LattePanda, 
 - ThinkerBoard
 - RockPi X на винде
+- Zotac Zbox
+- Mele Quieter2
 
 
 ## Каталог
