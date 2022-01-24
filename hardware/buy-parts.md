@@ -2,6 +2,7 @@
 date: 2021-10-15T00:00:00+02:00
 modified: 2021-11-03T00:00:00+02:00
 title: Где купить компоненты? + доставка
+comments: true
 ---
 
 
@@ -59,7 +60,7 @@ title: Где купить компоненты? + доставка
 ## Барахолки
 * <https://aliexpress.com> - китайский супермаркет. много подделок.
 * <https://prom.ua> - украинский онлайн-базар. есть все, в т.ч. компоненты
-
+- <https://www.1688.com/> - китай
 ## в рашке
 - <https://www.youtube.com/watch?v=b1eec7TfTwI>
 - <https://www.youtube.com/watch?v=S3o2RDq4r50>
