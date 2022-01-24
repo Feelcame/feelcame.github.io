@@ -35,6 +35,11 @@ comments: 93
 - [**ESP Easy**](https://www.letscontrolit.com/index.php#ESPEasy). ([документация](https://www.letscontrolit.com/wiki/index.php/ESPEasy#Introduction)). Конструктор прошивок
 - [**ESPHome**](https://esphome.io/) is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 
+## Утилиты для отладки
+- <https://github.com/me-no-dev/EspExceptionDecoder>
+- <https://github.com/esp8266/arduino-esp8266fs-plugin/releases>
+- <https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/>
+
 ## Документация
 - [Espressif](https://www.espressif.com/en/support/documents/technical-documents). Вся официальная документация от производителя на одной странице
 - [Arduino ESP8266][esp8266]. Доки по фреймворку Arduino для ESP8266 от "ESP8266 Community Forum"
