@@ -17,24 +17,29 @@ modified: 2021-09-27T16:51:43+03:00
 - [@yamdbot](tg://resolve?domain=yamdbot) - в ответ на ссылку присылает трек. Или целый альбом
 
 ### **YouTube**
-- [@SaveYoutubeBot] - хранит весь ютуб на серверах телеграма. Присылает файл мгновенно. Может скачать плейлист из песен в MP3
-- @youtubabot - от автора предыдущего бота на случай его бана
-- @utubebot 
-- @uploadbot 
-- @apkdl_bot 
-- @mediauploader_bot 
+- [@SaveYoutubeBot](tg://resolve?domain=SaveYoutubeBot) - хранит весь ютуб на серверах телеграма. Присылает файл мгновенно. Может скачать плейлист из песен в MP3
+- [@youtubabot](tg://resolve?domain=youtubabot) - от автора предыдущего бота на случай его бана
 - @downloadyoutubebot
+- @utubebot 
 
-Фильмы: @HDFilmsBot @MotherMoviesbot @cinemaking_bot @afilmbot
-Официальные: @vid @gif @pic @like @botfather @stickers
-Уведомления: @Skeddy @AlertBot
-Социальные: @NovaPoshta_Bot @Gmailbot
-Админу: @combot @ChatKeeperBot @ControllerBot
-Комменты: @CommentsBot @DiscussBot @CommentsUserBot @ComenBot @CommentsVahterBot
-Файлы: @tlgur @apkdl_bot @uploadbot @mediauploader_bot
-Текст: @StickerizerBot @HideItBot @showjsonbot @PostBot
-Пересылка: @junction_bot @redirectsbot
-Прочее: @FindNewBot @isbot @botscollection
+### **Файлы**
+- [@tlgur](tg://resolve?domain=tlgur) - дает прямую ссылку на файл из телеграма
+- [@mediauploader_bot](tg://resolve?domain=mediauploader_bot) - выгружает картинки и видео размером до 5мб на сервис telegra.ph
+- @uploadbot - загружает файлы по прямой ссылке в телеграм
+- @apkdl_bot - скачивает APK из Play маркета
+
+### **Напоминалки**
+- @Skeddy 
+- @AlertBot 
+- @NovaPoshta_Bot 
+- @Gmailbot  
+
+Админу: @combot @ChatKeeperBot @ControllerBot @junction_bot @redirectsbot @PostBot @showjsonbot 
+
+Официальные: @vid @gif @pic @like @botfather @stickers  
+Фильмы: @HDFilmsBot @MotherMoviesbot @cinemaking_bot @afilmbot  
+Комменты: @CommentsBot @DiscussBot @CommentsUserBot @ComenBot @CommentsVahterBot  
+Прочее: @StickerizerBot @HideItBot  @FindNewBot @isbot @botscollection  
 
 
 
