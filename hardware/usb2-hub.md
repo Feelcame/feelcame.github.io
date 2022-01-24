@@ -26,13 +26,27 @@ tags: project
 <http://we.easyelectronics.ru/electro-and-pc/fe11-fe21-ili-chto-nam-stoit-usb-hub-postroit.html>
 
 # Компоненты
+**USB Hub**
+- FE2.1 / FE1.1 / FE1.1s
+
+**Ethernet to USB**
+- RTL8152B
+- ...
+
+**Разъемы USB**
 - [Разъем USB Type A (мама, двойной, горизонтальный)](https://www.lcsc.com/product-detail/span-style-background-color-ff0-USB-span-Connectors_Jing-Extension-of-the-Electronic-Co-907-111A1022D10200_C12049.html)
-- [Разъем Ethernet со встроенными трансформаторами]()
 - [Разъем USB Micro A]()
 - [Разъем USB Mini A]()
 - [Разъем USB Type C]()
-- [Разъем питания 5.5/2.1 мм]()
-- [Разъем ]()
+
+**Разъем внешнего питания**
+- [Разъем питания 5.5/2.1 мм](#)
+
+**Разъем Ethernet**
+- [Разъем Ethernet со встроенными трансформаторами](#)
+
+**Разъем аудио**
+- [Разъем ](#)
 
 
 
