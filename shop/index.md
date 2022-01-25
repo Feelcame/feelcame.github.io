@@ -8,7 +8,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 
 ## Все категории
 <div class="grid">
-{% include ls.md %}
+{% include ls.md date="no" %}
 </div>
 
 ## Список рекомендуемых
