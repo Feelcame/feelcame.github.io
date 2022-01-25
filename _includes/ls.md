@@ -7,6 +7,7 @@
 {%- assign rec_tag = include.tag | default: false -%}  
 {%- assign spoiler = include.spoiler | default: false -%}
 {%- assign showpinned = include.pinned | default: false -%}
+{%- assign showdate = include.date | default: false -%}
 
 {%- comment -%}ВСЕ СТРАНИЦЫ{%- endcomment -%}  
 {%- 
@@ -65,7 +66,9 @@
 {%- for pg in wo_date_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{% unless showdate == "no" %}
+<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
+{% endunless %}</li>
 
 {% endfor -%}
 </ul>
