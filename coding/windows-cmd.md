@@ -47,4 +47,4 @@ cmd /k powercfg /requests
 ## Полезные статьи
 - <https://www.cyberforum.ru/cmd-bat/thread55211.html>
 - <https://ab57.ru/cmd.html>
-- 
+- <https://rsdn.org/article/winshell/batanyca.xml>
