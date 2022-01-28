@@ -27,15 +27,15 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **XnView**<br>Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [ссылка](#)
+<details markdown="1">
 - **Paint.Net**<br>Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/) -
   [ссылка](#)
-<details markdown="1">
 - **Bandicam**<br>Запись экрана<br>
   [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
   [ссылка](#)
 - **Audacity**<br>Запись звука<br>
-  [ссылка](#) -
+  [оф.сайт](https://www.audacityteam.org/download/) -
   [ссылка](#)
 </details>
 
@@ -90,8 +90,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
   [v365(оф.сайт)](https://www.office.com/?auth=2)
 - **Notepad++**<br>Редактор текста с подсветкой синтаксиса<br>
-  [ссылка](#) - 
   [оф.сайт](https://notepad-plus-plus.org/downloads/)
+  [ссылка](#) - 
 <details markdown="1">
 - Notable
 - Obsidian
@@ -101,7 +101,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Файлы
 - **7-zip**<br>архиватор с открытым исходным кодом<br>
-  [ссылка](#) -
+  [оф.сайт](https://www.7-zip.org/download.html) -
   [ссылка](#)
 - **WinRAR**<br>мощный архиватор с большой историей<br>
   [ссылка](#) -
@@ -115,7 +115,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 <details markdown="1">
 - **WizTree**<br>анализ места на диске<br>
   [ссылка](#) -
-  [ссылка2](#)
+  [ссылка](#)
 - **Duplicate File Detector**<br>поиск дубликатов файлов<br>
   [ссылка](#)
 - WinDirStat
@@ -129,7 +129,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 <details markdown="1">
 - **CrystalDiskMark**<br>Проверка скорости накопителя<br>
   [ссылка](#) -
-  [ссылка2](#)
+  [ссылка](#)
 - **Victoria**<br>Проверка диска на битые сектора<br>
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
@@ -144,37 +144,39 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 - **VirusTotal Uploader**<br>Проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader) - 
-  [ссылка2](#)
+  [ссылка](#)
 - **SmartFix**<br>Восстановление слетевших настроек системы после вирусов<br>
   [оф.сайт](https://smartfix.pro/) -
-  [ссылка2](#)
-<details markdown="1">
-- **AdwCleaner**<br>Очистка от малвари<br>
+  [ссылка](#)
+- **AdwCleaner**<br>Пытается чистить комп от малвари<br>
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) -
   [ссылка](#)
+<details markdown="1">
 - **Cureit**<br>Бесплатный одноразовой антивирус<br>
   [ссылка](#)
   [ссылка](#)
 </details>
 
 ## Бенчмарки
-- **CPU-Z**<br>показывает х-ки компа, бенчмарк проца<br>
+- **CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
+  [ссылка](#) -
   [ссылка](#)
-  [ссылка](#)
-- **Furmark**<br>нагрузи видуху по полной<br>
-  [ссылка](#)
-  [ссылка](#)
-- **HWinfo**<br>бесплатный просмотрщик характеристик железа<br>
-  [ссылка](#)
+- **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
+  [ссылка](#) -
   [ссылка](#)
 <details markdown="1">
-пока что тут пусто
+- **AIDA64**<br>просмотр характеристик компа. платкая<br>
+  [ссылка](#) -
+  [ссылка](#)
+- **Furmark**<br>нагружает видуху по полной для проверки стабильности<br>
+  [ссылка](#) -
+  [ссылка](#)
 </details>
 
 ## Драйвера
 + **Snappy Driver Installer**<br>Драйверпак без рекламы<br>
   [оф.сайт](https://sdi-tool.org/download/) -
-  [ссылка](#)
+  [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
 + **Microsoft Visual C++ Runtime**<br>Набор библиотек для стабильной работы програм<br>
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213) -
   [ссылка](#)
@@ -191,19 +193,19 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## USB/CD/DVD
-- **Windows OS**<br>операционная система<br>
+- **Windows**<br>операционная система<br>
   [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
   <br>
   [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows) +
   [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto) 
-- **UltraISO**<br>Cоздание, изменение ISO. Запись загрузочных дисков на флешку  
+- **UltraISO**<br>Cоздание, изменение .iso. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus**<br>Запись винды на флешку  
   [ссылка](#) -
-  [оф.сайт](#)
+  [ссылка](#)
 - **BOOTICE**<br>Редактор загрузчика  
-  [скачать SFX](#)
+  [ссылка](#)
 <details markdown="1">
 - **WinNTSetup**<br>Установка новой винды без заходов в биос  
   [v4.2sfx](https://t.me/s/FeelSoftWin/238) - 
