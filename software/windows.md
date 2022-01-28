@@ -13,7 +13,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 <details markdown="1">
 - toc
-{: toc }
+{:toc}
 </details>
 
 
@@ -56,6 +56,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 <details markdown="1">
+пока что тут пусто
 </details>
 
 ## Расширения
@@ -167,6 +168,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
   [ссылка](#)
 <details markdown="1">
+пока что тут пусто
 </details>
 
 ## Драйвера
@@ -189,7 +191,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## USB/CD/DVD
-- **Windows OS**<br>
+- **Windows OS**<br>операционная система<br>
   [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
   <br>
@@ -212,10 +214,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Разработчику
-- **Профессионалу**<br>
+- **Профессионалу**<br>не для всех
   [profi-soft](./profi-soft)
-- **Программисту**<br>
-  [вот тут](../coding/tools.html)
+- **Программисту**<br>если пишешь код, посмотри
+  [coding-tools](../coding/tools.html)
 
 
 ## Обновления
