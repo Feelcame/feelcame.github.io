@@ -63,7 +63,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **AdBlock Plus**<br>Блокировщик рекламы.<br>
   [оф.сайт](https://adblockplus.org/ru/) -
   [скачать](#)
-- **Video Resume**<br>продолжает видео с места остановки в ютубе<br>
+- **Video Resume**<br>продолжает ютуб с места остановки<br>
   [скачать](#)
 <details markdown="1">
 - **Yandex Acces**<br>доступ к вк, ок и афк.<br>
@@ -121,20 +121,18 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Система
-- **Process Monitor** - мониторит изменения реестра в реальном времени  
+- **Process Monitor**<br>Мониторит изменения реестра в реальном времени  
   [softportal](https://www.softportal.com/get-17885-process-monitor.html) -
-
-<details markdown="1">
-### Упр. дисками 
-- **Victoria** - проверка диска на битые сектора  
-  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
-  [v5.36](#)
-- **Acronis** - переразбивка и клонирование диска  
-  [ссылка](#)
-  [ссылка2](#)
 - **CrystalDiskMark** - проверка скорости накопителя  
   [ссылка](#)
   [ссылка2](#)
+
+<details markdown="1">
+- **Victoria**<br>проверка диска на битые сектора  
+  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
+  [v5.36](#)
+- **Acronis**<br>переразбивка и клонирование диска  
+  [ссылка](#)
 </details>
 
 
