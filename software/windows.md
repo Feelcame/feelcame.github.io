@@ -120,7 +120,12 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - WinDirStat
 </details>
 
-## Упр. дисками 
+## Система
+- **Process Monitor** - мониторит изменения реестра в реальном времени  
+  [softportal](https://www.softportal.com/get-17885-process-monitor.html) -
+
+<details markdown="1">
+### Упр. дисками 
 - **Victoria** - проверка диска на битые сектора  
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
@@ -130,6 +135,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **CrystalDiskMark** - проверка скорости накопителя  
   [ссылка](#)
   [ссылка2](#)
+</details>
+
 
 ## Безопасность 
 - **Unchecky** - снимает галочки при установке софта  
