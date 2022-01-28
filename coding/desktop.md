@@ -12,7 +12,7 @@ Go - новый язык от гугл (2013 год). Идея - простот�
 
 Инфо:
 * <https://golangr.com/>
-* 
+* <https://go.dev/>
 
 GUI:
 * Walk <https://github.com/lxn/walk>
