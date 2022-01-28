@@ -18,24 +18,24 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Медиа
-- **PotPlayer** - видеоплеер.  
+- **PotPlayer**<br>Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/) -
   [ссылка](#)
-- **AIMP** - аудиоплеер.  
+- **AIMP**<br>Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
   [ссылка](#)
-- **XnView** - просмотр фото.  
+- **XnView**<br>Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [ссылка](#)
-- **Paint.Net** - редактор фото.  
+- **Paint.Net**<br>Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/) -
   [ссылка](#)
 <details markdown="1">
-- **Bandicam** - запись экрана.  
-  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428)
+- **Bandicam**<br>Запись экрана<br>
+  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
   [ссылка](#)
-- **Audacity** - запись звука.  
-  [ссылка](#)
+- **Audacity**<br>Запись звука<br>
+  [ссылка](#) -
   [ссылка](#)
 </details>
 
@@ -51,7 +51,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 + **Networx**<br>мониторинг скорости сети<br>
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download) -
 + **AnyDesk**<br>удаленное управление<br>
-  [оф.сайт](http://anydesk.com/ru/downloads) -
+  [оф.сайт](http://anydesk.com/ru/downloads)
 + **qBitTorrent**<br>скачивание файлов<br>
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
@@ -60,37 +60,37 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
-- **AdBlock Plus**<br>Блокировщик рекламы.<br>
+- **AdBlock Plus**<br>Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/) -
-  [скачать](#)
+  [ссылка](#)
 - **Video Resume**<br>продолжает ютуб с места остановки<br>
-  [скачать](#)
+  [ссылка](#)
 <details markdown="1">
 - **Yandex Acces**<br>доступ к вк, ок и афк.<br>
-  [скачать](#)
+  [ссылка](#)
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
-  [скачать](#)
+  [ссылка](#)
 - **Darkreader**<br>затемняет страницы<br>
-  [скачать](#)
+  [ссылка](#)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
-  [скачать](#)
+  [ссылка](#)
 </details>
 
 ## Офис
 - **STDU Viewer**<br>Читалка PDF родом из нулевых<br>
-  [скачать](#) -
-  [обновить](#)
-- **SumatraPDF** - простая читалка с редактором аннотаций<br>
-  [скачать](#) -
-  [обновить](#)
+  [ссылка](#) -
+  [ссылка](#)
+- **SumatraPDF**<br>Простая читалка с редактором аннотаций<br>
+  [ссылка](#) -
+  [ссылка](#)
 - **Microsoft Office**<br>Word, Excell, PowerPoint. Долго ставится. Торренты<br>
   [v2007](http://nnmclub.to/forum/viewtopic.php?t=1282841) -
   [v2010](http://nnmclub.to/forum/viewtopic.php?t=1376069) -
   [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671) -
   [v365(оф.сайт)](https://www.office.com/?auth=2)
 - **Notepad++**<br>Редактор текста с подсветкой синтаксиса<br>
-  [скачать](#) - 
-  [обновить](https://notepad-plus-plus.org/downloads/)
+  [ссылка](#) - 
+  [оф.сайт](https://notepad-plus-plus.org/downloads/)
 <details markdown="1">
 - Notable
 - Obsidian
@@ -99,106 +99,106 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Файлы
-- **7-zip** - архиватор с открытым исходным кодом  
-  [v19.00](#) -
+- **7-zip**<br>архиватор с открытым исходным кодом<br>
+  [ссылка](#) -
   [ссылка](#)
-- **WinRAR** - мощный архиватор с большой историей  
+- **WinRAR**<br>мощный архиватор с большой историей<br>
+  [ссылка](#) -
   [ссылка](#)
+- **Total Commander**<br>двухпанельный файл-менеджер<br>
+  [ссылка](#) -
   [ссылка](#)
-- **Total Commander** - двухпанельный файл-менеджер  
-  [ссылка](#)
-  [ссылка](#)
-- **Uninstall Tool** - удаление программ с корнями  
-  [ссылка](#)
+- **Uninstall Tool**<br>удаление программ с корнями<br>
+  [ссылка](#) -
   [ссылка](#)
 <details markdown="1">
-- **WizTree** - анализ места на диске  
-  [ссылка](#)
+- **WizTree**<br>анализ места на диске<br>
+  [ссылка](#) -
   [ссылка2](#)
-- **Duplicate File Detector** - поиск дубликатов файлов  
+- **Duplicate File Detector**<br>поиск дубликатов файлов<br>
   [ссылка](#)
 - WinDirStat
 </details>
 
 ## Система
-- **Process Monitor**<br>Мониторит изменения реестра в реальном времени  
-  [softportal](https://www.softportal.com/get-17885-process-monitor.html) -
-- **CrystalDiskMark** - проверка скорости накопителя  
+- **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
+  [softportal](https://www.softportal.com/get-17885-process-monitor.html)
++ **Подборка твиков**<br>Для тонкой настройки системы<br>
   [ссылка](#)
-  [ссылка2](#)
-
 <details markdown="1">
-- **Victoria**<br>проверка диска на битые сектора  
+- **CrystalDiskMark**<br>Проверка скорости накопителя<br>
+  [ссылка](#) -
+  [ссылка2](#)
+- **Victoria**<br>Проверка диска на битые сектора<br>
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
-- **Acronis**<br>переразбивка и клонирование диска  
+- **Acronis**<br>Переразбивка и клонирование диска<br>
   [ссылка](#)
 </details>
 
 
 ## Безопасность 
-- **Unchecky** - снимает галочки при установке софта  
+- **Unchecky**<br>Снимает галочки при установке софта<br>
   [оф.сайт](https://unchecky.com/) -
   [ссылка](#)
-- **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню  
+- **VirusTotal Uploader**<br>Проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader) - 
   [ссылка2](#)
-- **SmartFix** - восстановление слетевших настроек системы после вирусов  
+- **SmartFix**<br>Восстановление слетевших настроек системы после вирусов<br>
   [оф.сайт](https://smartfix.pro/) -
   [ссылка2](#)
 <details markdown="1">
-- **AdwCleaner** - очистка от малвари  
+- **AdwCleaner**<br>Очистка от малвари<br>
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) -
   [ссылка](#)
-- **Cureit** - антивирус для одноразовой очистки  
+- **Cureit**<br>Бесплатный одноразовой антивирус<br>
   [ссылка](#)
   [ссылка](#)
 </details>
 
 ## Бенчмарки
-- **CPU-Z** - показывает х-ки компа, бенчмарк проца  
+- **CPU-Z**<br>показывает х-ки компа, бенчмарк проца<br>
   [ссылка](#)
   [ссылка](#)
-- **Furmark** - нагрузи видуху по полной  
+- **Furmark**<br>нагрузи видуху по полной<br>
   [ссылка](#)
   [ссылка](#)
-- **HWinfo** - бесплатный просмотрщик характеристик железа  
+- **HWinfo**<br>бесплатный просмотрщик характеристик железа<br>
   [ссылка](#)
   [ссылка](#)
 <details markdown="1">
 </details>
 
 ## Драйвера
-+ **Snappy Driver Installer** - драйверпак без рекламы  
++ **Snappy Driver Installer**<br>Драйверпак без рекламы<br>
   [оф.сайт](https://sdi-tool.org/download/) -
   [ссылка](#)
-+ **Microsoft Visual C++** - набор библиотек для стабильной работы програм  
-  [ссылка](#)
-  [ссылка](#)
-+ **DirectX** - для работы игр и графических приложений  
-  [ссылка](#)
-  [ссылка](#)
-+ **Скрипты**<br>Моя подборка скриптов. откл.обнов, удалить папки, почему не спит, откл. локскрин  
++ **Microsoft Visual C++ Runtime**<br>Набор библиотек для стабильной работы програм<br>
+  [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213) -
   [ссылка](#)
 <details markdown="1">
-+ **NetFramework** - либы для некоторых прог  
++ **DirectX**<br>Для работы игр и графических приложений<br>
+  [ссылка](#) -
   [ссылка](#)
++ **NetFramework**<br>Либы для некоторых прог<br>
+  [ссылка](#) -
   [ссылка](#)
-+ **RuntimePack** - дополнительные либы к предыдущему  
-  [ссылка](#)
++ **RuntimePack**<br>Дополнительные либы к предыдущему<br>
+  [ссылка](#) -
   [ссылка](#)
 </details>
 
 ## USB/CD/DVD
-- **Windows OS**<br>Win7 с обновами. Win10 официальные. Торренты
-  [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard)+
-  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz) - 
-  [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows)+
+- **Windows OS**<br>
+  [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
+  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
+  <br>
+  [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows) +
   [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto) 
 - **UltraISO**<br>Cоздание, изменение ISO. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus**<br>Запись винды на флешку  
-  [ссылка](#)
+  [ссылка](#) -
   [оф.сайт](#)
 - **BOOTICE**<br>Редактор загрузчика  
   [скачать SFX](#)
@@ -212,7 +212,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Разработчику
-Программы для профессиональных нужд в другом разделе: [**profi-soft**](./profi-soft)
+- **Профессионалу**<br>
+  [profi-soft](./profi-soft)
+- **Программисту**<br>
+  [вот тут](../coding/tools.html)
 
 
 ## Обновления
