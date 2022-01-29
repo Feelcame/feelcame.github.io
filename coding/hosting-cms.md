@@ -17,7 +17,7 @@ comments: false
 ### Для статики
 - GitHub pages
 - <https://habr.com/ru/post/251797/>
-- любой хостинг для [php](#php)
+- любой хостинг для [php](#hosting-php)
 <details markdown="1">
 - GitLab
 * Vercel
@@ -37,9 +37,9 @@ comments: false
 - localhost.run
 - hostyourself.cc
 
-### для php {: .php }
+### для php {: .hosting-php}
 - <http://ho.ua>
-- <beget.ru>
+- <http://beget.ru>
 
 ### SaaS для python
 Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
