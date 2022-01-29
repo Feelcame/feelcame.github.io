@@ -37,7 +37,8 @@ comments: false
 - localhost.run
 - hostyourself.cc
 
-### для php {: .hosting-php}
+### для php 
+{: .hosting-php}
 - <http://ho.ua>
 - <http://beget.ru>
 
