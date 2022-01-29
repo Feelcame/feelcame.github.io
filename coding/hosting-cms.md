@@ -37,7 +37,7 @@ comments: false
 - localhost.run
 - hostyourself.cc
 
-### для php {:id="php"}
+### для php {: .php }
 - <http://ho.ua>
 - <beget.ru>
 
@@ -137,6 +137,6 @@ Jimdo и Wix являются подходящими решениями, есл�
 
 
 ## Полезные ссылки
-* [Создание плагина wordpress](https://wp-kama.ru/handbook/plugin/osnovy)
-* <https://talks.pub/post/bistrii_zakaz_opencart_2>
-*
+- [Создание плагина wordpress](https://wp-kama.ru/handbook/plugin/osnovy)
+- <https://talks.pub/post/bistrii_zakaz_opencart_2>
+- ...
