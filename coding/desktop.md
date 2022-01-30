@@ -1,5 +1,5 @@
 ---
-title: Кодинг для десктопа
+title: Кодинг для Desktop
 date: 2021-01-18T00:34:10+02:00
 modified: 2021-08-25T11:37:58+03:00
 ---
@@ -39,3 +39,8 @@ GUI:
 * <https://docs.python.org/3/faq/gui.html>  
 * <https://pythonworld.ru/gui>
 * <https://docs.python.org/3/faq/gui.html#wxwidgets>
+
+
+
+## c#
+- <https://www.youtube.com/watch?v=JOtV69IMR5Q>
