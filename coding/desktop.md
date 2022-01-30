@@ -22,6 +22,7 @@ GUI:
 
 - Fyne - на основе OpenGL.
   [репо на github](https://github.com/fyne-io/fyne), 
+  [доки](https://developer.fyne.io/started/#getting-started)
   [статья на habr](https://habr.com/ru/post/497148/), 
   [уроки на youtube](https://www.youtube.com/playlist?list=PLgG7lPwNdp57Dx2WxQZmXzzcp1Cqxk-e_), 
 - QT. [репо на github](https://github.com/therecipe/qt)
@@ -30,7 +31,9 @@ GUI:
 - GTK
 - wails.io <https://wails.io/docs/gettingstarted/installation>
 
-
+CSV: 
+- <https://github.com/jf-tech/omniparser>
+- <https://github.com/jszwec/csvutil>
 
 ## gui python
 * <https://habr.com/ru/company/edison/blog/480884/>  
