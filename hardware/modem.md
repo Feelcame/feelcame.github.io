@@ -103,3 +103,4 @@ pin: 5
 - <https://antex-e.ru/store/39004/?pos=914971>
 - <https://3g-digger.com/>
 - <https://www.micro-drive.ru/products/>
+- [Как выбрать пигтейл](https://net-well.ru/stati-o-3g-4g-internete/kakoj-vybrat-pigtejl-ts9-ili-crc9)
