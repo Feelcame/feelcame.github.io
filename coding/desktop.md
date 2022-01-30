@@ -1,5 +1,5 @@
 ---
-title: Программирование для ПК
+title: Кодинг для десктопа
 date: 2021-01-18T00:34:10+02:00
 modified: 2021-08-25T11:37:58+03:00
 ---
@@ -30,9 +30,6 @@ GUI:
 - GTK
 - wails.io <https://wails.io/docs/gettingstarted/installation>
 
-Телеграм:
-* <https://medium.com/golang-notes/%D0%BF%D0%B8%D1%88%D0%B5%D0%BC-%D0%B1%D0%BE%D1%82%D0%B0-%D0%B4%D0%BB%D1%8F-telegram-%D0%BD%D0%B0-go-71c9acd102d1>
-* 
 
 
 ## gui python
