@@ -312,3 +312,6 @@ title: test
 
 - Коллекция плагинов (не работают на github) <https://github.com/planetjekyll/awesome-jekyll-plugins>
 - breadcrumbs <https://jekyllcodex.org/without-plugin/breadcrumbs/>
+
+- Читшип по markdown <https://devhints.io/kramdown>
+- Очень хороший разбор нюансов в kramdown <http://prgssr.ru/articles/osobennosti-sintaksisa-kramdown-chast-1.html>
