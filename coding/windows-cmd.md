@@ -48,3 +48,20 @@ cmd /k powercfg /requests
 - <https://www.cyberforum.ru/cmd-bat/thread55211.html>
 - <https://ab57.ru/cmd.html>
 - <https://rsdn.org/article/winshell/batanyca.xml>
+
+
+
+# Linux Bash
+
+
+## Популярные команды
+- cd
+- ls
+- ...
+
+
+## Полезные ссылки 2
+- [Bash для начинающих: 21 полезная команда](https://habr.com/ru/company/ruvds/blog/445270/)
+- [КАК СОЗДАТЬ ФАЙЛ В ТЕРМИНАЛЕ](https://losst.ru/kak-sozdat-fajl-v-terminale)
+- [Быстрое изучение Bash: 30 легких команд для новичков](https://proglib.io/p/bash-commands-for-beginners)
+- [Оболочка Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet/)
