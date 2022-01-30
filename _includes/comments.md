@@ -1,5 +1,5 @@
 <p>
-<h2>Комментарии:</h2>
+<h2 id="comments">Комментарии:</h2>
 {% assign com_id = page.comments %}  
 <!-- com_id: ({{ com_id }}) -->
 {% if com_id > 1 -%}
