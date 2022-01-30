@@ -4,18 +4,19 @@ date: 2020-08-25T14:19:55+03:00
 modified: 2021-08-25T11:38:30+03:00
 ---
 
-# Конструкторы ботов
+### Конструкторы ботов
 
 * <https://tbiz.pro/> магазин
 * <https://puzzlebot.top/> боты
 * <https://bothelp.io/ru/>
 
-# Каталог хороших ботов
-(скопировать ихз тележки)
+### Каталог хороших ботов
+[на отдельной странице](../software/telegram-bots.md)
 
-# Создание бота на python
+### пишем бота на **Go**
+- [medium Пишем бота для Telegram на Go](https://medium.com/golang-notes/71c9acd102d1)
 
-## Инфа как использовать bot-api через python
+### Инфа как использовать bot-api через **python**
 * <http://developer.alexanderklimov.ru/python/common.php>
 * <https://habr.com/ru/post/448310/>
 * <https://habr.com/ru/post/442800/>
@@ -34,7 +35,7 @@ modified: 2021-08-25T11:38:30+03:00
 * <https://www.edsd.ru/ru/o_kompanii/novosti/zavtrak-programmista>
 * <https://github.com/jmcampanini/django-starter>
 
-## где захостить
+### где захостить
 
 * <https://www.alwaysdata.com/en/pricing/>
 Тестить
