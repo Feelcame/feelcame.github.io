@@ -25,6 +25,7 @@ GUI:
   [доки](https://developer.fyne.io/started/#getting-started)
   [статья на habr](https://habr.com/ru/post/497148/), 
   [уроки на youtube](https://www.youtube.com/playlist?list=PLgG7lPwNdp57Dx2WxQZmXzzcp1Cqxk-e_), 
+  [доп.либа для запуска](https://sourceforge.net/projects/mingw-w64/)
 - QT. [репо на github](https://github.com/therecipe/qt)
 - Walk <https://github.com/lxn/walk>
 - webview <https://github.com/webview/webview>
