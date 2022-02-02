@@ -12,7 +12,7 @@ MQTT
 Ставим клиент:
 - Для ардуино есть библиотека - [MQTT](https://github.com/256dpi/arduino-mqtt)
 - Для компа на windows - [MQTT Explorer](http://mqtt-explorer.com/)
-- для телефона - [IoTMQTTPanel](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod)
+- для телефона №1 - [IoTMQTTPanel](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod)
 - для телефона №2 - [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 
 ---
