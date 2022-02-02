@@ -1,9 +1,8 @@
 ---
+tetle: Микроконтроллеры с WiFi от Espressif
 date: 2021-11-09T19:19:12
 comments: 93
 ---
-
-Чипы WiFi от Espressif
 
 | Название   |  Год   | Описание
 :----------- | :----: | :----------
@@ -26,10 +25,11 @@ comments: 93
 - **Модуль ESP32-WROOM-32** ([фото](#)) - модуль на основе которого сделаны много отладочных плат
 
 ## Программирование
-у меня есть статья про arduino - [**ссылка**](../coding/arduino.md)
 - [**PlatformIO**](https://platformio.org/platformio-ide). ([документация](https://docs.platformio.org/en/latest/)). Это надстройка для VS Code. Поддерживает разные фреймворки. Работает быстрее, чем Arduino IDE
 - [**Arduino IDE**](https://www.arduino.cc/en/software). Espressif адаптировали Arduino Framework для своих чипов. Некоторые библиотеки переписаны в таком же стиле что и оригинальные.
 - [**ESP-IDF**](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) от Espresif. Этот фреймворк от производителя. Все низкоуровневые фичи для общения с железом реализованы через него
+
+у меня есть статья про arduino - [**ссылка**](../coding/arduino.md)
 
 ## Универсальные прошивки
 - [**Tasmota**](https://tasmota.github.io/docs/). Изначально предназначена для WiFi реле Sonoff
