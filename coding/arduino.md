@@ -5,7 +5,7 @@ MQTT
 ====
 
 Ставим брокер: 
-- локальный для компа - [Eclipse Mosquitto](https://mosquitto.org/download/)
+- локальный для компа - [Eclipse Mosquitto](https://mosquitto.org/download/) и еще доки <http://onreader.mdl.ru/MQTTProgrammingWithPython/content/Ch01.html#07>
 - локальный для android - [MQTT Broker App](#)
 - интернет сервис - cloudmqtt.com https://play.google.com/store/apps/details?id=server.com.mqtt
 
