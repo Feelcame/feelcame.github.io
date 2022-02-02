@@ -10,22 +10,22 @@ modified: 2021-08-23T13:58:34+03:00
 
 ## Общего назначения
 
-### **Видеоредакторы** ###
+### Видеоредакторы
 - Lightworks
 - Vagas
 - Wondershare Filmora
 
-### **Репозитории программ** ###
+### Репозитории программ
 - chokolately
 - chokolately-gui
 - winstall
 
-### **Рисование чертежей** ###
+### Рисование чертежей
 - autocad
 - freecad
 - splan
 
-### **3D-моделирование** ###
+### 3D-моделирование
 - Fusion360 (ранее 123Designer)
 - autocad
 
@@ -38,64 +38,25 @@ modified: 2021-08-23T13:58:34+03:00
 
 
 ## Инструменты програмиста
-### **Редакторы кода**
+### Редакторы кода
 - [программирование микроконтроллеров](#программирование-микроконтроллеров)
 - **Visual Studio Code** - универсальная среда разработки  
   [оф.сайт](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/) и [тема под vs code](https://github.com/hellon8/VS2019-Dark-Npp)
 - Visual Studio - для разработки под десктоп
 - IntelliJ IDEA
-- Visual basic studio
 - Eclipse
 - Lazarus - язык delphi с конструктором графических элементов
 - Processing - типа ардуино в мире создания программ на комп
+<details markdown="1">
+- Visual basic studio
+</details>
 
-### **Виртуализация** ###
-- Portainer - is a self-service container service delivery platform. It is the definitive container management GUI for Kubernetes, Docker and Swarm.
-- Proxmox Virtual Environment (Proxmox VE) — система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux.
-- docker
-
-### веб-сервер
-- если надо просто выложить чтото в интернет - лучше использовать [хостинг](../coding/hosting-cms.md)
-- nginx - веб сервер с гибкой настройкой
-- openvpn - серверная часть VPN
-- shadowsocks + heroku - это типа впн, но за бесплатно
-- **OpenServer** - сервер PHP для отладки сайтов  
-
-### Консольные программы Linux
-- emacs - текстовый редактор
-- midnight commander - файл менеджер Linux
-
-### FTP-клиенты, терминал
-- WinSCP - заливка файлов на сервер по ssh
-- Putty - универсальный терминал для всего
-
-### **Автоматизация**
-- <https://corezoid.com/> - автоматизация всего
-- auto hot key
-- <https://www.gitpod.io/>
-- Github Actions - для реализации CI/CD
-
-### **Android**
-- [прошивка телефона](./android). внезапно в разделе телефонов
-- Android Studio - пишем программы под андроид
-- Dart - яп на котором написан GitJournal
-- Flatter - еще один яп, претендует на кроссплатформенность
-
-### **Кодим прямо на телефоне**
-- **Acode** - очень крутая
-- AIDE
-- TrebEdit
-- a writer
-- HTML Editor
-- AWD
-- Subedi
-
-## **пакетные менеджеры**
+### пакетные менеджеры
 - npm
 - <https://yarnpkg.com/getting-started/recipes>
 
-## **Контроль версий**
+### Контроль версий
 Программы для работы с GitHub. 
 Как оказалось это большая редкость найти программу, которая умеет в git.
 Ниже привожу список тех, работа которых мне понравилась.
@@ -106,11 +67,57 @@ modified: 2021-08-23T13:58:34+03:00
   [оф.сайт](#)
 - svn - дед гита
 * Git journal
+<details markdown="1">
 * MGit
 * GitReference
 * FastHub
+</details>
 
- ## **Для синхронизации**
+### веб-сервер
+- если надо просто выложить чтото в интернет - лучше использовать [хостинг](../coding/hosting-cms.md)
+- **OpenServer** - сервер PHP для отладки сайтов  
+- nginx - веб сервер с гибкой настройкой
+- openvpn - серверная часть VPN
+- shadowsocks + heroku - это типа впн, но за бесплатно
+- [Zerotier](https://www.zerotier.com) - vpn в два клика (веб сервис)
+
+### Виртуализация
+- Portainer - is a self-service container service delivery platform. It is the definitive container management GUI for Kubernetes, Docker and Swarm.
+- Proxmox Virtual Environment (Proxmox VE) — система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux.
+- docker
+
+### Консольные программы Linux
+- emacs - текстовый редактор
+- midnight commander - файл менеджер Linux
+
+### FTP-клиенты, терминал
+- WinSCP - заливка файлов на сервер по ssh
+- Putty - универсальный терминал для всего
+
+### Автоматизация
+- <https://corezoid.com/> - автоматизация всего
+- auto hot key
+- <https://www.gitpod.io/>
+- Github Actions - для реализации CI/CD
+
+### Android
+- [прошивка телефона](./android) внезапно в разделе телефонов
+- Android Studio - пишем программы под андроид
+- Dart - яп на котором написан GitJournal
+- Flatter - еще один яп, претендует на кроссплатформенность
+
+### Кодим прямо на телефоне
+- **Acode** - очень крутая
+<details markdown="1">
+- AIDE
+- TrebEdit
+- a writer
+- HTML Editor
+- AWD
+- Subedi
+</details>
+
+ ## Для синхронизации
 * Sync
 * Synching
 * Termius
@@ -154,7 +161,7 @@ modified: 2021-08-23T13:58:34+03:00
 Нашел всего несколько на просторах интернета. Делюсь:
 * [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
 * [SnP View](#)
-* https://www.dataweek.co.za/63748n
-* http://www.hp.woodshot.com/
-* https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s
-* https://snpview.com/
+* <https://www.dataweek.co.za/63748n>
+* <http://www.hp.woodshot.com/>
+* <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
+* <https://snpview.com/>
