@@ -50,4 +50,7 @@ title: Инструменты программиста
 * Termius
 * juiceSSH
 
-
+### **Автоматизация**
+- <https://www.gitpod.io/>
+- Github Actions - для реализации CI/CD
+- ...
