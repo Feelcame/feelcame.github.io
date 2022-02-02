@@ -26,11 +26,13 @@ GUI:
   [статья на habr](https://habr.com/ru/post/497148/), 
   [уроки на youtube](https://www.youtube.com/playlist?list=PLgG7lPwNdp57Dx2WxQZmXzzcp1Cqxk-e_), 
   [доп.либа для запуска](https://sourceforge.net/projects/mingw-w64/)
+- wails.io <https://wails.io/docs/gettingstarted/installation>
+- Gio - [оф.сайт](https://gioui.org/)
 - QT. [репо на github](https://github.com/therecipe/qt)
 - Walk <https://github.com/lxn/walk>
 - webview <https://github.com/webview/webview>
 - GTK
-- wails.io <https://wails.io/docs/gettingstarted/installation>
+
 
 CSV: 
 - <https://github.com/jf-tech/omniparser>
