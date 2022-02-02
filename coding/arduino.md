@@ -18,8 +18,9 @@ MQTT
 - для телефона №1 - [IoTMQTTPanel](https://play.google.com/store/apps/details?id=snr.lab.iotmqttpanel.prod)
 - для телефона №2 - [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash)
 
----
-
 Одно устройство должно передавать. Другое должно принимать. Оба должны быть подключены к серверу одновременно и подписаны на одинаковый топик.
 Для интеграции в сервер умного дома датчиков с протоколом ZigBee, нужно подключить usb-донгл [ZigBee2MQTT](#)
 
+## Полезные ссылки
+- <https://ichi.pro/ru/vvedenie-v-mqtt-i-nastrojka-brokera-mosquitto-264946456955848>
+- <https://habr.com/ru/post/463669/>
