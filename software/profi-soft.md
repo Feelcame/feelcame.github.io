@@ -6,7 +6,7 @@ modified: 2021-08-23T13:58:34+03:00
 ## Видеоредакторы
 - Lightworks
 - Vagas
-- z
+- Wondershare Filmora
 - z
 
 ### Электромагнитное моделирование
@@ -24,12 +24,15 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-### Программирование программ и контроллеров
-- arduino
+### Программирование микроконтроллеров
+- Arduino
 - Visual Studio Code
-- Platformio
+- PlatformIO
 - stm32 cubeIDE
 
+### Программирование програм
+- Visual Studio Code
+- IntelliJ IDEA
 
 ### репозитории программ
 - chokolately
