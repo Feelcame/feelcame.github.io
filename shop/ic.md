@@ -48,3 +48,4 @@ title: Микросхемы
 - MCP3021 Low-Power 10-Bit A/D Converter with I2C Interface
 - STWD100 Watchdog timer circuit
 - MCP102/103/121/131 Micropower Voltage Supervisors
+- MCP100/120, MCP111
