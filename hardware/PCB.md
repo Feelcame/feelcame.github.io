@@ -70,6 +70,7 @@ pin: 1
 * [jlcpcb.com](https://jlcpcb.com) - дешево, просто
 * [pcbway.com](https://pcbway.com) - дороже jlc, геморно, но всеравно доступно
 * завод в киеве
+* <https://oshpark.com/>
 * other
 
 ### Произвести самому
