@@ -39,3 +39,12 @@ title: Микросхемы
 - LNA BGA420
 - PA 
 
+## Другие ВЧ=микросхемы
+- .
+- .
+
+## Для управления питанием
+- PL5111 Nano-Power System Timer for Power Gating
+- MCP3021 Low-Power 10-Bit A/D Converter with I2C Interface
+- STWD100 Watchdog timer circuit
+- MCP102/103/121/131 Micropower Voltage Supervisors
