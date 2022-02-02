@@ -27,12 +27,12 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **XnView**<br>Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [ссылка](#)
+- **Bandicam**<br>Запись экрана<br>
+  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
+  [ссылка](#)
 <details markdown="1">
 - **Paint.Net**<br>Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/) -
-  [ссылка](#)
-- **Bandicam**<br>Запись экрана<br>
-  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
   [ссылка](#)
 - **Audacity**<br>Запись звука<br>
   [оф.сайт](https://www.audacityteam.org/download/) -
@@ -122,19 +122,19 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Система
-- **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
-  [softportal](https://www.softportal.com/get-17885-process-monitor.html)
-+ **Подборка твиков**<br>Для тонкой настройки системы<br>
-  [ссылка](#)
-<details markdown="1">
 - **CrystalDiskMark**<br>Проверка скорости накопителя<br>
   [ссылка](#) -
   [ссылка](#)
+- **Подборка твиков**<br>Для тонкой настройки системы<br>
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5ilFY02Lq0vPhnbQY?e=Xz0PPX)
+<details markdown="1">
 - **Victoria**<br>Проверка диска на битые сектора<br>
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
 - **Acronis**<br>Переразбивка и клонирование диска<br>
   [ссылка](#)
+- **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
+  [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
 
 
@@ -153,7 +153,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 <details markdown="1">
 - **Cureit**<br>Бесплатный одноразовой антивирус<br>
-  [ссылка](#)
+  [ссылка](#) -
   [ссылка](#)
 </details>
 
