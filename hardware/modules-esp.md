@@ -29,7 +29,7 @@ comments: 93
 - [**Arduino IDE**](https://www.arduino.cc/en/software). Espressif адаптировали Arduino Framework для своих чипов. Некоторые библиотеки переписаны в таком же стиле что и оригинальные.
 - [**ESP-IDF**](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/) от Espresif. Этот фреймворк от производителя. Все низкоуровневые фичи для общения с железом реализованы через него
 
-у меня есть статья про arduino - [**ссылка**](../coding/arduino.md)
+у меня есть [**статья про arduino**](../coding/arduino.md)
 
 ## Универсальные прошивки
 - [**Tasmota**](https://tasmota.github.io/docs/). Изначально предназначена для WiFi реле Sonoff
