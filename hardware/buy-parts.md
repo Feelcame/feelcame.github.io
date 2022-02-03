@@ -61,6 +61,12 @@ comments: true
 * <https://aliexpress.com> - китайский супермаркет. много подделок.
 * <https://prom.ua> - украинский онлайн-базар. есть все, в т.ч. компоненты
 - <https://www.1688.com/> - китай
+
+## Магазины на али
+- win-win. Норм цены, доставка. Модули Ардуино
+- ec buy. Компоненты, модули. Большой выбор, адекватная цена на доставку
+- wavgat https://a.aliexpress.com/_9JWL0w
+
 ## в рашке
 - <https://www.youtube.com/watch?v=b1eec7TfTwI>
 - <https://www.youtube.com/watch?v=S3o2RDq4r50>
