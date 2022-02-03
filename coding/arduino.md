@@ -24,3 +24,4 @@ MQTT
 ## Полезные ссылки
 - <https://ichi.pro/ru/vvedenie-v-mqtt-i-nastrojka-brokera-mosquitto-264946456955848>
 - <https://habr.com/ru/post/463669/>
+- Умный дом от эелектроники в объективе <https://www.youtube.com/watch?v=4O-2dJwRQtg>
