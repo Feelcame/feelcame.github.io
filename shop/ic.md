@@ -49,3 +49,5 @@ title: Микросхемы
 - STWD100 Watchdog timer circuit
 - MCP102/103/121/131 Micropower Voltage Supervisors
 - MCP100/120, MCP111
+- CN3163 Mini Solar Lipo Charger 
+- CN5711 источник тока для светодиодов
