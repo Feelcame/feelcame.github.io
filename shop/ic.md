@@ -50,4 +50,10 @@ title: Микросхемы
 - MCP102/103/121/131 Micropower Voltage Supervisors
 - MCP100/120, MCP111
 - CN3163 Mini Solar Lipo Charger 
+
+## драйвер светодиода
 - CN5711 источник тока для светодиодов
+- BCR401U 
+- NSI45030AZT1G
+- NSI45015WT1G
+- AMC7135PKFT
