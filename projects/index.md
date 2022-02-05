@@ -17,7 +17,7 @@ pin: 0
 {% include drlis.md dir="/hardware/" tag="project" %}
 
 Черновики: 
-{% include drlis.md %}
+{% include ls.md %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
