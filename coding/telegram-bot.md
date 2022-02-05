@@ -1,17 +1,16 @@
 ---
-title: Telegram-боты
+title: Пишем Telegram-ботов
 date: 2020-08-25T14:19:55+03:00
 modified: 2021-08-25T11:38:30+03:00
 ---
+
+Каталог полезных ботов [**на отдельной странице**](../software/telegram-bots.md)
 
 ### Конструкторы ботов
 
 * <https://tbiz.pro/> магазин
 * <https://puzzlebot.top/> боты
 * <https://bothelp.io/ru/>
-
-### Каталог хороших ботов
-[на отдельной странице](../software/telegram-bots.md)
 
 ### пишем бота на **Go**
 - [medium Пишем бота для Telegram на Go](https://medium.com/golang-notes/71c9acd102d1)
@@ -36,7 +35,7 @@ modified: 2021-08-25T11:38:30+03:00
 * <https://github.com/jmcampanini/django-starter>
 
 ### где захостить
-
+- Список хостингов общего назначения - [**тык**](./hosting-cms.md)
 * <https://www.alwaysdata.com/en/pricing/>
 Тестить
 *  <http://Heroku.com>
