@@ -134,7 +134,7 @@ modified: 2021-08-23T13:58:34+03:00
   
 ## Разработчику электроники
 
-### **Разводка печатных плат** ###
+### Разводка печатных плат ###
 - **Eagle CAD** - разводка печатных плат  
   [оф.сайт](#)
 - altium
@@ -143,20 +143,20 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-### **Программирование микроконтроллеров** ###
+### Программирование микроконтроллеров ###
 - Arduino IDE
 - Visual Studio Code
 - PlatformIO
 - stm32 cubeIDE
 
-### **Электромагнитное моделирование** ###
+### Электромагнитное моделирование ###
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
 - AWR MWO
 - HFSS
 - Ansys
 
-### **Просмотр scattering parameters** ###
+### Просмотр scattering parameters ###
 
 Нашел всего несколько на просторах интернета. Делюсь:
 * [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
