@@ -117,7 +117,7 @@ modified: 2021-08-23T13:58:34+03:00
 - Subedi
 </details>
 
- ## Для синхронизации
+## Для синхронизации
 * Sync
 * Synching
 * Termius
