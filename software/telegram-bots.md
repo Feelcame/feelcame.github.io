@@ -1,9 +1,9 @@
 ---
-title: Telegram-боты
+title: Полезные Telegram-боты
 date: 2021-09-12T17:53:55+03:00
 modified: 2021-09-27T16:51:43+03:00
 ---
-
+смотри также статью [как написать бота самому](../coding/telegram-bots.md)
 
 ### **Музыка** ###
 - [@LyBot](tg://resolve?domain=LyBot) - есть inline поиск. скачивает из ютуба, яндекса, spitify и др. Есть конструктор своих ботов @creatorMusicBot. Support: @Ly_OBot
@@ -30,11 +30,13 @@ modified: 2021-09-27T16:51:43+03:00
 - [@NovaPoshta_Bot](tg://resolve?domain=utubebot) - проверить статус доставки посылки
 - [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
-Админу: @combot @ChatKeeperBot @ControllerBot @junction_bot @redirectsbot @PostBot @showjsonbot 
+### **Админу** ###
+@combot @ChatKeeperBot @ControllerBot @junction_bot @redirectsbot @PostBot @showjsonbot  
+Комменты: @CommentsBot @DiscussBot @CommentsUserBot @ComenBot @CommentsVahterBot  
 
+### **Прочее** ###
 Официальные: @vid @gif @pic @like @botfather @stickers  
 Фильмы: @HDFilmsBot @MotherMoviesbot @cinemaking_bot @afilmbot  
-Комменты: @CommentsBot @DiscussBot @CommentsUserBot @ComenBot @CommentsVahterBot  
 Прочее: @StickerizerBot @HideItBot  @FindNewBot @isbot @botscollection  
 
 
