@@ -7,16 +7,16 @@ pin: 0
 
 ## мои pet-проекты
 
-Кодинг: 
+**Кодинг:** 
 {% include drlis.md dir="/coding/" tag="project" %}
 
-Софт: 
+**Софт:** 
 {% include drlis.md dir="/software/" tag="project" %}
 
-Хард: 
+**Железки:**
 {% include drlis.md dir="/hardware/" tag="project" %}
 
-Черновики: 
+**Черновики:**
 {% include drlis.md dir="/projects/" %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
