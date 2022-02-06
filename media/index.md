@@ -1,5 +1,5 @@
 ---
-title: Загрузки
+title: Медиа
 comments: false
 modified: 2021-03-12T23:12:29+02:00
 created: 2020-05-16T13:39:53+03:00
