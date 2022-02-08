@@ -1,11 +1,19 @@
 ---
-title: Arduino
+title: Arduino и микроконтроллеры
+date: 2021-08-04T19:37:47+03:00
+modified: 2022-02-08T11:28:09+03:00
 ---
-фреймворк для программирования любых микроконтроллеров в едином стиле
+arduino - фреймворк для программирования любых микроконтроллеров в едином стиле
 
 
-MQTT
-====
+## STM32
+
+- <https://hubstub.ru/auto/> интересное чтиво (spi)
+- <https://habr.com/ru/post/310742/> Начинаем работать в STM32CubeMX. Часть 1
+- <http://dimoon.ru/category/obuchalka/stm32f1> учебник
+
+
+## MQTT
 
 Ставим брокер: 
 - локальный для компа - [Eclipse Mosquitto](https://mosquitto.org/download/) и еще [доки](http://onreader.mdl.ru/MQTTProgrammingWithPython/content/Ch01.html#07)
@@ -25,3 +33,5 @@ MQTT
 - <https://ichi.pro/ru/vvedenie-v-mqtt-i-nastrojka-brokera-mosquitto-264946456955848>
 - <https://habr.com/ru/post/463669/>
 - Умный дом от эелектроники в объективе <https://www.youtube.com/watch?v=4O-2dJwRQtg>
+
+
