@@ -23,13 +23,13 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 - **AIMP**<br>Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
-  [ссылка](#)
+  [v5.01.2358](https://tlgur.com/d/81vnoBPG)
 - **XnView**<br>Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [ссылка](#)
 - **Bandicam**<br>Запись экрана<br>
   [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
-  [ссылка](#)
+  [tlgur](https://tlgur.com/d/4x5Nb5x8)
 <details markdown="1">
 - **Paint.Net**<br>Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/) -
