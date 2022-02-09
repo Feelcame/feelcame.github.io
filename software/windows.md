@@ -23,7 +23,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 - **AIMP**<br>Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
-  [v5.01.2358](https://tlgur.com/d/81vnoBPG)
+  [v5.01.2358](https://tlgur.com/d/81vnoBPG) -
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iQ4UdkvwRjPUOL7T?e=5I3nCp)
 - **XnView**<br>Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads) -
   [ссылка](#)
