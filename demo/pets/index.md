@@ -1,6 +1,6 @@
 ---
 title: Страницы учета животных
-permalink: /pets
+redirect_from: /pets
 pin: 0
 ---
 {% include breadcrumbs.html %}
