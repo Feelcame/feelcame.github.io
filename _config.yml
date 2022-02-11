@@ -16,6 +16,7 @@ highlighter: rouge
 # baseurl: feelcame.gitgub.io/linker.pp.ua
 timezone: Europe/Kiev
 plugins:
+  - jekyll-redirect-from
   - jemoji
   - jekyll-paginate
   - jekyll-gist
