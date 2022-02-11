@@ -1,7 +1,9 @@
 ---
 title: Страницы учета животных
-redirect_from: /pets
 pin: 0
+redirect_from: 
+  - /pets
+  - /pets/
 ---
 {% include breadcrumbs.html %}
 {% include drlis.md %}
