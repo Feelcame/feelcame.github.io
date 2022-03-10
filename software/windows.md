@@ -225,8 +225,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Обновления
-Телеграм-канал<br>[ссылка](https://t.me/FeelSoftWin/105)
-OneDrive общая папка<br>[ссылка](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
+- Телеграм-канал<br>[ссылка](https://t.me/FeelSoftWin/105)
+- OneDrive общая папка<br>[ссылка](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
