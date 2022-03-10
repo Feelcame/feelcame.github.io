@@ -161,7 +161,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Бенчмарки
 - **CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
-  [ссылка](#) -
+  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download) -
   [ссылка](#)
 - **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
   [ссылка](#) -
@@ -204,7 +204,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **UltraISO**<br>Cоздание, изменение .iso. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus**<br>Запись винды на флешку  
-  [ссылка](#) -
+  [оф.сайт](https://rufus.ie/ru/#download) -
   [ссылка](#)
 - **BOOTICE**<br>Редактор загрузчика  
   [ссылка](#)
@@ -225,7 +225,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 
 ## Обновления
-Напоминаю про телеграм-канал: <https://t.me/FeelSoftWin/105>
+Телеграм-канал<br>[ссылка](https://t.me/FeelSoftWin/105)
+OneDrive общая папка<br>[ссылка](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
