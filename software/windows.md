@@ -69,22 +69,22 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Video Resume**<br>продолжает ютуб с места остановки<br>
   [ссылка](#)
 <details markdown="1">
-- **Yandex Acces**<br>доступ к вк, ок и афк.<br>
-  [ссылка](#)
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
-  [ссылка](#)
-- **Darkreader**<br>затемняет страницы<br>
-  [ссылка](#)
+  [opera](https://addons.opera.com/ru/extensions/details/translator/)
+- **DarkReader**<br>затемняет страницы<br>
+  [оф.сайт](https://darkreader.org/)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
+  [оф.сайт](https://sponsor.ajay.app/)
+- **Yandex Acces**<br>доступ к вк, ок и афк.<br>
   [ссылка](#)
 </details>
 
 ## Офис
 - **STDU Viewer**<br>Читалка PDF родом из нулевых<br>
-  [ссылка](#) -
+  [оф.сайт](http://www.stdutility.com/stduviewer.html) -
   [ссылка](#)
 - **SumatraPDF**<br>Простая читалка с редактором аннотаций<br>
-  [ссылка](#) -
+  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer) -
   [ссылка](#)
 - **Microsoft Office**<br>Word, Excell, PowerPoint. Долго ставится. Торренты<br>
   [v2007](http://nnmclub.to/forum/viewtopic.php?t=1282841) -
@@ -106,10 +106,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://www.7-zip.org/download.html) -
   [ссылка](#)
 - **WinRAR**<br>мощный архиватор с большой историей<br>
-  [ссылка](#) -
+  [rutracker](#) -
   [ссылка](#)
 - **Total Commander**<br>двухпанельный файл-менеджер<br>
-  [ссылка](#) -
+  [rutracker]() -
   [ссылка](#)
 - **Uninstall Tool**<br>удаление программ с корнями<br>
   [беспл.аналог](https://geekuninstaller.com/ru/download) -
@@ -120,12 +120,13 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 - **Duplicate File Detector**<br>поиск дубликатов файлов<br>
   [ссылка](#)
-- WinDirStat
+- WinDirStat<br>
+  [оф.сайт](https://windirstat.net/download.html)
 </details>
 
 ## Система
 - **CrystalDiskMark**<br>Проверка скорости накопителя<br>
-  [ссылка](#) -
+  [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark) -
   [ссылка](#)
 - **Подборка твиков**<br>Для тонкой настройки системы<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5ilFY02Lq0vPhnbQY?e=Xz0PPX)
@@ -164,7 +165,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download) -
   [ссылка](#)
 - **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
-  [ссылка](#) -
+  [оф.сайт](https://www.hwinfo.com/download/) -
   [ссылка](#)
 <details markdown="1">
 - **AIDA64**<br>просмотр характеристик компа. платкая<br>
