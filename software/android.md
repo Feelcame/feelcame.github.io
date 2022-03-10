@@ -20,27 +20,32 @@ pin: 2
 - Total Commander. 
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
-  [сайт](https://www.ghisler.com/android.htm#download), 
+  [оф.сайт](https://www.ghisler.com/android.htm#download), 
+  [прямая ссылка](https://www.ghisler.com/tcandroid3.apk)
   [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
-- TotalCmd-WiFi-обмен
-- ES Проводник 3.2.5
+- TotalCmd-WiFi-обмен. 
+  [play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
+  [v3.5(прямая ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
+  [другие расширения](https://www.ghisler.com/androidplugins/download/)
 <details markdown="1">
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
-  [4pda](#), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [телега](https://t.me/FeelSoftAn/164)
+- ES Проводник 3.2.5
 - Sync
 - RAR
 </details>
 
 ## Музыка
 - AIMP. 
-  [v3.20](https://tlgur.com/d/gm6VYQN4), 
-  [сайт](http://www.aimp.ru/?do=download&os=android)
-- Яндекс музыка (мод)
-<details markdown="1">
-- PlayerPro
+  [v3.20(And5+)](https://tlgur.com/d/gm6VYQN4), 
+  [v2.90(And4.1+)](#)
+  [оф.сайт](http://www.aimp.ru/?do=download&os=android)
 - Spotify
+<details markdown="1">
+- Яндекс музыка (мод)
+- PlayerPro
 - Shazam
 </details>
 
@@ -52,7 +57,7 @@ pin: 2
   [v0.20.8 (4.1+)](https://tlgur.com/d/GL0ZDJ6G), 
   [4pda](#), 
   [github](https://github.com/TeamNewPipe/NewPipe/releases), 
-  [сайт](https://newpipe.net/#download), 
+  [оф.сайт](https://newpipe.net/#download), 
 - PicSay Pro – фоторедактор. 
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), [шрифты](#), [4pda](https://4pda.to/forum/index.php?showtopic=131210)
 - Hi-Q MP3 Recorder – диктофон
@@ -94,19 +99,19 @@ pin: 2
 
 ## Офис
 - ReadEra. 
-  [play](#)
+  [play](https://play.google.com/store/apps/details?id=org.readera)
 - Калькулятор++
 <details markdown="1">
-- Acode
-- GitJournal
+- Acode. [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+- GitJournal. [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
 - Простой календарь. 
   [v](#), 
   [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
-- Microsoft Office
-- Aqua Mail
+- Microsoft Office. [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
+- Aqua Mail. [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail)
 - StyleNote заметки
 - EBookDroid
-- ElectroDroid
+- ElectroВщс
 - Переводчик
 - Секундомер
 </details>
@@ -116,12 +121,12 @@ pin: 2
 - LuckyPatcher. 
   [v9.7.0](https://tlgur.com/d/g306JW64), 
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
-  [сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/)
+  [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/)
 - Aurora Store. 
   [v4.0.7](https://tlgur.com/d/4x5bADY8), 
   [телега](https://t.me/AuroraOfficial), 
   [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
-  [сайт](https://auroraoss.com/download/#aurora-store)
+  [оф.сайт](https://files.auroraoss.com/AuroraStore/Stable/)
 - App&Game 4PDA. 
   [v5.3.7](https://tlgur.com/d/89BMN9OG),
   [4pda](https://4pda.to/forum/index.php?showtopic=275433)
@@ -141,7 +146,9 @@ pin: 2
 - CPU Spy
 - AdAway
 - CPU Spy
-- Darker Pro
+- Darker Pro. 
+  [play](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=538357)
 - Google Play Blocker
 - TTL Master
 - Microsoft Launcher
