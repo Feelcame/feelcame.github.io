@@ -21,12 +21,12 @@ pin: 2
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
   [оф.сайт](https://www.ghisler.com/android.htm#download), 
-  [прямая ссылка](https://www.ghisler.com/tcandroid3.apk)
+  [прямая ссылка](https://www.ghisler.com/tcandroid3.apk), 
   [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
 - TotalCmd-WiFi-обмен. 
   [play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
-  [v3.5(прямая ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
-  [другие расширения](https://www.ghisler.com/androidplugins/download/)
+  [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
+  [другие..](https://www.ghisler.com/androidplugins/download/)
 <details markdown="1">
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
@@ -39,8 +39,8 @@ pin: 2
 
 ## Музыка
 - AIMP. 
-  [v3.20(And5+)](https://tlgur.com/d/gm6VYQN4), 
-  [v2.90(And4.1+)](#)
+  [v3.20(5+)](https://tlgur.com/d/gm6VYQN4), 
+  [v2.90(4.1+)](#), 
   [оф.сайт](http://www.aimp.ru/?do=download&os=android)
 - Spotify
 <details markdown="1">
