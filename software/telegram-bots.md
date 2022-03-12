@@ -40,8 +40,8 @@ modified: 2021-09-27T16:51:43+03:00
 Прочее: @StickerizerBot @HideItBot  @FindNewBot @isbot @botscollection  
 
 
-🚀Боты в телеге: <https://t.me/feelsoft/19>
+🚀Боты в телеге: <https://t.me/profi_soft/102>
 
 
 ## виджет
-<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoft/19" data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="profi_soft/102" data-width="100%"></script>
