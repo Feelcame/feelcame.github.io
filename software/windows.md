@@ -65,12 +65,13 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 *<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus**<br>Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/) -
-  [ссылка](#)
+  [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
 - **Video Resume**<br>продолжает ютуб с места остановки<br>
   [ссылка](#)
 <details markdown="1">
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
-  [opera](https://addons.opera.com/ru/extensions/details/translator/)
+  [opera](https://addons.opera.com/ru/extensions/details/translator/), 
+  [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/)
 - **DarkReader**<br>затемняет страницы<br>
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
