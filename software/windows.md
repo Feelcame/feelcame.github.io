@@ -66,8 +66,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **AdBlock Plus**<br>Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/) -
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
-- **Video Resume**<br>продолжает ютуб с места остановки<br>
-  [ссылка](#)
+- **Video Resumeк**<br>продолжает ютуб с места остановки<br>
+  [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 <details markdown="1">
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
@@ -76,6 +76,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
   [оф.сайт](https://sponsor.ajay.app/)
+- **Steam Recorder**<br>Скачивание видео и трансляций<br>|
+  [оф.сайт](https://www.hlsloader.com/install.html), 
+  [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 - **Yandex Acces**<br>доступ к вк, ок и афк.<br>
   [ссылка](#)
 </details>
