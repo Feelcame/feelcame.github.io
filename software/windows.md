@@ -205,7 +205,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
   <br>
   [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows) +
-  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto) 
+  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto), 
+  [8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
 - **UltraISO**<br>Cоздание, изменение .iso. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus**<br>Запись винды на флешку  
