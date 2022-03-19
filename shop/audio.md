@@ -10,7 +10,7 @@ title: Аудиотехника
 - Усилитель звука цифровой TPA3110 до 30W моно
 
 ## Наушники
-- Monk Plus $5 вкладыши
+- Monk Plus $5 вкладыши. [ali](https://www.aliexpress.com/item/32417311324.html)
 - Monk Plus $7 вкладыши с микрофоном
 - Axelvox/Superlux $30 полноразмерные закрытые лопухи
 
