@@ -12,7 +12,7 @@ title: Аудиотехника
 ## Наушники
 - Monk Plus $5 вкладыши. [ali](https://www.aliexpress.com/item/32417311324.html)
 - Monk Plus $7 вкладыши с микрофоном
-- Axelvox/Superlux $30 полноразмерные закрытые лопухи
+- Axelvox/Superlux $30 полноразмерные закрытые лопухи. [ali](https://www.aliexpress.com/item/32978656974.html)
 
 ## Беспроводная передача
 - Bluetooth-приемник со встроенным усилителем 2x1W приввет 
