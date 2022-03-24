@@ -11,19 +11,6 @@ comments: false
 <button type="submit">Найти</button> 
 </form>
 
-Сайт для себя, работает как ***записная книжка*** и шпаргалка на будущее.
-
-Если хочешь поддержать материально - [***закажи разработку за деньги***](#обратная-связь).
-
-Посмотри мои [***pet-проекты***](/projects/) 
-
-Мой GitHub: [{{ site.github.owner_name }}]({{ site.github.owner_url }})
-
-## Мои контакты 
-Личка Telegram: [@feelcame](https://t.me/feelcame)  
-Форум GitHub: [discussions](https://github.com/Feelcame/feelcame.github.io/discussions)  
-Email по работе: заполни [форму ниже](#обратная-связь).  
-Отвечу с _корпоративной_ почты
 
 ## Обратная связь
 <iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
