@@ -40,8 +40,8 @@ layout: home
 
 <div class="grid" markdown="1">
 
-- [**Проекты**](./projects/)<br>Тут я хвастаюсь
-- [**Мысли**](./media/index.md)<br>Чем живу
+- [**Проекты**](./projects/)<br>(хвастаюсь)
+- [**Мысли**](./media/index.md)<br>(за жизнь)
 
 ---
 
