@@ -191,7 +191,7 @@ title: test
     {{ page.title }}
     ```
 	{% endraw %}
-	{% raw %}{%{% endraw %} raw %}	
+	{% raw %}{%{% endraw %} endraw %}	
 
 
 
