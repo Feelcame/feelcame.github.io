@@ -19,3 +19,6 @@ comments: 103
 - белый ip-адрес
 - локальное соединение
 - обойти блокировку
+
+## Децентрализации
+- matrix, Delta.chat, Briar, CENO, NewNode VPN. [подробнее](https://start.chatv3.ru/)
