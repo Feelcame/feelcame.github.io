@@ -20,7 +20,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 ## Медиа
 - **PotPlayer**<br>Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/) -
-  [ссылка](#)
+  [оф.сайт2](https://potplayer.daum.net/) -
+  [softportal](https://www.softportal.com/get-21466-potplayer.html) -
+  [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
 - **AIMP**<br>Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows) -
   [v5.01.2358](https://tlgur.com/d/81vnoBPG) -
@@ -58,7 +60,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 <details markdown="1">
-пока что тут пусто
+- **OpenVPN**<br><https://openvpn.net/community-downloads/>
 </details>
 
 ## Расширения
@@ -110,11 +112,11 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://www.7-zip.org/download.html) -
   [ссылка](#)
 - **WinRAR**<br>мощный архиватор с большой историей<br>
-  [rutracker](#) -
+  [rutracker](http://rutracker.org/forum/tracker.php?nm=winrar) -
   [ссылка](#)
 - **Total Commander**<br>двухпанельный файл-менеджер<br>
-  [rutracker]() -
-  [ссылка](#)
+  [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack) -
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHQV5MscshoeOfgs)
 - **Uninstall Tool**<br>удаление программ с корнями<br>
   [беспл.аналог](https://geekuninstaller.com/ru/download) -
   [ссылка](#)
@@ -123,7 +125,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://diskanalyzer.com/download) -
   [ссылка](#)
 - **Duplicate File Detector**<br>поиск дубликатов файлов<br>
-  [ссылка](#)
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
 - WinDirStat<br>
   [оф.сайт](https://windirstat.net/download.html)
 </details>
@@ -139,28 +141,25 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
   [v5.36](#)
 - **Acronis**<br>Переразбивка и клонирование диска<br>
-  [ссылка](#)
+  [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998) -
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
 - **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
   [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
 
 
 ## Безопасность 
-- **Unchecky**<br>Снимает галочки при установке софта<br>
-  [оф.сайт](https://unchecky.com/) -
-  [ссылка](#)
 - **VirusTotal Uploader**<br>Проверка на вирустотал прямо из контекстного меню<br>
-  [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader) - 
-  [ссылка](#)
+  [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 - **SmartFix**<br>Восстановление слетевших настроек системы после вирусов<br>
   [оф.сайт](https://smartfix.pro/) -
-  [ссылка](#)
 - **AdwCleaner**<br>Пытается чистить комп от малвари<br>
-  [оф.сайт](https://ru.malwarebytes.com/adwcleaner/) -
-  [ссылка](#)
+  [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
 <details markdown="1">
+- **Unchecky**<br>Снимает галочки при установке софта<br>
+  [оф.сайт](https://unchecky.com/) -
 - **Cureit**<br>Бесплатный одноразовой антивирус<br>
-  [ссылка](#) -
+  [biblprog](http://biblprog.org.ua/ru/dr_web_cureit) -
   [ссылка](#)
 </details>
 
@@ -173,10 +172,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 <details markdown="1">
 - **AIDA64**<br>просмотр характеристик компа. платкая<br>
-  [ссылка](#) -
+  [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
   [ссылка](#)
 - **Furmark**<br>нагружает видуху по полной для проверки стабильности<br>
-  [ссылка](#) -
+  [оф.сайт](https://geeks3d.com/furmark/downloads/) -
   [ссылка](#)
 </details>
 
@@ -186,17 +185,17 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
 + **Microsoft Visual C++ Runtime**<br>Набор библиотек для стабильной работы програм<br>
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213) -
-  [ссылка](#)
+  [1drv](#)
 <details markdown="1">
 + **DirectX**<br>Для работы игр и графических приложений<br>
-  [ссылка](#) -
-  [ссылка](#)
+  [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35) -
+  [автономный](http://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
 + **NetFramework**<br>Либы для некоторых прог<br>
-  [ссылка](#) -
-  [ссылка](#)
-+ **RuntimePack**<br>Дополнительные либы к предыдущему<br>
-  [ссылка](#) -
-  [ссылка](#)
+  [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework) -
+  [v4.8(win10)](#) - 
+  [v4.5.1(win7)](#)
++ **Набор обновлений Windows 7**<br>Лучше ставить винду с уже интегрированными обновами<br>
+  [simplix](https://blog.simplix.info/updatepack7r2/)
 </details>
 
 ## USB/CD/DVD
@@ -223,16 +222,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 
-## Разработчику
-- **Профессионалу**<br>не для всех
-  [profi-soft](./profi-soft)
-- **Программисту**<br>если пишешь код, посмотри
-  [coding-tools](../coding/tools.html)
-
-
 ## Обновления
-- **Телеграм-канал**<br>[ссылка](https://t.me/FeelSoftWin/105)
-- **OneDrive общая папка**<br>[ссылка](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
+- [**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
+- [**Профессионалу для профи**](./profi-soft)<br>не для всех
+- [**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105)
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
