@@ -37,7 +37,8 @@ comments: false
 - ngrock
 - localhost.run
 - hostyourself.cc
-
+- <http://nginx.org/ru/docs/beginners_guide.html>
+ 
 ### для php 
 {: #hosting-php}
 - <http://ho.ua>
