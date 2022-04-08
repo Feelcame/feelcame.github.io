@@ -219,8 +219,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD**<br>Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
+</details>
 
-### LiveCD
+<details markdown="1"><summary markdown="0">+ LiveCD</summary>
 - [WinPE 10-8 Sergei Strelec (x86/x64/Native x86) 2021.10.14 Ru](https://nnmclub.to/forum/viewtopic.php?t=1502276). Ну это же стрелец!
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
