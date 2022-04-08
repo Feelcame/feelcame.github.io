@@ -9,6 +9,10 @@ title: Скрипты командной строки
 * Table of Content  
 {: toc }
 
+## Windows. Командная строка, PowerShell
+Win+R > cmd > счастье
+
+## Полезные фишки
 ### Узнать почему комп не уходит в сон
 Скрипт ниже. Запускать от админа. Источник: <https://tinyurl.com/b43nh2mz>  
 ```
@@ -20,8 +24,6 @@ cmd /k powercfg /requests
 ```
 "cmd /k cls & cd & adb start-server & echo FASTBOOT: & fastboot --version & fastboot devices & echo ADB: & adb version & adb devices"
 ```
-
-
 
 ### Ярлык с относительным путем
 1. Создать ярлык на командную строку, передав ей как параметр запуск файла по относительному пути. Проводник их не понимет, а вот cmd вполне.   
@@ -46,7 +48,7 @@ cmd /k powercfg /requests
 
 Ярлыки с относительными путями будут корректно работать на диске OneDrive даже если ты заходишь с разных компов.
 
-Зацени также [**скрипт**](./onedrive-linker.md), который позволяет создать локальные ссылки на OneDrive
+Зацени также скрипт, который позволяет создать локальные ссылки на OneDrive. Он использует переменную среды %onedrive%. Ссылка нас статью с описанием: [onedrive-linker](../projects/onedrive-linker.md)
 
 
 ## Полезные статьи
@@ -56,16 +58,16 @@ cmd /k powercfg /requests
 
 
 
-# Linux Bash
+## Linux Bash
 
 
-## Популярные команды
+### Популярные команды
 - cd
 - ls
-- ...
+- pwd
 
 
-## Полезные ссылки 2
+### Полезные ссылки 2
 - [Bash для начинающих: 21 полезная команда](https://habr.com/ru/company/ruvds/blog/445270/)
 - [КАК СОЗДАТЬ ФАЙЛ В ТЕРМИНАЛЕ](https://losst.ru/kak-sozdat-fajl-v-terminale)
 - [Быстрое изучение Bash: 30 легких команд для новичков](https://proglib.io/p/bash-commands-for-beginners)
