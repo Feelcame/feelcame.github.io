@@ -2,8 +2,23 @@
 date: 2021-09-02T23:08:10+03:00
 modified: 2021-09-17T19:07:56+03:00
 title: Выбор кнопочного телефона. Обзор Nomi i188s
-redirect_from: /hardware/review-nomi-i188s.md
+redirect_from: ./review-nomi-i188s
 ---
+
+### Характеристики телефонов 
+
+Посмотреть можно на таких сайтах:
+* <https://www.gsmarena.com/nokia-phones-1.php>
+* <https://www.devicespecifications.com/en/brand/33b93>
+* <http://www.phonemore.com>
+* <http://phonedb.net/>
+* <http://www.gsmchoice.co.uk>
+* <https://www.mobosdata.com>
+* <https://www.devicespecifications.com>
+* <https://4pda.ru/devdb/phones/nokia/all>
+* <https://4pda.ru/devdb/phones/nokia/all>
+* <http://www.mobile-arsenal.com.ua/lg/>
+
 
 ## **Nomi i188s**  
 Понадобился мне второй телефон. Требования к нему что бы звонил. В соседнем ларьке купил **Nomi i188s** за $11 (299грн). Самый бюджетный телефон на рынке, но не самый простой по функционалу. Спойлер: для бабушек такой не берите - не понравится
