@@ -108,13 +108,15 @@ modified: 2021-08-23T13:58:34+03:00
 
 ## Кодим прямо на телефоне
 - **Acode** - очень крутая
-<details markdown="1">
+
 - AIDE
 - TrebEdit
 - a writer
 - HTML Editor
 - AWD
 - Subedi
+<details markdown="1">
+вот и все
 </details>
 
 
