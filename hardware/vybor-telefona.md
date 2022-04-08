@@ -1,7 +1,8 @@
 ---
 date: 2021-09-02T23:08:10+03:00
 modified: 2021-09-17T19:07:56+03:00
-title: Обзор Nomi i188s
+title: Выбор кнопочного телефона. Обзор Nomi i188s
+redirect_from: /hardware/review-nomi-i188s.md
 ---
 
 ## **Nomi i188s**  
