@@ -278,7 +278,19 @@ title: test
 
 
 
+### Переадресация со старых страниц, постоянные ссылки
+Для сохранения работоспособности старой ссылки, при перемещении статьи, юзай плагин <https://github.com/jekyll/jekyll-redirect-from>.
 
+В заголовок файла добавить ```redirect_to``` или ```redirect_from```. Поддерживаются массивы, для переадресации со множества адресов.
+
+В файл \_config.yml нужно добавить:
+```
+plugins:
+  - jekyll-redirect-from
+```
+
+**Permalink**
+Задает постоянную ссылку на статью. Прямая ссылка автоматически переадесует на permalink
 
 ## Полезные ссылки
 + Оф. сайт Jekyll CMS  <https://jekyllrb.com/docs/step-by-step/08-blogging/#list-posts>  
