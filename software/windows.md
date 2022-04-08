@@ -198,7 +198,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [simplix](https://blog.simplix.info/updatepack7r2/)
 </details>
 
-## USB/CD/DVD
+## Диски
 - **Windows**<br>операционная система<br>
   [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
@@ -219,6 +219,16 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD**<br>Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
+
+### LiveCD
+- [WinPE 10-8 Sergei Strelec (x86/x64/Native x86) 2021.10.14 Ru](https://nnmclub.to/forum/viewtopic.php?t=1502276). Ну это же стрелец!
+- [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
+- [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
+- [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
+- [AdminPE10](https://rutracker.org/forum/viewtopic.php?t=5141967)
+- [MSDaRT](https://rutracker.org/forum/viewtopic.php?t=4456092)
+- [Windows PE x64 by evgen_b Acronis edition (2021.05.30)](https://rutracker.org/forum/viewtopic.php?t=5765167)
+- [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
 </details>
 
 
