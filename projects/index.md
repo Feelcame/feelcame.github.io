@@ -14,15 +14,15 @@ pin: 0
 ### Софт  
 {: #software }
 
-{% include drlis.md dir="/software/" tag="project" %}
+{% include drlis.md tag="project" %}
 
 ### Железки
 {: #hardware }
 
-{% include drlis.md dir="/hardware/" tag="project" %}
+{% include drlis.md tag="project" %}
 
 ### Заготовки
-{% include drlis.md dir="/projects/" %}
+{% include drlis.md %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
