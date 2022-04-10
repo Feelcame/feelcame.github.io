@@ -1,4 +1,9 @@
-## Feelsoft Tweaker
+---
+title: Feelsoft Tweaker
+comments: 286
+---
+
+## Описание
 
 Удобная текстовая оболочка для импорта твиков реестра. В комплекте уже идут некоторые твики
 ```
@@ -20,9 +25,11 @@ Feelsoft Tweaker:
 └─ Добавить диспетчер задач в автозагрузку
 ```
 
-## Скриншот
-![image](https://user-images.githubusercontent.com/17731587/162635263-7a770106-e150-43a7-a91a-84f59c00cea7.png)
-
 ## Скачать
 {: download }
 <https://t.me/FeelSoftWin/286>
+
+## Скриншоты
+![image](https://user-images.githubusercontent.com/17731587/162635263-7a770106-e150-43a7-a91a-84f59c00cea7.png)
+
+
