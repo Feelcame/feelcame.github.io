@@ -27,8 +27,9 @@ Feelsoft Tweaker:
 
 ## Скачать
 {: #download }  
-**Прямая ссылка:** <https://1drv.ms/u/s!An7p8rERUur5imrpJGlnO7xgSAUI?e=erZPms>  
-**Телеграм:** <https://t.me/FeelSoftWin/286>
+**Прямая ссылка:** <https://1drv.ms/u/s!An7p8rERUur5imrpJGlnO7xgSAUI?e=erZPms>
+
+Телеграм: <https://t.me/FeelSoftWin/286>
 
 ## Скриншоты
 ![image](https://user-images.githubusercontent.com/17731587/162635263-7a770106-e150-43a7-a91a-84f59c00cea7.png)
