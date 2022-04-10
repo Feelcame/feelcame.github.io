@@ -14,12 +14,12 @@ pin: 0
 ### Софт  
 {: #software }
 
-{% include drlis.md tag="project" %}
+{% include drlis.md tag="software" %}
 
 ### Железки
 {: #hardware }
 
-{% include drlis.md tag="project" %}
+{% include drlis.md tag="hardware" %}
 
 ### Заготовки
 {% include drlis.md %}
