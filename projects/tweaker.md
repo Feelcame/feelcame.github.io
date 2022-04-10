@@ -26,7 +26,7 @@ Feelsoft Tweaker:
 ```
 
 ## Скачать
-{: #download }
+{: #download }  
 Прямая ссылка: <https://1drv.ms/u/s!An7p8rERUur5imrpJGlnO7xgSAUI?e=erZPms>
 Телеграм: <https://t.me/FeelSoftWin/286>
 
