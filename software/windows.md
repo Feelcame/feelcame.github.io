@@ -36,8 +36,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iSrG0CR4Ya19Bkva)
 <details markdown="1">
 - **Paint.Net**<br>Редактор фото<br>
-  [оф.сайт](https://paintnet.ru/download/) -
-  [ссылка](#)
+  [оф.сайт](https://paintnet.ru/download/),
+  [ссылка](#)  
 - **Audacity**<br>Запись звука<br>
   [оф.сайт](https://www.audacityteam.org/download/) -
   [ссылка](#)
@@ -79,7 +79,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block**<br>вырезает нативную реклам в ютубе<br>
   [оф.сайт](https://sponsor.ajay.app/)
-- **Steam Recorder**<br>Скачивание видео и трансляций<br>|
+- **Steam Recorder**<br>Скачивание видео и трансляций<br>
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 - **Yandex Acces**<br>доступ к вк, ок и афк. Шпионский софт<br>
@@ -134,21 +134,19 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Система
-**CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
+- **CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
   [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download) -
-  [ссылка](#)
 - **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
   [оф.сайт](https://www.hwinfo.com/download/) -
   [ссылка](#)
+- **Feelsoft Tweaker**<br>Для тонкой настройки системы<br>
+  [оф.сайт](https://linker.pp.ua/projects/tweaker.html)
 <details markdown="1">
 - **AIDA64**<br>просмотр характеристик компа. платкая<br>
   [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
   [ссылка](#)
 - **Furmark**<br>нагружает видуху по полной для проверки стабильности<br>
   [оф.сайт](https://geeks3d.com/furmark/downloads/) -
-  [ссылка](#)
-- **Подборка твиков**<br>Для тонкой настройки системы<br>
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5ilFY02Lq0vPhnbQY?e=Xz0PPX)
 - **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
   [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
@@ -181,8 +179,6 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [автономный](http://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
 + **NetFramework**<br>Либы для некоторых прог<br>
   [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework) -
-  [v4.8(win10)](#) - 
-  [v4.5.1(win7)](#)
 + **Набор обновлений Windows 7**<br>Лучше ставить винду с уже интегрированными обновами<br>
   [simplix](https://blog.simplix.info/updatepack7r2/)
 </details>
