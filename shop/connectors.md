@@ -30,6 +30,7 @@ title: Разъемы
 ## Высокочастотные
 - SMA-edge
 - UFL
+- <https://www.olx.ua/d/obyavlenie/sma-ms156-crc9-n-bnc-tnc-rg58-mcx-f-lmr195-rg174-rg316-lmr100-rca-wifi-IDLrYOQ.html?sd=1&isPreviewActive=0&sliderIndex=4>
 
 ## Зажимы
 - зажим вуга
