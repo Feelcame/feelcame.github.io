@@ -222,7 +222,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 <details markdown="1"><summary markdown="0">+ LiveCD</summary>
-- [WinPE 10-8 Sergei Strelec (x86/x64/Native x86) 2021.10.14 Ru](https://nnmclub.to/forum/viewtopic.php?t=1502276). Ну это же стрелец!
+- WinPE 10-8 Sergei Strelec<br>Да это же легендарная сборка от стрельца!<br>
+[поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
