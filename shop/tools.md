@@ -19,7 +19,8 @@ title: Ручной инструмент
 - Стриппер для зачистки проводов
 - HT-336D2. Обжимной инструмент для коаксиального кабеля. Клежи, кримпер. Coaxial Crimping Tool
 - Обжимные клещи крімпінг роз'єм N,BNC,SMA,SMB,SMC,MCX RG174,RG58,RG59. <https://www.olx.ua/268604604>
-
+- HS-05H Coaxial Cable crimping pliers set for RG55 RG58 RG59,62, relden 8279,8281,9231,9141 SMA/BNC connectors Ratchet tools <https://www.aliexpress.com/item/32867776092.html>
+- Crimp tool set RG-174/RG-58/RG-59 compl. <https://www.wimo.com/en/19061>
 
 ## Метизы-расходники
 - лезвия для скальпеля
