@@ -6,7 +6,6 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 
 этот магазин задуман как демо для [shop-jekyll](../coding/shop-jekyll.md)
 
-## Все категории
 <div class="grid">
 {% include ls.md date="no" %}
 </div>
