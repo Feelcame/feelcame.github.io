@@ -60,7 +60,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 <details markdown="1">
-- **OpenVPN**<br><https://openvpn.net/community-downloads/>
+- **OpenVPN**<br>Соединение компьютеролв в локальную сеть через интернет<br>
+  [оф.сайт](https://openvpn.net/community-downloads/)
 </details>
 
 ## Расширения
@@ -68,7 +69,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **AdBlock Plus**<br>Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/) -
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
-- **Video Resumeк**<br>продолжает ютуб с места остановки<br>
+- **Video Resume**<br>продолжает ютуб с места остановки<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 <details markdown="1">
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
@@ -81,8 +82,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Steam Recorder**<br>Скачивание видео и трансляций<br>|
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
-- **Yandex Acces**<br>доступ к вк, ок и афк.<br>
+- **Yandex Acces**<br>доступ к вк, ок и афк. Шпионский софт<br>
   [ссылка](#)
+- **Windscribe**<br>Платный VPN-сервис для разблокировки сайтов<br>
+  [оф.сайт](https://rus.windscribe.com/download)
 </details>
 
 ## Офис
@@ -131,18 +134,21 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 ## Система
-- **CrystalDiskMark**<br>Проверка скорости накопителя<br>
-  [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark) -
+**CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
+  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download) -
+  [ссылка](#)
+- **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
+  [оф.сайт](https://www.hwinfo.com/download/) -
+  [ссылка](#)
+<details markdown="1">
+- **AIDA64**<br>просмотр характеристик компа. платкая<br>
+  [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
+  [ссылка](#)
+- **Furmark**<br>нагружает видуху по полной для проверки стабильности<br>
+  [оф.сайт](https://geeks3d.com/furmark/downloads/) -
   [ссылка](#)
 - **Подборка твиков**<br>Для тонкой настройки системы<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5ilFY02Lq0vPhnbQY?e=Xz0PPX)
-<details markdown="1">
-- **Victoria**<br>Проверка диска на битые сектора<br>
-  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
-  [v5.36](#)
-- **Acronis**<br>Переразбивка и клонирование диска<br>
-  [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998) -
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
 - **Process Monitor**<br>Мониторит изменения реестра в реальном времени<br>
   [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
@@ -160,23 +166,6 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://unchecky.com/) -
 - **Cureit**<br>Бесплатный одноразовой антивирус<br>
   [biblprog](http://biblprog.org.ua/ru/dr_web_cureit) -
-  [ссылка](#)
-</details>
-
-## Бенчмарки
-- **CPU-Z**<br>характеристики, бенчмарк процессора, сравнение<br>
-  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download) -
-  [ссылка](#)
-- **HWinfo**<br>просмотр характеристик компа, датчиков температуры<br>
-  [оф.сайт](https://www.hwinfo.com/download/) -
-  [ссылка](#)
-<details markdown="1">
-- **AIDA64**<br>просмотр характеристик компа. платкая<br>
-  [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
-  [ссылка](#)
-- **Furmark**<br>нагружает видуху по полной для проверки стабильности<br>
-  [оф.сайт](https://geeks3d.com/furmark/downloads/) -
-  [ссылка](#)
 </details>
 
 ## Драйвера
@@ -200,30 +189,38 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Диски
 - **Windows**<br>операционная система<br>
-  [Win7 adguard](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
-  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz)
+  [Win7 adguard(rtr)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
+  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz), 
+  [Win8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
   <br>
   [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows) +
-  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto), 
-  [8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
+  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
+- **WinPE 10-8 Sergei Strelec**<br>Да это же легендарная сборка от стрельца!<br>
+  [поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 - **UltraISO**<br>Cоздание, изменение .iso. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus**<br>Запись винды на флешку  
   [оф.сайт](https://rufus.ie/ru/#download) -
   [ссылка](#)
+- **CrystalDiskMark**<br>Проверка скорости накопителя<br>
+  [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark) -
+  [ссылка](#)
+- **Victoria**<br>Проверка диска на битые сектора<br>
+  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version) -
+  [v5.36](#)
+- **Acronis**<br>Переразбивка и клонирование диска<br>
+  [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998) -
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
+<details markdown="1">
 - **BOOTICE**<br>Редактор загрузчика  
   [ссылка](#)
-<details markdown="1">
 - **WinNTSetup**<br>Установка новой винды без заходов в биос  
   [v4.2sfx](https://t.me/s/FeelSoftWin/238) - 
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD**<br>Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
-</details>
 
-<details markdown="1"><summary markdown="0">+ LiveCD</summary>
-- WinPE 10-8 Sergei Strelec<br>Да это же легендарная сборка от стрельца!<br>
-[поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+**LiveCD:**
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
@@ -236,7 +233,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 
 ## Обновления
 - [**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
-- [**Профессионалу для профи**](./profi-soft)<br>не для всех
+- [**Профессионалу**](./profi-soft)<br>не для всех
 - [**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105)
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
