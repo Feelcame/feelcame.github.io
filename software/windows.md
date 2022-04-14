@@ -67,7 +67,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus**<br>Скрывает рекламу<br>
-  [оф.сайт](https://adblockplus.org/ru/) -
+  [оф.сайт](https://adblockplus.org/ru/download) -
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
 - **Video Resume**<br>продолжает ютуб с места остановки<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
