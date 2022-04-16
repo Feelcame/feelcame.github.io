@@ -10,6 +10,9 @@ comments: 103
 - Windscribe. Промокод на 30гб: ПИЗДЕЦ, СВОБОДА, PEACE
 - TurboVPN. для телефона, реклама
 
+## Свой VPN в один клик
+- <https://tailscale.com/>
+
 ## Свой сервак
 - openvpn на основе vps
 - shadowsocks + heroku
