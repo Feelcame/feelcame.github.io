@@ -19,6 +19,10 @@ modified: 2021-08-24T13:33:23+03:00
 ## Какие стандартные приложения можно безопасно удалить
 Через ADB можно отключить приложения и они не смогут самостоятельно включиться до заводского сброса. Если есть разблокированный загрузчик+рекавери+рут, то этот список тебе тоже будет интересен
 
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater/releases)
+- ADB_AppControl
+- XiaomiADBFastbootTools
+
 <details markdown="1"><summary markdown="0">Motorola</summary>
 
 [источник](https://4pda.to/forum/index.php?showtopic=526899&st=10080#entry38586664)
