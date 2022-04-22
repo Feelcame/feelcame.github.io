@@ -17,8 +17,7 @@ pin: 2
 
 
 ## Файлы
-<div class="highlight22">
-  
+<div class="highlight22" markdown="1">
 - Total Commander. 
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
@@ -29,9 +28,8 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
   [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
   [другие..](https://www.ghisler.com/androidplugins/download/)
-
 </div>
-
+<details markdown="1">
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
@@ -39,6 +37,7 @@ pin: 2
 - ES Проводник 3.2.5
 - Sync
 - RAR
+</details>
 
 [Наверх↑](#nav)
 
@@ -53,6 +52,7 @@ pin: 2
 - PlayerPro
 - Shazam
 </details>
+
 [Наверх↑](#nav)
 
 ## Медиа
@@ -79,6 +79,7 @@ pin: 2
 - Кино HD
 - Wink (мод)
 </details>
+
 [Наверх↑](#nav)
 
 ## Интернет 
@@ -102,6 +103,7 @@ pin: 2
 - Unified Remote
 - Remote Ripple VNC
 </details>
+
 [Наверх↑](#nav)
 
 
@@ -123,6 +125,7 @@ pin: 2
 - Переводчик
 - Секундомер
 </details>
+
 [Наверх↑](#nav)
 
 
@@ -144,6 +147,7 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=587771)
 - App Backup&Restore. 
   [v3.11.old](#)
+  
 <details markdown="1">
 - Copy
 - Powerful Control
@@ -164,6 +168,7 @@ pin: 2
 - Launcher<3
 - Клавиатура Google
 </details>
+
 [Наверх↑](#nav)
 
 
@@ -182,6 +187,7 @@ pin: 2
 - primitive ftpd. [скачать](#), [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - IP Webcam
 </details>
+
 [Наверх↑](#nav)
 
 ## Карты
@@ -191,6 +197,7 @@ pin: 2
 - on taxi
 - blablacar
 </details>
+
 [Наверх↑](#nav)
 
 ## Прочее
@@ -201,6 +208,7 @@ pin: 2
 - Mi Band Master 
 - Shake me - #batman
 </details>
+
 [Наверх↑](#nav)
 
 ## Программы для компа
@@ -210,6 +218,8 @@ pin: 2
 - adb
 - ADB_AppControl_171
 - xiaomi debloater
+
+
 [Наверх↑](#nav)
 
 ## Полезные ссылки
