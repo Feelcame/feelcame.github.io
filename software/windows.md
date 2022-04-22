@@ -41,7 +41,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Audacity**<br>Запись звука<br>
   [оф.сайт](https://www.audacityteam.org/download/) -
   [ссылка](#)
-- HandBrake. Конвернтер видео. [оф.сайт]{https://handbrake.fr/)
+- **HandBrake**<br>Конвернтер видео<br>
+  [оф.сайт]{https://handbrake.fr/)
 </details>
 
 ## Интернет
