@@ -43,7 +43,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://www.audacityteam.org/download/) -
   [ссылка](#)
 - **HandBrake**<br>Конвернтер видео<br>
-  [оф.сайт]{https://handbrake.fr/)
+  [оф.сайт](https://handbrake.fr/)
 </details>
 
 ## Интернет
