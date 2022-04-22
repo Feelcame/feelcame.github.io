@@ -15,8 +15,8 @@ pin: 2
 Обновления ищи на оф.сайте
 
 
-
 ## Файлы
+<div class="highlight">
 - Total Commander. 
   [v3.23](https://tlgur.com/d/GW1rxPb4), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
@@ -27,6 +27,7 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
   [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
   [другие..](https://www.ghisler.com/androidplugins/download/)
+</div>
 <details markdown="1">
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
