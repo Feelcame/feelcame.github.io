@@ -5,6 +5,7 @@ title: Софт для Android
 pin: 2
 ---
 
+<a name="nav"></a>
 <details markdown="1">
 <summary markdown="0">+ Сегодня в программе</summary>
 - Список разделов  
@@ -37,6 +38,7 @@ pin: 2
 - Sync
 - RAR
 </details>
+[🏠↑Наверх↑](#nav)
 
 ## Музыка
 - AIMP. 
