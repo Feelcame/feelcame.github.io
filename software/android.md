@@ -30,7 +30,9 @@ pin: 2
   [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
   [другие..](https://www.ghisler.com/androidplugins/download/)
 </div>
+
 <details markdown="1">
+
 - TotalCmd USB stick plugin by OperaFan. 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
