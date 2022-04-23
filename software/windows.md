@@ -173,6 +173,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://sdi-tool.org/download/) -
   [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
 + **Microsoft Visual C++ Runtime**<br>Набор библиотек для стабильной работы програм<br>
+  [поиск rtr](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B) -
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213) -
   [1drv](#)
 <details markdown="1">
