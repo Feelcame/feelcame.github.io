@@ -25,3 +25,7 @@ date: 2021-07-05T01:20:21+03:00
 
 - <https://lifehacker.ru/sajty-dlya-sovmestnogo-prosmotra-filmov/>
 - <https://www.maketecheasier.com/watch-videos-online-with-friends-realtime/>
+
+### Скачивание YouTube
+[savefrom](https://ru.savefrom.net/101/). (ssyoutube)
+[y2mate](https://www.y2mate.com). (youtubepp)
