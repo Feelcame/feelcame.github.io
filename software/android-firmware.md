@@ -3,6 +3,20 @@ date: 2021-06-02T03:16:45+03:00
 modified: 2021-08-24T13:33:23+03:00
 ---
 
+## Программы и утилиты
+- 0x192/universal-android-debloater. норм. 
+  [github](https://github.com/0x192/universal-android-debloater/releases)
+- ADB_AppControl. норм. 
+  [оф.сайт](https://adbappcontrol.com/)
+- XiaomiADBFastbootTools. устарело. 
+  [github](https://github.com/Szaki/XiaomiADBFastbootTools)
+- ADB-RUN. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=437824), 
+  [оф.сайт](https://androidp1.ru/adb-run-obzor-funktsiy/)
+- ApkShellext2. Показ иконок apk
+- adb
+
+
 ## Прошивка и настройка телефона android
 
 **Есть два пути** официальный и правильный. 
@@ -18,10 +32,7 @@ modified: 2021-08-24T13:33:23+03:00
 
 ## Какие стандартные приложения можно безопасно удалить
 Через ADB можно отключить приложения и они не смогут самостоятельно включиться до заводского сброса. Если есть разблокированный загрузчик+рекавери+рут, то этот список тебе тоже будет интересен
-
-- 0x192/universal-android-debloater. норм. [github](https://github.com/0x192/universal-android-debloater/releases)
-- ADB_AppControl. норм. [оф.сайт](https://adbappcontrol.com/)
-- XiaomiADBFastbootTools. устарело. [github](https://github.com/Szaki/XiaomiADBFastbootTools)
+- Программы и утилиты. [ссылка](#программы-и-утилиты)
 
 <details markdown="1"><summary markdown="0">Motorola</summary>
 
