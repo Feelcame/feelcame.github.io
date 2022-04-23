@@ -51,9 +51,11 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=1005964),
   [web](https://music.youtube.com/)
 <details markdown="1">
-- Яндекс музыка (мод)
+- Яндекс музыка (мод). [telegram](https://t.me/alexstranniklite/14131)
+- Deezer. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
+- Murglar. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 - PlayerPro
-- Shazam
+- Shazam. [4pda](https://4pda.to/forum/index.php?showtopic=128657)
 </details>
 
 [Наверх↑](#)
@@ -70,7 +72,7 @@ pin: 2
   [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
   [v0.20.8 (4.1+)](https://tlgur.com/d/GL0ZDJ6G)
 - PicSay Pro – фоторедактор. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=131210)
+  [4pda](https://4pda.to/forum/index.php?showtopic=131210),
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), 
   [шрифты](#), 
 - Hi-Q MP3 Recorder – диктофон. 
@@ -79,16 +81,20 @@ pin: 2
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
 - XRecorder  – запись экрана. 
-  [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder)
+  [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
-  [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8), 
+  [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
 <details markdown="1">
-- Youtube Vanced (мод)
+- Youtube Vanced (мод). 
+  [4pda](https://4pda.to/forum/index.php?showtopic=916464)
 - PowerTube
-- HD VideoBox (закрыли) <https://tlgur.com/d/g2XkXzM8>
+- HD VideoBox (закрыли)
 - LazyMedia 
 - Кино HD
 - Wink (мод)
+- UPlayer. 
+  [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=900750)
 </details>
 
 [Наверх↑](#)
@@ -135,7 +141,7 @@ pin: 2
 - GitJournal. Заметки. 
   [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
 - Простой календарь. 
-  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar)
+  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
   [v0](#), 
 - Microsoft Office. 
   [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
@@ -154,21 +160,21 @@ pin: 2
 ## Система
 - LuckyPatcher. 
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
-  [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/)
-  [v9.7.0](https://tlgur.com/d/g306JW64), 
+  [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/),
+  [v9.7.0](https://tlgur.com/d/g306JW64)
 - Aurora Store. 
   [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
-  [оф.сайт](https://files.auroraoss.com/AuroraStore/Stable/)
+  [оф.сайт](https://files.auroraoss.com/AuroraStore/Stable/),
   [телега](https://t.me/AuroraOfficial), 
   [v4.0.7](https://tlgur.com/d/4x5bADY8), 
 - App&Game 4PDA. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=275433)
+  [4pda](https://4pda.to/forum/index.php?showtopic=275433),
   [v5.3.7](https://tlgur.com/d/89BMN9OG),
 - My android tools. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=587771)
+  [4pda](https://4pda.to/forum/index.php?showtopic=587771),
   [v1.6.8](https://tlgur.com/d/GL0ZNxBG), 
 - App Backup&Restore. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=246407)
+  [4pda](https://4pda.to/forum/index.php?showtopic=246407),
   [v3.11.old](https://tlgur.com/d/4kx3qvZ8)
   
 <details markdown="1">
@@ -197,7 +203,7 @@ pin: 2
 
 ## Сеть
 - Internet Speed Meter. 
-  [play](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite)
+  [play](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite),
   [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
