@@ -242,12 +242,22 @@ pin: 2
 [Наверх↑](#)
 
 ## Программы для компа
-- ADB-RUN
-- ADB AppControl
-- ApkShellext2
+- Программы и утилиты. [ссылка](./android-firmware.md#программы-и-утилиты)
+
+<details markdown="1">
+
+- 0x192/universal-android-debloater. норм. 
+  [github](https://github.com/0x192/universal-android-debloater/releases)
+- ADB_AppControl. норм. 
+  [оф.сайт](https://adbappcontrol.com/)
+- XiaomiADBFastbootTools. устарело. 
+  [github](https://github.com/Szaki/XiaomiADBFastbootTools)
+- ADB-RUN. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=437824), 
+  [оф.сайт](https://androidp1.ru/adb-run-obzor-funktsiy/)
+- ApkShellext2. Показ иконок apk
 - adb
-- ADB_AppControl_171
-- xiaomi debloater
+</details>
 
 [Наверх↑](#)
 
