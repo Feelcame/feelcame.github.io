@@ -33,6 +33,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428) -
   [tlgur](https://tlgur.com/d/4x5Nb5x8) -
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iSrG0CR4Ya19Bkva)
+- **FFQueue**<br>GUI for FFMpeg<br>
+  [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
 <details markdown="1">
 
 - **Paint.Net**<br>Редактор фото<br>
