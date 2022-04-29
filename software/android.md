@@ -41,9 +41,9 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=com.aimp.player),
   [4pda](https://4pda.to/forum/index.php?showtopic=442204),
   [оф.сайт](http://www.aimp.ru/?do=download&os=android),
-  [v2.90.858(4.0+,tlgur)](https://tlgur.com/d/4AX2qxKg), 
-  [v3.10.1052(4.4+,tlgur)](https://tlgur.com/d/4zexQ7lg), 
-  [v3.22.1193(5.0+,tlgur)](https://tlgur.com/d/8l6jQKDg)
+  [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
+  [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
+  [v3.22(5.0+,tlgur)](https://tlgur.com/d/8l6jQKDg)
 - Spotify.
   [play](https://play.google.com/store/apps/details?id=com.spotify.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
@@ -73,7 +73,7 @@ pin: 2
   [github](https://github.com/TeamNewPipe/NewPipe/releases), 
   [оф.сайт](https://newpipe.net/#download), 
   [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
-  [v0.20.8 (4.1+)](https://tlgur.com/d/GL0ZDJ6G)
+  [v0.20.8(4.1+)](https://tlgur.com/d/GL0ZDJ6G)
 - PicSay Pro – фоторедактор. 
   [4pda](https://4pda.to/forum/index.php?showtopic=131210),
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), 
@@ -83,7 +83,7 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=210572),
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
-- XRecorder  – запись экрана. 
+- XRecorder – запись экрана. 
   [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
   [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
@@ -111,11 +111,14 @@ pin: 2
   [v8.3.0](https://tlgur.com/d/GXjVmwl4)
 - Opera браузер.
   [play](https://play.google.com/store/apps/details?id=com.opera.browser)
-- Bromite. Хром без слежки гугла. (6.0+). 
+  [4pda](https://4pda.to/forum/index.php?showtopic=438451), v50.6(4.1+), v66.2(5.1+)
+- Bromite. Хром без зондов гугла. (6.0+). 
   [оф.сайт](https://www.bromite.org/#download-bromite)
 - Opera Mini 7 - старая версия.
+  [4pda](https://4pda.to/forum/index.php?showtopic=100813)
   [v7.6.0(tlgur)](https://tlgur.com/d/gvbZ51ng)
-- AnyDesk. Удаленное управление.  
+- AnyDesk. Удаленное управление.
+  [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
 <details markdown="1">
 - Viber
 - Instander
@@ -147,7 +150,8 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
   [v0](#), 
 - Microsoft Office. 
-  [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow)
+  [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
+  [4pda](https://4pda.to/forum/index.php?showtopic=486245)
 - Aqua Mail. 
   [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail)
 - StyleNote заметки
