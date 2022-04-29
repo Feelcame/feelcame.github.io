@@ -39,13 +39,16 @@ pin: 2
 ## Музыка
 - AIMP. 
   [play](https://play.google.com/store/apps/details?id=com.aimp.player),
+  [4pda](https://4pda.to/forum/index.php?showtopic=442204),
   [оф.сайт](http://www.aimp.ru/?do=download&os=android),
-  [v3.20(5+)](https://tlgur.com/d/gm6VYQN4), 
-  [v2.90(4.1+)](#), 
+  [v2.90.858(4.0+,tlgur)](https://tlgur.com/d/4AX2qxKg), 
+  [v3.10.1052(4.4+,tlgur)](https://tlgur.com/d/4zexQ7lg), 
+  [v3.22.1193(5.0+,tlgur)](https://tlgur.com/d/8l6jQKDg)
 - Spotify.
   [play](https://play.google.com/store/apps/details?id=com.spotify.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
-  [web](https://open.spotify.com/)
+  [web](https://open.spotify.com/), 
+  [+боты](./telegram-bots.html#музыка)
 - YouTube Music (vanced).
   [play](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=1005964),
@@ -54,7 +57,7 @@ pin: 2
 - Яндекс музыка (мод). [telegram](https://t.me/alexstranniklite/14131)
 - Deezer. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
 - Murglar. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
-- PlayerPro
+- PlayerPro. [4pda](https://4pda.to/forum/index.php?showtopic=189092)
 - Shazam. [4pda](https://4pda.to/forum/index.php?showtopic=128657)
 </details>
 
