@@ -90,6 +90,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#)
 - **Windscribe**<br>Платный VPN-сервис для разблокировки сайтов<br>
   [оф.сайт](https://rus.windscribe.com/download)
+- **Video Downloader Plus**<br>скачивает видео из фейсбука
+  [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf)
 </details>
 
 ## Офис
