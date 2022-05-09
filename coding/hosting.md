@@ -2,7 +2,7 @@
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
 modified: 2021-08-25T11:37:03+03:00
-redirect-from: hosting-cms.html
+redirect_from: hosting-cms.html
 tags: web
 comments: false
 ---
