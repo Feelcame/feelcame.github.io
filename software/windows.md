@@ -8,6 +8,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 ---
 
 <div style="font-size: 13px;">
+  
 [**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105),
 [**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
 [**Профессионалу**](./profi-soft)
