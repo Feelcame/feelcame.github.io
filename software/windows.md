@@ -68,6 +68,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64) -
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 <details markdown="1">
+
 - **OpenVPN**<br>Соединение компьютеролв в локальную сеть через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
 </details>
@@ -80,6 +81,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Video Resume**<br>продолжает ютуб с места остановки<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 <details markdown="1">
+
 - **Переводчик SailorMax**<br>удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
   [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/)
@@ -114,6 +116,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://notepad-plus-plus.org/downloads/)
   [ссылка](#) - 
 <details markdown="1">
+
 - Notable
 - Obsidian
 - Notion
@@ -134,6 +137,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [беспл.аналог](https://geekuninstaller.com/ru/download) -
   [ссылка](#)
 <details markdown="1">
+
 - **WizTree**<br>анализ места на диске<br>
   [оф.сайт](https://diskanalyzer.com/download) -
   [ссылка](#)
@@ -153,6 +157,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://linker.pp.ua/projects/tweaker.html) -
   [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
 <details markdown="1">
+
 - **AIDA64**<br>просмотр характеристик компа. платкая<br>
   [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
   [ссылка](#)
@@ -171,6 +176,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **AdwCleaner**<br>Пытается чистить комп от малвари<br>
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
 <details markdown="1">
+
 - **Unchecky**<br>Снимает галочки при установке софта<br>
   [оф.сайт](https://unchecky.com/) -
 - **Cureit**<br>Бесплатный одноразовой антивирус<br>
@@ -186,6 +192,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213) -
   [1drv](#)
 <details markdown="1">
+
 + **DirectX**<br>Для работы игр и графических приложений<br>
   [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35) -
   [автономный](http://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
@@ -220,6 +227,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998) -
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
 <details markdown="1">
+
 - **BOOTICE**<br>Редактор загрузчика  
   [ссылка](#)
 - **WinNTSetup**<br>Установка новой винды без заходов в биос  
@@ -238,9 +246,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
 </details>
 
-
-
-
+## телеграм
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/109" data-width="100%"></script>
