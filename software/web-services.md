@@ -12,9 +12,8 @@ date: 2021-07-05T01:20:21+03:00
 
 
 ### Хостинг картинок
-- github pages
-- telegra.ph
-- tlgur бот
+раздел переехал [сюда](/coding/hosting.md#images)
+
 
 ### Сервисы для просмотра кино совместно
 - Plex
@@ -27,5 +26,5 @@ date: 2021-07-05T01:20:21+03:00
 - <https://www.maketecheasier.com/watch-videos-online-with-friends-realtime/>
 
 ### Скачивание YouTube
-[savefrom](https://ru.savefrom.net/101/). (ssyoutube)
-[y2mate](https://www.y2mate.com). (youtubepp)
+- [savefrom](https://ru.savefrom.net/101/). (ssyoutube)
+- [y2mate](https://www.y2mate.com). (youtubepp)
