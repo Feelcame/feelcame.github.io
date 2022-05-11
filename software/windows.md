@@ -7,8 +7,11 @@ pin: 1
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
 ---
 
-<a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/105">
-<strong>t.me/FeelSoftWin</strong></a>
+<div style="font-size: 13px;">
+[**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105),
+[**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
+[**Профессионалу**](./profi-soft)
+</div>
 
 <details markdown="1">
 - toc
@@ -86,7 +89,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - **Steam Recorder**<br>Скачивание видео и трансляций<br>
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
-- **Yandex Acces**<br>доступ к вк, ок и афк. Шпионский софт<br>
+- **Yandex Acces**<br>доступ к вк, ок и афк<br>
   [ссылка](#)
 - **Windscribe**<br>Платный VPN-сервис для разблокировки сайтов<br>
   [оф.сайт](https://rus.windscribe.com/download)
@@ -146,7 +149,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [оф.сайт](https://www.hwinfo.com/download/) -
   [ссылка](#)
 - **Feelsoft Tweaker**<br>Для тонкой настройки системы<br>
-  [оф.сайт](https://linker.pp.ua/projects/tweaker.html)
+  [оф.сайт](https://linker.pp.ua/projects/tweaker.html) -
+  [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
 <details markdown="1">
 - **AIDA64**<br>просмотр характеристик компа. платкая<br>
   [rtr](http://rutracker.org/forum/tracker.php?nm=aida64) -
@@ -234,10 +238,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 
-## Обновления
-- [**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs)
-- [**Профессионалу**](./profi-soft)<br>не для всех
-- [**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105)
+
 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
