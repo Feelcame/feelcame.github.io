@@ -247,7 +247,9 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
 </details>
 
-## телеграм
+## телеграм  
+{: .no_toc }
+
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/109" data-width="100%"></script>
