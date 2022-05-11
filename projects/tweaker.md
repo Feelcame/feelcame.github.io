@@ -8,9 +8,21 @@ comments: 104
 
 ## Описание
 
-Удобная текстовая оболочка для импорта твиков реестра. В комплекте уже идут некоторые для первичной настройки системы после установки начисто
+Удобная текстовая оболочка для импорта твиков реестра. В комплекте уже идут некоторые для первичной настройки системы после установки начисто. Make your windows 10 handy again in seconds
+
+## Скачать
+{: #download }
+
+**GitHub:** <https://github.com/Feelcame/feelsoft-tweaker/releases>
+
+1drv: <https://1drv.ms/u/s!An7p8rERUur5imrpJGlnO7xgSAUI?e=erZPms>
+
+Телеграм: <https://t.me/FeelSoftWin/286>
+
+## Подробности
+
 ```
-Feelsoft Tweaker:
+Список твиков:
 ├─ Улучшения интерфейса (безопасно)
 │  ├─ Смена языка по Ctrl+Shift, раскладка по Alt+Shift
 │  ├─ Темная тема оформления
@@ -28,16 +40,6 @@ Feelsoft Tweaker:
 └─ Добавить диспетчер задач в автозагрузку
 ```
 
-## Скачать
-{: #download }
-
-**Прямая ссылка:** <https://1drv.ms/u/s!An7p8rERUur5imrpJGlnO7xgSAUI?e=erZPms>
-
-Телеграм: <https://t.me/FeelSoftWin/286>
-
-Исходники: (пока не опубликовано)
-
-## Скриншоты
 ![image](https://user-images.githubusercontent.com/17731587/162635263-7a770106-e150-43a7-a91a-84f59c00cea7.png)
 
 
