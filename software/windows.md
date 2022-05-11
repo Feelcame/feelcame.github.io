@@ -117,6 +117,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
   [ссылка](#) - 
 <details markdown="1">
 
+- Dynalist. Списки с бесконечной вложенностью, markdown
 - Notable
 - Obsidian
 - Notion
