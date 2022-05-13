@@ -6,6 +6,7 @@ date: 2022-05-12T11:58:42+03:00
 На Lenovo e530 постоянно отваливается сеть WiFi. Чтобы починить - можно создать скрипт для периодического переподключения. Способ временный и некрасивый, но рабочий
 
 ```
+chcp 1251 > nul
 @echo off
 set network=Shareware
 set gateway=192.168.31.1
@@ -32,5 +33,5 @@ rem вывод точек в одну строку
 timeout /t 1 > nul
 goto start1
 
-REM for /L %%I in (1,0,2) DO (netsh wlan connect name=Shareware)
+REM for /L %%I in (1,0,2) DO (netsh wlan connect name=Shareware && timeout /t 4 > nul)
 ```
