@@ -19,3 +19,4 @@ modified: 2021-08-25T11:38:41+03:00
 
 
 ## Полезные ссылки
+- <http://developer.alexanderklimov.ru/android/studio/androidstudio.php>
