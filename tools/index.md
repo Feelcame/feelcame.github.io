@@ -5,6 +5,9 @@ modified: 2021-09-02T23:38:31+03:00
 title: test
 ---
 
+**Проекты:**
+{% include ls.md dir="/projects/" tag="software" %}
+
 {% include drlis.md spoiler="Все тестовые страницы" %}
 
 # ссылка на страницу
