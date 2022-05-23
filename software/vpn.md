@@ -7,8 +7,9 @@ comments: 103
 
 ## Сервисы
 - Cloudflare WARP. Бесплатно, глючит
-- Windscribe. Промокод на 30гб: ПИЗДЕЦ, СВОБОДА, PEACE
+- Windscribe. Гиг бесплатно, десять за регистрацию. Промокод на 30гб: ПИЗДЕЦ, СВОБОДА, PEACE
 - TurboVPN. для телефона, реклама
+- <https://prostovpn.org>. Cервис от ValdikSS. Доступ к тор и i2p
 
 ## Свой VPN в один клик
 - <https://tailscale.com/>
