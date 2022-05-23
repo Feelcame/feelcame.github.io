@@ -14,7 +14,7 @@
   assign all_pages = site.pages 
   | where: "dir",  directory 
   | where_exp: "item", "item.pin != 0"
-  | where_exp: "item", "item.name != 'redirect.html'"
+  | where_exp: "item", "item.name != redirect.html"
   | sort: "date" 
   | reverse 
 -%}  
@@ -68,7 +68,7 @@
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 {% unless showdate == "no" %}
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
+<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" ({{ pg.name }}) }}</time>
 {% endunless %}</li>
 
 {% endfor -%}
