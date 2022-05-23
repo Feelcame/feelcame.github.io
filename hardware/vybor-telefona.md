@@ -2,7 +2,7 @@
 date: 2021-09-02T23:08:10+03:00
 modified: 2021-09-17T19:07:56+03:00
 title: Выбор кнопочного телефона. Каким он должен быть. Где посмотреть характеристики. Обзор Nomi i188s
-redirect_from: review-nomi-i188s
+redirect_from: /hardware/review-nomi-i188s
 ---
 смотри также: [2G TurboPhone](../projects/turbophone.md)
 
