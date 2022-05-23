@@ -5,7 +5,7 @@ modified: 2021-08-25T11:37:03+03:00
 tags: web
 comments: false
 redirect_from: 
-  - ./hosting-cms
+  - /coding/hosting-cms
 ---
 
 
