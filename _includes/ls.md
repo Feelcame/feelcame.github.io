@@ -14,7 +14,7 @@
   assign all_pages = site.pages 
   | where: "dir",  directory 
   | where_exp: "item", "item.pin != 0"
-  | where_exp: "item", "item.name != redirect.html"
+  | where_exp: "item", "item.name != 'redirect.html'"
   | sort: "date" 
   | reverse 
 -%}  
