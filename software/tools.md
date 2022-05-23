@@ -1,6 +1,7 @@
 ---
 title: Полезные утилиты
-reditrct_to: /tools/
-pin: 1
+redirect_to: /tools/
+pin: 3
 ---
 
+Переходи сюда: [/tools](/tools/)
