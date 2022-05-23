@@ -68,7 +68,7 @@
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 {% unless showdate == "no" %}
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" ({{ pg.name }}) }}</time>
+<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }} ({{ pg.name }}) </time>
 {% endunless %}</li>
 
 {% endfor -%}
