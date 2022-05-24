@@ -49,11 +49,11 @@ pin: 1
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
   [web](https://open.spotify.com/), 
   [+боты](./telegram-bots.html#музыка)
+<details markdown="1">
 - YouTube Music (vanced).
   [play](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=1005964),
   [web](https://music.youtube.com/)
-<details markdown="1">
 - Яндекс музыка (мод). [telegram](https://t.me/alexstranniklite/14131)
 - Deezer. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
 - Murglar. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
@@ -70,15 +70,15 @@ pin: 1
   [f-droid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 - MX Player. 
   [4pda](https://4pda.to/forum/index.php?showtopic=253883)
-- UPlayer. Новый плеер "все в одном".
+- UPlayer. Новый плеер все в одном.
   [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
   [4pda](https://4pda.to/forum/index.php?showtopic=900750)
-- NewPipe. Плеер для youtube и др., скачивание видео. opensource.
+- NewPipe. Скачивание с youtube.
   [4pda](https://4pda.to/forum/index.php?showtopic=694195), 
   [github](https://github.com/TeamNewPipe/NewPipe/releases), 
   [оф.сайт](https://newpipe.net/#download), 
-  [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
   [v0.20.8(4.1+)](https://tlgur.com/d/GL0ZDJ6G)
+  [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
 - Youtube Vanced. Мод без рекламы. 
   [4pda](https://4pda.to/forum/index.php?showtopic=916464)
 - PicSay Pro – фоторедактор. 
@@ -90,16 +90,17 @@ pin: 1
   [4pda](https://4pda.to/forum/index.php?showtopic=210572),
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
+<details markdown="1">
+
 - XRecorder – запись экрана. 
   [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
   [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
-<details markdown="1">
+- LazyMedia Deluxe. [4pda](https://4pda.to/forum/index.php?showtopic=848635)
+- Кино HD. [4pda](https://4pda.to/forum/index.php?showtopic=787648)
+- Wink (мод)
 - PowerTube
 - HD VideoBox (закрыли)
-- LazyMedia 
-- Кино HD
-- Wink (мод)
 </details>
 
 [Наверх↑](#)
@@ -109,8 +110,7 @@ pin: 1
   [play](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru&gl=US),
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [оф.сайт](https://telegram.org/android?setln=ru),
-  [телега](https://t.me/TAndroidAPK), 
-  [v8.3.0](https://tlgur.com/d/GXjVmwl4)
+  [в самом тг](https://t.me/TAndroidAPK), 
 - Opera браузер.
   [play](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
@@ -118,9 +118,9 @@ pin: 1
   [оф.сайт](https://download.opera.com)
   v50.6(4.1+), 
   v66.2(5.1+)
-- Bromite. Хром без зондов гугла. 
+- Bromite. Хром без гугла. (6.0+)
   [4pda](https://4pda.to/forum/index.php?showtopic=725481&st=100),
-  [оф.сайт(6.0+)](https://www.bromite.org/#download-bromite),
+  [оф.сайт](https://www.bromite.org/#download-bromite),
   [github](https://github.com/bromite/bromite/releases)
 - Opera Mini 7. Старая версия для очень медленного интернета.
   [4pda](https://4pda.to/forum/index.php?showtopic=100813)
@@ -128,11 +128,12 @@ pin: 1
 - AnyDesk. Удаленное управление.
   [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
 <details markdown="1">
+
 - Viber
-- Instander
+- Instander. Инста без рекламы
 - LoaderDroid
 - Advanced Download Manager
-- Flow – для rutracker.org
+- Flow – клиент rutracker.org
 - Flud – торрент клиент
 - OpenVPN
 - Unified Remote
@@ -151,7 +152,8 @@ pin: 1
   [4pda](https://4pda.to/forum/index.php?showtopic=576815)
 - Простой календарь. 
   [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
-  [v0](#), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=931531)
+  [v6.18.1(5.0+)](https://tlgur.com/d/GPqWL5Lg) 
 - Microsoft Office. 
   [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
   [4pda](https://4pda.to/forum/index.php?showtopic=486245)
@@ -161,12 +163,16 @@ pin: 1
 - Acode. Редактор кода. 
   [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 - GitJournal. Заметки. 
-  [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
+  [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal),
+  [оф.сайт](https://gitjournal.io/)
 - Aqua Mail. 
   [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail)
 - StyleNote заметки
 - EBookDroid
-- ElectroВщс
+- ElectroDoc. Справочник электронщика.
+  [play](https://play.google.com/store/apps/details?id=it.android.demi.elettronica),
+  [4pda](https://4pda.to/forum/index.php?showtopic=221412&st=60),
+  [v5.1(tlgur)](https://tlgur.com/d/4NqLExWg)
 - Переводчик
 - Секундомер
 </details>
@@ -186,15 +192,15 @@ pin: 1
   [v4.0.7](https://tlgur.com/d/4x5bADY8), 
 - App&Game 4PDA. 
   [4pda](https://4pda.to/forum/index.php?showtopic=275433),
-  [v5.3.7](https://tlgur.com/d/89BMN9OG),
+  [v5.3.7(tlgur)](https://tlgur.com/d/89BMN9OG),
 - My android tools. 
   [4pda](https://4pda.to/forum/index.php?showtopic=587771),
-  [v1.6.8](https://tlgur.com/d/GL0ZNxBG), 
+  [v1.6.8(tlgur)](https://tlgur.com/d/GL0ZNxBG), 
 - App Backup&Restore. 
   [4pda](https://4pda.to/forum/index.php?showtopic=246407),
-  [v3.11.old](https://tlgur.com/d/4kx3qvZ8)
-  
+  [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 <details markdown="1">
+
 - Copy
 - Powerful Control
 - Titanium Backup
