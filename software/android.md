@@ -262,13 +262,16 @@ pin: 1
 [Наверх↑](#)
 
 ## Прочее
+- Easy Open Link.
+  [play](#),
+  [4pda](#),
+  v0(5.1+)
 - Сканер штрих-кодов
 - Shake me - игра про пьяненького бетмена
 <details markdown="1">
 
 - Виджет громкости
 - Mi Band Master 
-- Shake me - #batman
 </details>
 
 [Наверх↑](#)
