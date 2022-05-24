@@ -110,8 +110,11 @@ pin: 2
   [телега](https://t.me/TAndroidAPK), 
   [v8.3.0](https://tlgur.com/d/GXjVmwl4)
 - Opera браузер.
-  [play](https://play.google.com/store/apps/details?id=com.opera.browser)
-  [4pda](https://4pda.to/forum/index.php?showtopic=438451), v50.6(4.1+), v66.2(5.1+)
+  [play](https://play.google.com/store/apps/details?id=com.opera.browser),
+  [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
+  [оф.сайт(ftp)](https://get.geo.opera.com/pub/opera/android/),
+  v50.6(4.1+), 
+  v66.2(5.1+)
 - Bromite. Хром без зондов гугла. (6.0+). 
   [оф.сайт](https://www.bromite.org/#download-bromite)
 - Opera Mini 7 - старая версия.
