@@ -60,7 +60,9 @@ pin: 1
 - Deezer. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
 - Murglar. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 - PlayerPro. [4pda](https://4pda.to/forum/index.php?showtopic=189092)
-- Shazam. [4pda](https://4pda.to/forum/index.php?showtopic=128657)
+- Shazam. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=128657),
+  v0(5.1+), v1(6.0+)
 </details>
 
 [Наверх↑](#)
@@ -68,10 +70,12 @@ pin: 1
 ## Медиа
 - QuickPic. Галерея. 
   [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-- Simple Gallery Pro
-  [f-droid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+- Simple Gallery Pro.
+  [4pda](#)
+  [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 - MX Player. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=253883)
+  [4pda](https://4pda.to/forum/index.php?showtopic=253883),
+  v19(4.1+), v20(5+), v30(7+)
 - UPlayer. Новый плеер все в одном.
   [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
   [4pda](https://4pda.to/forum/index.php?showtopic=900750)
@@ -112,12 +116,12 @@ pin: 1
   [play](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru&gl=US),
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [оф.сайт](https://telegram.org/android?setln=ru),
-  [в самом тг](https://t.me/TAndroidAPK), 
+  [телега](https://t.me/TAndroidAPK), 
 - Opera браузер.
   [play](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
   [оф.ftp](https://get.geo.opera.com/pub/opera/android/),
-  [оф.сайт](https://download.opera.com)
+  [оф.сайт](https://download.opera.com),
   v50.6(4.1+), 
   v66.2(5.1+)
 - Bromite. Хром без гугла. (6.0+)
@@ -147,7 +151,8 @@ pin: 1
 
 ## Офис
 - ReadEra. 
-  [play](https://play.google.com/store/apps/details?id=org.readera)
+  [play](https://play.google.com/store/apps/details?id=org.readera),
+  v0
 - Калькулятор++. 
   [play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
 - QKSMS. обмен сообщениями, opensource. 
