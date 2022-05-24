@@ -50,6 +50,7 @@ pin: 1
   [web](https://open.spotify.com/), 
   [+боты](./telegram-bots.html#музыка)
 <details markdown="1">
+
 - YouTube Music (vanced).
   [play](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=1005964),
