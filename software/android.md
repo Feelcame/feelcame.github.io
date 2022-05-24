@@ -2,7 +2,7 @@
 date: 2021-07-24T00:00:00+03:00
 modified: 2021-11-15T19:53:00+02:00
 title: Софт для Android
-pin: 2
+pin: 1
 ---
 
 - Список разделов  
@@ -66,14 +66,21 @@ pin: 2
 ## Медиа
 - QuickPic. Галерея. 
   [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
+- Simple Gallery Pro
+  [f-droid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 - MX Player. 
   [4pda](https://4pda.to/forum/index.php?showtopic=253883)
-- NewPipe. 
+- UPlayer. Новый плеер "все в одном".
+  [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=900750)
+- NewPipe. Плеер для youtube и др., скачивание видео. opensource.
   [4pda](https://4pda.to/forum/index.php?showtopic=694195), 
   [github](https://github.com/TeamNewPipe/NewPipe/releases), 
   [оф.сайт](https://newpipe.net/#download), 
   [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
   [v0.20.8(4.1+)](https://tlgur.com/d/GL0ZDJ6G)
+- Youtube Vanced. Мод без рекламы. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=916464)
 - PicSay Pro – фоторедактор. 
   [4pda](https://4pda.to/forum/index.php?showtopic=131210),
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), 
@@ -88,16 +95,11 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
   [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
 <details markdown="1">
-- Youtube Vanced (мод). 
-  [4pda](https://4pda.to/forum/index.php?showtopic=916464)
 - PowerTube
 - HD VideoBox (закрыли)
 - LazyMedia 
 - Кино HD
 - Wink (мод)
-- UPlayer. 
-  [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
-  [4pda](https://4pda.to/forum/index.php?showtopic=900750)
 </details>
 
 [Наверх↑](#)
@@ -112,12 +114,15 @@ pin: 2
 - Opera браузер.
   [play](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
-  [оф.сайт(ftp)](https://get.geo.opera.com/pub/opera/android/),
+  [оф.ftp](https://get.geo.opera.com/pub/opera/android/),
+  [оф.сайт](https://download.opera.com)
   v50.6(4.1+), 
   v66.2(5.1+)
-- Bromite. Хром без зондов гугла. (6.0+). 
-  [оф.сайт](https://www.bromite.org/#download-bromite)
-- Opera Mini 7 - старая версия.
+- Bromite. Хром без зондов гугла. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=725481&st=100),
+  [оф.сайт(6.0+)](https://www.bromite.org/#download-bromite),
+  [github](https://github.com/bromite/bromite/releases)
+- Opera Mini 7. Старая версия для очень медленного интернета.
   [4pda](https://4pda.to/forum/index.php?showtopic=100813)
   [v7.6.0(tlgur)](https://tlgur.com/d/gvbZ51ng)
 - AnyDesk. Удаленное управление.
@@ -142,6 +147,14 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=org.readera)
 - Калькулятор++. 
   [play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
+- QKSMS. обмен сообщениями, opensource. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=576815)
+- Простой календарь. 
+  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
+  [v0](#), 
+- Microsoft Office. 
+  [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
+  [4pda](https://4pda.to/forum/index.php?showtopic=486245)
 
 <details markdown="1">
 
@@ -149,12 +162,6 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
 - GitJournal. Заметки. 
   [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
-- Простой календарь. 
-  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
-  [v0](#), 
-- Microsoft Office. 
-  [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
-  [4pda](https://4pda.to/forum/index.php?showtopic=486245)
 - Aqua Mail. 
   [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail)
 - StyleNote заметки
