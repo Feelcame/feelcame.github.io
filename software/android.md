@@ -158,7 +158,6 @@ pin: 1
 - Microsoft Office. 
   [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
   [4pda](https://4pda.to/forum/index.php?showtopic=486245)
-
 <details markdown="1">
 
 - Acode. Редактор кода. 
@@ -234,6 +233,7 @@ pin: 1
 - PingTools. 
   [play](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools)
 <details markdown="1">
+
 - Network scanner
 - Network Utilities
 - kWS
@@ -247,6 +247,7 @@ pin: 1
 ## Карты
 - Яндекс карты
 <details markdown="1">
+
 - 2gis
 - on taxi
 - blablacar
@@ -258,6 +259,7 @@ pin: 1
 - Сканер штрих-кодов
 - Shake me - игра про пьяненького бетмена
 <details markdown="1">
+
 - Виджет громкости
 - Mi Band Master 
 - Shake me - #batman
@@ -267,7 +269,6 @@ pin: 1
 
 ## Программы для компа
 - Программы и утилиты. [ссылка](./android-firmware.md#программы-и-утилиты)
-
 <details markdown="1">
 
 - 0x192/universal-android-debloater. норм. 
