@@ -1,0 +1,81 @@
+---
+title: Медиа
+comments: false
+modified: 2021-03-12T23:12:29+02:00
+created: 2020-05-16T13:39:53+03:00
+tags: загрузки downloads
+---
+
+<table><tbody style="width:100%;display:table;text-align:center;"><tr>
+  <td><a href="./soft"><b>Софт</b></a></td>
+  <td><a href="./books"><b>Книги</b></a></td>
+  <td><a href="./music"><b>Музыка</b></a></td>
+  <td><a href="./kino"><b>Кино</b></a></td>
+</tr></tbody></table>
+
+
+## Блог
+<ol reversed="reversed">
+{% for post in site.posts %}  
+<li>
+{{ post.date | default: "2099-01-01T00:00:00+02:00" | date: "%Y-%m-%d" }}  
+<a href="{{ post.url | prepend: site.baseurl }}">  
+{{ post.title | default: "Новая запись" }}  
+</a>
+</li>
+{% endfor %}
+</ol>
+
+
+{% comment %}
+<!-- нумерация строк -->
+<ol reversed="reversed">
+{% for post in site.posts %}
+  <li>
+    {{ post.date | date: "%y%m%d" | default: "ггммдд" }} 
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title | default: "Новая запись" }}
+      </a>
+  </li>
+{% endfor %}
+</ol>
+
+
+
+
+
+<!--
+{% for post in site.posts %}
+1. {{ post.date | date: "%y%m%d" }} [{{ post.title }}]({{ post.url | prepend: site.baseurl }})  
+{% endfor %}
+<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+<h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+Коллекции:
+{% for post in site.categories.articles %}
+    <time>{{ post.date | date: "%b %-d, %Y" }}</time>
+    <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+{% endfor %}
+-->
+{% endcomment %}
+
+
+
+### Статьи по теме:
+
+1. ггммдд [название](#./)
+1. 201126 [поделиться-большим-файлом](#./201126_поделиться-большим-файлом.md)
+1. 201119 [скачать_APK с пк](#./201119_скачать_APK.md)
+1. 201119 [Удаленное управление android](#./201119_удаленное_управление_android.md)
+1. 201010 [Редакторы PDF](#./201010_Редакторы_PDF.md)  
+{: reversed="reversed"}
+
+
+***
+
+> Часто хочется сохранить ссылку на какую нибудь полезную загрузку так, что бы не потерять. Но после того как синхронизация закладок оперы подвела с хранением, а конструктор wen.ru приказал долго жить - я наконец переехал на github pages. Теперь все ссылки и не только хранятся здесь. 
+> А благодаря системе контроля версий Git - у меня всегда останутся локальные копии фазписей, даже если майкрософт решит зафакапить такой прекрасный сервис, как гитхаб. Слава Торвальдсу, создаашему гит ;-)
+> 
+> Если будете копировать что-то отсюда - сообщите мне об этом в комментах на странице контактов, я буду щаслив узнать что кому-то принес пользу ;-)
+ 
+
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="feelsoft/221" data-comments-limit="5"></script>

@@ -1,0 +1,31 @@
+# This is configuration file
+title: Linker
+description: <a href="/" style="color:white; font-weight:bold">🏠 Linker</a>. Заметки о важном
+comments: true
+show_downloads: true
+google_analytics: G-5KGG8GDK54
+theme: jekyll-theme-cayman
+copyright: © 20<span style="background:#0092FF;color:#fff;">18+</span>
+markdown: kramdown
+highlighter: rouge
+#markdown: GFM
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "tables"]
+# baseurl: feelcame.gitgub.io/linker.pp.ua
+timezone: Europe/Kiev
+plugins:
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-paginate
+  - jekyll-gist
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+timezone: Europe/Kiev
+
+
+chtg: profi_soft
+

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "ru-RU" }}">
+<head>
+	<meta charset="UTF-8">
+	{% seo %}
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="theme-color" content="#157878">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+	<link rel="shortcut icon" href="/assets/img/favicon.png" type="image/png">
+	<link rel="stylesheet" href="{{ '/assets/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	<link rel="stylesheet" href="{{ '/assets/custom.css?v=' | append: site.github.build_revision | relative_url }}">
+	{% include google-analytics.html %}
+	<style>{{ page.style }}</style>
+</head>
+<body>
+	<a href="#content" id="vverh" onclick="showNav()"></a>
+	<a id="skip-to-content" href="#content">навигация выше</a>
+	<header class="page-header" role="banner">
+		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+		<a href="/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
+		<div id="nav">
+		<a href="/hardware/" class="btn">😎 Хлеб</a>
+		<a href="/coding/" class="btn">😱 Соль</a>
+		<a href="/software/" class="btn">💾 Вода</a>
+		<a href="/about" class="btn">🔍</a>
+		{% comment %}
+		<!--
+		<a href="/" class="btn" id="home">&#127968; Главная</a>
+		<a href="/media" class="btn">🤟 Загрузки</a>
+		<a href="/blog" class="btn">😀 Блог</a>
+		<a href="/about" class="btn" ><b>❤️ Донатъ!</b></a>
+		-->
+		{% endcomment %}
+		</div>
+	</header>
+	<main id="content" class="main-content" role="main">
+		{{ content }}
+		{% if page.date or page.modified %}
+		<time class="shaded">
+		Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}
+		{%- if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+		</time>
+		{%- endif -%}
+		{% if page.comments %}{% include comments.md %}{% endif %}
+		<footer class="site-footer">
+			<span class="site-footer-owner">{{ site.copyright | default: "©" }}  <a href="/about.html">{{ site.github.owner_name }}</a>.
+			<time class="shaded"> 
+				{{ site.time | date: "%Y-%m-%dT%H:%M:%S" }} 
+				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
+				{% if page.name == "index.md" %} 
+				<a target = "_blank" href="{{ site.github.repository_url }}/new/master{{ page.dir }}">[+]</a>
+				{% endif %}
+			</time>
+			</span>
+			<span>Связь: 
+			(<a href="https://formstruct.ru/form/6177bc223910cc59358b456d">email</a>, 
+			<a href="https://t.me/profi_soft">telegram</a>)
+			</span>
+		</footer>
+	</main>
+<script>
+// переключатель кнопки навигации
+function showNav() {
+document.getElementById('nav').style.display='block'; 
+document.getElementById('navButton').style.display='none';
+return(false);
+}
+
+// переопределение всех внешних ссылок на открытие в новой вкладке
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+}
+</script>
+<!-- Добавление ссылки на якорь возле заголовков -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script>anchors.add();</script>
+</body>
+</html>
