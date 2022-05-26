@@ -131,8 +131,6 @@ pin: 1
 - Opera Mini 7. Старая версия для очень медленного интернета.
   [4pda](https://4pda.to/forum/index.php?showtopic=100813)
   [v7.6.0(tlgur)](https://tlgur.com/d/gvbZ51ng)
-- AnyDesk. Удаленное управление.
-  [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
 <details markdown="1">
 
 - Viber
@@ -141,9 +139,6 @@ pin: 1
 - Advanced Download Manager
 - Flow – клиент rutracker.org
 - Flud – торрент клиент
-- OpenVPN
-- Unified Remote
-- Remote Ripple VNC
 </details>
 
 [Наверх↑](#)
@@ -167,20 +162,20 @@ pin: 1
 <details markdown="1">
 
 - Acode. Редактор кода. 
-  [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree)
+  [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree), 4pda
 - GitJournal. Заметки. 
-  [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal),
+  [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal), 4pda,
   [оф.сайт](https://gitjournal.io/)
 - Aqua Mail. 
-  [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail)
+  [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail), 4pda
 - StyleNote заметки
-- EBookDroid
+- EBookDroid. play, 4pda
 - ElectroDoc. Справочник электронщика.
   [play](https://play.google.com/store/apps/details?id=it.android.demi.elettronica),
   [4pda](https://4pda.to/forum/index.php?showtopic=221412&st=60),
   [v5.1(tlgur)](https://tlgur.com/d/4NqLExWg)
-- Переводчик
-- Секундомер
+- Переводчик. play, 4pda
+- Секундомер. play, 4pda
 </details>
 
 [Наверх↑](#)
@@ -207,24 +202,20 @@ pin: 1
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 <details markdown="1">
 
-- Copy
-- Powerful Control
-- Titanium Backup
-- System App Remover. 
-  [телега](https://t.me/FeelSoftAn/170)
-- 4G Switcher
-- TTL Manager
-- CPU Spy
-- AdAway
-- CPU Spy
+- Microsoft Launcher. play, 4pda
+- Клавиатура Google. play, 4pda
+- Launcher<3. play, 4pda
+- Titanium Backup. play, 4pda
+- Powerful Control. play, 4pda
 - Darker Pro. 
   [play](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
   [4pda](https://4pda.to/forum/index.php?showtopic=538357)
-- Google Play Blocker
-- TTL Master
-- Microsoft Launcher
-- Launcher<3
-- Клавиатура Google
+- AdAway. 4pda
+
+- System App Remover. 
+  [телега](https://t.me/FeelSoftAn/170)
+- CPU Spy. play, 4pda
+- Google Play Blocker. 4pda
 </details>
 
 [Наверх↑](#)
@@ -237,41 +228,63 @@ pin: 1
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
 - PingTools. 
-  [play](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools)
+  [play](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools),
+  [4pda](https://4pda.to/forum/index.php?showtopic=398433)
+- AnyDesk. Удаленное управление.
+  [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
 <details markdown="1">
 
-- Network scanner
-- Network Utilities
-- kWS
-- primitive ftpd. 
+- OpenVPN. play, 4pda
+- Unified Remote. play, 4pda
+- Remote Ripple VNC. play, 4pda
+- Network scanner. play
+- Network Utilities (4.1+). 
+  [4pda](https://4pda.to/forum/index.php?showtopic=608346)
+- kWS. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=532923), 
+  [v1.5.1(tlgur)](https://tlgur.com/d/g30QqnO4)
+- primitive ftpd. play,
   [GitHub](https://github.com/wolpi/prim-ftpd/releases)
-- IP Webcam
+- IP Webcam. play
+- 4G LTE Switcher.
+  [play](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
+  [4pda](https://4pda.to/forum/index.php?showtopic=974135),
+  [v1(tlgur)](https://tlgur.com/d/GbZ0rVdG),
+  [v2](#)
+- TTL Master. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
 </details>
 
 [Наверх↑](#)
 
 ## Карты
-- Яндекс карты
 <details markdown="1">
 
-- 2gis
-- on taxi
-- blablacar
+- gmaps. play
+- Яндекс карты. play, 4pda
+- 2gis. play
+- on taxi, play
+- blablacar. play, 4pda, оф.сайт, web
+- fields area measurments.
+  [play](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
+  [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 </details>
 
 [Наверх↑](#)
 
 ## Прочее
 - Easy Open Link.
-  [play](#),
-  [4pda](#),
-  v0(5.1+)
-- Сканер штрих-кодов
-- Shake me - игра про пьяненького бетмена
+  [play](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
+  [4pda](https://4pda.to/forum/index.php?showtopic=716031),
+  [fdroid](https://f-droid.org/packages/de.audioattack.openlink/),
+  [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
+- Сканер штрих-кодов. play, 4pda
+- Shake me - игра про пьяненького бетмена. play, 4pda
 <details markdown="1">
 
-- Виджет громкости
-- Mi Band Master 
+- Виджет громкости. play, 4pda
+- Mi Band Master. play, 4pda
+- Universal copy
+- Copy
 </details>
 
 [Наверх↑](#)
