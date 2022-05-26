@@ -44,7 +44,7 @@ pin: 1
   [оф.сайт](http://www.aimp.ru/?do=download&os=android),
   [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
   [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
-  [v3.22(5.0+,tlgur)](https://tlgur.com/d/8l6jQKDg)
+  [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
 - Spotify.
   [play](https://play.google.com/store/apps/details?id=com.spotify.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
@@ -202,15 +202,16 @@ pin: 1
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 <details markdown="1">
 
-- Microsoft Launcher. play, 4pda
-- Клавиатура Google. play, 4pda
-- Launcher<3. play, 4pda
-- Titanium Backup. play, 4pda
-- Powerful Control. play, 4pda
 - Darker Pro. 
   [play](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
   [4pda](https://4pda.to/forum/index.php?showtopic=538357)
-- AdAway. 4pda
+- Клавиатура Google. play, 4pda
+- Microsoft Launcher. play, 4pda
+- Launcher<3. play, 4pda
+- Titanium Backup. play, 4pda
+- Powerful Control. play, 4pda
+- AdAway
+- Adguard
 
 - System App Remover. 
   [телега](https://t.me/FeelSoftAn/170)
@@ -238,8 +239,7 @@ pin: 1
 - Unified Remote. play, 4pda
 - Remote Ripple VNC. play, 4pda
 - Network scanner. play
-- Network Utilities (4.1+). 
-  [4pda](https://4pda.to/forum/index.php?showtopic=608346)
+- Network Utilities (4.1+). [4pda](https://4pda.to/forum/index.php?showtopic=608346)
 - kWS. 
   [4pda](https://4pda.to/forum/index.php?showtopic=532923), 
   [v1.5.1(tlgur)](https://tlgur.com/d/g30QqnO4)
@@ -250,23 +250,7 @@ pin: 1
   [play](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
   [v1(tlgur)](https://tlgur.com/d/GbZ0rVdG),
-  [v2](#)
 - TTL Master. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
-</details>
-
-[Наверх↑](#)
-
-## Карты
-<details markdown="1">
-
-- gmaps. play
-- Яндекс карты. play, 4pda
-- 2gis. play
-- on taxi, play
-- blablacar. play, 4pda, оф.сайт, web
-- fields area measurments.
-  [play](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
-  [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 </details>
 
 [Наверх↑](#)
@@ -289,24 +273,23 @@ pin: 1
 
 [Наверх↑](#)
 
-## Программы для компа
-- Программы и утилиты. [ссылка](./android-firmware.md#программы-и-утилиты)
+## Карты
 <details markdown="1">
 
-- 0x192/universal-android-debloater. норм. 
-  [github](https://github.com/0x192/universal-android-debloater/releases)
-- ADB_AppControl. норм. 
-  [оф.сайт](https://adbappcontrol.com/)
-- XiaomiADBFastbootTools. устарело. 
-  [github](https://github.com/Szaki/XiaomiADBFastbootTools)
-- ADB-RUN. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=437824), 
-  [оф.сайт](https://androidp1.ru/adb-run-obzor-funktsiy/)
-- ApkShellext2. Показ иконок apk
-- adb
+- Gmaps. play
+- Яндекс карты. play, 4pda
+- 2gis. play
+- Ontaxi, play
+- Blablacar. play, 4pda, оф.сайт, web
+- GPS Fields Area Measure.
+  [play](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
+  [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 </details>
 
 [Наверх↑](#)
 
 ## Полезные ссылки
-- источник. Все программы взяты из открытых источников и выложены тут: <https://t.me/feelsoftan>
+- Программы для компа. [ссылка](./android-firmware.md#программы-и-утилиты)
+- Телеграм-канал: <https://t.me/feelsoftan>
+
+[Наверх↑](#)
