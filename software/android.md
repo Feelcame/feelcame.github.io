@@ -1,6 +1,6 @@
 ---
 date: 2021-07-24T00:00:00+03:00
-modified: 2021-11-15T19:53:00+02:00
+modified: 2022-05-26T14:43:47+03:00
 title: Софт для Android
 comments: 105
 pin: 1
@@ -12,7 +12,7 @@ pin: 1
 ## Файлы
 <div class="highlight22" markdown="1">
 
-- Total Commander. 
+- Total Commander.  
   [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander),
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
   [оф.сайт](https://www.ghisler.com/android.htm#download), 
