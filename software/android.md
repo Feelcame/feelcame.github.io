@@ -44,7 +44,7 @@ pin: 1
   [оф.сайт](http://www.aimp.ru/?do=download&os=android),
   [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
   [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
-  [v3.22(5.0+,tlgur)](https://tlgur.com/d/8l6jQKDg)
+  [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
 - Spotify.
   [play](https://play.google.com/store/apps/details?id=com.spotify.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
