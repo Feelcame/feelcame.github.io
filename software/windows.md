@@ -1,7 +1,7 @@
 ---
 title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
-modified: 2021-11-14T13:18:35+02:00
+modified: 2022-05-26T14:44:05+03:00
 comments: 96
 pin: 2
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
@@ -20,7 +20,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 
-## Медиа
+## Медиа 
 - **PotPlayer**<br>Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/) -
   [оф.сайт2](https://potplayer.daum.net/) -
