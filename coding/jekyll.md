@@ -307,7 +307,7 @@ plugins:
 + Шпаргалка по Jekyll для Github<https://devhints.io/jekyll-github>  
 - Data Files <https://jekyllrb.com/docs/datafiles>
 - GitHub Metadata, a.k.a. site.github <http://jekyll.github.io/github-metadata/site.github/>
-
+- тема оформления <https://github.com/sergiokopplin/indigo>
 
 - Шпаргалка по Markdown <http://bustep.ru/markdown/shpargalka-po-markdown.html#tables>
 - Источник примера ниже <http://alexprivalov.org/markdown-short-reference>
@@ -327,3 +327,5 @@ plugins:
 
 - Читшип по markdown <https://devhints.io/kramdown>
 - Очень хороший разбор нюансов в kramdown <http://prgssr.ru/articles/osobennosti-sintaksisa-kramdown-chast-1.html>
+
+- тема оформления <https://github.com/sergiokopplin/indigo>
