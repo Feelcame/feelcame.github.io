@@ -1,7 +1,7 @@
 ---
 title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
-modified: 2022-05-26T14:44:05+03:00
+modified: 2022-06-28T02:27:45+03:00
 comments: 96
 pin: 2
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
@@ -245,6 +245,21 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 - [MSDaRT](https://rutracker.org/forum/viewtopic.php?t=4456092)
 - [Windows PE x64 by evgen_b Acronis edition (2021.05.30)](https://rutracker.org/forum/viewtopic.php?t=5765167)
 - [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
+</details>
+
+
+## TODO
+<details markdown="1">
+
+- Task warior - задачи
+- Calcourse - календарь
+- Fantastico календарь
+- Abooks - контакты, др
+- Metermose - планирование работы
+- Rocket chat - корпоративные чаты
+- Reaper - диктофон
+- Audio hijacking - программа микшерский пульт
+- Neo4j графовая бд
 </details>
 
 ## телеграм  
