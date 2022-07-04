@@ -1,7 +1,7 @@
 ---
 title: Домик
 date: 2020-07-16T13:31:13+03:00
-modified: 2022-07-03T22:10:07+03:00
+modified: 2022-07-04T08:31:12+03:00
 layout: home
 ---
 
@@ -65,4 +65,4 @@ layout: home
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-[Контакты] (./about.md)
+[Контакты](./about.md)
