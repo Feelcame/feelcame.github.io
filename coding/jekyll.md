@@ -3,7 +3,7 @@ title: Jekyll CMS
 date: 2021-09-05T10:40:58+03:00
 modified: 2021-11-14T21:16:29+02:00
 comments: 95
-pin: 1
+pin: 3
 ---
 
 <details markdown="1" open><summary  markdown="0">+ Спиок разделов</summary>
