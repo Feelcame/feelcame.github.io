@@ -8,10 +8,11 @@ pin: 0
 
 {% include ls.md spoiler="Все статьи" pinned="yes" %}
 
+<!--
 <details markdown="1"><summary markdown="0">+ Мои проекты</summary>
 {% include drlis.md tag="project" %}
 </details>
-
+-->
 
 <details markdown="1"><summary markdown="0">+ Идеи</summary>
 {% include drlis.md dir="/projects/" tag="coding" %}
