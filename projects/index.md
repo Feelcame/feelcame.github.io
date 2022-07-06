@@ -8,20 +8,24 @@ pin: 0
 ## Кодинг  
 {: #coding }
 
-{% include drlis.md dir="/coding/" tag="project" %}
+{% include ls.md tag="coding" %}
+
+---
+
+{% include ls.md dir="/coding/" tag="project" %}
 
 ## Софт  
 {: #software }
 
-{% include drlis.md tag="software" %}
+{% include ls.md tag="software" %}
 
 ## Железки
 {: #hardware }
 
-{% include drlis.md tag="hardware" %}
+{% include ls.md tag="hardware" %}
 
 ## Не опубликованное
-{% include drlis.md %}
+{% include ls.md spoiler="все вместе"%}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
