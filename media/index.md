@@ -56,7 +56,7 @@ tags: загрузки downloads
     <h3><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 {% endfor %}
 -->
-{% endcomment %}
+
 
 
 
@@ -79,3 +79,4 @@ tags: загрузки downloads
  
 
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="feelsoft/221" data-comments-limit="5"></script>
+{% endcomment %}
