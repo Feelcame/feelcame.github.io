@@ -7,5 +7,7 @@ pin: 0
 
 {% include drlis.md spoiler="Все статьи" pinned="ok" %}
 
+{% comment %}
 **Проекты:**
 {% include drlis.md dir="/projects/" tag="software" %}
+{% endcomment %}
