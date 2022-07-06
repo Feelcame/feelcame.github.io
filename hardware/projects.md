@@ -1,6 +1,6 @@
 ---
 title: Мои проекты
-id: 1
+pin: 1
 redirect_to: ../projects/index.html#hardware
 ---
 
