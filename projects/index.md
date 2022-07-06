@@ -25,7 +25,13 @@ pin: 0
 {% include ls.md tag="hardware" %}
 
 ## Не опубликованное
-{% include ls.md spoiler="все вместе"%}
+
+{% include ls.md tag="temp" %}
+
+
+## Все вместе
+
+{% include ls.md spoiler="все вместе" %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
