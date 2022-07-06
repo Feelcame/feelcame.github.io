@@ -13,5 +13,4 @@ comments: false
 
 
 ## Обратная связь
-<iframe src="https://formstruct.ru/form/6177bc223910cc59358b456d" width="100%" height="550" align="left" style="position:relative;" frameborder="0" scrolling="yes" markdown="0">Frame error</iframe>
-
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdk6i35YPqpmpoWWVpZ0vS_VjhSR9alOxulvzy41JmieJt5PQ/viewform?embedded=true" width="640" height="543" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>

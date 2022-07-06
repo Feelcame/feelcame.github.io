@@ -10,7 +10,7 @@ pin: 0
 
 {% comment %}
 
-{% include drlis.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
+{% include ls.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
 
 <!--
 - Мобильные телефоны

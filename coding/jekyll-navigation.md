@@ -231,24 +231,24 @@ pin: 5
 ## Примеры 
 
 <details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
-```{ % include drlis.md dir="/projects/" tag="hardware" %}```   
-{% include drlis.md dir="/projects/" tag="hardware" %}
+```{ % include ls.md dir="/projects/" tag="hardware" %}```   
+{% include ls.md dir="/projects/" tag="hardware" %}
 </details>
 
 <details markdown="1"><summary markdown="0">+ Передано TAG</summary>
-```{ % include drlis.md tag="hardware" %}```   
-{% include drlis.md tag="hardware" %}
+```{ % include ls.md tag="hardware" %}```   
+{% include ls.md tag="hardware" %}
 </details>
 
 <details markdown="1"><summary markdown="0">+ Передано DIR</summary>
-```{ % include drlis.md dir="/projects/" %}```   
-{% include drlis.md dir="/projects/" %}
+```{ % include ls.md dir="/projects/" %}```   
+{% include ls.md dir="/projects/" %}
 </details>
 
 
 <details markdown="1"><summary markdown="0">+ Нет параметров</summary>
-```{ % include drlis.md %}```   
-{% include drlis.md %}
+```{ % include ls.md %}```   
+{% include ls.md %}
 </details>
 
 

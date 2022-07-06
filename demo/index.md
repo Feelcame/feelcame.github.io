@@ -5,7 +5,7 @@ modified: 2021-09-02T23:38:31+03:00
 title: test
 ---
 
-{% include drlis.md spoiler="Все тестовые страницы" %}
+{% include ls.md spoiler="Все тестовые страницы" %}
 
 # ссылка на страницу
 

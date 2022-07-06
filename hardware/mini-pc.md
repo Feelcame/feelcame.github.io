@@ -39,7 +39,7 @@ redirect_from: /hardware/orange-pi/
 **Базовые модели zero**
 Отличительная особенность: 1xEthernet, 1xUSB и плата расширения
 <details>
-![Image](../assets/images/7dd82647514cb0b43aef22493c54a9ae.jpg)
+![Image](../assets/files/7dd82647514cb0b43aef22493c54a9ae.jpg)
 </details>
 
 Название       | Описание

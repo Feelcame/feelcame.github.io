@@ -5,9 +5,9 @@ modified: 2021-09-11T20:58:58+03:00
 pin: 0
 ---
 
-{% include drlis.md spoiler="Все статьи" pinned="ok" %}
+{% include ls.md spoiler="Все статьи" pinned="ok" %}
 
 {% comment %}
 **Проекты:**
-{% include drlis.md dir="/projects/" tag="software" %}
+{% include ls.md dir="/projects/" tag="software" %}
 {% endcomment %}

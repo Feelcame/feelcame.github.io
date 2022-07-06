@@ -10,17 +10,17 @@ pin: 0
 
 {% comment %}
 <details markdown="1"><summary markdown="0">+ Мои проекты</summary>
-{% include drlis.md tag="project" %}
+{% include ls.md tag="project" %}
 </details>
 
 
 
 <details markdown="1"><summary markdown="0">+ Идеи</summary>
-{% include drlis.md dir="/projects/" tag="coding" %}
+{% include ls.md dir="/projects/" tag="coding" %}
 </details>
 
 <details markdown="1"><summary markdown="0">+ Web</summary>
-{% include drlis.md tag="web" %}
+{% include ls.md tag="web" %}
 </details>
 {% endcomment %}
 

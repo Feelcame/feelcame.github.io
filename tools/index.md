@@ -8,7 +8,7 @@ title: test
 **Проекты:**
 {% include ls.md dir="/projects/" tag="software" %}
 
-{% include drlis.md spoiler="Все тестовые страницы" %}
+{% include ls.md spoiler="Все тестовые страницы" %}
 
 # ссылка на страницу
 
