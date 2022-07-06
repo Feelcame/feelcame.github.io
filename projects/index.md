@@ -30,8 +30,9 @@ pin: 0
 
 
 ## Все вместе
-
-{% include ls.md spoiler="все вместе" %}
+<details markdown="1"><summary markdown="0">+ все вместе</summary>
+{% include ls.md %}
+</details>
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
