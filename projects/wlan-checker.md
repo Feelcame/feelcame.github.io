@@ -7,8 +7,8 @@ date: 2022-06-10T11:58:42+03:00
 
 **Исходники**: <https://github.com/Feelcame/wlan-checker/blob/main/wlan-checker.bat>  
 Скачать репо: [ссылка](https://github.com/Feelcame/wlan-checker/archive/refs/heads/main.zip)  
-Скачать скрипт: [ссылка](https://github.com/Feelcame/wlan-checker/raw/main/wlan-checker.bat){: download="" }
-Скачать скрипт: [ссылка2](https://github.com/Feelcame/wlan-checker/raw/main/wlan-checker.bat){: download="wlan-checker.bat" }
+Скачать скрипт: [ссылка](https://github.com/Feelcame/wlan-checker/raw/main/wlan-checker.bat){: download="" }  
+Скачать скрипт: [ссылка2](https://github.com/Feelcame/wlan-checker/raw/main/wlan-checker.bat){: download="wlan-checker.bat" }  
 
 ```
 rem Ниже нерабочий ванлайнер. К сожалению необходимо сначала проверять пинг
