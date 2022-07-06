@@ -13,4 +13,4 @@ comments: false
 
 
 ## Обратная связь
-<center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdk6i35YPqpmpoWWVpZ0vS_VjhSR9alOxulvzy41JmieJt5PQ/viewform?embedded=true" height="1000" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe><center>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdk6i35YPqpmpoWWVpZ0vS_VjhSR9alOxulvzy41JmieJt5PQ/viewform?embedded=true" width="100%" height="1000" align="left" style="position:relative;" frameborder="0" marginheight="0" marginwidth="0" markdown="0">Загрузка…</iframe><center>
