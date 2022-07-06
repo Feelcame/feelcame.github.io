@@ -8,6 +8,8 @@ pin: 0
 
 {% include ls.md spoiler="Все статьи" pinned="yes" %}
 
+{% comment %}
+
 {% include drlis.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
 
 <!--
@@ -20,3 +22,4 @@ pin: 0
 - Сетевое оборудование
 - Учеба
 -->
+{% endcomment %}
