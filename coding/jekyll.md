@@ -330,3 +330,6 @@ plugins:
 - Очень хороший разбор нюансов в kramdown <http://prgssr.ru/articles/osobennosti-sintaksisa-kramdown-chast-1.html>
 
 - тема оформления <https://github.com/sergiokopplin/indigo>
+
+- markdown kramdown syntax ```{: .class #id key="value" download="" }``` <https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/>
+- и еще про ```{: }``` <https://kramdown.gettalong.org/converter/html.html>
