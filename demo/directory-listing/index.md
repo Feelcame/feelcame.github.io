@@ -1,5 +1,5 @@
 ## Примеры и тесты
-Описание: [click](../../coding/jekyll-navigation.md)
+Описание: [click]({{'/projects/jekyll-navigation.md' | relative_url}})
 
 Список страниц в папке: 
 ```
