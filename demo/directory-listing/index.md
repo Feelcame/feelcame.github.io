@@ -1,5 +1,5 @@
 ## Примеры и тесты
-Описание: [ссылка](../coding/jekyll-navigation)
+Описание: [ссылка](../coding/jekyll-navigation.md)
 
 Список страниц в папке: 
 ```
