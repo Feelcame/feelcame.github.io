@@ -15,7 +15,9 @@ pin: 5
 {% endraw %}
 ```
 
-Исходники моего велосипеда тут: [**ссылка**]({{ site.github.repository_url }}/blob/master/_includes/ls.md). 
+Исходники моего велосипеда тут: [**ссылка**]({{ site.github.repository_url }}/blob/master/_includes/ls.md).  
+Репозиторий гитхаб: [**ссылка**](https://github.com/Feelcame/jekyll-directory-listing)
+
 Данный скрипт был написан до того, как я обнаружил туториал от Jekyll: [как сделать навигацию](https://jekyllrb.com/tutorials/navigation/). Но это и хорошо - у меня получилось лучше 👍
 
 ## Описание параметров
@@ -227,8 +229,11 @@ pin: 5
 {% endraw %}
 </details>
 
+## Примеры и тесты
+На отдельной странице: [ссылка](../demo/directory-listing/)
 
-## Примеры 
+
+{% comment %}
 
 <details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
 ```{ % include ls.md dir="/projects/" tag="hardware" %}```   
@@ -252,11 +257,4 @@ pin: 5
 </details>
 
 
-
-
-
-
-{% comment %} ЛИСТИНГ {% endcomment %}
-{% capture listing1 %}
-
-{% endcapture %}
+{% endcomment %}
