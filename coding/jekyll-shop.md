@@ -5,4 +5,4 @@ tags: project coding web
 redirect_to: ../projects/jekyll-shop.html
 ---
 
-[статья переехала](../projects/jekyll-shop.html)
+[статья переехала](../projects/jekyll-shop.md)
