@@ -1,5 +1,5 @@
 ---
-tags: temp
+tags: hardware
 ---
 
 ## PC watchdog
