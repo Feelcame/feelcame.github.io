@@ -10,19 +10,18 @@ pin: 0
 
 {% include ls.md tag="coding" %}
 
----
-
-{% include ls.md dir="/coding/" tag="project" %}
 
 ## Софт  
 {: #software }
 
 {% include ls.md tag="software" %}
 
+
 ## Железки
 {: #hardware }
 
 {% include ls.md tag="hardware" %}
+
 
 ## Не опубликованное
 
@@ -33,6 +32,7 @@ pin: 0
 <details markdown="1"><summary markdown="0">+ все вместе</summary>
 {% include ls.md %}
 </details>
+
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
