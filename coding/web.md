@@ -19,6 +19,7 @@ pin: 6
 1. <https://webreff.ru/>
 2. htmlbook
 3. hexlet (платно)
+4. <http://shpargalkablog.ru/2013/09/html-cheat-sheet.html>
 
 
 ## HTML разметка
