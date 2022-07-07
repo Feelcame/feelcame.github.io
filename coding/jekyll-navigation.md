@@ -229,11 +229,13 @@ pin: 5
 {% endraw %}
 </details>
 
+
+{% comment %}
+
 ## Примеры и тесты
 На отдельной странице: [ссылка](../demo/directory-listing/)
 
 
-{% comment %}
 
 <details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
 ```{ % include ls.md dir="/projects/" tag="hardware" %}```   
