@@ -63,6 +63,28 @@ layout: home
 
 Прнинимаю заказы на разработку **мелкой электроники**. Контакты внизу каждой страницы!
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
-[Контакты](./about.md)
+<p style="text-align: center;"><style>
+a.button7 {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: .8em 1em calc(.8em + 3px);
+  border-radius: 3px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+} 
+a.button7:hover { background: rgb(53, 167, 110); }
+a.button7:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+</style>
+
+<a href="/about.html" class="button7">Напиши мне, зай</a>
+</p>
+
+<br><br><br><br>
+
