@@ -9,7 +9,7 @@ layout: home
 - [**Проекты** (хвастаюсь)](./projects/)
 - [**Магазин инструментов**](./shop/index.md)
 
-
+{% comment %}
 <!--
 <p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
 <h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
@@ -52,6 +52,8 @@ layout: home
 
 </div>
 -->
+{% endcomment %}
+
 ---
 
 <br><br><br><br>
