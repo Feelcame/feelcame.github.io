@@ -1,5 +1,5 @@
 ---
-title: Прошивка телефона
+title: Прошивка и настройка Android-телефона
 date: 2021-06-02T03:16:45+03:00
 modified: 2021-08-24T13:33:23+03:00
 ---
@@ -17,6 +17,14 @@ modified: 2021-08-24T13:33:23+03:00
 - ApkShellext2. Показ иконок apk
 - adb
 
+**скачать_APK**
+
+* [Raccoon](https://4pda.ru/forum/index.php?showtopic=592899&st=160#entry98072856)
+* aURORA store
+* app and game 4pda
+* <http://apkdl.net> 
+* t.me/apkdl_bot
+* 4pda
 
 ## Прошивка и настройка телефона android
 
