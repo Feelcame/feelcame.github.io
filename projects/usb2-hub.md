@@ -23,6 +23,10 @@ tags: project hardware
 7) MicroSD кардридер
 8) Тестовые точки внутри
 
+
+### юсб хаб 2.0 "NexT"
+Обычный такой хаб, но со встроеной сетевухой, аудио картой и кардридером. Отличие от имеющихся на рынке - юсб версии 2.0. Соответственно цена будет ниже
+
 <http://we.easyelectronics.ru/electro-and-pc/fe11-fe21-ili-chto-nam-stoit-usb-hub-postroit.html>
 
 # Компоненты
