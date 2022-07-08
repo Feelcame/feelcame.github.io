@@ -30,7 +30,36 @@ modified: 2021-08-23T13:58:34+03:00
 - autocad
 
 
+### Редакторы PDF
+- Adobe Acrobat Pro DC
+- Foxit Phantom PDF
+- LibreOffice Draw и Microsoft Word
+- PDF Architect
+- PDFSam
+- PDF24 Creator
+- Wondershare
+- PDFelement
+- PDF-XChange Editor
+- ILovePDF
+- Sejda PDF
+- Nuance Power PDF
+- Infix
+- Movavi PDF Editor
+- Soda PDF
+- Master PDF Editor
 
+Онлайн-редакторы:
+- PDF24 Tools — https://tools.pdf24.org/ru/edit-pdf
+- Smallpdf — https://smallpdf.com/ru/edit-pdf
+- Hipdf — https://www.hipdf.com/ru/pdf-editor
+- PDFescape — https://www.pdfescape.com/ (только на английском)
+- PDFCandy
+
+Плагины и дополнения для браузера
+- Kami Extension chrome.google.com/webstore/detail/ecnphlgnajanjnkcmbpancdjoidceilk?q
+- Smallpdf chrome.google.com/webstore/detail/ohfgljdgelakfkefopgklcohadegdpjf?hl=ru
+- Xodo - xodo.com/app
+- PDF редактор онлайн - offidocs.com
 
 
 
