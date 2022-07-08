@@ -63,7 +63,7 @@ layout: home
 
 Прнинимаю заказы на разработку **мелкой электроники**. Контакты внизу каждой страницы!
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p style="text-align: center;"><style>
 a.button7 {
@@ -86,5 +86,5 @@ a.button7:active {
 <a href="/about.html#обратная-связь" class="button7">Напиши мне, зай</a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
