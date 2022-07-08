@@ -42,6 +42,9 @@ redirect_from:
 * etlgr
 * telegram (приватные каналы)
 * github pages
+* - Загрузить на cdn от github pages перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">скачать</a>
+<details><video controls="controls" autoplay="autoplay" src="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">video</video>  </details>
+
 
 ### Для файлов
 - github
