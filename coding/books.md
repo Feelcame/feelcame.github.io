@@ -1,15 +1,11 @@
 ---
-title: Книжки
+title: Книжки не по программированию
 modified: 2021-08-24T21:22:59+03:00
 ---
 
+### Личные заметки 
+<input type="textarea" value="(хранятся локально на устройстве)">
 
-<table><tbody style="width:100%;display:table;text-align:center;"><tr>
-  <td><a href="./soft"><b>Софт</b></a></td>
-  <td><a href="./books"><b>Книги</b></a></td>
-  <td><a href="./music"><b>Музыка</b></a></td>
-  <td><a href="./kino"><b>Кино</b></a></td>
-</tr></tbody></table>
 ### Хочу почитать
 - уилл смит - will
 - Пелевин - Искусство легких касаний (сборник)
