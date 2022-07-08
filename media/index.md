@@ -15,6 +15,11 @@ tags: загрузки downloads
 
 
 ## Блог
+
+{% include ls.md %}
+
+---
+
 <ol reversed="reversed">
 {% for post in site.posts %}  
 <li>
