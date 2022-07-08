@@ -165,11 +165,22 @@ JavaScript — язык программирования, широко испо�
 {% endraw %}
 
 
-Встраивание медиа в страницу
+**Встраивание медиа в страницу**
 <audio controls="" name="media"><source src="https://noasrv.caster.fm:10001/stream" type="audio/mpeg"></audio>
 ```
 <audio controls="" autoplay="" name="media"><source src="https://noasrv.caster.fm:10001/stream" type="audio/mpeg"></audio>
 ```
+
+
+**Таблица на всю ширину страницы**
+(смотри исходник страницы)
+
+<table><tbody style="width:100%;display:table;text-align:center;"><tr>
+  <td><a href="#./soft"><b>Софт</b></a></td>
+  <td><a href="#./books"><b>Книги</b></a></td>
+  <td><a href="#./music"><b>Музыка</b></a></td>
+  <td><a href="#./kino"><b>Кино</b></a></td>
+</tr></tbody></table>
 
 
 #wp
