@@ -83,6 +83,7 @@ a.button7:active {
 </style>
 
 <a href="/about.html#обратная-связь" class="button7">Напиши мне, зай</a>
+_(лучше, конечно же, в телеграм)_
 </p>
 
 <br><br><br><br><br><br>
