@@ -1,6 +1,6 @@
 ---
 date: 2021-07-06T03:16:45+03:00
-title: Тайм-трекеры
+title: Системы организации рабочего процесса. CRM, taskmanager, timetracker
 comments: true
 modified: 2021-08-23T14:00:10+03:00
 ---
@@ -65,3 +65,20 @@ modified: 2021-08-23T14:00:10+03:00
 - [Dynalist](https://play.google.com/store/apps/details?id=io.dynalist)
 - [Git-journal](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal)
 - [Workflowy - Notes, Lists, Outlines](https://play.google.com/store/apps/details?id=com.workflowy.android)
+
+
+## crm2
+- Magento - самая популярная система для создания магазина на западе. Куча плагинов, развивается, дает много работы
+- Concrete5 CMS - говорят сложная но шустрая
+- Shopify - saas решение для больших дядек. вроде как технологичные чувыаки делают
+
+
+
+
+## kanban-доски
+- mattermost - супер
+- asana - проверяю
+- trello -хрень
+- jira - хрень
+- todoist - норм
+- notion - норм, но перегружено
