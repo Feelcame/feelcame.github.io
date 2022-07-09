@@ -85,6 +85,7 @@ modified: 2021-08-23T14:00:10+03:00
 - notion - норм, но перегружено
 - Coda.io
 - basecamp
+- Miro - совместное планирование работы на доске
 
 - Rocket chat
 - Terraform - позволяет автоматизировать развертывание приложений в облака и тд
@@ -92,12 +93,12 @@ modified: 2021-08-23T14:00:10+03:00
 - Flask — фреймворк для создания веб-приложений на языке программирования Python
 
 
-Task warior - задачи
-Calcourse - календарь
-Fantastico календарь
-Abooks - контакты, др
-Metermose - планирование работы
-Rocket chat - корпоративные чаты
-Reaper - диктофон
-Audio hijacking - программа микшерский пульт
-Neo4j - графовая бд
+- Task warior - задачи
+- Calcourse - календарь
+- Fantastico календарь
+- Abooks - контакты, др
+- Metermose - планирование работы
+- Rocket chat - корпоративные чаты
+- Reaper - диктофон
+- Audio hijacking - программа микшерский пульт
+- Neo4j - графовая бд
