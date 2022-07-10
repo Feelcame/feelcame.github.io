@@ -58,13 +58,17 @@ document.getElementById('nav').style.display='block';
 document.getElementById('navButton').style.display='none';
 return(false);
 }
-</script>
 
-<script>
 // переопределение всех внешних ссылок на открытие в новой вкладке
 var links = document.links;
+var linksCount = links.length;
 for (var i = 0, linksLength = links.length; i < linksLength; i++) {
 	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+}
+
+// ссылка на пустой якорь никуда не ведет
+for (var i = 0, linksCount; i < linksLength; i++) {
+	if (links[i].href === '#') { links[i].onclick = 'return(false);'; }
 }
 </script>
 
