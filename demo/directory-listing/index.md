@@ -1,5 +1,5 @@
 ## Примеры и тесты
-Описание: [click](../projects/jekyll-navigation.md)
+Описание: [click](../../projects/jekyll-navigation.md)
 
 Список страниц в папке: 
 ```
