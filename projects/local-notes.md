@@ -11,6 +11,7 @@ tags: temp
 
 ## Демо
 
+<div markdown="0">
 <textarea style="width:200px; height: 60px;" id="area" placeholder="Напишите сообщение здесь"></textarea>
 <br>
 <button onclick="localStorage.removeItem('area');area.value=''">Очистить</button>
@@ -20,6 +21,7 @@ tags: temp
       localStorage.setItem('area', area.value)
     };
 </script>
+</div> 
 
 ## Полезные ссылки
 
