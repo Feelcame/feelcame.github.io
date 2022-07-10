@@ -59,17 +59,25 @@ document.getElementById('navButton').style.display='none';
 return(false);
 }
 
-// переопределение всех внешних ссылок на открытие в новой вкладке
 var links = document.links;
 var linksCount = links.length;
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+var emptyLink = location.href.split('#')[0];
+var emptyAnchorAdress = location.href.split('#')[0] + "#";
+
+for (var i = 0; i < linksCount; i++) {
+	var linkAdress = links[i].href;
+	// отключаем скрол при клике на пустую ссылку
+	if ( linkAdress == emptyAnchorAdress || linkAdress == emptyLink) {
+		//links[i].onclick = "return(false);"; // не работает
+		//links[i].href = "javascript:void(0);"; // не красиво
+		links[i].href = "#!"; // норм
+	}
+	// переопределение всех внешних ссылок на открытие в новой вкладке
+	if (links[i].hostname != location.hostname) { 
+		links[i].target = '_blank';
+	}
 }
 
-// ссылка на пустой якорь никуда не ведет
-for (var i = 0, linksCount; i < linksLength; i++) {
-	if (links[i].href === '#') { links[i].onclick = 'return(false);'; }
-}
 </script>
 
 <!-- Добавление ссылки на якорь возле заголовков -->
