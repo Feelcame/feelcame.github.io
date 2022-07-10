@@ -16,7 +16,7 @@ a#vverh {
 
 a#vverh:before {
 	position: absolute;
-	content: url(/assets/strelka3.png);
+	content: url(/assets/img/up.png);
 	margin: -55px 0 0 -12px;
 }
 

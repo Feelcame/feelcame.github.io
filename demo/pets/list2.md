@@ -1,6 +1,5 @@
 ---
 title: Забери питомца из приюта 2
-layout: page
 ---
 
 <div id="breadcrumbs">

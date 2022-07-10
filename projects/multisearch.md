@@ -28,6 +28,7 @@ tags: coding
 
 ## Пример
 
+<div markdown="0">
 <form>
 Введи запрос: <input id="text" type="text" onchange="updateLinks();">
 </form>
@@ -51,6 +52,22 @@ tags: coding
   
   }
 </script>
+
+<h2>Еще одно демо</h2>
+<form action="" method="get">
+      <input type="email" class="subscription-email" placeholder="keks@flashnews.ru" id="subscription-email" onchange="updateLinks();">
+    </form>
+    <br>                                                                                                             
+    <div class="output-text">text</div>
+    <script>
+    function updateLinks(){
+      let message = document.querySelector('.output-text');
+      let email = document.querySelector('.subscription-email');
+      message.textContent = email.value;
+    }
+    </script>
+
+</div>
 
 ## Листинг кода с подсветкой
 

@@ -522,14 +522,14 @@ modified: 2021-08-23T14:54:33+03:00
 
 
 [//]: # "Иконки"
-[tg]: ../assets/telegram16.png "Скачать из телеги"
-[gd]: ../assets/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
-[hp]: ../assets/home16.png "Сираничка загрузки на официальном сайте"
-[hd]: ../assets/download16.png "Файл с официального сайта"
-[nn]: ../assets/nnm16.png "Торрент трекер Noname club"
-[rt]: ../assets/rutracker16.png "Торрент трекер Rutracker"
-[bp]: ../assets/rutracker16.png "Из сайта biblprog"
-[sp]: ../assets/rutracker16.png "Из сайта Softportal"
+[tg]: ../assets/img/telegram16.png "Скачать из телеги"
+[gd]: ../assets/img/gdrive16.png "Скачать из гугл-диска по прямой ссылке"
+[hp]: ../assets/img/home16.png "Сираничка загрузки на официальном сайте"
+[hd]: ../assets/img/download16.png "Файл с официального сайта"
+[nn]: ../assets/img/nnm16.png "Торрент трекер Noname club"
+[rt]: ../assets/img/rutracker16.png "Торрент трекер Rutracker"
+[bp]: ../assets/img/rutracker16.png "Из сайта biblprog"
+[sp]: ../assets/img/rutracker16.png "Из сайта Softportal"
 
 ***
 
