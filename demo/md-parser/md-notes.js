@@ -1,83 +1,32 @@
-// Добавить недостающие поля в хтмл
 function createElements(){
-	//console.log("createElements");
-
-  var editButton = document.getElementById('edit-button')
-  //var loadButton = document.getElementById('download-link')
-  var outputArea = document.getElementById('output-html')
-  var mdArea = document.getElementById('markdown');
-  
-  if (outputArea == null){
-	// создать элемент
-	var outputEl = document.createElement("section");
-	outputEl.setAttribute("id", "output-html");
-	// Получаем ссылку на элемент, перед которым мы хотим вставить sp1
-	//var mdArea = document.getElementById("markdown");
-	//Получаем ссылку на родителя sp2
-	var parentDiv = mdArea.parentNode;
-	// Вставляем sp1 перед sp2
-	parentDiv.insertBefore(outputEl, mdArea);
-	// скрыть сырой маркдаун
-	mdArea.style.display='none';
-  }
-  
-  //todo. переделать на appendChild плюс innerHTML, вставить все кнопки внутрь общего элемента, отцентровать
-  
-  if (editButton == null){
-	var editButton = document.createElement("a");
-	editButton.setAttribute("href", "#!");
-	editButton.setAttribute("onclick", "changeMode();return false;");
-	editButton.setAttribute("id", "edit-button");
-	editButton.innerText = "Edit";
-	//var mdArea = document.getElementById("markdown");
-	var parentDiv = mdArea.parentNode;
-	//вставляем кнопку после markdown
-	parentDiv.insertBefore(editButton, mdArea.nextSibling);
-  }
-  
-	//<a href="#" id="download-link">Download</a>
-	var loadButton = document.createElement("a");
-	loadButton.setAttribute("href", "#");
-	loadButton.setAttribute("onclick", "alert(1);return false;");
-	loadButton.setAttribute("id", "download-link");
-	loadButton.innerText = "Download";
-	var editButton = document.getElementById('edit-button')
-	var parentDiv = editButton.parentNode;
-	//вставляем кнопку после markdown
-	var newlink = parentDiv.insertBefore(loadButton, mdArea.nextSibling);
-  
 	//дополним шапку
+	var header = '<meta charset="UTF-8">';
+	header += '<meta name="viewport" content="width=device-width, initial-scale=1">';
+	header += '<link rel="stylesheet" href="./md-notes.css"';
+	header += '<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic">';
 	var head = document.getElementsByTagName('head')[0];
+	head.innerHTML += header;
 
-	//<meta charset="UTF-8">
-	const encoding = document.createElement('meta');
-	encoding.setAttribute("charset", "UTF-8");
-	head.appendChild(encoding);
 
-	//<meta name="viewport" content="width=device-width, initial-scale=1">
-	const deviceWidth = document.createElement('meta');
-	deviceWidth.name = 'viewport';
-	deviceWidth.content = 'width=device-width, initial-scale=1';
-	head.appendChild(deviceWidth);
-
-	//<link rel="stylesheet" href="./md-notes.css">
-	const style = document.createElement('link');
-	style.href = './md-notes.css';
-	style.rel = 'stylesheet';
-	head.appendChild(style);
-
-	//<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic'>
-	const font = document.createElement('link');
-	font.href = 'https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic';
-	font.rel = 'stylesheet';
-	head.appendChild(font);
-
-  console.log("elements is created");
-  return false;
+	//добавляем кнопки управления <nav>
+	var navLinks = '<section id="output-html"></section>';
+	navLinks += '<nav style="display:flex;align-items:center;justify-content:center;">'
+	navLinks += '<a href="#" id="download-link" onclick="return false;">Download</a>';
+	navLinks += '<a href="#" id="edit-button" onclick="changeMode();return false;">Edit</a>';
+	navLinks += '<a href="#" id="share" onclick="return false;">Share</a></nav>';
+	navLinks += '<a href="#" id="raw-switch" class="raw-switch">Raw: <span></span></a>';
+	var body = document.getElementsByTagName('body')[0];
+	body.innerHTML += navLinks;
+	
+	//скрыть исходник по-умолчанию
+	document.getElementById('markdown').style.display='none';
+	console.log("elements is created");
+	return false;
 }
+createElements();
 
 
-//отработать нажатие на кнопку
+//отработать нажатие на кнопку Edit
 function changeMode(){
   var editButton = document.getElementById('edit-button'); 
   var outputArea = document.getElementById('output-html');
@@ -85,7 +34,6 @@ function changeMode(){
   if (editButton == null){
 	console.log("haven't a button");
   } else if (editButton.innerText == "Edit"){
-	//сменить надпись на кнопке и переключить видимость окон
 	editButton.innerText='View'; 
 	mdArea.style.display='block'; 
 	outputArea.style.display='none';
@@ -178,8 +126,9 @@ function parseMd(md){
 
 
 // где-то тут начинается исполнение кода
-var creatingStatus = createElements();
 
+
+//<a href="#" id="raw-switch" class="raw-switch">Raw: <span></span></a>
 
 var rawMode = false;
     mdEl = document.getElementById('markdown'),
@@ -209,4 +158,3 @@ mdEl.addEventListener('keyup', parse, false);
   }, false);
   
 }());
-
