@@ -23,6 +23,12 @@ tags: coding
 </script>
 </div> 
 
+## todo
+- markdown + редактор
+- download
+- share через ссылку как в 4qr.xyz
+- шифрование?
+
 ## Полезные ссылки
 
 - <https://ru.js.cx/task/form-autosave/solution/>
