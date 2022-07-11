@@ -83,3 +83,12 @@ mdEl.addEventListener('keyup', parse, false);
   }, false);
   
 }());
+
+//Edit mode trigger btn
+
+// Добавить недостающие поля
+function changeMode(){
+  var result = document.getElementById('output-html')
+  
+  return false;
+}

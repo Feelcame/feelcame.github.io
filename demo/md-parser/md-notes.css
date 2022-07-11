@@ -67,3 +67,7 @@ section pre {
   overflow-y: scroll;
 }
 
+a {
+	margin: 10px;
+	padding: 5px;
+}
