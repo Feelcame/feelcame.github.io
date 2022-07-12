@@ -116,7 +116,8 @@ id; Наличие; Цена в у.е; Название; Категории че
 - <https://github.com/jekyll-store>
 - <https://github.com/mikesprague/vuejs-shopping-cart>
 - <https://github.com/wsdo/shop-static>
-- <https://stackoverflow.com/questions/23447431/adding-e-commerce-to-a-jekyll-site>
+- Adding E-Commerce to a Jekyll site <https://stackoverflow.com/questions/23447431/adding-e-commerce-to-a-jekyll-site>
+- Идеальный интернет-магазин <http://shpargalkablog.ru/2012/06/internet-magazin.html>
 
 ## Твой фидбек
 Что думаешь про такую телегу? Стоит ли этот конь съеденого им сена? Напиши комментарий!
