@@ -33,3 +33,4 @@ tags: coding
 
 - <https://ru.js.cx/task/form-autosave/solution/>
 - <https://learn.javascript.ru/localstorage>
+- <http://shpargalkablog.ru/2013/06/localStorage.html>
