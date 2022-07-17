@@ -26,14 +26,14 @@ body {
   z-index: 1;
 }
 
-aside, section {
+article, section {
   width: 100%;
   max-width:700px;
   padding: 15px;
   margin: auto;
 }
 
-aside {
+article {
   white-space: pre-wrap;
   padding: 15px;
   background: #ffffff;
@@ -47,7 +47,7 @@ aside {
   float: left;
 */
 }
-aside:focus {
+article:focus {
   outline: none;
 }
 
