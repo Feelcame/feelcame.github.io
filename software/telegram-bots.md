@@ -39,7 +39,7 @@ modified: 2021-09-27T16:51:43+03:00
 - [@showjsonbot](tg://resolve?domain=showjsonbot) - показывает исходный текст сообщения  
 
 Комменты:   
-- @CommentsBot - хз
+- @CommentsBot - был лидером до введения нативных комментариев
 - @DiscussBot - коменты на сайт от авторов тг  
 - @CommentsUserBot - комменты, не актуален  
 - @ComenBot - комменты, более не актуален   
