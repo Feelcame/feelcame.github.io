@@ -33,9 +33,9 @@ modified: 2021-09-27T16:51:43+03:00
 - [@combot](tg://resolve?domain=combot) - бот-модератор
 - [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot) - еще один модератор
 - [@ControllerBot](tg://resolve?domain=ControllerBot) - публикация сообщений по расписанию
-- [@junction_bot](tg://resolve?domain=junction_bot) - пересылка постов из канала в канал
-- [@redirectsbot](tg://resolve?domain=redirectsbot) - пересылка ещ один бот
-- [@PostBot](tg://resolve?domain=PostBot) - постинг по расписанию, есть пересылка
+- [@junction_bot](tg://resolve?domain=junction_bot) - пересылка постов из канала в общую ленту или другой канал. платно
+- [@redirectsbot](tg://resolve?domain=redirectsbot) - еще один бот пересылки
+- [@PostBot](tg://resolve?domain=PostBot) - создание постов со сложной разметкой. Отправка через инлайн. Пример: @postbot privet
 - [@showjsonbot](tg://resolve?domain=showjsonbot) - показывает исходный текст сообщения  
 
 Комменты:   
