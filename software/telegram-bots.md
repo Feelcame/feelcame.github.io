@@ -30,16 +30,16 @@ modified: 2021-09-27T16:51:43+03:00
 - [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
 ### **Админу** ###
-- [@combot](tg://resolve?domain=combot]  
-- [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot]  
-- [@ControllerBot](tg://resolve?domain=ControllerBot]  
-- [@junction_bot](tg://resolve?domain=junction_bot]  
-- [@redirectsbot](tg://resolve?domain=redirectsbot]  
-- [@PostBot](tg://resolve?domain=PostBot]  
+- [@combot](tg://resolve?domain=combot] - бот-модератор
+- [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot] - еще один модератор
+- [@ControllerBot](tg://resolve?domain=ControllerBot] - публикация сообщений по расписанию
+- [@junction_bot](tg://resolve?domain=junction_bot] - пересылка постов из канала в канал
+- [@redirectsbot](tg://resolve?domain=redirectsbot]  - пересылка ещ один бот
+- [@PostBot](tg://resolve?domain=PostBot] - постинг по расписанию, есть пересылка
 - [@showjsonbot](tg://resolve?domain=showjsonbot] - показывает исходный текст сообщения  
 
 Комменты:   
-- @CommentsBot  
+- @CommentsBot - хз
 - @DiscussBot - коменты на сайт от авторов тг  
 - @CommentsUserBot - комменты, не актуален  
 - @ComenBot - комменты, более не актуален   
