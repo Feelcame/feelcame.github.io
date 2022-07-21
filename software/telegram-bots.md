@@ -6,17 +6,16 @@ modified: 2021-09-27T16:51:43+03:00
 смотри также статью [как написать бота самому](../coding/telegram-bots.md)
 
 ### **Музыка** ###
-- [@LyBot](tg://resolve?domain=LyBot) - есть inline поиск. скачивает из ютуба, яндекса, spitify и др. Есть конструктор своих ботов @creatorMusicBot. Support: @Ly_OBot
+- [@LyBot](tg://resolve?domain=LyBot) - скачивает из ютуба, яндекса, spitify и др. есть inline поиск. Есть конструктор своих ботов @creatorMusicBot. Support: @lyblog @ly_oBot
 - [@vkm4bot](tg://resolve?domain=vkm4bot) - бот от автора LyBot. Поиск по VK
-- [@NowPlaybot](tg://resolve?domain=NowPlaybot) - отправляет трек, который сейчас играет в spotify
+- [@NowPlaybot](tg://resolve?domain=NowPlaybot) - отправляет трек, который сейчас играет в spotify. Автор: @nowplaylogs @koteek @anna_ignores @donateanna https://instagram.com/meowkoteeq @tikcock
 - [@sound2bot](tg://resolve?domain=sound2bot) - поиск и скачивание из вконтакте. Реклама 
-- [@DeezerMusicBot](tg://resolve?domain=DeezerMusicBot) - music from Deezer, Spotify, SoundCloud, VK. Искать в чате с ботом. В инлайн режиме показывает недавно скачанные треки
-- [@yamdbot](tg://resolve?domain=yamdbot) - в ответ на ссылку присылает трек. Или целый альбом
+- [@DeezerMusicBot](tg://resolve?domain=DeezerMusicBot) - music from Deezer, Spotify, SoundCloud, VK. Искать в чате с ботом. В инлайн режиме показывает недавно скачанные треки. Автор: @DeezerBotNews @DeezerMusicContactBot
+- [@yamdbot](tg://resolve?domain=yamdbot) - в ответ на ссылку присылает трек. Или целый альбом. Автор: alowave.cc @lowdev @alowave @alone_as_bot @lowdev @donate_alowave 
 
 ### **YouTube** ###
-- [@SaveYoutubeBot](tg://resolve?domain=SaveYoutubeBot) - хранит весь ютуб на серверах телеграма. Присылает файл мгновенно. Может скачать плейлист из песен в MP3
-- [@youtubabot](tg://resolve?domain=youtubabot) - от автора предыдущего бота на случай его бана
-- [@utubebot](tg://resolve?domain=utubebot) - засыпает спамом
+- [@SaveYoutubeBot](tg://resolve?domain=SaveYoutubeBot) - хранит весь ютуб на серверах телеграма. Присылает файл мгновенно. Может скачать плейлист из песен в MP3. Резерв: [@youtubabot](tg://resolve?domain=youtubabot). Автор: @massbots Legal: @sy_claims Ads: @SYmanagerBot
+- [@utubebot](tg://resolve?domain=utubebot) - засыпает спамом. Автор какой-то араб
 
 ### **Файлы** ###
 - [@tlgurbot](tg://resolve?domain=tlgurbot) - дает прямую ссылку на файл из телеграма
@@ -31,13 +30,43 @@ modified: 2021-09-27T16:51:43+03:00
 - [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
 ### **Админу** ###
-@combot @ChatKeeperBot @ControllerBot @junction_bot @redirectsbot @PostBot @showjsonbot  
-Комменты: @CommentsBot @DiscussBot @CommentsUserBot @ComenBot @CommentsVahterBot  
+@combot  
+@ChatKeeperBot  
+@ControllerBot  
+@junction_bot  
+@redirectsbot  
+@PostBot  
+@showjsonbot - показывает исходный текст сообщения  
 
-### **Прочее** ###
-Официальные: @vid @gif @pic @like @botfather @stickers  
-Фильмы: @HDFilmsBot @MotherMoviesbot @cinemaking_bot @afilmbot  
-Прочее: @StickerizerBot @HideItBot  @FindNewBot @isbot @botscollection  
+Комменты:   
+@CommentsBot  
+@DiscussBot - коменты на сайт от авторов тг  
+@CommentsUserBot - комменты, не актуален  
+@ComenBot - комменты, более не актуален   
+@CommentsVahterBot - запрет вступать в группу, только писать через комментарии в канале  
+
+### **Прочее** ### 
+
+Официальные:  
+@vid  
+@gif  
+@pic  
+@like  
+@botfather  
+@stickers   
+
+Фильмы:  
+@HDFilmsBot  
+@MotherMoviesbot  
+@cinemaking_bot  
+@afilmbot   
+
+Прочее:  
+@StickerizerBot  
+@HideItBot  
+@FindNewBot  
+@isbot  
+@botscollection  
 
 
 🚀Боты в телеге: <https://t.me/profi_soft/102>
