@@ -30,43 +30,43 @@ modified: 2021-09-27T16:51:43+03:00
 - [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
 ### **Админу** ###
-@combot  
-@ChatKeeperBot  
-@ControllerBot  
-@junction_bot  
-@redirectsbot  
-@PostBot  
-@showjsonbot - показывает исходный текст сообщения  
+- [@combot](tg://resolve?domain=combot]  
+- [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot]  
+- [@ControllerBot](tg://resolve?domain=ControllerBot]  
+- [@junction_bot](tg://resolve?domain=junction_bot]  
+- [@redirectsbot](tg://resolve?domain=redirectsbot]  
+- [@PostBot](tg://resolve?domain=PostBot]  
+- [@showjsonbot](tg://resolve?domain=showjsonbot] - показывает исходный текст сообщения  
 
 Комменты:   
-@CommentsBot  
-@DiscussBot - коменты на сайт от авторов тг  
-@CommentsUserBot - комменты, не актуален  
-@ComenBot - комменты, более не актуален   
-@CommentsVahterBot - запрет вступать в группу, только писать через комментарии в канале  
+- @CommentsBot  
+- @DiscussBot - коменты на сайт от авторов тг  
+- @CommentsUserBot - комменты, не актуален  
+- @ComenBot - комменты, более не актуален   
+- @CommentsVahterBot - запрет вступать в группу, только писать через комментарии в канале  
 
 ### **Прочее** ### 
 
 Официальные:  
-@vid  
-@gif  
-@pic  
-@like  
-@botfather  
-@stickers   
+- [@vid](tg://resolve?domain=vid]  
+- [@gif](tg://resolve?domain=gif]  
+- [@pic](tg://resolve?domain=pic]  
+- [@like](tg://resolve?domain=like]  
+- [@botfather](tg://resolve?domain=botfather]  
+- [@stickers](tg://resolve?domain=stickers]   
 
 Фильмы:  
-@HDFilmsBot  
-@MotherMoviesbot  
-@cinemaking_bot  
-@afilmbot   
+- [@HDFilmsBot](tg://resolve?domain=HDFilmsBot]  
+- [@MotherMoviesbot](tg://resolve?domain=MotherMoviesbot]  
+- [@cinemaking_bot](tg://resolve?domain=cinemaking_bot]  
+- [@afilmbot](tg://resolve?domain=afilmbot]   
 
 Прочее:  
-@StickerizerBot  
-@HideItBot  
-@FindNewBot  
-@isbot  
-@botscollection  
+- [@StickerizerBot](tg://resolve?domain=StickerizerBot]  
+- [@FindNewBot](tg://resolve?domain=FindNewBot]  
+- [@isbot](tg://resolve?domain=isbot]  
+- @HideItBot  
+- @botscollection  
 
 
 🚀Боты в телеге: <https://t.me/profi_soft/102>
