@@ -30,13 +30,13 @@ modified: 2021-09-27T16:51:43+03:00
 - [@Gmailbot](tg://resolve?domain=utubebot) - пересылает почту в телеграм
 
 ### **Админу** ###
-- [@combot](tg://resolve?domain=combot] - бот-модератор
-- [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot] - еще один модератор
-- [@ControllerBot](tg://resolve?domain=ControllerBot] - публикация сообщений по расписанию
-- [@junction_bot](tg://resolve?domain=junction_bot] - пересылка постов из канала в канал
-- [@redirectsbot](tg://resolve?domain=redirectsbot]  - пересылка ещ один бот
-- [@PostBot](tg://resolve?domain=PostBot] - постинг по расписанию, есть пересылка
-- [@showjsonbot](tg://resolve?domain=showjsonbot] - показывает исходный текст сообщения  
+- [@combot](tg://resolve?domain=combot) - бот-модератор
+- [@ChatKeeperBot](tg://resolve?domain=ChatKeeperBot) - еще один модератор
+- [@ControllerBot](tg://resolve?domain=ControllerBot) - публикация сообщений по расписанию
+- [@junction_bot](tg://resolve?domain=junction_bot) - пересылка постов из канала в канал
+- [@redirectsbot](tg://resolve?domain=redirectsbot) - пересылка ещ один бот
+- [@PostBot](tg://resolve?domain=PostBot) - постинг по расписанию, есть пересылка
+- [@showjsonbot](tg://resolve?domain=showjsonbot) - показывает исходный текст сообщения  
 
 Комменты:   
 - @CommentsBot - хз
@@ -48,23 +48,23 @@ modified: 2021-09-27T16:51:43+03:00
 ### **Прочее** ### 
 
 Официальные:  
-- [@vid](tg://resolve?domain=vid]  
-- [@gif](tg://resolve?domain=gif]  
-- [@pic](tg://resolve?domain=pic]  
-- [@like](tg://resolve?domain=like]  
-- [@botfather](tg://resolve?domain=botfather]  
-- [@stickers](tg://resolve?domain=stickers]   
+- [@vid](tg://resolve?domain=vid) - 
+- [@gif](tg://resolve?domain=gif) - 
+- [@pic](tg://resolve?domain=pic) - 
+- [@like](tg://resolve?domain=like) - 
+- [@botfather](tg://resolve?domain=botfather) - 
+- [@stickers](tg://resolve?domain=stickers) -  
 
 Фильмы:  
-- [@HDFilmsBot](tg://resolve?domain=HDFilmsBot]  
-- [@MotherMoviesbot](tg://resolve?domain=MotherMoviesbot]  
-- [@cinemaking_bot](tg://resolve?domain=cinemaking_bot]  
-- [@afilmbot](tg://resolve?domain=afilmbot]   
+- [@HDFilmsBot](tg://resolve?domain=HDFilmsBot) - 
+- [@MotherMoviesbot](tg://resolve?domain=MotherMoviesbot) - 
+- [@cinemaking_bot](tg://resolve?domain=cinemaking_bot) - 
+- [@afilmbot](tg://resolve?domain=afilmbot) -  
 
 Прочее:  
-- [@StickerizerBot](tg://resolve?domain=StickerizerBot]  
-- [@FindNewBot](tg://resolve?domain=FindNewBot]  
-- [@isbot](tg://resolve?domain=isbot]  
+- [@StickerizerBot](tg://resolve?domain=StickerizerBot) - 
+- [@FindNewBot](tg://resolve?domain=FindNewBot) - 
+- [@isbot](tg://resolve?domain=isbot) - 
 - @HideItBot  
 - @botscollection  
 
