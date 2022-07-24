@@ -1,5 +1,5 @@
 ---
-title: Jekyll CMS. Генератор статических сайтов
+title: Создать статичный сайт на Jekyll CMS
 date: 2021-09-05T10:40:58+03:00
 modified: 2021-11-14T21:16:29+02:00
 comments: 95
@@ -333,3 +333,5 @@ plugins:
 
 - markdown kramdown syntax ```{: .class #id key="value" download="" }``` <https://about.gitlab.com/blog/2016/07/19/markdown-kramdown-tips-and-tricks/>
 - и еще про ```{: }``` <https://kramdown.gettalong.org/converter/html.html>
+
+- про концепцию статичных сайтов <https://dou.ua/lenta/articles/jamstack/>
