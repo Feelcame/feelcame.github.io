@@ -28,22 +28,22 @@ comments: 103
 - a.devs.today
 - webarchive.org
 
-## Share localhost to web
+## Share localhost to web. (reverse proxy)
 - http://localtunnel.me/?
 - https://ngrok.com/
 - http://localhost.run/?
 - Cloudflare Tunnel?
-
+- хз что это: <https://localxpose.io/> <https://pagekite.net/> <http://serveo.net/> <https://tunnelto.dev/>
 
 ## Поднять свой сервак
-- openvpn на основе vps
-- shadowsocks + heroku
+- openvpn на основе vps. Есть скрипт install-openvpn.sh, который в пару кликов ставит все необходимое. Где взять за бесплатно или за недорого сервер vps ищи в соответствующей статье
+- shadowsocks + heroku. бесплатно, но нужно ставить прогу клиент shadowsocks и возиться с настройкой плагинов
 
 ## Другие решения доступа
-- прокинуть порты
-- белый ip-адрес
-- локальное соединение
-- обойти блокировку
+- прокинуть порты через провайдера
+- купить белый ip-адрес
+- локальное соединение 
+- обойти блокировку (GoodbyeDPI и т.п.)
 
 ## Децентрализация
 - matrix, протокол для создания своей соц.сети
