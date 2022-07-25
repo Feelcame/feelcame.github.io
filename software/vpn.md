@@ -27,10 +27,10 @@ comments: 103
 
 
 ## анонимайзер
-- сервис для анонимного просмотра инета
+- [Anonymouse.org](http://anonymouse.org/anonwww.html) — старейший анонимайзер (существуете 1997 года) с простейшим интерфейсом. [список альтернатив](https://spy-soft.net/luchshie-besplatnye-onlajn-anonimajzery-obzor-vybor-rekomendacii/)
 - a.devs.today/t.me - предназначен для адаптации статей к instant view в телеграм
-- webarchive.org - вебархив. сохраняет в себе историю интернета
-- google cache - архив проиндексированных гуглом страниц
+- webarchive.org - вебархив. сохраняет в себе историю интернета. работает очень неспеша
+- google cache - архив проиндексированных гуглом страниц. глючит
 - translate.google.com - да, переводчиком можно почитать заблокированный сайт
 
 ## Share localhost to web. (reverse proxy)
