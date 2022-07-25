@@ -14,6 +14,7 @@ comments: 103
 - Opera VPN (встроено в браузер). 
 - "Cжатие трафика" в мобильной версии браузера Opera. есть, работатет не хуже
 - [MulvadVPN](https://mullvad.net/en/pricing/) - упоротый в секурность сервис впн. Цена $5/месяц 
+- <https://adguard-vpn.com/ru/welcome.html> - 3gb бесплатно
 
 
 ## Сервисы VPN для локальной сети
