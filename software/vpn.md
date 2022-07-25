@@ -9,10 +9,12 @@ comments: 103
 - Cloudflare WARP. Бесплатно, глючит
 - Windscribe. Гиг бесплатно, десять за регистрацию. Промокод на 30гб: ПИЗДЕЦ, СВОБОДА, PEACE
 - TurboVPN. для телефона, реклама
-- <https://prostovpn.org>. Cервис от ValdikSS. Доступ к тор и i2p
+- <https://prostovpn.org>. Cервис от ValdikSS. Доступ к тор и i2p. Цена минимальная
+- Proton VPN - в бесплатном тарифе запрещены любые p2p-соединения
 
 ## Свой VPN в один клик
 - <https://tailscale.com/>
+- <https://www.zerotier.com/> - VPN в два клика 
 
 ## Свой сервак
 - openvpn на основе vps
