@@ -2,7 +2,7 @@ function createElements(){
 	//дополним шапку
 	var header = '<meta charset="UTF-8">';
 	header += '<meta name="viewport" content="width=device-width, initial-scale=1">';
-	header += '<link rel="stylesheet" href="./md-notes.css"';
+	header += '<link rel="stylesheet" href="./md-notes.css">';
 	header += '<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cousine:400,700,400italic,700italic">';
 	var head = document.getElementsByTagName('head')[0];
 	head.innerHTML += header;
