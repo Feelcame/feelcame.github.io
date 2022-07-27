@@ -6,10 +6,11 @@ layout: home
 ---
 
 ## Пожалуйста, не читайте мою записную книжку. Лучше подпишитесь на канал с котиками
-- [Телеграм канал @feelsoft](tg://resolve?domain=feelsoft)
+<br><br>
 - [**Проекты** (хвастаюсь)](./projects/)
+- [**Телеграм канал** @feelsoft](tg://resolve?domain=feelsoft)
 - [**Каталог инструментов**](./shop/index.md)
-- [Записная книжка](./demo/md-parser/md-notes.md)
+- [**Заметки на полях**](./demo/notes/)
 
 {% comment %}
 <!--
@@ -55,6 +56,8 @@ layout: home
 </div>
 -->
 {% endcomment %}
+
+<br><br><br>
 
 ---
 
