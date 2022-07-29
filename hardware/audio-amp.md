@@ -45,6 +45,8 @@ comments: true
 ## Как сделать регулятор громкости
 
 для китайского усилителя TPA3118
+![регулятор громкости](https://user-images.githubusercontent.com/17731587/181825096-0ad08e9d-882a-4bfa-96ed-a094b2297dc1.jpg)
+
 
 * <http://interlavka.narod.ru/nabor/nabf005.htm>
 * <http://interlavka.narod.ru/nabor/im/f005sh.jpg>
