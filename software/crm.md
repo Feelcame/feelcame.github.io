@@ -1,8 +1,8 @@
 ---
 date: 2021-07-06T03:16:45+03:00
 title: Организация рабочего процесса. CRM, taskmanager, timetracker
-comments: true
-modified: 2022-07-31T10:16:46+03:00
+comments: 107
+modified: 2022-07-31T10:18:48+03:00
 ---
 
 **Ищу замену для vtiger crm.**
