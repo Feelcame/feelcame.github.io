@@ -10,7 +10,7 @@ layout: home
 - [**Телеграм канал** @feelsoft](tg://resolve?domain=feelsoft)
 - [**Проекты** (хвастаюсь)](./projects/)
 - [**Каталог инструментов**](./shop/index.md)
-- [**Заметки на полях**](./demo/notes/)
+- [**Заметки на полях**](./projects/notes/)
 
 {% comment %}
 <!--
