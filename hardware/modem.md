@@ -2,7 +2,6 @@
 title: Выбор 4G-модема с Wi-Fi
 date: 2021-09-27T05:23:14+03:00
 modified: 2021-10-03T00:20:18+03:00
-comments: true
 pin: 4
 ---
 
