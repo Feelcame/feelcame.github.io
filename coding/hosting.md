@@ -25,7 +25,7 @@ redirect_from:
 
 ### Для статики
 - GitHub pages
-- <https://habr.com/ru/post/251797/>
+- <[https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/)> 
 - любой хостинг для [php](#hosting-php)
 <details markdown="1">
 - GitLab
