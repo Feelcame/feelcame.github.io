@@ -20,9 +20,7 @@ redirect_from:
 {:toc}
 
 
-## Хостинг
-
-### Для статики
+## Хостинг для статики
 - GitHub pages
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/)
 - любой хостинг для [php](#hosting-php)
@@ -32,7 +30,7 @@ redirect_from:
 * neocites
 * jsDelivr. CDN для раздачи javascript. умеет шарить файлы из github
 
-### Для картинок
+## Для картинок
 {: #images }
 
 - <http://vfl.ru/> - хостинг картинок
@@ -45,7 +43,7 @@ redirect_from:
 
 
 
-### Для файлов
+## Для файлов
 - github
 - tlgur бот
 - zippyshare (юзает лакипатчер)
@@ -54,7 +52,7 @@ redirect_from:
 
 
 
-### селфхост
+## селфхост
 Можно у себя на компе запустить сайт, а в интернет отдавать его сервис-прокладку. Если есть белый ip-адрес, ко такие сервисы не нужны
 - <https://ngrok.com/>
 - hostyourself.cc
@@ -65,17 +63,17 @@ redirect_from:
 - хз что это: <https://localxpose.io/> <https://pagekite.net/> <http://serveo.net/> <https://tunnelto.dev/>
 
  
-### для php 
+## для php 
 {: #hosting-php}
 - <http://ho.ua>
 - <http://beget.ru>
 
-### SaaS для python
+## SaaS для python
 Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
 - heroku
 - [Netlify](https://www.netlify.com/)
 
-### для vps
+## для vps
 - ho.ua
 - aws
 - veesp
@@ -113,3 +111,8 @@ redirect_from:
 ## Смотри также:
 - на сайте есть статья про хостинг для сайта
 - и про хостинг для картинок
+
+
+## Selfhosted-файлохранилище
+- owncloud
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка в gdrive и другие сервисы через командную строку
