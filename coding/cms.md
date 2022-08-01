@@ -46,6 +46,8 @@ modified: 2021-08-25T11:37:03+03:00
 * impresspages - <https://www.impresspages.org/download> - <https://habr.com/ru/post/141533/>
 * Drupal
 * johncms - для создания мобильных сайтов, дырявая
+* <https://invisioncommunity.com/buy> форум
+* XenForo2 форум. норм. платно
 * MODx
 * <https://getpublii.com/>
 * Magento - топовая система для ведения магазина. платно
