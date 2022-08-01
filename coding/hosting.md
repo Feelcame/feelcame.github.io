@@ -56,10 +56,14 @@ redirect_from:
 
 ### селфхост
 Можно у себя на компе запустить сайт, а в интернет отдавать его сервис-прокладку. Если есть белый ip-адрес, ко такие сервисы не нужны
-- ngrock
-- localhost.run
+- <https://ngrok.com/>
 - hostyourself.cc
 - <http://nginx.org/ru/docs/beginners_guide.html>
+- <http://localtunnel.me/>?
+- http://localhost.run/>?
+- [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/tutorials/share-new-site/)?
+- хз что это: <https://localxpose.io/> <https://pagekite.net/> <http://serveo.net/> <https://tunnelto.dev/>
+
  
 ### для php 
 {: #hosting-php}
@@ -97,6 +101,11 @@ redirect_from:
 * <https://takeafile.com/>
 * Vk <https://vkdisk.ru/about/>
 *
+
+## p2p
+- Sync by Resillio
+- WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>
+
 
 ## Blacklist
 Тут про плохие сервисы, которые на первый взгляд кажутся надежными. Сюда не входят явно варезные depisitfiles, letibit и тому подобная срань, их я даже не рассматриваю
