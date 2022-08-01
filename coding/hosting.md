@@ -116,3 +116,4 @@ redirect_from:
 ## Selfhosted-файлохранилище
 - owncloud
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка в gdrive и другие сервисы через командную строку
+- [список](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
