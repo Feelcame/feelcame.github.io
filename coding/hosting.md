@@ -7,7 +7,6 @@ comments: false
 redirect_from: 
   - ../coding/hosting-cms
 ---
-<video controls="controls" width="300px" src="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">видео с котиком</video>
 
 {% comment %}
 redirect_from:
@@ -31,7 +30,7 @@ redirect_from:
 - GitLab
 * Vercel
 * neocites
-* jsDelivr. CDN
+* jsDelivr. CDN для раздачи javascript. умеет шарить файлы из github
 
 ### Для картинок
 {: #images }
