@@ -44,6 +44,7 @@ comments: 103
 - translate.google.com - да, переводчиком можно почитать заблокированный сайт
 
 ## Share localhost to web. (reverse proxy)
+смотри статью [про хостинг](../coding/hosting.md#селфхост)
 - http://localtunnel.me/?
 - https://ngrok.com/
 - http://localhost.run/?
