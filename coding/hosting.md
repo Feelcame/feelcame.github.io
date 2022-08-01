@@ -32,16 +32,16 @@ redirect_from:
 * Vercel
 * neocites
 
-### Для картинок и файлов
+### Для картинок
 {: #images }
 
-* <http://vfl.ru/> - хостинг картинок
-* fastpic
-* telegra.ph
-* etlgr
-* telegram (приватные каналы)
-* github pages
-* - Загрузить на cdn от github pages перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">скачать</a>
+- <http://vfl.ru/> - хостинг картинок
+- fastpic
+- telegra.ph
+- etlgr
+- Telegram. Создать приватный канал и загрузить туда что угодно размером до 2000 Мб
+- Github Pages. загрузить в репо как файл,
+- Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
 
 
 
