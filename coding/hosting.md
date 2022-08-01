@@ -49,6 +49,7 @@ redirect_from:
 - github
 - tlgur бот
 - zippyshare (юзает лакипатчер)
+- <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer
 - ...
 
 
