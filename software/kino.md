@@ -1,5 +1,5 @@
 ---
-title: Программы для просмотра фильмов
+title: Программы и сервисы для просмотра фильмов
 date: 2020-06-29T00:24:54+03:00
 modified: 2020-06-29T00:24:54+03:00
 ---
@@ -25,7 +25,10 @@ modified: 2020-06-29T00:24:54+03:00
 * LazyMedia
 * 
 
+## CDN для встраивания фильмов на другие сайты
+- [VideoCDN](https://videocdn.tv/)
 
 ## обновляемые списки торрентов
 - <http://grinkod.spb.ru/top10_russian_torrent_trackers.html>
 - <https://ua-ix.biz/ru/torrent>
+- <https://github.com/Igglybuff/awesome-piracy#torrenting>
