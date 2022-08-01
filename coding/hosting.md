@@ -31,6 +31,7 @@ redirect_from:
 - GitLab
 * Vercel
 * neocites
+* jsDelivr. CDN
 
 ### Для картинок
 {: #images }
