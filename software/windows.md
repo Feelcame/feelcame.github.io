@@ -8,10 +8,10 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 ---
 
 <div style="font-size: 13px;">
-  
-[**Телеграм-канал FeelSoft**](https://t.me/FeelSoftWin/105),
-[**OneDrive общая папка**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
-[**Профессионалу**](./profi-soft)
+[**Google Drive**](https://drive.google.com/drive/folders/1-3oo8CS0vbpVwlBdU7mEkPHSKb4veTEf?usp=sharing),
+[**Telegram**](https://t.me/FeelSoftWin/105),
+[**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
+[**Проф. софт**](./profi-soft)
 </div>
 
 <details markdown="1">
