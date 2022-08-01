@@ -223,3 +223,9 @@ modified: 2021-08-23T13:58:34+03:00
 * <http://www.hp.woodshot.com/>
 * <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
 * <https://snpview.com/>
+
+
+
+## Прочее
+- Carnac - показывает на экране какие клавиши были нажаты. полезно при записи экрана. <br>
+  [github](https://github.com/Code52/carnac/releases)
