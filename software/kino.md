@@ -5,7 +5,7 @@ modified: 2020-06-29T00:24:54+03:00
 ---
 **Фильмецы**
 
-Список ботов в телеграме для просмотра фильмов:
+## Список ботов в телеграме для просмотра фильмов:
 * [@FilmsRM](https://t.me/FilmsRM) - только лучшие фильмы
 * [@MotherMoviesBot](https://t.me/MotherMoviesBot) - Подберу фильмы на твой вкус.
 * [@kinomanbot](https://t.me/kinomanbot) - инлайн поиск инфы + ссылки на онлайнкинотеатры
@@ -14,13 +14,13 @@ modified: 2020-06-29T00:24:54+03:00
 * [@mnmslm](https://t.me/mnmslm) - по 500 Мб, но с рекламой
 * <https://videocdn.tv/demo>
 
-Сайты с фильмами:
+## Сайты с фильмами:
 * [tegos.ru](http://tegos.ru)
 * [CZX.to](http://czx.to)
 * kinokrad
 (торренты сюда не включены)
 
-Программы с фильмами:
+## Программы с фильмами:
 * HD VideoBox
 * LazyMedia
 * 
