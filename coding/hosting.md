@@ -113,7 +113,8 @@ redirect_from: '[../coding/hosting-cms]'
 - <https://toffeeshare.com>
 - <https://takeafile.com/>
 - <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
-
+- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
+- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
 
 
 
