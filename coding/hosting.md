@@ -12,10 +12,10 @@ redirect_from: '[../coding/hosting-cms]'
 
 Мне нравится идея статичных сайтов, но не нравится что их тяжело разместить в  интернете. Здесь приведены списки сервисов и програм которые помогают публиковать наше творчество
 
-## Хостинг для статики  
+## Хостинг статичных сайтов  
 {: #static }  
 
-- [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или можно подключить свой. Раздает статику или  преобразует markdown в html через Jekyll cms
+- [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. И еще один [преколдес](https://app.netlify.com/drop)
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
@@ -50,6 +50,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора pomf.se
 - [pomf.se](https://www.pomf.se/) - прямые ссылки. сейчас закрыт, но остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
 - [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. Тест 20220802: [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4)
+- [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
 
 
 ## Облачные файл-менеджеры
@@ -138,3 +139,7 @@ redirect_from: '[../coding/hosting-cms]'
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer. Вроде неплохой
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 - synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
+
+
+## Полезные ссылки
+- <https://www.stackfield.com/blog/8-secure-cloud-storage-services-68>
