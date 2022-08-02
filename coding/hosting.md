@@ -1,10 +1,10 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T09:04:05+03:00
+modified: 2022-08-02T10:23:45+03:00
 tags: web
 comments: false
-redirect_from: [../coding/hosting-cms]
+redirect_from: '[../coding/hosting-cms]'
 ---
 
 {% comment %}
@@ -37,9 +37,10 @@ redirect_from:
 - <http://vfl.ru/> - хостинг картинок
 - fastpic
 - telegra.ph - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
-- etlgr
-- Telegram. Создать приватный канал и загрузить туда что угодно размером до 2000 Мб
-- Github Pages. загрузить в репо как файл,
+- etlgr.io aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
+[Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
+- Telegram. Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
+- Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
 - Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
 
 
@@ -55,9 +56,9 @@ redirect_from:
 - [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Поддерживается программой transfer.sh
 
 ## мейнстрим файлохранилище
-- Google drive
+- Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
 - onedrive
-- yandex disk
+- yandex disk. 
 - mega.nz
 - ionos.de aka 1und1
 
@@ -100,7 +101,7 @@ redirect_from:
 
 
 
-## **Как поделиться большим файлом**
+## Как поделиться большим файлом
 
 Расширить жирный файл - это современная проблема и она требует современных решений
 
