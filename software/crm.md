@@ -78,7 +78,7 @@ modified: 2022-07-31T10:18:48+03:00
 
 
 ## kanban-доски
-- mattermost - супер
+- mattermost - супер. [сервер](https://github.com/mattermost/mattermost-server)
 - asana - проверяю
 - trello -хрень
 - jira - хрень
