@@ -47,12 +47,13 @@ redirect_from: '[../coding/hosting-cms]'
 - [tlgur](http://t.metlgurbot) бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
 - [zippyshare](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Тест от 20220802: [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html)
 - [catbox.moe](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
-- [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора [pomf.se](https://www.pomf.se/), который сейчас закрыт, хотя и остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
-- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh
+- [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора pomf.se
+- [pomf.se](https://www.pomf.se/) - прямые ссылки. сейчас закрыт, но остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
+- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. Тест 20220802: [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4)
 
 
 ## Облачные файл-менеджеры
-{: #mainstreem }
+{: #cloudstorege }
 - [Fex.net](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
 - Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
 - onedrive. Удобная интеграция в Microsoft Windows
