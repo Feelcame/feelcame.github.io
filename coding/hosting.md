@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T08:06:26+03:00
+modified: 2022-08-02T08:14:30+03:00
 tags: web
 comments: false
 redirect_from: [../coding/hosting-cms]
@@ -48,6 +48,14 @@ redirect_from:
 - zippyshare (юзает лакипатчер)
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer
 - https://catbox.moe/
+- [Storj](https://www.storj.io/) - дешевое файлохранилище
+
+## мейнстрим файлохранилище
+- Google drive
+- onedrive
+- yandex disk
+- mega.nz
+- ionos.de aka 1und1
 
 
 
