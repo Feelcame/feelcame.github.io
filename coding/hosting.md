@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T08:56:52+03:00
+modified: 2022-08-02T09:04:05+03:00
 tags: web
 comments: false
 redirect_from: [../coding/hosting-cms]
@@ -25,10 +25,10 @@ redirect_from:
 - [GitHub pages](http://pages.github.com) хостинг для документации. Домен третьего уровня user.github.io или можно подключить свой. Раздает статику или  преобразует markdown в html через Jekyll cms
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - любой хостинг для [php](#php)
-- Netlify
-- GitLab
+- Netlify. Хостинг для headless cms с личным CDN и жирным API
+- GitLab. Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 * Vercel
-* neocites
+* neocites. Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 * jsDelivr. CDN для раздачи javascript. умеет шарить файлы из github
 
 ## Для картинок
@@ -36,7 +36,7 @@ redirect_from:
 
 - <http://vfl.ru/> - хостинг картинок
 - fastpic
-- telegra.ph
+- telegra.ph - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
 - etlgr
 - Telegram. Создать приватный канал и загрузить туда что угодно размером до 2000 Мб
 - Github Pages. загрузить в репо как файл,
