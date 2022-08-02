@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T08:14:30+03:00
+modified: 2022-08-02T08:28:56+03:00
 tags: web
 comments: false
 redirect_from: [../coding/hosting-cms]
@@ -19,7 +19,9 @@ redirect_from:
 {:toc}
 
 
-## Хостинг для статики
+## Хостинг для статики  
+{: #static }  
+
 - GitHub pages
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/)
 - любой хостинг для [php](#hosting-php)
@@ -42,13 +44,15 @@ redirect_from:
 
 
 
-## Для файлов
-- github
-- tlgur бот
-- zippyshare (юзает лакипатчер)
+## Для файлов  
+{: #files }
+
+- Github. Тут можно и репо скачать, и релизы выкладывать и даже свой сайт сделать. Бонусом контроль версий
+- tlgur бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
+- zippyshare - немного странный файлообменник, похожий на скамный letibit (юзает лакипатчер)
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer
-- https://catbox.moe/
-- [Storj](https://www.storj.io/) - дешевое файлохранилище
+- https://catbox.moe/ - 200мб, прямая ссылка, ограничение скорости
+- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api
 
 ## мейнстрим файлохранилище
 - Google drive
