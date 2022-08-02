@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T08:28:56+03:00
+modified: 2022-08-02T08:36:37+03:00
 tags: web
 comments: false
 redirect_from: [../coding/hosting-cms]
@@ -52,7 +52,7 @@ redirect_from:
 - zippyshare - немного странный файлообменник, похожий на скамный letibit (юзает лакипатчер)
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer
 - https://catbox.moe/ - 200мб, прямая ссылка, ограничение скорости
-- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api
+- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Поддерживается программой transfer.sh
 
 ## мейнстрим файлохранилище
 - Google drive
@@ -64,6 +64,8 @@ redirect_from:
 
 
 ## селфхост
+{: #selfhost }
+
 Можно у себя на компе запустить сайт, а в интернет отдавать его сервис-прокладку. Если есть белый ip-адрес, ко такие сервисы не нужны
 - <https://ngrok.com/>
 - hostyourself.cc
@@ -71,15 +73,21 @@ redirect_from:
 - <http://localtunnel.me/>?
 - http://localhost.run/>?
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/tutorials/share-new-site/)?
-- хз что это: <https://localxpose.io/> <https://pagekite.net/> <http://serveo.net/> <https://tunnelto.dev/>
+- хз что это: 
+  - <https://localxpose.io/> 
+  - <https://pagekite.net/> 
+  - <http://serveo.net/> 
+  - <https://tunnelto.dev/>
 
  
 ## для php 
-{: #hosting-php}
+{: #hosting-php }
 - <http://ho.ua>
 - <http://beget.ru>
 
 ## SaaS для python
+{: #python }
+
 Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
 - heroku
 - [Netlify](https://www.netlify.com/)
@@ -119,12 +127,14 @@ redirect_from:
 ## Blacklist
 Тут про плохие сервисы, которые на первый взгляд кажутся надежными. Сюда не входят явно варезные depisitfiles, letibit и тому подобная срань, их я даже не рассматриваю
 
-## Смотри также:
-- на сайте есть статья про хостинг для сайта
-- и про хостинг для картинок
 
+## Selfhosted-файлохранилище  
+{: #filehost-cms }
 
-## Selfhosted-файлохранилище
 - owncloud
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка в gdrive и другие сервисы через командную строку
 - [список](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
+
+## Смотри также:
+- на сайте есть статья про хостинг для сайта
+- и про хостинг для картинок
