@@ -125,7 +125,6 @@ redirect_from: '[../coding/hosting-cms]'
 - <https://www.sharedrop.io/>
 
 ## не хостинг ваше 
-* Vk <https://vkdisk.ru/about/>
 - 4pda.to - даёт практически прямые ссылки, но только для авторизованных пользователей
 - 4qr.xyz - хранить данные в ссылке
 - YouTube video file storage.
