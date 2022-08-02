@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T08:36:37+03:00
+modified: 2022-08-02T08:48:19+03:00
 tags: web
 comments: false
 redirect_from: [../coding/hosting-cms]
@@ -67,7 +67,7 @@ redirect_from:
 {: #selfhost }
 
 Можно у себя на компе запустить сайт, а в интернет отдавать его сервис-прокладку. Если есть белый ip-адрес, ко такие сервисы не нужны
-- <https://ngrok.com/>
+- <https://ngrok.com/> - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
 - hostyourself.cc
 - <http://nginx.org/ru/docs/beginners_guide.html>
 - <http://localtunnel.me/>?
@@ -104,20 +104,21 @@ redirect_from:
 
 Расширить жирный файл - это современная проблема и она требует современных решений
 
-## Железячные способы
+## Расшарить по локалке
 * <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
 * qBitTorrent + Flud. Нужно саздать .torrent файл на компе
 * Поднять samba-сервер на ПК с Windows 
-* total commander wifi share плагин для телефона
+* totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
 * <https://hostyoself.com>
 
-## Проверенно рабочие сервисы
+## Файлообменники
 * <http://FEX.NET>
 * <https://www.sharedrop.io>
 * <https://toffeeshare.com>
 * <https://takeafile.com/>
 * Vk <https://vkdisk.ru/about/>
-*
+* 4pda.to - даёт практически прямые ссылки, но только для авторизованных пользователей
+* androidfilehost - хостинг для прошивок
 
 ## p2p
 - Sync by Resillio
