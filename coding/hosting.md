@@ -139,3 +139,4 @@ redirect_from: '[../coding/hosting-cms]'
 - [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка файлов в gdrive и другие сервисы через командную строку. [Демо](https://transfer.sh/). Тест 20220802: [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer. Вроде неплохой
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
+- synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
