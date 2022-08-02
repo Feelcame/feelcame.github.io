@@ -122,7 +122,7 @@ redirect_from: '[../coding/hosting-cms]'
 
 - Sync by Resillio - от создателей BitTorrent
 - WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>
-
+- <https://www.sharedrop.io/>
 
 ## не хостинг ваше 
 * Vk <https://vkdisk.ru/about/>
