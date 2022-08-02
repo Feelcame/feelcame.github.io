@@ -19,9 +19,9 @@ redirect_from: '[../coding/hosting-cms]'
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - Netlify. Хостинг для headless cms с личным CDN и жирным API
 - GitLab. Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
-* Vercel
-* neocites. Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
-* jsDelivr. CDN для раздачи javascript. умеет шарить файлы из github
+- Vercel
+- neocites. Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
+- jsDelivr. CDN для раздачи javascript. умеет шарить файлы из github
 - любой хостинг для [php](#php)
 
 
@@ -49,7 +49,8 @@ redirect_from: '[../coding/hosting-cms]'
 - https://catbox.moe/ - 200мб, прямая ссылка, ограничение скорости
 - [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Поддерживается программой transfer.sh
 
-## мейнстрим файлохранилище  
+
+## Мейнстрим файлохранилище  
 {: #mainstreem }
 - <http://FEX.NET> легкий, быстрый, дешёвый. От создателей ex.ua
 - Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
@@ -57,7 +58,6 @@ redirect_from: '[../coding/hosting-cms]'
 - yandex disk. Ррсиянский аналог
 - mega.nz криптуется, тяжёлые веб страницы, 50гб бесплатно
 - ionos.de aka 1und1, 5гб бесплатно, но нужно поморочиться
-
 
 
 ## Захостить сайт у себя на компе
@@ -101,16 +101,18 @@ redirect_from: '[../coding/hosting-cms]'
 
 
 ## Расшарить по локалке
-* <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
-* qBitTorrent + Flud. Нужно саздать .torrent файл на компе
-* Поднять samba-сервер на ПК с Windows 
+- <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
+- qBitTorrent + Flud. Нужно саздать .torrent файл на компе
+- Поднять samba-сервер на ПК с Windows 
 - totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
 
+
 ## Файлообменники drag-n-drop
-* <http://FEX.NET>
-* <https://www.sharedrop.io>
-* <https://toffeeshare.com>
-* <https://takeafile.com/>
+- <http://FEX.NET>
+- <https://www.sharedrop.io>
+- <https://toffeeshare.com>
+- <https://takeafile.com/>
+- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
 
 
 
