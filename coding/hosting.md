@@ -1,11 +1,10 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2021-08-25T11:37:03+03:00
+modified: 2022-08-02T08:06:26+03:00
 tags: web
 comments: false
-redirect_from: 
-  - ../coding/hosting-cms
+redirect_from: [../coding/hosting-cms]
 ---
 
 {% comment %}
@@ -48,7 +47,7 @@ redirect_from:
 - tlgur бот
 - zippyshare (юзает лакипатчер)
 - <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer
-- ...
+- https://catbox.moe/
 
 
 
