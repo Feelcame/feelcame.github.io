@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-02T11:29:36+03:00
+modified: 2022-08-04T08:29:32+03:00
 tags: web
 comments: false
 redirect_from: '[../coding/hosting-cms]'
@@ -24,6 +24,12 @@ redirect_from: '[../coding/hosting-cms]'
 - Vercel - what?
 - любой хостинг для [php](#php)
 
+
+## Для php  
+{: #php }
+- <http://ho.ua>
+- <http://beget.ru>
+- 
 
 ## Для картинок
 {: #images }
@@ -80,10 +86,6 @@ redirect_from: '[../coding/hosting-cms]'
 - windscribe позволяет пробросить порты через себя
 
  
-## Для php  
-{: #php }
-- <http://ho.ua>
-- <http://beget.ru>
 
 ## SaaS для python
 {: #python }
