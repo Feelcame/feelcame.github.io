@@ -25,11 +25,27 @@ redirect_from: '[../coding/hosting-cms]'
 - любой хостинг для [php](#php)
 
 
-## Для php  
+## Для web-приложений  
 {: #php }
+
+**PHP**
 - <http://ho.ua>
 - <http://beget.ru>
 - 
+
+**SaaS для python**
+{: #python }
+
+Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
+- [heroku](https://www.heroku.com/)
+- [Netlify](https://www.netlify.com/)
+
+**для vps**
+- ho.ua дешевые сервера в украине
+- aws. самая большая доля рынка виртуальных серверов
+- veesp. юзает zaborona.help
+
+
 
 ## Для картинок
 {: #images }
@@ -45,10 +61,14 @@ redirect_from: '[../coding/hosting-cms]'
 - подойдёт тебе любой [сервис для статики] (#static)
 
 
-
-## Для файлов с прямыми ссылками. 
+## Файлообменники drag-n-drop  
 {: #files }
-
+- <http://FEX.NET> 
+- <https://toffeeshare.com> ?
+- <https://takeafile.com/> ?
+- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
+- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
+- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
 - [Github](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
 - [tlgur](http://t.metlgurbot) бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
 - [zippyshare](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Тест от 20220802: [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html)
@@ -59,7 +79,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
 
 
-## Облачные файл-менеджеры
+## Облачные файл-менеджеры  
 {: #cloudstorege }
 - [Fex.net](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
 - Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
@@ -85,48 +105,20 @@ redirect_from: '[../coding/hosting-cms]'
   - <https://tunnelto.dev/>
 - windscribe позволяет пробросить порты через себя
 
- 
-
-## SaaS для python
-{: #python }
-
-Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
-- [heroku](https://www.heroku.com/)
-- [Netlify](https://www.netlify.com/)
-
-## для vps
-- ho.ua дешевые сервера в украине
-- aws. самая большая доля рынка виртуальных серверов
-- veesp. юзает zaborona.help
-
-
-
-
-## Расшарить по локалке
-- <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
-- qBitTorrent + Flud. Нужно саздать .torrent файл на компе
-- Поднять samba-сервер на ПК с Windows 
-- totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
-- скорее всего будут работать [p2p обменники](#p2p)
-
-## Файлообменники drag-n-drop
-- <http://FEX.NET> 
-- <https://toffeeshare.com> ?
-- <https://takeafile.com/> ?
-- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
-- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
-- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
 
 
 
 ## Обмен файлами P2P (без серверов)  
 {: #p2p }
-
+- <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
+- qBitTorrent + Flud. Нужно саздать .torrent файл на компе
+- Поднять samba-сервер на ПК с Windows 
+- totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
 - Sync by Resillio - от создателей BitTorrent
 - WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>
 - <https://www.sharedrop.io/>
 
-## не хостинг ваше 
+## Файлоспецифичные хостинги
 - 4pda.to - даёт практически прямые ссылки, но только для авторизованных пользователей
 - 4qr.xyz - хранить данные в ссылке
 - YouTube video file storage.
