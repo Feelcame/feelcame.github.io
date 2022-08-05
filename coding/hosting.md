@@ -7,10 +7,11 @@ comments: false
 redirect_from: '[../coding/hosting-cms]'
 ---
 
+Мне нравится идея статичных сайтов, но не нравится что их тяжело разместить в  интернете. Здесь приведены списки сервисов и програм, которые помогают публиковать наше творчество
+
 - Содержание
 {:toc}
 
-Мне нравится идея статичных сайтов, но не нравится что их тяжело разместить в  интернете. Здесь приведены списки сервисов и програм которые помогают публиковать наше творчество
 
 ## Хостинг статичных сайтов  
 {: #static }  
@@ -23,6 +24,19 @@ redirect_from: '[../coding/hosting-cms]'
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - Vercel - what?
 - любой хостинг для [php](#php)
+
+## Для картинок
+{: #images }
+
+- <http://vfl.ru/> - хостинг картинок
+- fastpic
+- [telegra.ph](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
+- [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
+[Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
+- [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
+- Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
+- Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
+- подойдёт тебе любой [сервис для статики] (#static)
 
 
 ## Для web-приложений  
@@ -46,50 +60,18 @@ redirect_from: '[../coding/hosting-cms]'
 - veesp. юзает zaborona.help
 
 
+## Серверный софт для раздачи файлов
+{: #server-soft }
 
-## Для картинок
-{: #images }
-
-- <http://vfl.ru/> - хостинг картинок
-- fastpic
-- [telegra.ph](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
-- [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
-[Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
-- [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
-- Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
-- Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
-- подойдёт тебе любой [сервис для статики] (#static)
+- [Nginx](http://nginx.org/ru/docs/beginners_guide.html) - самый навороченный веб-сервер
+- owncloud
+- [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка файлов в gdrive и другие сервисы через командную строку. [Демо](https://transfer.sh/). Тест 20220802: [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
+- <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer. Вроде неплохой
+- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
+- synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
 
 
-## Файлообменники drag-n-drop  
-{: #files }
-- <http://FEX.NET> 
-- <https://toffeeshare.com> ?
-- <https://takeafile.com/> ?
-- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
-- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
-- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
-- [Github](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
-- [tlgur](http://t.metlgurbot) бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
-- [zippyshare](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Тест от 20220802: [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html)
-- [catbox.moe](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
-- [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора pomf.se
-- [pomf.se](https://www.pomf.se/) - прямые ссылки. сейчас закрыт, но остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
-- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. Тест 20220802: [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4)
-- [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
-
-
-## Облачные файл-менеджеры  
-{: #cloudstorege }
-- [Fex.net](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
-- Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
-- onedrive. Удобная интеграция в Microsoft Windows
-- yandex disk. Ррсиянский аналог
-- mega.nz криптуется, тяжёлые веб страницы, 50гб бесплатно
-- ionos.de aka 1und1, 5гб бесплатно, но нужно поморочиться
-
-
-## Сервисы шлюз за NAT
+## Селфхост. Сервисы шлюз за NAT
 {: #selfhost }
 
 Можно у себя на компе запустить сайт, а в интернет отдавать его через сервис-прокладку. Если есть белый ip-адрес, то такие сервисы не нужны
@@ -104,35 +86,56 @@ redirect_from: '[../coding/hosting-cms]'
   - <http://serveo.net/> 
   - <https://tunnelto.dev/>
 - windscribe позволяет пробросить порты через себя
+- если выход в мир нужен для удаленного управления - то лучше использовать [впн](./vpn.md)
+
+## Облачные файл-менеджеры  
+{: #cloudstorege }
+- [Fex.net](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
+- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. Тест 20220802: [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4)
+- [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
+- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
+- [Github](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
+
+**мейнстрим**
+- Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
+- onedrive. Удобная интеграция в Microsoft Windows. проверка на вирусы
+- yandex disk. Русиянский аналог гдрайв
+- mega.nz криптуется, тяжёлые веб страницы, 50гб бесплатно
+- ionos.de aka 1und1, 5гб бесплатно, но нужно поморочиться
+
+
+## Файлообменники "drag-n-drop"  
+{: #files }
+- <http://FEX.NET> 
+- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
+- [tlgur](http://t.metlgurbot) бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
+- [zippyshare](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Тест от 20220802: [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html)
+- [catbox.moe](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
+- [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора pomf.se
+- www.pomf.se/ - прямые ссылки. сейчас закрыт, но остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
+- <https://toffeeshare.com> ?
+- <https://takeafile.com/> ?
+- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
 
 
 
 
-## Обмен файлами P2P (без серверов)  
+
+## Обмен файлами P2P без серверов  
 {: #p2p }
-- <https://www.resilio.com/individuals/> Resilio Sync - файловая система в bittorrent
+- [Sync by Resilio](https://www.resilio.com/individuals/) - от создателей BitTorrent
 - qBitTorrent + Flud. Нужно саздать .torrent файл на компе
 - Поднять samba-сервер на ПК с Windows 
 - totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
-- Sync by Resillio - от создателей BitTorrent
 - WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>
 - <https://www.sharedrop.io/>
 
-## Файлоспецифичные хостинги
+
+## Специфичные хостинги
 - 4pda.to - даёт практически прямые ссылки, но только для авторизованных пользователей
 - 4qr.xyz - хранить данные в ссылке
 - YouTube video file storage.
 - androidfilehost - хостинг для прошивок
-
-## Серверный софт для раздачи файлов
-{: #server-soft }
-
-- [Nginx](http://nginx.org/ru/docs/beginners_guide.html) - самый навороченный веб-сервер
-- owncloud
-- [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка файлов в gdrive и другие сервисы через командную строку. [Демо](https://transfer.sh/). Тест 20220802: [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
-- <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer. Вроде неплохой
-- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
-- synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
 
 
 ## Полезные ссылки
