@@ -45,12 +45,9 @@ redirect_from: '[../coding/hosting-cms]'
 **PHP**
 - <http://ho.ua>
 - <http://beget.ru>
-- 
+
 
 **SaaS для python**
-{: #python }
-
-Все php хостинги работают из коробки: зеригился, залил, пользуйся. На других ЯП сложнее, нужно арендовать сервер vps и запускать там свою программу. SaaS нужны чтобы захостить сайт или приложение и не запариваться с настройкой сервера. SaaS - software as a service, т.е ты платишь не за аренду сервера, а за то что его настроят вместо тебя
 - [heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
 
@@ -64,79 +61,102 @@ redirect_from: '[../coding/hosting-cms]'
 {: #server-soft }
 
 - [Nginx](http://nginx.org/ru/docs/beginners_guide.html) - самый навороченный веб-сервер
-- owncloud
-- [transfer.sh](https://github.com/dutchcoders/transfer.sh/) выгрузка файлов в gdrive и другие сервисы через командную строку. [Демо](https://transfer.sh/). Тест 20220802: [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
-- <http://www.youtransfer.io/> - selfhosted клон сайта wetransfer. Вроде неплохой
+- owncloud, nextcloud
+- [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive и другие сервисы через командную строку. 
+  [Исходники](https://github.com/dutchcoders/transfer.sh/). 
+- [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 - synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
 
 
-## Селфхост. Сервисы шлюз за NAT
+## Селфхост. Проложить тоннель за NAT
 {: #selfhost }
 
 Можно у себя на компе запустить сайт, а в интернет отдавать его через сервис-прокладку. Если есть белый ip-адрес, то такие сервисы не нужны
-- <https://ngrok.com/> - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
-- [hostyourself.cc](http://hostyourself.cc) - ради прикола запущенный сайт. Ты ему папку с html-страницами, а он проксирует все запросы на твой комп. В тестах показал себя нестабильно
-- <http://localtunnel.me/> ?
-- http://localhost.run/> ?
+- [ngrok](https://ngrok.com/) - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
+- [hostyoself](https://hostyoself.com/) - ради прикола запущенный сайт. Ты ему папку с html-страницами, а он проксирует все запросы на твой комп. В тестах показал себя нестабильно. [Сорцы](https://github.com/schollz/hostyoself)
+
+**не проверено**
+- <http://inlets.dev> - платный аналог ngrok. Когда-то был открытым проектом: [гитаб](https://github.com/alexellis/inlets)
 - [Cloudflare Tunnel](https://developers.cloudflare.com/cloudflare-one/tutorials/share-new-site/) ?
-- хз что это: 
-  - <https://localxpose.io/> 
-  - <https://pagekite.net/> 
-  - <http://serveo.net/> 
-  - <https://tunnelto.dev/>
+- <http://localtunnel.me/> ?
+- <http://localhost.run/> ?
+- <https://localxpose.io/> ? 
+- <https://pagekite.net/> ?
+- <http://serveo.net/> ?
+- <https://tunnelto.dev/> ?
 - windscribe позволяет пробросить порты через себя
-- если выход в мир нужен для удаленного управления - то лучше использовать [впн](./vpn.md)
+- [beaker browser](https://beakerbrowser.com/) - p2p браузер. говорят использует новый протокол [hypercore](https://hypercore-protocol.org/). не проверял
+
+Если выход в мир нужен для удаленного управления - то лучше использовать [приватный впн](./vpn.md)
+
+Смотри также: [передача файлов без сервера p2p](#p2p)
 
 ## Облачные файл-менеджеры  
 {: #cloudstorege }
-- [Fex.net](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
-- [Storj](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. Тест 20220802: [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4)
+- [**Fex.net**](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
+- [**Github**](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
+- [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
+  Тест 20220802: 
+  [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4) +
+  [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
-- <https://massive.io/pricing/> - максимальная скорость пердачи, но платно
-- [Github](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
+- [massive.io](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
 
 **мейнстрим**
-- Google drive. Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании. Предпросмотр видео через плеер как в ютубе 
-- onedrive. Удобная интеграция в Microsoft Windows. проверка на вирусы
-- yandex disk. Русиянский аналог гдрайв
-- mega.nz криптуется, тяжёлые веб страницы, 50гб бесплатно
-- ionos.de aka 1und1, 5гб бесплатно, но нужно поморочиться
+- Google drive - Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании (до 15 секунд). Предпросмотр видео через плеер как в ютубе 
+- onedrive - Удобная интеграция в Microsoft Windows. проверка на вирусы
+- yandex disk - Русиянский аналог гдрайв
+- mega.nz - криптуется, тяжёлые веб страницы, 50гб бесплатно
+- ionos.de aka 1und1 - 5гб бесплатно, но нужно поморочиться
 
 
 ## Файлообменники "drag-n-drop"  
 {: #files }
-- <http://FEX.NET> 
-- <https://wetransfer.com/> - 2гб бесплатно, хранится неделю. очень быстрые сервера
-- [tlgur](http://t.metlgurbot) бот. Скидываешь этому телеграм боту файл - он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качается напрямую с серверов телеги, а бот просто проксирует трафик через себя
-- [zippyshare](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Тест от 20220802: [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html)
-- [catbox.moe](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
-- [Uguu.se](https://uguu.se/) - временное хранение файлов (3 дня, 1 гб) от автора pomf.se
-- www.pomf.se/ - прямые ссылки. сейчас закрыт, но остались [клоны](https://status.uguu.se/clones.html). Исходники: [github](https://github.com/nokonoko/Uguu)
-- <https://toffeeshare.com> ?
-- <https://takeafile.com/> ?
-- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
+- [**tlgur**](http://t.metlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. По состоянию на 20220806 сервис не работает
+- [**zippyshare**](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Не открывается через впн
+  Тест от 20220802: 
+  [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html) + 
+  [прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/11/ShareX-14.1.0-setup.exe)
+- [**catbox.moe**](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. 
+  Тест от 20220802: 
+  [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), 
+  [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
+- [www.pomf.se и его клоны](https://status.uguu.se/clones.html) - дает прямые ссылки. Но проект сейчас закрыт, автор дает список клонов . Исходники: [github](https://github.com/nokonoko/Uguu)
+- [**transfer.sh**](https://transfer.sh/) - открытый проект. 
+  Тест 20220802: 
+  [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
+  [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
 
+**Времменное хранение**
+- [FEX.NET](http://fex.net) - от создателей ex.ua. Можно без регистрации делиться файлами (200гб, 7дней)
+- [wetransfer](https://wetransfer.com/) - временное хранение файлов (2гб, 7дней). очень быстрые сервера. встраивается в почтовик
+- [LitterBox](https://litterbox.catbox.moe/) - временное хранение файлов (1гб, 3дня) от автора catbox.moe
+- [Uguu.se](https://uguu.se/) - временное хранение файлов (128мб, 48ч) от автора pomf.se
 
 
 
 
 ## Обмен файлами P2P без серверов  
 {: #p2p }
-- [Sync by Resilio](https://www.resilio.com/individuals/) - от создателей BitTorrent
+- [Sync by Resilio](https://www.resilio.com/individuals/) - от создателей BitTorrent. Синхронизация файлов локально или через инет
 - qBitTorrent + Flud. Нужно саздать .torrent файл на компе
 - Поднять samba-сервер на ПК с Windows 
-- totalcmd wifi transfer plugin - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий
+- [TotalCmd Wifi Transfer Plugin](https://www.ghisler.com/wifitools.htm) - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий. На приемной стороне WebDAV plugin for Total Commander, WinSCP или просто проводник. Только локалка
 - WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>
-- <https://www.sharedrop.io/>
+- [ShareDrop](https://www.sharedrop.io/) - аналог эпловского airDrop, но без вендорлока и на HTML5. Удобный и работает стабильно
 
 
 ## Специфичные хостинги
-- 4pda.to - даёт практически прямые ссылки, но только для авторизованных пользователей
-- 4qr.xyz - хранить данные в ссылке
+- [4pda.to](https://4pda.to/forum/) - даёт практически прямые ссылки, но только для авторизованных пользователей. Сюда можно заливать программы и картинки
+- [4qr.xyz](http://4qr.xyz) - хранить данные в ссылке. Если сделать ссылку с контентом "data:base64", то можно расшарить любой файл
+- [androidfilehost](https://androidfilehost.com/) - хостинг для прошивок. Тест [архив прошивки, 300мб](https://androidfilehost.com/?fid=24269982086998189) (файл загружен в 2015, проверен в 2022)
 - YouTube video file storage.
-- androidfilehost - хостинг для прошивок
 
 
 ## Полезные ссылки
 - <https://www.stackfield.com/blog/8-secure-cloud-storage-services-68>
+- <https://toffeeshare.com> - не проверен
+- <https://takeafile.com/> - не проверен
+- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
+
