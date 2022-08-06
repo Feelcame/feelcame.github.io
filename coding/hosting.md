@@ -121,6 +121,7 @@ redirect_from: '[../coding/hosting-cms]'
 
 ## Файлообменники "drag-n-drop"  
 {: #files }
+
 - [**tlgur**](http://t.metlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. По состоянию на 20220806 сервис не работает
 - [**zippyshare**](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Не открывается через впн
   Тест от 20220802: 
@@ -135,7 +136,13 @@ redirect_from: '[../coding/hosting-cms]'
   Тест 20220802: 
   [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
   [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
-
+- [AnonFiles](https://anonfiles.com/). Бесплатно до 20ГБ. Ограниченная скорость выгрузки. 
+  Тест 20220807: 
+  [фильм, 400мб](https://anonfiles.com/wbD0632cy6), 
+  [гифка, 40кб](https://anonfiles.com/7d657e20y6/136_gif) + 
+  [прямая ссылка](https://cdn-146.anonfiles.com/7d657e20y6/0191efb0-1659825591/136.gif)
+- Друзья AnonFiles. Все до 20ГБ. Тестирую все пачкой 20220807 (картинки): [filechan.org](https://filechan.org/Rd84782by5/1482167_jpg), [letsupload.cc](https://letsupload.cc/q8957f26y8/1466282490_jpg), [share-online.is](https://share-online.is/u2967220y8/4-169_jpg), [megaupload.nz](https://megaupload.nz/Jd977621yb/1481994_jpg) 
+  
 **Времменное хранение**
 - [FEX.NET](http://fex.net) - от создателей ex.ua. Можно без регистрации делиться файлами (200гб, 7дней)
 - [wetransfer](https://wetransfer.com/) - временное хранение файлов (2гб, 7дней). очень быстрые сервера. встраивается в почтовик
