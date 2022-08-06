@@ -17,13 +17,19 @@ redirect_from: '[../coding/hosting-cms]'
 {: #static }  
 
 - [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
-- [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. И еще один [преколдес](https://app.netlify.com/drop)
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 - [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - Vercel - what?
 - любой хостинг для [php](#php)
+- [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
+
+**Конструкторы**
+- [tilda.cc](https://tilda.cc)
+- [telegra.ph](https://telegra.ph/)
+
+Смотри больше конструкторов в [статье про CMS](./cms.md)
 
 ## Для картинок
 {: #images }
@@ -36,7 +42,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 - Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
 - Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
-- подойдёт тебе любой [сервис для статики] (#static)
+- подойдёт также любой [сервис для статики] (#static)
 
 
 ## Для web-приложений  
@@ -47,7 +53,7 @@ redirect_from: '[../coding/hosting-cms]'
 - <http://beget.ru>
 
 
-**SaaS для python**
+**SaaS для python или golang**
 - [heroku](https://www.heroku.com/)
 - [Netlify](https://www.netlify.com/)
 
