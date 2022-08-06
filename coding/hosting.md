@@ -73,6 +73,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 - synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
+- [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), [Исходники](https://github.com/LTD-Beget/sprutio) 
 
 
 ## Селфхост. Проложить тоннель за NAT
