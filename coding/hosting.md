@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-04T08:29:32+03:00
+modified: 2022-08-06T20:27:09+03:00
 tags: web
 comments: false
 redirect_from: '[../coding/hosting-cms]'
@@ -17,18 +17,18 @@ redirect_from: '[../coding/hosting-cms]'
 {: #static }  
 
 - [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
-- [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. И еще один [преколдес](https://app.netlify.com/drop)
+- [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. И еще один преколдес - [хостинг html в один клик](https://app.netlify.com/drop)
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 - [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - Vercel - what?
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
-- Также можно использовать любой хостинг для [php](#php)
+- Также можно использовать любой [хостинг для php](#php)
 
 
 **Конструкторы**
 - [tilda.cc](https://tilda.cc)
-- [telegra.ph](https://telegra.ph/
+- [telegra.ph](https://telegra.ph/)
 - Смотри больше конструкторов в [статье про CMS](./cms.md)
 
 ## Для картинок
@@ -42,7 +42,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 - Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
 - Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
-- подойдёт также любой [сервис для статики] (#static)
+- подойдёт также любой [сервис хостинга статики] (#static)
 
 
 ## Для web-приложений  
@@ -71,9 +71,9 @@ redirect_from: '[../coding/hosting-cms]'
 - [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive и другие сервисы через командную строку. 
   [Исходники](https://github.com/dutchcoders/transfer.sh/). 
 - [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
-- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 - synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
 - [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), [Исходники](https://github.com/LTD-Beget/sprutio) 
+- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 
 
 ## Селфхост. Проложить тоннель за NAT
@@ -165,5 +165,4 @@ redirect_from: '[../coding/hosting-cms]'
 - <https://www.stackfield.com/blog/8-secure-cloud-storage-services-68>
 - <https://toffeeshare.com> - не проверен
 - <https://takeafile.com/> - не проверен
-- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload> 
-
+- <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload>
