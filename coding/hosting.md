@@ -22,14 +22,14 @@ redirect_from: '[../coding/hosting-cms]'
 - [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - Vercel - what?
-- любой хостинг для [php](#php)
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
+- Также можно использовать любой хостинг для [php](#php)
+
 
 **Конструкторы**
 - [tilda.cc](https://tilda.cc)
-- [telegra.ph](https://telegra.ph/)
-
-Смотри больше конструкторов в [статье про CMS](./cms.md)
+- [telegra.ph](https://telegra.ph/
+- Смотри больше конструкторов в [статье про CMS](./cms.md)
 
 ## Для картинок
 {: #images }
