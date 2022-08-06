@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-06T20:27:09+03:00
+modified: 2022-08-06T20:28:13+03:00
 tags: web
 comments: false
 redirect_from: '[../coding/hosting-cms]'
@@ -42,7 +42,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 - Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
 - Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
-- подойдёт также любой [сервис хостинга статики] (#static)
+- подойдёт также любой [сервис хостинга статики](#static)
 
 
 ## Для web-приложений  
