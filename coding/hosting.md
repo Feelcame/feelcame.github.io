@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-06T20:28:13+03:00
+modified: 2022-08-06T21:25:28+03:00
 tags: web
 comments: false
 redirect_from: '[../coding/hosting-cms]'
@@ -17,7 +17,8 @@ redirect_from: '[../coding/hosting-cms]'
 {: #static }  
 
 - [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
-- [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. И еще один преколдес - [хостинг html в один клик](https://app.netlify.com/drop)
+- [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
+- [Netlify Drop](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 - [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
