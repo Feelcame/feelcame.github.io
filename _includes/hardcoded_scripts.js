@@ -1,4 +1,3 @@
-<script>
 // переключатель кнопки навигации
 function showNav() {
 document.getElementById('nav').style.display='block'; 
@@ -22,8 +21,5 @@ for (var i = 0; i < linksCount; i++) {
 	}
 }
 
-</script>
 
-<!-- Добавление ссылки на якорь возле заголовков -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-<script>anchors.add();</script>
+
