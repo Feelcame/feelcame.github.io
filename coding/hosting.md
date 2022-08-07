@@ -1,7 +1,7 @@
 ---
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
-modified: 2022-08-07T13:45:52+03:00
+modified: 2022-08-07T14:03:33+03:00
 tags: web
 comments: false
 redirect_from: '[../coding/hosting-cms]'
@@ -162,11 +162,11 @@ redirect_from: '[../coding/hosting-cms]'
 ## Обмен файлами P2P без серверов  
 {: #p2p }
 - [Sync by Resilio](https://www.resilio.com/individuals/) - от создателей BitTorrent. Синхронизация файлов локально или через инет
-- qBitTorrent + Flud. Нужно саздать .torrent файл на компе
+- qBitTorrent + Flud. Нужно создать .torrent файл на компе
 - Поднять samba-сервер на ПК с Windows. Расширить в инет через VPN, ну или ngrok. Смотри выше 
 - [TotalCmd Wifi Transfer Plugin](https://www.ghisler.com/wifitools.htm) - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий. На приемной стороне WebDAV plugin for Total Commander, WinSCP или просто проводник. Только локалка
 - [ShareDrop](https://www.sharedrop.io/) - аналог эпловского airDrop, но без вендорлока. Работает на WebRTC и HTML5. Удобный и работает стабильно. Скорость с телефона на телефон 1.6Мб. Сигналинг сервер - Firebase. [Исходники](https://github.com/szimek/sharedrop)
-- WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>, Исходники библиотеки: [гитхаб](#)
+- WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>, Исходники библиотеки: [гитхаб](https://github.com/subins2000/p2pt)
 
 
 ## Специфичные хостинги
