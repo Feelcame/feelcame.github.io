@@ -72,13 +72,14 @@ redirect_from: '[../coding/hosting-cms]'
 - [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive и другие сервисы через командную строку. 
   [Исходники](https://github.com/dutchcoders/transfer.sh/). 
 - [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
-- synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
 - [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), [Исходники](https://github.com/LTD-Beget/sprutio) 
+- [h5ai](https://larsjung.de/h5ai/) - отображает структуру каталогов сайта на php как файловый менеджер с деревом и предпросмотром. [Демо](https://larsjung.de/h5ai/demo/empty%20folder/), [Исходники](https://github.com/lrsjng/h5ai) 
 
 **не проверено**
 - https://www.seafile.com/ 
-- FreeNAS
-- https://www.sparkleshare.org/ https://www.sparkleshare.org/ https://github.com/hbons/Dazzle File sync.Version history. Self hosted. Client side encryption. Free and Open Source
+- FreeNAS - операционнка для создания локального хранилища данных
+- synology - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
+- https://www.sparkleshare.org/ https://github.com/hbons/Dazzle File sync.Version history. Self hosted. Client side encryption. Free and Open Source
 - https://www.filecloud.com/developer/
 - https://www.openstack.org/software/
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
