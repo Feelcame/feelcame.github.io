@@ -22,6 +22,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 - [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
+- <https://codeberg.page/> - тут можно хранить документацию для git-проектов
 - Vercel - what?
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - Также можно использовать любой [хостинг для php](#php)
