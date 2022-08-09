@@ -4,6 +4,9 @@ date: 2021-06-02T03:16:45+03:00
 modified: 2021-08-24T13:33:23+03:00
 ---
 
+- Оглавление
+{:toc}
+
 ## Программы и утилиты
 - 0x192/universal-android-debloater. норм. 
   [github](https://github.com/0x192/universal-android-debloater/releases)
@@ -17,7 +20,7 @@ modified: 2021-08-24T13:33:23+03:00
 - ApkShellext2. Показ иконок apk
 - adb
 
-**скачать_APK**
+## скачать APK
 
 * [Raccoon](https://4pda.ru/forum/index.php?showtopic=592899&st=160#entry98072856)
 * aURORA store
@@ -26,7 +29,7 @@ modified: 2021-08-24T13:33:23+03:00
 * t.me/apkdl_bot
 * 4pda
 
-## Прошивка и настройка телефона android
+## Прошивка телефона android (xiaomi)
 
 **Есть два пути** официальный и правильный. 
 
