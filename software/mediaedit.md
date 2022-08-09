@@ -47,5 +47,8 @@ title: Софт для монтажа и редактирования медиа
 - Xodo - xodo.com/app
 - PDF редактор онлайн - offidocs.com
 
+## Прочее
+- Carnac - показывает на экране какие клавиши были нажаты. полезно при записи экрана. <br>
+  [github](https://github.com/Code52/carnac/releases)
 
 
