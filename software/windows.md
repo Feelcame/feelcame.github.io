@@ -249,19 +249,7 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 </details>
 
 
-## TODO
-<details markdown="1">
 
-- Task warior - задачи
-- Calcourse - календарь
-- Fantastico календарь
-- Abooks - контакты, др
-- Metermose - планирование работы
-- Rocket chat - корпоративные чаты
-- Reaper - диктофон
-- Audio hijacking - программа микшерский пульт
-- Neo4j графовая бд
-</details>
 
 ## телеграм  
 {: .no_toc }
