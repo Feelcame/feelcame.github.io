@@ -180,6 +180,7 @@ redirect_from: '[../coding/hosting-cms]'
 - [4qr.xyz](http://4qr.xyz) + [tinyurl.com](http://tinyurl.com) - хранить данные в ссылке. Если сделать ссылку с контентом "data:base64", то можно расшарить любой файл. Тест: [картинка 8кб](https://tinyurl.com/24ejarg4)
 - [androidfilehost](https://androidfilehost.com/) - хостинг для прошивок. Тест [архив прошивки, 300мб](https://androidfilehost.com/?fid=24269982086998189) (файл загружен в 2015, проверен в 2022)
 - YouTube video file storage.
+- Telegram CDN. Фото и видео из публичных каналов хранятся на CDN и доступны всем желающим в интернете. Тест 20220810: [Пост с картинкой](https://t.me/Filmbusta/263), [прямая ссылка на картинку](https://cdn4.telegram-cdn.org/file/leH8Vw30swRp3CjjRB68UMQ1mmIB2VuMTrWsVo_ygB0AbPONCI3zje1vIRy1J4jm_qYvnpGmYfJ1QdDf1oP2MVgCxo3TpIZyqsHiIgIiNMPXvMcQw5hPuC4NdOLyhe_7VfkEZLBxSiuUKb7NcXGed0vDY58u7wQDeclnKo7scfsrDa98i55fiO1ezGFHcrYv313iggaRQBFXTQn0KZI00BdN9RknG2mIVGljxRGpcIUic4UxuDhUds43bn20i5c1mS_h1LpSvSFwYbYuSEYT3-64eHSrAToclCAv8Uy3pj6I6eTLpNPZK3oSfwCfA2Fkq4rbgvCJ8EzAQCEKLGnXSg.jpg)
 
 
 ## Полезные ссылки
