@@ -1,5 +1,5 @@
 ---
-title: Проф. софт
+title: Проф. софт для программиста и єлектронщика
 date: 2021-08-06T14:48:00+03:00
 modified: 2021-08-23T13:58:34+03:00
 ---
@@ -8,66 +8,10 @@ modified: 2021-08-23T13:58:34+03:00
 {:toc}
 
 
-## Мультимедиа
-
-### Видеоредакторы
-- Lightworks
-- Vagas
-- Wondershare Filmora
-
-### Репозитории программ
-- chokolately
-- chokolately-gui
-- winstall
-
-### Рисование чертежей
-- autocad
-- freecad
-- splan
-
-### 3D-моделирование
-- Fusion360 (ранее 123Designer)
-- autocad
-
-
-### Редакторы PDF
-- Adobe Acrobat Pro DC
-- Foxit Phantom PDF
-- LibreOffice Draw и Microsoft Word
-- PDF Architect
-- PDFSam
-- PDF24 Creator
-- Wondershare
-- PDFelement
-- PDF-XChange Editor
-- ILovePDF
-- Sejda PDF
-- Nuance Power PDF
-- Infix
-- Movavi PDF Editor
-- Soda PDF
-- Master PDF Editor
-
-Онлайн-редакторы:
-- PDF24 Tools — https://tools.pdf24.org/ru/edit-pdf
-- Smallpdf — https://smallpdf.com/ru/edit-pdf
-- Hipdf — https://www.hipdf.com/ru/pdf-editor
-- PDFescape — https://www.pdfescape.com/ (только на английском)
-- PDFCandy
-
-Плагины и дополнения для браузера
-- Kami Extension chrome.google.com/webstore/detail/ecnphlgnajanjnkcmbpancdjoidceilk?q
-- Smallpdf chrome.google.com/webstore/detail/ohfgljdgelakfkefopgklcohadegdpjf?hl=ru
-- Xodo - xodo.com/app
-- PDF редактор онлайн - offidocs.com
 
 
 
-
-
-
-## Инструменты програмиста
-### Редакторы кода
+## Редакторы кода
 - [программирование микроконтроллеров](#программирование-микроконтроллеров)
 - **Visual Studio Code** - универсальная среда разработки  
   [оф.сайт](https://code.visualstudio.com/)
@@ -81,11 +25,11 @@ modified: 2021-08-23T13:58:34+03:00
 - Visual basic studio
 </details>
 
-### пакетные менеджеры
+## пакетные менеджеры
 - npm
 - <https://yarnpkg.com/getting-started/recipes>
 
-### Контроль версий
+## Контроль версий
 Программы для работы с GitHub. 
 Как оказалось это большая редкость найти программу, которая умеет в git.
 Ниже привожу список тех, работа которых мне понравилась.
@@ -102,7 +46,7 @@ modified: 2021-08-23T13:58:34+03:00
 * FastHub
 </details>
 
-### веб-сервер
+## веб-сервер
 - если надо просто выложить чтото в интернет - лучше использовать [хостинг](../coding/hosting-cms.md)
 - **OpenServer** - сервер PHP для отладки сайтов  
 - nginx - веб сервер с гибкой настройкой
@@ -110,26 +54,23 @@ modified: 2021-08-23T13:58:34+03:00
 - shadowsocks + heroku - это типа впн, но за бесплатно
 - [Zerotier](https://www.zerotier.com) - vpn в два клика (веб сервис)
 
-### Виртуализация
+## Виртуализация
 - Portainer - is a self-service container service delivery platform. It is the definitive container management GUI for Kubernetes, Docker and Swarm.
 - Proxmox Virtual Environment (Proxmox VE) — система виртуализации с открытым исходным кодом, основанная на Debian GNU/Linux.
 - docker
 
-### Консольные программы Linux
-- emacs - текстовый редактор
-- midnight commander - файл менеджер Linux
 
-### FTP-клиенты, терминал
+## FTP-клиенты, терминал
 - WinSCP - заливка файлов на сервер по ssh
 - Putty - универсальный терминал для всего
 
-### Автоматизация
+## Автоматизация
 - <https://corezoid.com/> - автоматизация всего
 - auto hot key
 - <https://www.gitpod.io/>
 - Github Actions - для реализации CI/CD
 
-### Android
+## Android
 - [прошивка телефона](./android) внезапно в разделе телефонов
 - Android Studio - пишем программы под андроид
 - Dart - яп на котором написан GitJournal
@@ -150,13 +91,13 @@ modified: 2021-08-23T13:58:34+03:00
 
 
 ## Сеть
-### Для синхронизации
+Для синхронизации
 * Sync
 * Synching
 * Termius
 * juiceSSH
 
-### Сканеры портов
+**Сканеры портов**
 
 Просканироавав свою сеть можно понять какой IP-адрес у нужного устройства. Актуально например для китайских камер наблюдения
 - nmap
@@ -190,9 +131,8 @@ modified: 2021-08-23T13:58:34+03:00
   
   
   
-## Разработчику электроники
 
-### Разводка печатных плат ###
+## Разводка печатных плат
 - **Eagle CAD** - разводка печатных плат  
   [оф.сайт](#)
 - altium
@@ -201,20 +141,20 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-### Программирование микроконтроллеров ###
+## Программирование микроконтроллеров
 - Arduino IDE
 - Visual Studio Code
 - PlatformIO
 - stm32 cubeIDE
 
-### Электромагнитное моделирование ###
+## Электромагнитное моделирование
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
 - AWR MWO
 - HFSS
 - Ansys
 
-### Просмотр scattering parameters ###
+## Просмотр scattering parameters
 
 Нашел всего несколько на просторах интернета. Делюсь:
 * [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
@@ -225,7 +165,18 @@ modified: 2021-08-23T13:58:34+03:00
 * <https://snpview.com/>
 
 
+## Репозитории программ
+- chokolately
+- chokolately-gui
+- winstall
 
-## Прочее
-- Carnac - показывает на экране какие клавиши были нажаты. полезно при записи экрана. <br>
-  [github](https://github.com/Code52/carnac/releases)
+## Рисование чертежей
+- autocad
+- freecad
+- splan
+
+## 3D-моделирование
+- Fusion360 (ранее 123Designer)
+- autocad
+
+
