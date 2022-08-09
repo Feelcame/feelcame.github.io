@@ -1,5 +1,5 @@
 ---
-title: Проф. софт для программиста и єлектронщика
+title: Проф. софт для программиста и электронщика
 date: 2021-08-06T14:48:00+03:00
 modified: 2021-08-23T13:58:34+03:00
 ---
@@ -25,14 +25,32 @@ modified: 2021-08-23T13:58:34+03:00
 - Visual basic studio
 </details>
 
-## пакетные менеджеры
+**Кодим прямо на телефоне**
+- **Acode** - очень крутая
+- AIDE
+- TrebEdit
+- a writer
+- HTML Editor
+- AWD
+- Subedi
+
+
+**Программирование микроконтроллеров**
+- Arduino IDE
+- Visual Studio Code
+- PlatformIO
+- stm32 cubeIDE
+
+## пакетные менеджеры и Репозитории программ
 - npm
 - <https://yarnpkg.com/getting-started/recipes>
 
+- chokolately
+- chokolately-gui
+- winstall
+
+
 ## Контроль версий
-Программы для работы с GitHub. 
-Как оказалось это большая редкость найти программу, которая умеет в git.
-Ниже привожу список тех, работа которых мне понравилась.
 - git
 - **Gitea** - серверная часть гита<br>
   [оф.сайт](#)
@@ -40,11 +58,10 @@ modified: 2021-08-23T13:58:34+03:00
   [оф.сайт](#)
 - svn - дед гита
 * Git journal
-<details markdown="1">
+
 * MGit
 * GitReference
 * FastHub
-</details>
 
 ## веб-сервер
 - если надо просто выложить чтото в интернет - лучше использовать [хостинг](../coding/hosting-cms.md)
@@ -76,30 +93,11 @@ modified: 2021-08-23T13:58:34+03:00
 - Dart - яп на котором написан GitJournal
 - Flatter - еще один яп, претендует на кроссплатформенность
 
-## Кодим прямо на телефоне
-- **Acode** - очень крутая
-
-- AIDE
-- TrebEdit
-- a writer
-- HTML Editor
-- AWD
-- Subedi
-<details markdown="1">
-вот и все
-</details>
 
 
-## Сеть
-Для синхронизации
-* Sync
-* Synching
-* Termius
-* juiceSSH
 
-**Сканеры портов**
+## Сканеры сети
 
-Просканироавав свою сеть можно понять какой IP-адрес у нужного устройства. Актуально например для китайских камер наблюдения
 - nmap
 - Angry IP Scanner
 - killdoft
@@ -141,11 +139,7 @@ modified: 2021-08-23T13:58:34+03:00
 - diptrace
 - sprint layout
 
-## Программирование микроконтроллеров
-- Arduino IDE
-- Visual Studio Code
-- PlatformIO
-- stm32 cubeIDE
+
 
 ## Электромагнитное моделирование
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
@@ -165,18 +159,22 @@ modified: 2021-08-23T13:58:34+03:00
 * <https://snpview.com/>
 
 
-## Репозитории программ
-- chokolately
-- chokolately-gui
-- winstall
-
-## Рисование чертежей
+## Рисование чертежей и 3D
 - autocad
 - freecad
 - splan
 
-## 3D-моделирование
+**3D-моделирование**
 - Fusion360 (ранее 123Designer)
 - autocad
 
-
+## Дополнительно
+- Task warior - задачи
+- Calcourse - календарь
+- Fantastico календарь
+- Abooks - контакты, др
+- Metermose - планирование работы
+- Rocket chat - корпоративные чаты
+- Reaper - диктофон
+- Audio hijacking - программа микшерский пульт
+- Neo4j графовая бд
