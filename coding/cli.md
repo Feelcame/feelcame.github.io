@@ -67,6 +67,11 @@ cmd /k powercfg /requests
 - pwd
 
 
+## Консольные программы Linux
+- emacs - текстовый редактор
+- midnight commander - файл менеджер Linux
+
+
 ### Полезные ссылки 2
 - [Bash для начинающих: 21 полезная команда](https://habr.com/ru/company/ruvds/blog/445270/)
 - [КАК СОЗДАТЬ ФАЙЛ В ТЕРМИНАЛЕ](https://losst.ru/kak-sozdat-fajl-v-terminale)
