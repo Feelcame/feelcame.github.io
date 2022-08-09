@@ -35,7 +35,7 @@ pin: 2
 - RAR
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Музыка
 - AIMP. 
@@ -65,7 +65,7 @@ pin: 2
   v0(5.1+), v1(6.0+)
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Медиа
 - QuickPic. Галерея. 
@@ -109,7 +109,7 @@ pin: 2
 - HD VideoBox (закрыли)
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Интернет 
 - Telegram. 
@@ -141,7 +141,7 @@ pin: 2
 - Flud – торрент клиент
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 
 ## Офис
@@ -178,7 +178,7 @@ pin: 2
 - Секундомер. play, 4pda
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 
 ## Система
@@ -219,7 +219,7 @@ pin: 2
 - Google Play Blocker. 4pda
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 
 ## Сеть
@@ -253,7 +253,7 @@ pin: 2
 - TTL Master. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Прочее
 - Easy Open Link.
@@ -271,7 +271,7 @@ pin: 2
 - Copy
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Карты
 <details markdown="1">
@@ -286,10 +286,10 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 </details>
 
-[Наверх↑](#)
+[Наверх↑](#top)
 
 ## Полезные ссылки
 - Программы для компа. [ссылка](./android-firmware.md#программы-и-утилиты)
 - Телеграм-канал: <https://t.me/feelsoftan>
 
-[Наверх↑](#)
+[Наверх↑](#top)
