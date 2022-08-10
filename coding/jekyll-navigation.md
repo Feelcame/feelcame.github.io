@@ -24,7 +24,9 @@ pin: 5
 
 Передача параметров: 
 ```
-{% raw %}{% include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}{% endraw %}
+{%- raw -%}
+{% include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}
+{%- endraw -%}
 ```
 
 
