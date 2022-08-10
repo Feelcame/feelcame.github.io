@@ -25,7 +25,7 @@ pin: 0
 
 ## Не опубликованное
 
-{% include ls.md tag="temp" %}
+{% include ls.md tag="empty" %}
 
 
 ## Все вместе
