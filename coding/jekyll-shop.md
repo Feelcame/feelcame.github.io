@@ -1,7 +1,7 @@
 ---
 title: Jekyll-Shop. Магазин на статике
 date: 2021-10-03T11:58:59+02:00
-tags: project coding web
+tags: project web coding
 redirect_to: ../projects/jekyll-shop.html
 ---
 
