@@ -10,12 +10,11 @@ pin: 5
 В любом месте страницы можно написать одну строчку и она выведет список всех страниц подходящих по параметрам.
 
 Синтаксис:
+{% raw %}
 ```
-{%- raw -%}
 {% include ls.md dir="/projects/" tag="hardware" pinned="only" date="no" %}
-{%- endraw -%}
 ```
-
+{% endraw %}
 Исходники моего велосипеда тут: [**ссылка**]({{ site.github.repository_url }}/blob/master/_includes/ls.md).  
 Репозиторий гитхаб: [**ссылка**](https://github.com/Feelcame/jekyll-directory-listing)  
 Примеры и тесты: [ссылка](../demo/directory-listing/)  
