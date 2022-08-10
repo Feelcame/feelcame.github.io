@@ -20,9 +20,12 @@
 -%}  
 
 {%- comment -%}ТЕГИ{%- endcomment -%}  
-{%- if rec_tag %}  
+{%- if rec_tag and rec_tag != "empty" %}  
 {%- assign all_pages = all_pages | where_exp: "item", "item.tags contains rec_tag" -%}  
 {%- endif %}  
+{%- if rec_tag == "empty" %}  
+{%- assign all_pages = all_pages | where_exp: "item", "item.tags == nil" -%}  
+{%- endif %}   
 
 {%- comment -%}ЗАКРЕП{%- endcomment -%}  
 {%- 
