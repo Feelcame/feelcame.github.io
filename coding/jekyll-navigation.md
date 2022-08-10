@@ -6,6 +6,11 @@ tags: project coding
 comments: false
 pin: 5
 ---
+test
+
+{% include ls.md tag="empty" %}
+
+test
 
 **ls.md** - этот скрипт для Jekyll выводит навигацию - список страниц в папке. Поддерживается кастомизация поведения через передачу параметров. 
 
@@ -22,7 +27,7 @@ pin: 5
 
 Передача параметров: 
 ```
-{% raw %}{% include ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles"%}{% endraw %}
+{% raw %}{% include ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles" %}{% endraw %}
 ```
 
 
