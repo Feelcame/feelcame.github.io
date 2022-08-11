@@ -47,11 +47,12 @@ pin: 3
 - **Paint.Net** - Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/),
   [ссылка](#)  
-- **Audacity** - Запись звука<br>
+- **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
   [ссылка](#)
-- **HandBrake** - Конвернтер видео<br>
+- **HandBrake** - Конвернтер видео. Тормозной<br>
   [оф.сайт](https://handbrake.fr/downloads.php)
+- **Avidemux**
 </details>
 [наверх](#top)
 
@@ -71,7 +72,9 @@ pin: 3
 - **qBitTorrent** - скачивание файлов<br>
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64), 
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
-- **NetTraffic** v1.66 - плавающий график скорости интернета, статистика
+- **NetTraffic** - плавающий график скорости интернета, статистика<br>
+  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
+  v1.66.2
 <details markdown="1">
 
 - **OpenVPN** - Соединение компьютеролв в локальную сеть через интернет<br>
