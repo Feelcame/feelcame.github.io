@@ -1,11 +1,15 @@
 ---
-title: Софт для монтажа и редактирования медиа 
+title: Софт для монтажа. Редактиры медиа 
 ---
+
+- ToC
+{:toc}
 
 ### Видеомонтаж
 - Lightworks
 - Vagas
 - Wondershare Filmora
+- Adobe Premiere Pro
 
 ## Редакторы Аудио
 - Audacity
