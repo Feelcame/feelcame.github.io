@@ -21,8 +21,6 @@ pin: 3
 {:toc}
 </details>
 
-[Наверх↑](#top)
-
 ## Медиа 
 - **PotPlayer** - Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/), 
