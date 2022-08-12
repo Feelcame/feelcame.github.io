@@ -9,7 +9,7 @@ pin: 3
 
 
 <div style="font-size: 13px;">
-В статье ссылки на официальный сайт. Скачать там же или на веб-диске: 
+В статье ссылки на официальный сайт. Скачать там же или на веб-диске:  
 [**Google Drive**](https://drive.google.com/drive/folders/1-3oo8CS0vbpVwlBdU7mEkPHSKb4veTEf?usp=sharing),
 [**Telegram**](https://t.me/FeelSoftWin/105),
 [**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
