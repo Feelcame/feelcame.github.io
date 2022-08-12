@@ -21,7 +21,7 @@ pin: 3
 {:toc}
 </details>
 
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Медиа 
 - **PotPlayer** - Видеоплеер<br>
@@ -54,7 +54,7 @@ pin: 3
   [оф.сайт](https://handbrake.fr/downloads.php)
 - **Avidemux**
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Интернет
 - **Google Chrome** - слей свои данные<br>
@@ -80,7 +80,7 @@ pin: 3
 - **OpenVPN** - Соединение компьютеролв в локальную сеть через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
@@ -108,7 +108,7 @@ pin: 3
 - **Video Downloader Plus** - скачивает видео из фейсбука<br>
   [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf)
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Офис
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
@@ -132,7 +132,7 @@ pin: 3
 - Obsidian
 - Notion
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Файлы
 - **7-zip** - архиватор с открытым исходным кодом<br>
@@ -157,7 +157,7 @@ pin: 3
 - WinDirStat<br>
   [оф.сайт](https://windirstat.net/download.html)
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Система
 - **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
@@ -178,7 +178,7 @@ pin: 3
 - **Process Monitor** - Мониторит изменения реестра в реальном времени<br>
   [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Безопасность 
 - **VirusTotal Uploader** - Проверка на вирустотал прямо из контекстного меню<br>
@@ -194,7 +194,7 @@ pin: 3
 - **Cureit** - Бесплатный одноразовой антивирус<br>
   [biblprog](http://biblprog.org.ua/ru/dr_web_cureit), 
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Драйвера
 - **Snappy Driver Installer** - Драйверпак без рекламы<br>
@@ -214,7 +214,7 @@ pin: 3
 - **Набор обновлений Windows 7** - Лучше ставить винду с уже интегрированными обновами<br>
   [simplix](https://blog.simplix.info/updatepack7r2/)
 </details>
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Диски
 - **Windows** - операционная система<br>
@@ -262,7 +262,7 @@ pin: 3
 
 
 
-[наверх](#top)
+[Наверх↑](#top)
 
 ## Полезные ссылки  
 {: .no_toc }
