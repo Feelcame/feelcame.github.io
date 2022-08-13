@@ -268,7 +268,9 @@ pin: 2
 - **Виджет громкости**. play, 4pda
 - **Mi Band Master**. play, 4pda
 - **Universal copy**
-- **Copy**
+- **Copy** <br>
+  [store](https://play.google.com/store/apps/details?id=com.weberdo.apps)
+  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps)
 </details>
 
 [Наверх↑](#top)
