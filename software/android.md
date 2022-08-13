@@ -236,7 +236,7 @@ pin: 2
 <details markdown="1">
 
 - **OpenVPN**. play, 4pda
-- **Unified Remote**. play, 4pda
+- **Unified Remote** - удобное управление компом. play, 4pda
 - **Remote Ripple VNC**. play, 4pda
 - **Network scanner**. play
 - **Network Utilities** (4.1+). [4pda](https://4pda.to/forum/index.php?showtopic=608346)
@@ -246,7 +246,7 @@ pin: 2
 - **primitive ftpd**. play,
   [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - **IP Webcam**. play
-- **4G LTE Switcher**.<br>
+- **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
   [play](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
   [v1(tlgur)](https://tlgur.com/d/GbZ0rVdG),
@@ -256,11 +256,14 @@ pin: 2
 [Наверх↑](#top)
 
 ## Прочее
-- **Easy Open Link**.<br>
+- **Easy Open Link** - открыть ссылку в нативном приложении<br>
   [play](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
   [4pda](https://4pda.to/forum/index.php?showtopic=716031),
   [fdroid](https://f-droid.org/packages/de.audioattack.openlink/),
   [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
+- **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
+  [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
+  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps)
 - **Сканер штрих-кодов**. play, 4pda
 - **Shake me** - игра про пьяненького бетмена. play, 4pda
 <details markdown="1">
@@ -268,9 +271,6 @@ pin: 2
 - **Виджет громкости**. play, 4pda
 - **Mi Band Master**. play, 4pda
 - **Universal copy**
-- **Copy** <br>
-  [store](https://play.google.com/store/apps/details?id=com.weberdo.apps)
-  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps)
 </details>
 
 [Наверх↑](#top)
