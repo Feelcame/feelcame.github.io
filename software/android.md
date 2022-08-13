@@ -12,55 +12,55 @@ pin: 2
 ## Файлы
 <div class="highlight22" markdown="1">
 
-- **Total Commander**.  <br>
-  [play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander),
+- **Total Commander** - мощный файл-менеджер<br>
+  [store](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander),
   [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
   [оф.сайт](https://www.ghisler.com/android.htm#download), 
   [прямая ссылка](https://www.ghisler.com/tcandroid3.apk), 
   [v3.23](https://tlgur.com/d/GW1rxPb4)
-- **TotalCmd-WiFi-обмен**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
+- **TotalCmd-WiFi-обмен** -удобный и быстрый способ передать файлы по WiFi<br>
+  [store](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
   [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
   [другие плагины..](https://www.ghisler.com/androidplugins/download/)
 </div>
 
 <details markdown="1">
 
-- **TotalCmd USB stick plugin by OperaFan**.<br>
+- **TotalCmd USB stick plugin by OperaFan** - открывает флешки подключенные через OTG на китайских телефонах с обрезанной прошивкой.<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [v1.3.6](https://tlgur.com/d/GVqJmM68), 
   [телега](https://t.me/FeelSoftAn/164)
-- ES Проводник 3.2.5
-- Sync
-- RAR
+- ES Проводник 3.2.5 - устарел. используй тотал
+- Sync - синхронизация файлов p2p
+- RAR - крутой архиватор
 </details>
 
 [Наверх↑](#top)
 
 ## Музыка
-- **AIMP**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.aimp.player),
+- **AIMP** - плеер, работает с плейлистами <br>
+  [store](https://play.google.com/store/apps/details?id=com.aimp.player),
   [4pda](https://4pda.to/forum/index.php?showtopic=442204),
   [оф.сайт](http://www.aimp.ru/?do=download&os=android),
   [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
   [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
   [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
-- **Spotify**.<br>
-  [play](https://play.google.com/store/apps/details?id=com.spotify.music), 
+- **Spotify** - сервис онлайн-стриминга музыки. бесплатно можно слушать только если есть интернет. скачать в mp3 можно исключительно через сторонние сервисы<br>
+  [store](https://play.google.com/store/apps/details?id=com.spotify.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=248440),
   [web](https://open.spotify.com/), 
   [+боты](./telegram-bots.html#музыка)
 <details markdown="1">
 
-- **YouTube Music (vanced)**.<br>
-  [play](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
+- **YouTube Music (vanced)** <br>
+  [store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
   [4pda](https://4pda.to/forum/index.php?showtopic=1005964),
   [web](https://music.youtube.com/)
 - **Яндекс музыка (мод)**. [telegram](https://t.me/alexstranniklite/14131)
 - **Deezer**. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
 - **Murglar**. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 - **PlayerPro**. [4pda](https://4pda.to/forum/index.php?showtopic=189092)
-- **Shazam**. 
+- **Shazam** - распознает что за песня сейчас играет<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=128657),
   v0(5.1+), v1(6.0+)
 </details>
@@ -68,16 +68,17 @@ pin: 2
 [Наверх↑](#top)
 
 ## Медиа
-- **QuickPic**. Галерея. 
+- **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
+  [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
   [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-- **Simple Gallery Pro**.
-  [4pda](#)
+- **Simple Gallery Pro** - опенсорсная галерея.
+  [4pda](https://4pda.to/forum/index.php?showtopic=785182)
   [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
-- **MX Player**. 
+- **MX Player** - продвинутый видеоплеер<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=253883),
   v19(4.1+), v20(5+), v30(7+)
 - **UPlayer**. Новый плеер все в одном.<br>
-  [play](https://play.google.com/store/apps/details?id=uplayer.video.player), 
+  [store](https://play.google.com/store/apps/details?id=uplayer.video.player), 
   [4pda](https://4pda.to/forum/index.php?showtopic=900750)
 - **NewPipe**. Скачивание с youtube.<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=694195), 
@@ -92,14 +93,14 @@ pin: 2
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG), 
   [шрифты](#), 
 - **Hi-Q MP3 Recorder** – диктофон. <br>
-  [play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full),
+  [store](https://play.google.com/store/apps/details?id=com.hiqrecorder.full),
   [4pda](https://4pda.to/forum/index.php?showtopic=210572),
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
 <details markdown="1">
 
 - **XRecorder** – запись экрана. <br>
-  [play](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
+  [store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
   [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
 - **LazyMedia Deluxe**. [4pda](https://4pda.to/forum/index.php?showtopic=848635)
@@ -112,14 +113,15 @@ pin: 2
 [Наверх↑](#top)
 
 ## Интернет 
-- **Telegram**. <br>
-  [play](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru&gl=US),
+- **Telegram** - удобный мессенджер<br>
+  [store](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru&gl=US),
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [оф.сайт](https://telegram.org/android?setln=ru),
-  [телега](https://t.me/TAndroidAPK), 
-- **Opera** браузер.<br>
-  [play](https://play.google.com/store/apps/details?id=com.opera.browser),
+  [оф.телега](https://t.me/TAndroidAPK), 
+- **Opera** - браузер. есть блокировка рекламы, vpn/экономия трафика<br>
+  [store](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
+  [telegram](https://t.me/s/feelsoftan?q=om.opera.browser), 
   [оф.ftp](https://get.geo.opera.com/pub/opera/android/),
   [оф.сайт](https://download.opera.com),
   v50.6(4.1+), 
@@ -146,32 +148,32 @@ pin: 2
 
 ## Офис
 - **ReadEra**. <br>
-  [play](https://play.google.com/store/apps/details?id=org.readera),
+  [store](https://play.google.com/store/apps/details?id=org.readera),
   v0
 - **Калькулятор++**. <br>
-  [play](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
+  [store](https://play.google.com/store/apps/details?id=org.solovyev.android.calculator)
 - **QKSMS**. обмен сообщениями, opensource. 
   [4pda](https://4pda.to/forum/index.php?showtopic=576815)
 - **Простой календарь**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
+  [store](https://play.google.com/store/apps/details?id=com.simplemobiletools.calendar),
   [4pda](https://4pda.to/forum/index.php?showtopic=931531)
   [v6.18.1(5.0+)](https://tlgur.com/d/GPqWL5Lg) 
 - **Microsoft Office**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
+  [store](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
   [4pda](https://4pda.to/forum/index.php?showtopic=486245)
 <details markdown="1">
 
 - **Acode**. Редактор кода. <br>
-  [play](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree), 4pda
+  [store](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree), 4pda
 - **GitJournal**. Заметки. <br>
-  [play](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal), 4pda,
+  [store](https://play.google.com/store/apps/details?id=io.gitjournal.gitjournal), 4pda,
   [оф.сайт](https://gitjournal.io/)
 - **Aqua Mail**. <br>
-  [play](https://play.google.com/store/apps/details?id=org.kman.AquaMail), 4pda
+  [store](https://play.google.com/store/apps/details?id=org.kman.AquaMail), 4pda
 - **StyleNote** заметки
 - **EBookDroid**. play, 4pda
 - **ElectroDoc**. Справочник электронщика.<br>
-  [play](https://play.google.com/store/apps/details?id=it.android.demi.elettronica),
+  [store](https://play.google.com/store/apps/details?id=it.android.demi.elettronica),
   [4pda](https://4pda.to/forum/index.php?showtopic=221412&st=60),
   [v5.1(tlgur)](https://tlgur.com/d/4NqLExWg)
 - **Переводчик**. play, 4pda
@@ -203,7 +205,7 @@ pin: 2
 <details markdown="1">
 
 - **Darker Pro**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
+  [store](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
   [4pda](https://4pda.to/forum/index.php?showtopic=538357)
 - **Клавиатура Google**. play, 4pda
 - **Microsoft Launcher**. play, 4pda
@@ -224,12 +226,12 @@ pin: 2
 
 ## Сеть
 - **Internet Speed Meter**. <br>
-  [play](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite),
+  [store](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite),
   [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
 - **PingTools**. <br>
-  [play](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools),
+  [store](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools),
   [4pda](https://4pda.to/forum/index.php?showtopic=398433)
 - **AnyDesk**. Удаленное управление.<br>
   [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
@@ -247,7 +249,7 @@ pin: 2
   [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - **IP Webcam**. play
 - **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
-  [play](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
+  [store](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
   [v1(tlgur)](https://tlgur.com/d/GbZ0rVdG),
 - **TTL Master**. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
@@ -256,10 +258,11 @@ pin: 2
 [Наверх↑](#top)
 
 ## Прочее
-- **Easy Open Link** - открыть ссылку в нативном приложении<br>
-  [play](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
+- **Easy Open Link** - открыть ссылку в нативном приложении через меню "поделиться"<br>
+  [store](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
   [4pda](https://4pda.to/forum/index.php?showtopic=716031),
   [fdroid](https://f-droid.org/packages/de.audioattack.openlink/),
+  [исходники](https://codeberg.org/marc.nause/easyopenlink)
   [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
 - **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
   [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
@@ -276,16 +279,17 @@ pin: 2
 [Наверх↑](#top)
 
 ## Карты
+- **Organic Maps** - форк опенсорсных карт maps.me без мишуры
+- **GPS Fields Area Measure**.<br>
+  [store](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
+  [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 <details markdown="1">
 
 - **Gmaps**. play
 - **Яндекс карты**. play, 4pda
 - **2gis**. play
-- **Ontaxi**, play
-- **Blablacar**. play, 4pda, оф.сайт, web
-- **GPS Fields Area Measure**.<br>
-  [play](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
-  [4pda](https://4pda.to/forum/index.php?showtopic=745108)
+- **Ontaxi** - удобное такси (украина), play
+- **Blablacar** - поиск попутчиков. play, 4pda, оф.сайт, web
 </details>
 
 [Наверх↑](#top)
