@@ -11,7 +11,8 @@ comments: 107
 - ToC  
 {:toc}
 
-## Учет рабочего времени
+## Учет рабочего времени  
+{: #timetracker }
 - [**JetBrains YouTrack**](https://www.jetbrains.com/youtrack/download/download-thanks.html?platform=zip) - до 10 пользователей бесплатная. Далее $4/месяц за человека. Вродебы надежный производитель. Своими конкурентами считают Jira and GitHub, Mantis and Redmine, FogBugz, Bugzilla. Потестил - очень ресурсоемкая телега
 - [**Clockify**](https://clockify.me) - лидирует а поисковике по запросу _free time-tracker_
 - [**Traggo**](https://traggo.net/install/)
@@ -73,9 +74,10 @@ comments: 107
 
 
 ## Хранение и обмен файлами
-- gitea
-- sync
-- onedrive
+- gitea - сервер системы контроля версий
+- sync - синхронизация файлов
+- onedrive - веб-облако от майков
+- [другой селфхостел софт](../coding/hosting.md#server-soft)
 
 ## База знаний
 - Obsidian - база знаний с markdown и возможностью совместной рабаоты
