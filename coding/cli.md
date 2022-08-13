@@ -68,9 +68,7 @@ cmd /k powercfg /requests
 
 
 ## Консольные программы Linux
-- emacs - текстовый редактор
-- midnight commander - файл менеджер Linux
-
+[soft](../soft/profi-soft.md#cli)
 
 ### Полезные ссылки 2
 - [Bash для начинающих: 21 полезная команда](https://habr.com/ru/company/ruvds/blog/445270/)
