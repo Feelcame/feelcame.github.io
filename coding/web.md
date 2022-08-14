@@ -113,7 +113,7 @@ JavaScript — язык программирования, широко испо�
 1. <https://www.hypercomments.com/>
 1. <https://gitlab.com/commento/commento>  
 2. <https://donw.io/post/github-comments/>
-
+1. <Staticman>
 
 ## Полезные сниппеты
 **Масштаб по экрану**  
