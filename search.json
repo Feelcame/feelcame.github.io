@@ -5,22 +5,22 @@ layout: none
 	assign all_pages = site.pages 
 	| where_exp: "item", "item.name != 'redirect.html'"
 	| where_exp: "item", "item.name != 'redirects.json'"
-	| where_exp: "item", "item.redirect_to == nil"
+	| where: "redirect_to", nil
 	| sort: "date" 
 	| reverse 
 -%}
 [
 {% for page in all_pages %}
-{% assign parent_dir = page.dir | split: "/" %}
+{%- assign parent_dir = page.dir | split: "/" -%}
 {%- unless parent_dir[1] == "demo" -%}
 {
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
 "name"     : "{{ page.name }}",
-"desc"     : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify | truncate: 55 }},
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
+
 {% endunless %}
 {% endfor %}
 ]
