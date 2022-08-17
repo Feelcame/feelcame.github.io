@@ -3,16 +3,14 @@ layout: none
 ---
 {%- 
 	assign all_pages = site.pages 
-	| where_exp: "item", "item.name != 'redirects.json'"
-	| where_exp: "item", "item.name != 'redirect.html'"
 	| where_exp: "item", "item.redirect_to == nil"
 	| sort: "date" 
 	| reverse 
 -%}
 [
 {% for page in all_pages %}
-{%- assign parent_dir = page.dir | split: "/" -%}
-{%- unless parent_dir[1] == "demo" or parent_dir[1] == "assets" -%}
+{%- assign dir = page.dir | split: "/" -%}
+{%- unless dir[1] == "demo" or dir[1] == "assets" or page.title == nil -%}
 {
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
