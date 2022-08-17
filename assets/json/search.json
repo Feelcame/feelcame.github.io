@@ -4,8 +4,8 @@ layout: none
 [
   {% for page in site.pages %}
    {
-     {% if page.title != nil and page.dir == /demo/search/ %}
-        "title"    : "{{ page.title | escape | jsonify }}",
+     {% if page.title != nil and page.dir == "/demo/search/" %}
+        "title"    : "{{ page.title | escape }}",
         "url"      : "{{ site.baseurl }}{{ page.url }}",
         "date"     : "{{ page.date }}",
         "content"  : "{{ page.content | strip_html | strip_newlines | jsonify }}"
