@@ -1,15 +1,17 @@
 ---
 layout: none
 ---
-{%- assign all_pages = site.pages 
+{%- 
+	assign all_pages = site.pages 
 	| where_exp: "item", "item.name != 'redirect.html'"
+	| where_exp: "item", "item.content != nil"
 	| sort: "date" 
 	| reverse 
 -%}
 [
 {% for page in all_pages %}
-  {%- assign parent_dir = page.dir | split: "/" -%}
-  {%- unless parent_dir[1] == "demo" -%}
+{% assign parent_dir = page.dir | split: "/" %}
+{%- unless parent_dir[1] == "demo" -%}
 {
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
@@ -18,6 +20,5 @@ layout: none
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
 {% endunless %}
-
 {% endfor %}
 ]
