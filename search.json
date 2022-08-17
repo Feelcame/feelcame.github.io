@@ -3,9 +3,9 @@ layout: none
 ---
 {%- 
 	assign all_pages = site.pages 
+	| where_exp: "item", "item.extname != '.json'"
 	| where_exp: "item", "item.name != 'redirect.html'"
-	| where_exp: "item", "item.name != 'redirects.json'"
-	| where: "redirect_to", nil
+	| where: "redirect_to", empty
 	| sort: "date" 
 	| reverse 
 -%}
