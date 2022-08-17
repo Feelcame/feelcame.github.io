@@ -18,7 +18,7 @@ layout: none
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
 "name"     : "{{ page.name }}{{ page.extname }}",
-"desc"     : "{{ page.excerpt  | strip_html | strip_newlines | remove_chars | escape }}",
+"desc"     : "{{ post.content | strip_html | strip_newlines | remove_chars | escape | truncatewords: 20 }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
 
