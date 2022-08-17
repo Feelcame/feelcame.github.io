@@ -10,7 +10,7 @@ layout: none
 [
   {% for page in all_pages %}
     {%- assign parent_dir = page.dir | split: "/" -%}
-    {%- unless parent_dir[1] == "demo" -%}
+    {%- unless parent_dir[0] == "demo" -%}
 {
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
