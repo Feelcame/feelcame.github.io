@@ -9,14 +9,14 @@ layout: none
 -%}
 [
   {% for page in all_pages %}
-    {%- assign parent_dir = page.dir | split: "/" | first -%}
+    {%- assign parent_dir = page.dir | split: "/" -%}
     {%- unless parent_dir == "demo" -%}
 {
-"title"    : "{{ page.title | escape | append: parent_dir }}",
+"title"    : "{{ page.title | escape | append: parent_dir[1] }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
-    {%- endunless -%}
-  {%- endfor -%}
+    {%- endunless %}
+  {% endfor %}
 ]
