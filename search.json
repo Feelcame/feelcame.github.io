@@ -3,7 +3,7 @@ layout: none
 ---
 {%- 
 	assign all_pages = site.pages 
-	| where_exp: "item", "item.extname contains 'json'"
+	| where_exp: "item", "item.extname != 'json'"
 	| where_exp: "item", "item.name != 'redirect.html'"
 	| where_exp: "item", "item.redirect_to == nil"
 	| sort: "date" 
@@ -17,7 +17,7 @@ layout: none
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
-"name"     : "{{ page.name }}",
+"name"     : "{{ page.name }}{{ page.extname }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
 
