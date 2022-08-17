@@ -1,14 +1,12 @@
 ---
 layout: none
 ---
-{%- assign directory = "/demo/search/" -%}  
 {%- assign all_pages = site.pages 
 	| where_exp: "item", "item.pin != 0"
 	| where_exp: "item", "item.name != 'redirect.html'"
 	| sort: "date" 
 	| reverse 
 -%}
-{%- comment -%}where: "dir",  directory{%- endcomment -%}
 [
   {% for page in all_pages %}
    {
