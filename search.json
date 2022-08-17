@@ -8,15 +8,15 @@ layout: none
 	| reverse 
 -%}
 [
-  {% for page in all_pages %}
-    {%- assign parent_dir = page.dir | split: "/" -%}
-    {%- unless parent_dir == "demo" -%}
+{% for page in all_pages %}
+  {%- assign parent_dir = page.dir | split: "/" -%}
+  {%- unless parent_dir[1] == "demo" -%}
 {
 "title"    : "{{ page.title | escape | append: parent_dir[1] }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
-    {%- endunless %}
-  {% endfor %}
+{% endunless %}
+{% endfor %}
 ]
