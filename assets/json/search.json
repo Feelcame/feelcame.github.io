@@ -4,7 +4,8 @@ layout: none
 {%- 
 	assign all_pages = site.pages 
 	| where_exp: "item", "item.name != 'redirect.html'"
-	| where_exp: "item", "item.content != nil"
+	| where_exp: "item", "item.name != 'redirects.json'"
+	| where_exp: "item", "item.redirect_to == nil"
 	| sort: "date" 
 	| reverse 
 -%}
@@ -17,6 +18,7 @@ layout: none
 "url"      : "{{ site.baseurl }}{{ page.url }}",
 "date"     : "{{ page.date }}",
 "name"     : "{{ page.name }}",
+"desc"     : "{{ page.content | truncate: 35 }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
 {% endunless %}
