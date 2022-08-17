@@ -10,7 +10,7 @@ layout: default
 -->
 
 
-<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.min.js"></script>
+<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
 
 
 <script>
