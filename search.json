@@ -3,7 +3,7 @@ layout: none
 ---
 {%- 
 	assign all_pages = site.pages 
-	| where_exp: "item", "item.extname != 'json'"
+	| where_exp: "item", "item.extname != '.json'"
 	| where_exp: "item", "item.name != 'redirect.html'"
 	| where_exp: "item", "item.redirect_to == nil"
 	| sort: "date" 
@@ -12,7 +12,7 @@ layout: none
 [
 {% for page in all_pages %}
 {%- assign parent_dir = page.dir | split: "/" -%}
-{%- unless parent_dir[1] == "demo" -%}
+{%- unless parent_dir[1] == "demo" or parent_dir[1] == "assets" -%}
 {
 "title"    : "{{ page.title | escape }}",
 "url"      : "{{ site.baseurl }}{{ page.url }}",
