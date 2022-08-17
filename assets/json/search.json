@@ -1,15 +1,22 @@
 ---
 layout: none
 ---
+{%- assign directory = "/demo/search/" -%}  
+{%- assign all_pages = site.pages 
+	| where: "dir",  directory 
+	| where_exp: "item", "item.pin != 0"
+	| where_exp: "item", "item.name != 'redirect.html'"
+	| sort: "date" 
+	| reverse 
+-%}
+
 [
-  {% for page in site.pages %}
+  {% for page in all_pages %}
    {
-     {% if page.title != nil and page.dir == "/demo/search/" %}
-        "title"    : "{{ page.title | escape }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines | jsonify }}"
-     {% endif %}
+	"title"    : "{{ page.title | escape }}",
+	"url"      : "{{ site.baseurl }}{{ page.url }}",
+	"date"     : "{{ page.date }}",
+	"content"  : "{{ page.content | strip_html | strip_newlines | jsonify }}"
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
