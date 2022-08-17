@@ -5,7 +5,7 @@ layout: none
 	assign all_pages = site.pages 
 	| where_exp: "item", "item.extname != '.json'"
 	| where_exp: "item", "item.name != 'redirect.html'"
-	| where: "redirect_to", ""
+	| where_exp: "item", "item.redirect_to == nil"
 	| sort: "date" 
 	| reverse 
 -%}
