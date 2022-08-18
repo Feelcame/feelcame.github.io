@@ -336,3 +336,4 @@ plugins:
 
 - про концепцию статичных сайтов <https://dou.ua/lenta/articles/jamstack/>
 - <https://github.com/christian-fei/Simple-Jekyll-Search>
+- <https://github.com/picocms/Pico>
