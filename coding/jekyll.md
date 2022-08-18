@@ -335,3 +335,4 @@ plugins:
 - и еще про ```{: }``` <https://kramdown.gettalong.org/converter/html.html>
 
 - про концепцию статичных сайтов <https://dou.ua/lenta/articles/jamstack/>
+- <https://github.com/christian-fei/Simple-Jekyll-Search>
