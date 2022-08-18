@@ -1,7 +1,7 @@
 ---
 title: Добро пожаловать домой
 date: 2020-07-16T13:31:13+03:00
-modified: 2022-07-27T10:38:26+03:00
+modified: 2022-08-19T02:24:23+03:00
 layout: home
 ---
 
@@ -10,7 +10,7 @@ layout: home
 - [**Телеграм канал** @feelsoft](tg://resolve?domain=feelsoft)
 - [**Проекты** (хвастаюсь)](./projects/)
 - [**Каталог инструментов**](./shop/index.md)
-- [**Заметки на полях**](./projects/notes/)
+- [**Заметки на полях**](./projects/notes)
 
 {% comment %}
 <!--
