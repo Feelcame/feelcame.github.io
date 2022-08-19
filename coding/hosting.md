@@ -197,7 +197,7 @@ redirect_from: '[../coding/hosting-cms]'
   [Страница скачивания](https://4pda.to/forum/dl/post/25262479/GlassWire_v3.0.380r_b380_K.apk), 
   [Ссылка на скачивание](https://4pda.to/forum/index.php?act=attach&id=25262479&dlsess=f25a88a834089c982d6c5a45da24fa6b),
   [В результате скачалось с CDN](https://ds-blobs-2.cdn.devapps.ru/25262479/GlassWire_v3.0.380r_b380_K.apk?s=0025d72ac1b057e262f17b29000000008ae1a25e9b768dd558e34a2ea1621a89)
-- [4qr.xyz](http://4qr.xyz) + [tinyurl.com](http://tinyurl.com) - хранить данные в ссылке. Если сделать ссылку с контентом "data:base64", то можно расшарить любой файл. Тест: [картинка 8кб](https://tinyurl.com/24ejarg4), [страница с картинкой 3кб](https://tinyurl.com/yrf7sa2k)
+- [4qr.xyz](http://4qr.xyz) + [tinyurl.com](http://tinyurl.com) - хранить данные в ссылке `data:image/png;base64,`, сервис лишь выводит данные из урл в тело траницы. Тест: [картинка 8кб](https://tinyurl.com/24ejarg4), [страница с картинкой 3кб](https://tinyurl.com/yrf7sa2k)
 - [androidfilehost](https://androidfilehost.com/) - хостинг для прошивок. Тест [архив прошивки, 300мб](https://androidfilehost.com/?fid=24269982086998189) (файл загружен в 2015, проверен в 2022)
 - YouTube video file storage.
 
