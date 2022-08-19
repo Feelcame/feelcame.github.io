@@ -289,6 +289,8 @@ pin: 2
 - **Яндекс карты**. play, 4pda
 - **2gis**. play
 - **Ontaxi** - удобное такси (украина), play
+- **Bolt** - такси
+- **Uklon** - такси
 - **Blablacar** - поиск попутчиков. play, 4pda, оф.сайт, web
 </details>
 
