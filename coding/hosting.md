@@ -23,11 +23,13 @@ redirect_from: '[../coding/hosting-cms]'
 - [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
 - [Netlify Drop](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
-- [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - <https://codeberg.page/> - тут можно хранить документацию для git-проектов
 - Vercel - what?
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - Также можно использовать любой [хостинг для php](#php)
+
+**CDN** - нужен для отказоустойчивости
+- [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 
 
 **Конструкторы**
@@ -38,13 +40,18 @@ redirect_from: '[../coding/hosting-cms]'
 ## Для картинок
 {: #images }
 
+- **Github Raw** и **Github Pages** - загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io. Тест 20200101: 
+  [картинка 3кб из репо](https://github.com/Feelcame/feelcame.github.io/raw/master/assets/img/favicon.png),
+  [прямая ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
+  [картинка из pages](https://feelcame.github.io/assets/img/favicon.png)
+- **Github user-images** - при редактировании в браузере markdown-файла на github, перетянуть в окно редактора картинку или видео. Тест 20210405: 
+  [котик играет с цветком, видео 1.5МБ](https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4)
+- [**telegra.ph**](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
 - <http://vfl.ru/> - хостинг картинок
 - fastpic
-- [telegra.ph](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
-- [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
-[Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
-- Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
-- Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
+- [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: 
+  [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
+  [Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
 - подойдёт также любой [сервис хостинга статики](#static)
 
 
@@ -111,13 +118,14 @@ redirect_from: '[../coding/hosting-cms]'
 - windscribe позволяет пробросить порты через себя
 - [beaker browser](https://beakerbrowser.com/) - p2p браузер. говорят использует новый протокол [hypercore](https://hypercore-protocol.org/). не проверял
 
-Если выход в мир нужен для удаленного управления - то лучше использовать [приватный впн](./vpn.md)
+**Смотри также:**
+- [передача файлов без сервера p2p](#p2p)
+- [приватный впн](./vpn.md) - если выход в мир нужен для удаленного управления - то лучше использовать 
 
-Смотри также: [передача файлов без сервера p2p](#p2p)
 
 ## Облачные файл-менеджеры  
 {: #cloudstorege }
-- [**Github**](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
+- [**Github Releases**](http://github.com) - тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
 - [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
   Тест 20220802: 
   [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4) +
@@ -145,20 +153,23 @@ redirect_from: '[../coding/hosting-cms]'
   [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html), 
   [прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/11/ShareX-14.1.0-setup.exe), 
   [и еще одна прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/2097155/ShareX-14.1.0-setup.exe)
-- [**transfer.sh**](https://transfer.sh/) - открытый проект. Исходники смотри в разделе [#server-soft](#server-soft). Тест 20220802: 
-  [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
-  [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
 - [**catbox.moe**](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: 
   [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), 
   [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
-- [www.pomf.se и его клоны](https://status.uguu.se/clones.html) - дает прямые ссылки. Но проект сейчас закрыт, автор дает список клонов . Исходники: [github](https://github.com/nokonoko/Uguu)
-- [AnonFiles](https://anonfiles.com/). Бесплатно до 20ГБ. Ограниченная скорость выгрузки. 
-  Тест 20220807: 
+- [AnonFiles](https://anonfiles.com/). Бесплатно до 20ГБ. Ограниченная скорость выгрузки. Тест 20220807: 
   [фильм, 400мб](https://anonfiles.com/wbD0632cy6), 
   [гифка, 40кб](https://anonfiles.com/7d657e20y6/136_gif) + 
   [прямая ссылка](https://cdn-146.anonfiles.com/7d657e20y6/0191efb0-1659825591/136.gif)
-- Друзья AnonFiles. Все до 20ГБ. Тестирую все пачкой 20220807 (картинки): [filechan.org](https://filechan.org/Rd84782by5/1482167_jpg), [letsupload.cc](https://letsupload.cc/q8957f26y8/1466282490_jpg), [share-online.is](https://share-online.is/u2967220y8/4-169_jpg), [megaupload.nz](https://megaupload.nz/Jd977621yb/1481994_jpg) 
-  
+- Друзья AnonFiles. Все до 20ГБ. Тестирую все пачкой 20220807 (картинки): 
+  [filechan.org](https://filechan.org/Rd84782by5/1482167_jpg), 
+  [letsupload.cc](https://letsupload.cc/q8957f26y8/1466282490_jpg), 
+  [share-online.is](https://share-online.is/u2967220y8/4-169_jpg), 
+  [megaupload.nz](https://megaupload.nz/Jd977621yb/1481994_jpg) 
+- [www.pomf.se и его клоны](https://status.uguu.se/clones.html) - дает прямые ссылки. Но проект сейчас закрыт, автор дает список клонов . Исходники: [github](https://github.com/nokonoko/Uguu)
+- [transfer.sh](https://transfer.sh/) - открытый проект. Исходники смотри в разделе [#server-soft](#server-soft). Тест 20220802 (провален): 
+  [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
+  [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
+
 **Времменное хранение**
 - [FEX.NET](http://fex.net) - от создателей ex.ua. Можно без регистрации делиться файлами (200гб, 7дней)
 - [wetransfer](https://wetransfer.com/) - временное хранение файлов (2гб, 7дней). очень быстрые сервера. встраивается в почтовик
@@ -170,11 +181,11 @@ redirect_from: '[../coding/hosting-cms]'
 
 ## Обмен файлами P2P без серверов  
 {: #p2p }
-- [Sync by Resilio](https://www.resilio.com/individuals/) - от создателей BitTorrent. Синхронизация файлов локально или через инет
+- [**Sync by Resilio**](https://www.resilio.com/individuals/) - от создателей BitTorrent. Синхронизация файлов локально или через инет
 - qBitTorrent + Flud. Нужно создать .torrent файл на компе
 - Поднять samba-сервер на ПК с Windows. Расширить в инет через VPN, ну или ngrok. Смотри выше 
-- [TotalCmd Wifi Transfer Plugin](https://www.ghisler.com/wifitools.htm) - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий. На приемной стороне WebDAV plugin for Total Commander, WinSCP или просто проводник. Только локалка
-- [ShareDrop](https://www.sharedrop.io/) - аналог эпловского airDrop, но без вендорлока. Работает на WebRTC и HTML5. Удобный и работает стабильно. Скорость с телефона на телефон 1.6Мб. Сигналинг сервер - Firebase. [Исходники](https://github.com/szimek/sharedrop)
+- [**TotalCmd Wifi Transfer Plugin**](https://www.ghisler.com/wifitools.htm) - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий. На приемной стороне WebDAV plugin for Total Commander, WinSCP или просто проводник. Только локалка
+- [**ShareDrop**](https://www.sharedrop.io/) - аналог эпловского airDrop, но без вендорлока. Работает на WebRTC и HTML5. Удобный и работает стабильно. Скорость с телефона на телефон 1.6Мб. Сигналинг сервер - Firebase. [Исходники](https://github.com/szimek/sharedrop)
 - WebRTC + bitTorrent announcement server <https://t.me/zhovner_hub/1608>, Исходники библиотеки: [гитхаб](https://github.com/subins2000/p2pt)
 
 
