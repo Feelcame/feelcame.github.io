@@ -17,10 +17,12 @@ redirect_from: '[../coding/hosting-cms]'
 {: #static }  
 
 - [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
+- [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
+
+**не проверено**  
 - [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
 - [Netlify Drop](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
-- [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 - [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 - <https://codeberg.page/> - тут можно хранить документацию для git-проектов
 - Vercel - what?
@@ -41,7 +43,6 @@ redirect_from: '[../coding/hosting-cms]'
 - [telegra.ph](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть бот @telegraph_media_uploader
 - [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
 [Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
-- [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 - Github Pages. загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io
 - Github Pages CDN. Загрузить перетягиванием при редактировании в браузере markdown-файла. Пример от 2021-04-05: <a href="https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4">котик играет с цветком</a>
 - подойдёт также любой [сервис хостинга статики](#static)
@@ -64,6 +65,9 @@ redirect_from: '[../coding/hosting-cms]'
 - aws. самая большая доля рынка виртуальных серверов
 - veesp. юзает zaborona.help
 
+## Селфхост  
+{: #selfhost }
+Если нужно надежное хранилище данных - лучше всего хостить их у себя. По крайней мере, это снижает шанс, что все файлы пропадут по глупости. Вот пример письма счастья от одного из провайдеров облачных хранилищ: "мы заметили что с вашего аккаунта не было активности в течении трех месяцев и поэтому удалили все ваши жизненно важные данные, восстановить их невозможно. с  любовью, команда сервиса xxxx.ru-диск"
 
 ## Серверный софт для раздачи файлов
 {: #server-soft }
@@ -73,7 +77,9 @@ redirect_from: '[../coding/hosting-cms]'
 - [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive и другие сервисы через командную строку. 
   [Исходники](https://github.com/dutchcoders/transfer.sh/). 
 - [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
-- [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), [Исходники](https://github.com/LTD-Beget/sprutio) 
+- [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. 
+  [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), 
+  [Исходники](https://github.com/LTD-Beget/sprutio) 
 - [h5ai](https://larsjung.de/h5ai/) - отображает структуру каталогов сайта на php как файловый менеджер с деревом и предпросмотром. [Демо](https://larsjung.de/h5ai/demo/empty%20folder/), [Исходники](https://github.com/lrsjng/h5ai) 
 
 **не проверено**
@@ -86,8 +92,8 @@ redirect_from: '[../coding/hosting-cms]'
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 
 
-## Селфхост. Проложить тоннель за NAT
-{: #selfhost }
+## Проложить тоннель за NAT
+{: #nattonnel }
 
 Можно у себя на компе запустить сайт, а в интернет отдавать его через сервис-прокладку. Если есть белый ip-адрес, то такие сервисы не нужны
 - [ngrok](https://ngrok.com/) - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
@@ -119,6 +125,7 @@ redirect_from: '[../coding/hosting-cms]'
   [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
 - [massive.io](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
+- [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 
 **мейнстрим**
 - Google drive - Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании (до 15 секунд). Предпросмотр видео через плеер как в ютубе 
