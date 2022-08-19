@@ -43,7 +43,7 @@ redirect_from: '[../coding/hosting-cms]'
 - **Github Raw** и **Github Pages** - загрузить в репо как файл, распространять через raw.githubusercontent.com или через свой сайт user.github.io. Тест 20200101: 
   [картинка 3кб из репо](https://github.com/Feelcame/feelcame.github.io/raw/master/assets/img/favicon.png),
   [прямая ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
-  [картинка из pages](https://feelcame.github.io/assets/img/favicon.png)
+  [картинка из pages](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
 - **Github user-images** - при редактировании в браузере markdown-файла на github, перетянуть в окно редактора картинку или видео. Тест 20210405: 
   [котик играет с цветком, видео 1.5МБ](https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4)
 - [**telegra.ph**](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). Тест 20220819:
