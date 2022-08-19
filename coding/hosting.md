@@ -74,7 +74,7 @@ redirect_from: '[../coding/hosting-cms]'
 
 - [Nginx](http://nginx.org/ru/docs/beginners_guide.html) - самый навороченный веб-сервер
 - owncloud, nextcloud
-- [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive и другие сервисы через командную строку. 
+- [transfer.sh](https://transfer.sh/) - выгрузка файлов в gdrive, storj и другие сервисы через командную строку. 
   [Исходники](https://github.com/dutchcoders/transfer.sh/). 
 - [youtransfer](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой
 - [SPRUT.io](https://sprut.io/) - это полнофункциональный файловый менеджер от создателей beget.com, который позволит заменить привычный FTP-клиент и удобно работать с файлами на сервере прямо из браузера с любого места. 
@@ -117,7 +117,6 @@ redirect_from: '[../coding/hosting-cms]'
 
 ## Облачные файл-менеджеры  
 {: #cloudstorege }
-- [**Fex.net**](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
 - [**Github**](http://github.com). Тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
 - [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
   Тест 20220802: 
@@ -125,12 +124,12 @@ redirect_from: '[../coding/hosting-cms]'
   [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [raysync](https://www.raysync.io/pricing/) - 100гб бесплатно, пока не проверял
 - [massive.io](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
-- [Telegram](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб
 
 **мейнстрим**
+- [**Fex.net**](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
 - Google drive - Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании (до 15 секунд). Предпросмотр видео через плеер как в ютубе 
-- onedrive - Удобная интеграция в Microsoft Windows. проверка на вирусы
-- yandex disk - Русиянский аналог гдрайв
+- onedrive - удобная интеграция в Microsoft Windows. проверка на вирусы
+- yandex disk - русиянский аналог гдрайв
 - mega.nz - криптуется, тяжёлые веб страницы, 50гб бесплатно
 - ionos.de aka 1und1 - 5гб бесплатно, но нужно поморочиться
 
@@ -138,20 +137,21 @@ redirect_from: '[../coding/hosting-cms]'
 ## Файлообменники "drag-n-drop"  
 {: #files }
 
-- [**tlgur**](http://t.metlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. По состоянию на 20220806 сервис не работает
-- [**zippyshare**](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. немного стремный файлообменник, похожий на скамн. юзает лакипатчер. Не открывается через впн
-  Тест от 20220802: 
-  [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html) + 
-  [прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/11/ShareX-14.1.0-setup.exe)
-- [**catbox.moe**](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. 
-  Тест от 20220802: 
+- [**Telegram**](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб. Но нет прямых ссылок. И не абузоустойчиво. Тест 20210901: 
+  [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
+- [**tlgur**](http://t.metlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. Максимальный размер файла 20МБ. Работает нестабильно. Тест 20211201: 
+  [apk 10mb](https://tlgur.com/d/g306JW64)
+- [**zippyshare**](https://www.zippyshare.com/) - 500мб/файл, безлим места, как долго хранится неизвестно. Немного стремный файлообменник, похожий на скам. Прямых ссылок нет, а при скачивании через страницу навязчиво пытается перекинуть на рекламный сайт. Юзает автор лакипатчера. Не доступен через впн. Тест от 20220802: 
+  [программа 7мб](https://www5.zippyshare.com/v/lYHxyKiz/file.html), 
+  [прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/11/ShareX-14.1.0-setup.exe), 
+  [и еще одна прямая ссылка](https://www5.zippyshare.com/d/lYHxyKiz/2097155/ShareX-14.1.0-setup.exe)
+- [**transfer.sh**](https://transfer.sh/) - открытый проект. Исходники смотри в разделе [#server-soft](#server-soft). Тест 20220802: 
+  [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
+  [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
+- [**catbox.moe**](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости. Внешне очень похож на pomf.se. Тест от 20220802: 
   [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), 
   [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
 - [www.pomf.se и его клоны](https://status.uguu.se/clones.html) - дает прямые ссылки. Но проект сейчас закрыт, автор дает список клонов . Исходники: [github](https://github.com/nokonoko/Uguu)
-- [**transfer.sh**](https://transfer.sh/) - открытый проект. 
-  Тест 20220802: 
-  [программа 7Мб](https://transfer.sh/ePEtqU/carnac.2.3.13.zip), 
-  [прямая ссылка](https://transfer.sh/get/ePEtqU/carnac.2.3.13.zip)
 - [AnonFiles](https://anonfiles.com/). Бесплатно до 20ГБ. Ограниченная скорость выгрузки. 
   Тест 20220807: 
   [фильм, 400мб](https://anonfiles.com/wbD0632cy6), 
