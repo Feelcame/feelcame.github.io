@@ -1,7 +1,11 @@
-redirecting...
 <script>
+<<<<<<< HEAD
+var f = decodeURIComponent(window.location.search.substring(1,100));
+document.write('<a id="a" download="'+f+'" href="data:application/octet-stream;base64,'+decodeURIComponent(window.location.hash.substring(1))+'">'+f+'</a>');
+=======
 var a = document.createElement('a');
 a.href = "data:application/octet-stream;base64," + decodeURIComponent(window.location.hash.substring(1));
-a.download = decodeURIComponent(window.location.search.substring(1,20));
+a.download = decodeURIComponent(window.location.search.substring(1,100));
+>>>>>>> 10e8998e4f5f38262d0c8b72390218382f7a296c
 a.click();
 </script>
