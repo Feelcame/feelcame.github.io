@@ -49,11 +49,11 @@ redirect_from: '[../coding/hosting-cms]'
 - [**telegra.ph**](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). Тест 20220819:
   [картинка 50кб, загружено через сайт](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб, через бот](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
-- <http://vfl.ru/> - хостинг картинок?
-- fastpic - ?
 - [etlgr.io](https://etlgr.io/) aka @etlgr_bot бот принимает емейлы в телеграм, которые также можно посмотреть в вебе, ну и скачать вложения. Тестовые файлы загружены 20220802: 
   [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
   [Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
+- <http://vfl.ru/> - хостинг картинок?
+- fastpic - ?
 - подойдёт также любой [сервис хостинга статики](#static)
 
 
