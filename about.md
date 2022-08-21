@@ -14,7 +14,7 @@ comments: false
 	searchInput: document.getElementById('search-input'),
 	resultsContainer: document.getElementById('results-container'),
 	json: '{{ site.baseurl }}/assets/json/search.json',
-	searchResultTemplate: '<li><a href="{url}#:~:text={query}" title="{name}" target="_blank">{title}</a></li>',
+	searchResultTemplate: '<li><a href="{url}?q={query}#:~:text={query}" title="{name}" target="_blank">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 20,
 	fuzzy: false,

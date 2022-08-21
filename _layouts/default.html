@@ -18,12 +18,12 @@
 	<header class="page-header" role="banner">
 		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
 		<h2 class="project-tagline" id="top">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-		<a href="/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
+		<a href="{{ site.baseurl }}/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
 		<div id="nav">
-		<a href="/hardware/" class="btn">😎 Хлеб</a>
-		<a href="/coding/" class="btn">🎮 Соль</a>
-		<a href="/software/" class="btn">💾 Вода</a>
-		<a href="/about" class="btn">🔍</a>
+		<a href="{{ site.baseurl }}/hardware/" class="btn">😎 Хлеб</a>
+		<a href="{{ site.baseurl }}/coding/" class="btn">🎮 Соль</a>
+		<a href="{{ site.baseurl }}/software/" class="btn">💾 Вода</a>
+		<a href="{{ site.baseurl }}/about" class="btn">🔍</a>
 		</div>
 	</header>
 	<main id="content" class="main-content" role="main">
@@ -51,10 +51,9 @@
 			</span>
 		</footer>
 	</main>
-<!-- Обработка нажатия кнопки и отключение пустых ссылок -->
 <script>{% include hardcoded_scripts.js %}</script>
-<!-- Добавление ссылки на якорь возле заголовков -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
 <script>anchors.add();</script>
 
 </body>
