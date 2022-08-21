@@ -12,11 +12,6 @@ history.back();
 {% comment %}
 <!--
 
-<script>// v4
-document.write('<a id="a" download="'+decodeURIComponent(window.location.search.substring(1,100))+'" href="data:n/a;base64,'+decodeURIComponent(window.location.hash.substring(1))+'">download</a>');
-a.click();
-history.back();
-</script>
 
 <script>//*v3
 document.write("redirecting...<br>");
@@ -44,5 +39,7 @@ a.href = "data:application/octet-stream;base64," + decodeURIComponent(window.loc
 a.download = decodeURIComponent(window.location.search.substring(1,100));;
 a.click();
 </script>
+
+
 -->
 {% endcomment %}
