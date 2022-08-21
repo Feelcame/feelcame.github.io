@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 <script>// v4
 document.write('<a id="a" download="'+decodeURIComponent(window.location.search.substring(1,100))+'" href="data:n/a;base64,'+decodeURIComponent(window.location.hash.substring(1))+'">download</a>');
 a.click();
