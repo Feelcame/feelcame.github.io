@@ -15,9 +15,11 @@ modified: 2020-06-29T00:24:54+03:00
 * <https://videocdn.tv/demo>
 
 ## Сайты с фильмами:
-* [tegos.ru](http://tegos.ru)
-* [CZX.to](http://czx.to)
-* kinokrad
+- [tegos.ru](http://tegos.ru)
+- [CZX.to](http://czx.to)
+- kinokrad
+- <https://uakino.club/> - укр
+- <https://eneyida.tv/> - укр
 (торренты сюда не включены)
 
 ## Программы с фильмами:
