@@ -16,3 +16,6 @@ Flicker 01. Подделка на флиппер zero
 
 
 ![ttt](https://user-images.githubusercontent.com/17731587/187046869-944012b1-a530-4961-8807-d5f3fa62aa07.jpg)
+
+
+![ttt](https://user-images.githubusercontent.com/17731587/187050175-3bf2976f-6d40-4f6a-b6c9-d905f9022c02.jpg)
