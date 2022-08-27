@@ -13,3 +13,6 @@ Flicker 01. Подделка на флиппер zero
 Экран вертикальный. Кнопок на одну больше, дополнительная "опции". Расположены как в телефонах
 
 ![111](https://user-images.githubusercontent.com/17731587/181620428-ed1eed65-015d-43bb-b8ae-0dcc8893ad77.png)
+
+
+![ttt](https://user-images.githubusercontent.com/17731587/187046869-944012b1-a530-4961-8807-d5f3fa62aa07.jpg)
