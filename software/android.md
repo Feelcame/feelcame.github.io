@@ -60,9 +60,10 @@ pin: 2
 - **Deezer**. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
 - **Murglar**. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 - **PlayerPro**. [4pda](https://4pda.to/forum/index.php?showtopic=189092)
-- **Shazam** - распознает что за песня сейчас играет<br>
-  [4pda](https://4pda.to/forum/index.php?showtopic=128657),
-  v0(5.1+), v1(6.0+)
+- **Shazam** - распознает что за песня сейчас играет. Лайт версия, мод с 4пда. Android 2.3+<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214),
+  [telegram](https://t.me/s/feelsoftan?q=com.shazam.android), 
+  [v1.1.0_Lite(2.3+)](https://anonfiles.com/r9bao16by3/Shazam_1.1.0_armeabi-v7a_apk), v12.19.0(6.0+), 9.37,0(5.0+)
 </details>
 
 [Наверх↑](#top)
