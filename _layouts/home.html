@@ -14,14 +14,22 @@
 </head>
   <body>
 	<header class="page-header" role="banner">
+<!--
 		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}
 		</h1>
 		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+-->
 		<div id="nav">
 			<a href="/hardware/" class="btn">😎 Железки</a>
 			<a href="/coding/" class="btn">🎮 Кодинг</a>
 			<a href="/software/" class="btn">💾 Софт</a>
 			<a href="/about" class="btn">🔍</a>
+		</div>
+		<a id="button" href="#" style="color: #ccc;" onclick="more.style='display: block;'; button.style='display:none'">Еще...</a>
+		<div id="more" style="display: none;">
+			<a href="/projects/" class="btn">Мои проекты</a>
+			<a href="/shop/" class="btn">Магазин</a>
+			<a href="/notes/" class="btn">Записная книжка</a>
 		</div>
 	</header>
 
