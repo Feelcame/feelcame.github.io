@@ -35,7 +35,7 @@ modified: 2021-08-25T11:38:30+03:00
 * <https://github.com/jmcampanini/django-starter>
 
 ### где захостить
-- Список хостингов общего назначения - [**тык**](./hosting-cms.md)
+- Список хостингов общего назначения - [**тык**](./hosting.md)
 * <https://www.alwaysdata.com/en/pricing/>
 Тестить
 *  <http://Heroku.com>

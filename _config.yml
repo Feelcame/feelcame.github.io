@@ -29,3 +29,8 @@ timezone: Europe/Kiev
 
 chtg: profi_soft
 
+defaults:
+- scope:
+    type: pages
+  values:
+    layout: default
