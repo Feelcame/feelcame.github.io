@@ -105,16 +105,6 @@ JavaScript — язык программирования, широко испо�
 4. <https://html-cleaner.com/js/>
 5. <https://beautifytools.com/javascript-beautifier.php>
 
-### Севрисы комментариев на статический сайт
-
-1. <https://github.com/utterance/utterances>  
-1. <https://github.com/gitalk/gitalk>  
-1. <https://github.com/meteorlxy/vssue>
-1. <https://www.hypercomments.com/>
-1. <https://gitlab.com/commento/commento>  
-2. <https://donw.io/post/github-comments/>
-1. <Staticman>
-
 ## Полезные сниппеты
 **Масштаб по экрану**  
 Задать ширину страницы в соответствии с размером экрана.  
