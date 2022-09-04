@@ -35,7 +35,7 @@ comments: false
 Привет! Свяжись со мной любым удобным способом:
 - [Телеграм](https://t.me/FeelSoftBot)
 - [Email](https://forms.gle/UCfDCJHZsGKu5AHf7)
-- [Форум](https://github.com/Feelcame/feelcame.github.io/discussions)
+- [Форум](https://github.com/Feelcame/feelcame.github.io/discussions/categories/forum)
 
 
 #
