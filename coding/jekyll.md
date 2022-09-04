@@ -337,3 +337,12 @@ plugins:
 - про концепцию статичных сайтов <https://dou.ua/lenta/articles/jamstack/>
 - <https://github.com/christian-fei/Simple-Jekyll-Search>
 - <https://github.com/picocms/Pico>
+
+
+- Тема <https://github.com/mmistakes/minimal-mistakes> 
+- Тема <https://github.com/mmistakes/jekyll-theme-skinny-bones>
+- Тема <https://github.com/holman/left>
+- <https://github.com/poole/lanyon>
+- <https://github.com/barryclark/jekyll-now>
+- [Тема hyde](https://github.com/poole/hyde)
+
