@@ -2,6 +2,8 @@
 title: Заметки хранящиеся в куках браузера
 date: 2021-11-09T12:00:00+02:00
 tags: coding
+redirect_from:
+  - /notes/
 ---
 
 ## Скрипт для хранеия информации в cookies или в localstorage браузера
