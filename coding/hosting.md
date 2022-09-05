@@ -22,6 +22,7 @@ comments: false
 - [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
 - [Netlify Drop](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
 - [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
+- <https://pages.cloudflare.com/>
 - <https://codeberg.page/> - тут можно хранить документацию для git-проектов
 - Vercel - what?
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
