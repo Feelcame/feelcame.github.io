@@ -21,38 +21,44 @@ pin: 3
 {:toc}
 </details>
 
-## Медиа 
+## Музыка
+- **AIMP** - Аудиоплеер<br>
+  [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
+  [v5.01.2358](https://tlgur.com/d/81vnoBPG), 
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iQ4UdkvwRjPUOL7T?e=5I3nCp)
+- **Audacity** - Запись и редактирование звука<br>
+  [оф.сайт](https://www.audacityteam.org/download/), 
+  [ссылка](#)
+- VoiceMeeter - виртуальный микшер
+- Equalizer APO - нативный эквалайзер на всю систему
+
+## Видео
 - **PotPlayer** - Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/), 
   [оф.сайт2](https://potplayer.daum.net/), 
   [softportal](https://www.softportal.com/get-21466-potplayer.html), 
   [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
-- **AIMP** - Аудиоплеер<br>
-  [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
-  [v5.01.2358](https://tlgur.com/d/81vnoBPG), 
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iQ4UdkvwRjPUOL7T?e=5I3nCp)
-- **XnView** - Просмотр фото<br>
-  [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads), 
-  [ссылка](#)
 - **Bandicam** - Запись экрана<br>
   [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428), 
   [tlgur](https://tlgur.com/d/4x5Nb5x8), 
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iSrG0CR4Ya19Bkva)
-<details markdown="1">
-
 - **FFQueue** - GUI for FFMpeg<br>
   [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
-- **Paint.Net** - Редактор фото<br>
-  [оф.сайт](https://paintnet.ru/download/),
-  [ссылка](#)  
-- **Audacity** - Запись и редактирование звука<br>
-  [оф.сайт](https://www.audacityteam.org/download/), 
-  [ссылка](#)
+<details markdown="1">
+
 - **HandBrake** - Конвернтер видео. Тормозной<br>
   [оф.сайт](https://handbrake.fr/downloads.php)
 - **Avidemux**
 </details>
 [Наверх↑](#top)
+
+## Графика
+- **XnView MP** - Просмотр фото<br>
+  [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads), 
+  [ссылка](#)
+- **Paint.Net** - Редактор фото<br>
+  [оф.сайт](https://paintnet.ru/download/),
+  [ссылка](#)  
 
 ## Интернет
 - **Google Chrome** - слей свои данные<br>
