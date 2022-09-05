@@ -70,13 +70,22 @@ pin: 3
 - **qBitTorrent** - скачивание файлов<br>
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64), 
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
+
+<details markdown="1">
+
+...
+</details>
+[Наверх↑](#top)
+
+
+## Сеть
 - **NetTraffic** - плавающий график скорости интернета, статистика<br>
   [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
   v1.66.2
+
 <details markdown="1">
 
-- **OpenVPN** - Соединение компьютеролв в локальную сеть через интернет<br>
-  [оф.сайт](https://openvpn.net/community-downloads/)
+...
 </details>
 [Наверх↑](#top)
 
@@ -261,6 +270,10 @@ pin: 3
 
 
 [Наверх↑](#top)
+
+
+## Разработчику
+на отдельной странице: [./profi-soft.md](./profi-soft.md)
 
 ## Полезные ссылки  
 {: .no_toc }
