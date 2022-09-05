@@ -88,7 +88,8 @@ pin: 3
 - **NetTraffic** - плавающий график скорости интернета, статистика<br>
   [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
   v1.66.2
-
+- **OpenVPN** - cоединение компов в локалку через интернет<br>
+  [оф.сайт](https://openvpn.net/community-downloads/)
 <details markdown="1">
 
 ...
