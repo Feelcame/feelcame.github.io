@@ -66,7 +66,11 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Paint.Net** - Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/),
   [ссылка](#)  
-- Krita
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
+
+- **Krita** - крутая рисовалка для графического планшета
+</details>
 
 ## Интернет
 - **Google Chrome** - слей свои данные<br>
@@ -77,17 +81,15 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Telegram** - удобный мессенджер<br>
   [оф.сайт](https://desktop.telegram.org/) - 
   [**Kotatogram**](https://kotatogram.github.io/ru/download/#beta)
-- **Networx** - мониторинг скорости сети<br>
-  [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
 - **AnyDesk** - удаленное управление<br>
   [оф.сайт](http://anydesk.com/ru/downloads)
 - **qBitTorrent** - скачивание файлов<br>
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64), 
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
 
-<details markdown="1">
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
-...
+- ...
 </details>
 [Наверх↑](#top)
 
@@ -98,10 +100,12 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   v1.66.2
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
+
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
-
-- CCProxy
+- **Networx** - мониторинг скорости сети<br>
+  [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
+- **CCProxy** - прокси-сервер
 </details>
 [Наверх↑](#top)
 
