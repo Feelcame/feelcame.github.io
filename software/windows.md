@@ -4,7 +4,11 @@ date: 2021-09-09T12:19:30+03:00
 modified: 2022-07-04T08:40:38+03:00
 comments: 96
 pin: 3
+style: details summary {    display: block;  /* у summary по умолчанию свойство display в значении list-item, потому поддерживается свойство list-style */    width: 10em;    width: -webkit-fit-content;    width: -moz-fit-content;    width: fit-content;  /* блок раскрывается при щелчке по кнопке, а не по всей строке */    border-bottom: 1px dotted;  /* подводка точками или тире часто используется для элементов, с которыми пользователю предлагается взаимодействовать, можно заменить на text-decoration */    outline-style: none;  /* удалить обводку при фокусе */    cursor: pointer;  }  details summary::-webkit-details-marker {  /* нестандартный псевдоэлемент Google Chrome */    display: none;  } /* http://shpargalkablog.ru/2013/04/details-html.html */
 ---
+
+
+
 {% comment %}style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'{% endcomment %}
 
 
@@ -32,6 +36,7 @@ pin: 3
 - VoiceMeeter - виртуальный микшер
 - Equalizer APO - нативный эквалайзер на всю систему
 
+
 ## Видео
 - **PotPlayer** - Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/), 
@@ -49,6 +54,8 @@ pin: 3
 - **HandBrake** - Конвернтер видео. Тормозной<br>
   [оф.сайт](https://handbrake.fr/downloads.php)
 - **Avidemux**
+- Any Video Converter
+- MakeMKV
 </details>
 [Наверх↑](#top)
 
@@ -59,6 +66,7 @@ pin: 3
 - **Paint.Net** - Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/),
   [ссылка](#)  
+- Krita
 
 ## Интернет
 - **Google Chrome** - слей свои данные<br>
@@ -90,9 +98,10 @@ pin: 3
   v1.66.2
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
-<details markdown="1">
+<details markdown="1"><summary>Показать еще</summary>
 
-...
+
+- CCProxy
 </details>
 [Наверх↑](#top)
 
@@ -227,11 +236,12 @@ pin: 3
   [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework), 
 - **Набор обновлений Windows 7** - Лучше ставить винду с уже интегрированными обновами<br>
   [simplix](https://blog.simplix.info/updatepack7r2/)
+- Nvidia, AMD
 </details>
 [Наверх↑](#top)
 
 ## Диски
-- **Windows** - операционная система<br>
+- **Windows** - операционная система. <br>
   [Win7 adguard(rtr)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz), 
   [Win8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
@@ -251,7 +261,7 @@ pin: 3
 - **Victoria** - Проверка диска на битые сектора<br>
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version), 
   [v5.36](#)
-- **Acronis** - Переразбивка и клонирование диска<br>
+- **Acronis** Disk Director / True Image - переразбивка и клонирование диска<br>
   [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998), 
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
 <details markdown="1">
@@ -263,6 +273,8 @@ pin: 3
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD** - Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
+</details>
+<details markdown="1">
 
 **LiveCD:**
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
@@ -281,6 +293,7 @@ pin: 3
 
 ## Разработчику
 на отдельной странице: [./profi-soft.md](./profi-soft.md)
+- EAGLE
 
 ## Полезные ссылки  
 {: .no_toc }
