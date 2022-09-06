@@ -4,7 +4,7 @@ date: 2021-09-09T12:19:30+03:00
 modified: 2022-07-04T08:40:38+03:00
 comments: 96
 pin: 3
-style: details summary {    display: block;  /* у summary по умолчанию свойство display в значении list-item, потому поддерживается свойство list-style */    width: 10em;    width: -webkit-fit-content;    width: -moz-fit-content;    width: fit-content;  /* блок раскрывается при щелчке по кнопке, а не по всей строке */    border-bottom: 1px dotted;  /* подводка точками или тире часто используется для элементов, с которыми пользователю предлагается взаимодействовать, можно заменить на text-decoration */    outline-style: none;  /* удалить обводку при фокусе */    cursor: pointer;  }  details summary::-webkit-details-marker {  /* нестандартный псевдоэлемент Google Chrome */    display: none;  } /* http://shpargalkablog.ru/2013/04/details-html.html */
+style: "details summary { display: block; width: 10em; width: -webkit-fit-content; width: -moz-fit-content; width: fit-content; border-bottom: 1px dotted; outline-style: none; cursor: pointer; }  details summary::-webkit-details-marker { display: none; } /* http://shpargalkablog.ru/2013/04/details-html.html */"
 ---
 
 
@@ -98,7 +98,7 @@ style: details summary {    display: block;  /* у summary по умолчани
   v1.66.2
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
-<details markdown="1"><summary>Показать еще</summary>
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 
 - CCProxy
