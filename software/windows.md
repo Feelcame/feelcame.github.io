@@ -33,8 +33,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
   [ссылка](#)
-- VoiceMeeter - виртуальный микшер
-- Equalizer APO - нативный эквалайзер на всю систему
+- **VoiceMeeter** - виртуальный микшер
+- **Equalizer APO** - нативный эквалайзер на всю систему
 
 
 ## Видео
@@ -54,8 +54,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **HandBrake** - Конвернтер видео. Тормозной<br>
   [оф.сайт](https://handbrake.fr/downloads.php)
 - **Avidemux**
-- Any Video Converter
-- MakeMKV
+- **Any Video Converter** 
+- **MakeMKV**
 </details>
 [Наверх↑](#top)
 
