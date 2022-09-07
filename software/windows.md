@@ -25,6 +25,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 {:toc}
 </details>
 
+
+
 ## Музыка
 - **AIMP** - Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
@@ -33,8 +35,15 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
   [ссылка](#)
-- **VoiceMeeter** - виртуальный микшер
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
+
+- **VoiceMeeter Banana** - виртуальный микшер
 - **Equalizer APO** - нативный эквалайзер на всю систему
+</details>
+
+[Наверх↑](#top)
+
 
 
 ## Видео
@@ -49,6 +58,7 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iSrG0CR4Ya19Bkva)
 - **FFQueue** - GUI for FFMpeg<br>
   [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
+
 <details markdown="1">
 
 - **HandBrake** - Конвернтер видео. Тормозной<br>
@@ -57,7 +67,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Any Video Converter** 
 - **MakeMKV**
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Графика
 - **XnView MP** - Просмотр фото<br>
@@ -71,6 +84,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 
 - **Krita** - крутая рисовалка для графического планшета
 </details>
+
+[Наверх↑](#top)
+
+
 
 ## Интернет
 - **Google Chrome** - слей свои данные<br>
@@ -91,7 +108,9 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 
 - ...
 </details>
+
 [Наверх↑](#top)
+
 
 
 ## Сеть
@@ -107,7 +126,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
 - **CCProxy** - прокси-сервер
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
@@ -116,7 +138,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
 - **Video Resume** - продолжает ютуб с места остановки<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **Переводчик SailorMax** - удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
@@ -135,7 +158,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Video Downloader Plus** - скачивает видео из фейсбука<br>
   [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf)
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Офис
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
@@ -152,14 +178,18 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
   [оф.сайт](https://notepad-plus-plus.org/downloads/)
   [ссылка](#) - 
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - Dynalist. Списки с бесконечной вложенностью, markdown
 - Notable
 - Obsidian
 - Notion
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Файлы
 - **7-zip** - архиватор с открытым исходным кодом<br>
@@ -174,7 +204,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Uninstall Tool** - удаление программ с корнями<br>
   [беспл.аналог](https://geekuninstaller.com/ru/download), 
   [ссылка](#)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **WizTree** - анализ места на диске<br>
   [оф.сайт](https://diskanalyzer.com/download), 
@@ -184,7 +215,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - WinDirStat<br>
   [оф.сайт](https://windirstat.net/download.html)
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Система
 - **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
@@ -195,7 +229,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Feelsoft Tweaker** - Для тонкой настройки системы<br>
   [оф.сайт](https://linker.pp.ua/projects/tweaker.html), 
   [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **AIDA64** - просмотр характеристик компа. платкая<br>
   [rtr](http://rutracker.org/forum/tracker.php?nm=aida64), 
@@ -205,7 +240,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Process Monitor** - Мониторит изменения реестра в реальном времени<br>
   [softportal](https://www.softportal.com/get-17885-process-monitor.html)
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Безопасность 
 - **VirusTotal Uploader** - Проверка на вирустотал прямо из контекстного меню<br>
@@ -214,14 +252,18 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [оф.сайт](https://smartfix.pro/), 
 - **AdwCleaner** - Пытается чистить комп от малвари<br>
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **Unchecky** - Снимает галочки при установке софта<br>
   [оф.сайт](https://unchecky.com/), 
 - **Cureit** - Бесплатный одноразовой антивирус<br>
   [biblprog](http://biblprog.org.ua/ru/dr_web_cureit), 
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Драйвера
 - **Snappy Driver Installer** - Драйверпак без рекламы<br>
@@ -231,7 +273,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [поиск rtr](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B), 
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213), 
   [1drv](#)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **DirectX** - Для работы игр и графических приложений<br>
   [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35), 
@@ -242,7 +285,10 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [simplix](https://blog.simplix.info/updatepack7r2/)
 - Nvidia, AMD
 </details>
+
 [Наверх↑](#top)
+
+
 
 ## Диски
 - **Windows** - операционная система. <br>
@@ -268,7 +314,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Acronis** Disk Director / True Image - переразбивка и клонирование диска<br>
   [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998), 
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
-<details markdown="1">
+
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **BOOTICE** - Редактор загрузчика  
   [ссылка](#)
@@ -278,9 +325,9 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Easy BCD** - Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
 </details>
-<details markdown="1">
 
-**LiveCD:**
+<details markdown="1"><summary markdown="0">LiveCD</summary>
+
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
@@ -290,14 +337,14 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
 </details>
 
-
-
 [Наверх↑](#top)
 
 
+
 ## Разработчику
-на отдельной странице: [./profi-soft.md](./profi-soft.md)
-- EAGLE
+на отдельной странице: [./profi-soft](./profi-soft.md)
+
+
 
 ## Полезные ссылки  
 {: .no_toc }
