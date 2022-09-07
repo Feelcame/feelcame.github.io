@@ -5,9 +5,40 @@ modified: 2022-08-19T02:24:23+03:00
 layout: home
 ---
 
-Подпишись на канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
+Все статьи распределены по категориям. Нажми на кнопку выше↑
+p.s. Подпишись на канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
 
 ---
+
+**Хочешь больше?**  
+Принимаю заказы на разработку мелкой электроники. Нажми кнопку ниже!<br><br><br>
+
+<p style="text-align: center;"><style>
+a.button7 {
+  font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: .8em 1em calc(.8em + 3px);
+  border-radius: 3px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+  line-height: 3.5;
+} 
+a.button7:hover { background: rgb(53, 167, 110); }
+a.button7:active {
+  background: rgb(33,147,90);
+  box-shadow: 0 3px rgb(33,147,90) inset;
+}
+</style>
+
+<a href="/about.html#обратная-связь" class="button7">Напиши мне, зай</a><br>
+_(лучше, конечно же, в телеграм)_
+</p>
+
+<br><br><br><br><br><br><br><br><br>
+
+
 
 {% comment %}
 <!--
@@ -68,31 +99,3 @@ layout: home
 Сайт работает как ***записная книжка*** и шпаргалка на будущее для себя любимого. Если тебе нравится местный юмор - наслаждайся. Только тсс... Никому!
 -->
 {% endcomment %}
-
-**Хочешь больше?**  
-Принимаю заказы на разработку мелкой электроники. Нажми кнопку ниже!<br><br><br>
-
-<p style="text-align: center;"><style>
-a.button7 {
-  font-weight: 700;
-  color: white;
-  text-decoration: none;
-  padding: .8em 1em calc(.8em + 3px);
-  border-radius: 3px;
-  background: rgb(64,199,129);
-  box-shadow: 0 -3px rgb(53,167,110) inset;
-  transition: 0.2s;
-  line-height: 3.5;
-} 
-a.button7:hover { background: rgb(53, 167, 110); }
-a.button7:active {
-  background: rgb(33,147,90);
-  box-shadow: 0 3px rgb(33,147,90) inset;
-}
-</style>
-
-<a href="/about.html#обратная-связь" class="button7">Напиши мне, зай</a><br>
-_(лучше, конечно же, в телеграм)_
-</p>
-
-<br><br><br><br><br><br><br><br><br>
