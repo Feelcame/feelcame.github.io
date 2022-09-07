@@ -59,7 +59,7 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **FFQueue** - GUI for FFMpeg<br>
   [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
 
-<details markdown="1">
+<details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **HandBrake** - Конвернтер видео. Тормозной<br>
   [оф.сайт](https://handbrake.fr/downloads.php)
