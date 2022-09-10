@@ -140,7 +140,12 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
-
+- Blank New Tab Page - заменяет стартовую страницу на пустую.
+  [оф.сайт](https://yuhaofe.com/blank-new-tab-page),
+  [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh)
+- Quick Bookmarks Menu - быстрый доступ к закладкам<br>
+  [оф.сайт](https://yuhaofe.com/quick-bookmarks-menu),
+  [chrome](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf)
 - **Переводчик SailorMax** - удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
   [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/)
