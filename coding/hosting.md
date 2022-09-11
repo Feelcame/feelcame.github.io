@@ -49,6 +49,9 @@ comments: false
 - [**telegra.ph**](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку/аудио/видео и получить прямую ссылку. Также есть телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). Тест 20220819:
   [картинка 50кб, загружено через сайт](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб, через бот](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
+- <https://fastpic.org/> - юзает на рутрекере
+- <http://directupload.net> тоже на торрентах юзают. Тест: [картинка 1мб, 2011г](http://s14.directupload.net/images/110930/czej6dlt.png), [гифка 7мб, 2022г](https://s20.directupload.net/images/220911/ojn3m8ao.gif)
+- <https://imageban.ru/> - с рутрекера. сервера в рашке
 - <http://vfl.ru/> - хостинг картинок?
 - fastpic - ?
 - подойдёт также любой [сервис хостинга статики](#static)
