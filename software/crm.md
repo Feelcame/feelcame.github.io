@@ -90,6 +90,7 @@ comments: 107
 - geckoandfly [7 Free Salesforce Alternatives](https://www.geckoandfly.com/27428/salesforce-alternatives/)
 - reddit [обсуждение юзерами](https://www.reddit.com/r/selfhosted/comments/9kpeic/crm_self_hosted_open_source/)
 - alternativeto.net [Self-Hosted CRM Apps ](https://alternativeto.net/category/business-and-commerce/customer-relationship-manager/?platform=self-hosted)
+- [Тут список интеграций тудуиста. Встречаюинся интересные варианты](https://todoist.com/ru/help/categories/integrations/all-integrations)
 
 **Списки таймтрекеров**
 - <https://alternativeto.net/software/toggl/?platform=self-hosted>
