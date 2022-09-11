@@ -234,7 +234,9 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Feelsoft Tweaker** - Для тонкой настройки системы<br>
   [оф.сайт](https://linker.pp.ua/projects/tweaker.html), 
   [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
-
+- **WiaAero Tweaker** - умеет делатьприкольные штуки  
+  [оф.сайт](https://winaero.com/)
+  
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **AIDA64** - просмотр характеристик компа. платкая<br>
