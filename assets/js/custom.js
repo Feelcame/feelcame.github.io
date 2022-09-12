@@ -19,6 +19,7 @@ beautifyLinks();
 
 
 // Подсветка результатов поиска по сайту
+// https://stackoverflow.com/questions/16251505/how-to-highlight-all-text-occurrences-in-a-html-page-with-javascript/47440755#47440755
 var c=0;
 function selectNext(){
 	var q = decodeURIComponent(window.location.search.substring(3));
@@ -29,7 +30,7 @@ function selectNext(){
 		}
 		window.find(q);
 	}
-	//return false;
+	return false;
 }
 selectNext();
 
