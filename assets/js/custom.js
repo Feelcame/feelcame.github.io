@@ -25,7 +25,7 @@ function selectNext(){
 	var q = decodeURIComponent(window.location.search.substring(3));
 	if (q.length > 2){
 		if (c<1){
-			document.body.innerHTML += '<a href="#" class="float-btn" onclick="selectNext(); return false;" >next!</a>'; 	
+			document.body.innerHTML += '<a href="#" class="float-btn" onclick="selectNext(); return false;" >еще</a>'; 	
 			c++;
 		}
 		window.find(q);
