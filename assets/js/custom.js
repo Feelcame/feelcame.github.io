@@ -16,11 +16,20 @@ function beautifyLinks() {
 }
 beautifyLinks();
 
+
+
 // Подсветка результатов поиска по сайту
-function highlightSearch(){
+var c=0;
+function selectNext(){
 	var q = decodeURIComponent(window.location.search.substring(3));
 	if (q.length > 2){
+		if (c<1){
+			document.body.innerHTML += '<a href="#" class="float-btn" onclick="selectNext(); return false;" >next!</a>'; 	
+			c++;
+		}
 		window.find(q);
 	}
+	//return false;
 }
-highlightSearch();
+selectNext();
+
