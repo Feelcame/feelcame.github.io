@@ -20,6 +20,7 @@ header #navButton {
 }
 
 
+/* примеры кастомизации спойлеров http://shpargalkablog.ru/2013/04/details-html.html */
 summary {
   font-weight: 700;
   cursor: pointer;
@@ -47,7 +48,7 @@ font-size: 10pt;
 	bottom:20px;
 	right:15px;
 	background-color:#0C9;
-	opacity: .4;
+	opacity: .5;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
