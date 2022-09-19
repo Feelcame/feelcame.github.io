@@ -239,6 +239,9 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
+- Win Updates Disabler - отключает обновления даже в Win 10 Home  
+  [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
+  [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
 - **AIDA64** - просмотр характеристик компа. платкая<br>
   [rtr](http://rutracker.org/forum/tracker.php?nm=aida64), 
   [ссылка](#)
