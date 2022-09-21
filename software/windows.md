@@ -125,6 +125,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 - **Networx** - мониторинг скорости сети<br>
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
 - **CCProxy** - прокси-сервер
+- **ChromeCacheView** - сохранение закешированных браузером файлов  
+  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html)
 </details>
 
 [Наверх↑](#top)
