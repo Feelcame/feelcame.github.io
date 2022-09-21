@@ -15,7 +15,8 @@ date: 2021-11-11T11:11:11+02:00
 Как по мне очень удобно. Использую его для программ в канале [@FeelSoft](https://t.me/feelsoft)
 
 ## Сам сценарий 
-<details markdown="1"><summary markdown="0">Версия 1.0<summary>
+
+<details markdown="1"><summary markdown="0">Версия 1.0</summary>
 
 ```
 ;Расположенный ниже комментарий содержит команды SFX-сценария.
@@ -50,7 +51,7 @@ Shortcut=P, "%AppData%\Microsoft\Windows\Start Menu\Programs\# Portables", "# Po
 </details>
 
 
-<details markdown="1"><summary markdown="0">Версия 2.0<summary>
+<details markdown="1"><summary markdown="0">Версия 2.0</summary>
 
 ```
 ;Инициализировать создание архива
@@ -81,7 +82,7 @@ Shortcut=P, ".\", , , "WizTree",
 Также этот скрипт определяет какой разрядности система. В зависимости от этого он может запустить для установки файл нужной разрядности. Названия файлов надо прописывать вручную (пока что это лучшее что я смог придумать). 
 
 
-<details markdown="1"><summary markdown="0">install.cmd<summary>
+<details markdown="1"><summary markdown="0">install.cmd</summary>
 
 ```
 @echo off
@@ -104,7 +105,7 @@ exit
 </details>
 
 
-<details markdown="1"><summary markdown="0">комментарий sfx-архива<summary>
+<details markdown="1"><summary markdown="0">комментарий sfx-архива</summary>
 
 ```
 ;Расположенный ниже комментарий содержит команды SFX-сценария
