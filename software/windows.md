@@ -126,7 +126,7 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
 - **CCProxy** - прокси-сервер
 - **ChromeCacheView** - сохранение закешированных браузером файлов  
-  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html)
+  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
 </details>
 
 [Наверх↑](#top)
