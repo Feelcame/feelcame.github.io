@@ -61,3 +61,14 @@ CV, CC, нагрев
 
 Три регулятора - крутилки. Напряжение, ток, и температура.
 U и T - с выключателем, а I без выключателя
+
+
+
+
+
+- [Контроллер т12 на аттини13](https://oshwlab.com/iqubik/ali-dev-mini-t12_v0-1)
+- [контроллер dev616 t12 Ali](https://a.aliexpress.com/_EjxiZGj)
+- [Доработка схемы sh72](https://oshwlab.com/AntaresLab/sh72al1)
+
+
+
