@@ -51,6 +51,7 @@ pin: 4
 - ZTE MF93d Mf971 
 - Alcatel MW40 MW45 MW70 
 - NetGear AirCard 791L (LTE+GPS+CDMA, 1900грн), 
+- TP-Link M7000, M7200, M7310, M7350, M7450, M7650
 
 **Сомнительно:** 
 - Netgear AC791L - типа мощный но без B8. Цена $80
