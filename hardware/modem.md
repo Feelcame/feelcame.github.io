@@ -50,10 +50,10 @@ pin: 4
 - Huawei E589 E5783 
 - ZTE MF93d Mf971 
 - Alcatel MW40 MW45 MW70 
-- NetGear AirCard 791L (LTE+GPS+CDMA, 1900грн), 
 - TP-Link M7000, M7200, M7310, M7350, M7450, M7650
 
 **Сомнительно:** 
+- NetGear AirCard 791L (LTE+GPS+CDMA, 1900грн), 
 - Netgear AC791L - типа мощный но без B8. Цена $80
 - E5576 - не разблок. не прошивается
 
@@ -67,7 +67,7 @@ pin: 4
 - MF833
 
 **Архивные модели:** 
-- Huawei E3372-320. Точно не разблок. $40 
+- Huawei E3372-320. Не разблок. $40 
 - K5161. Вроде как не разблок., редкий
 - E392. старый
 
@@ -83,21 +83,24 @@ pin: 4
 - **Устаревшие:** MF180
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
-- Huawei e5186s-22a/**b525**/b529/b535/b528, B535-232 - (LTE Cat.6). Цена 2350грн
-- ZTE MF286 (1950грн) - [Олх](https://www.olx.ua/721313229)
-- Huawei B310/B311/**B315**. B311-221, E5172As-22 - LTE Cat.4
+- Huawei e5186s-22a, **b525**, b529, b535, b528, B535-232. Поддержка LTE Cat.6. Цена 2350грн
+- Huawei B310, B311, **B315**, B311-221, E5172As-22. Поддержка LTE Cat.4
+- ZTE MF286. Цена 1950грн
 - ZTE MF283U, MF283u+. Цены одинаковые 1500грн.
-- Роутер Tenda 4G03. Большой, настольный. Цена $50
+- Tenda 4G03. Большой, настольный. Цена $50
 - Alcatel HH70VB  
-- оверпрайс: NetGear Nighthawk M1 (MR1100) - типа суперпупер
-- **Архивные модели:** B593(Lte Cat.3). Китайщина KuWFi, COMFAST, Tianjie по $50
+
+**Архивные модели:** 
+- NetGear MR1100. Типа суперпупер, встроенный аккумулятор, ethernet. оверпрайс. Цена $200
+- B593. Устарел, Lte Cat.3
+
 
 ## Уличные решения
 - MikroTik LHGG LTE6 kit. С отражателем в форме тарелки. Большая. Крепистся на мачту. Очень быстрая. Подключается через ethernet. Цена $200
 - [Microdrive NR-400](https://www.micro-drive.ru/products/ulichnyij-router-nr-400). Компактный 4G роутер с PoE. Цена $100
 - [Антекс Unibox Active 4](https://antex-e.ru/store/39004/?pos=914996)
 - [KuWFi CPF905-3](https://aliexpress.ru/item/33053649924.html). $49
-- **Китайщина:** KuWFi, COMFAST, Tianjie. С виду все на одно лицо, возможно и на одном заводе производятся. Цена около $50
+- **Китайщина:** KuWFi, COMFAST, Tianjie. 
 
 ## Wi-Fi роутер с USB для модема
 - TP-Link TL MR3020 (v3.20). 400грн. Маленький
@@ -114,9 +117,11 @@ pin: 4
 
 
 ## Чистокровная китайщина
+- Популярные бренды на али: KuWFi, COMFAST, Tianjie. С виду все на одно лицо, возможно и на одном заводе производятся (OEM)
+
 <details markdown="1"><summary markdown="0">+ Нажми на спойлер что бы посмотреть</summary>
 - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
-- Дешман B1/B3.  
+- Noname B1/B3. Цена $15 самый дешевый. Бывает с разными названиями.  
   [UF902-1 ($15.75)](https://aliexpress.ru/item/33011621445.html), 
   [UF903-1 ($15.75)](https://aliexpress.ru/item/32951351640.html), 
   [UF904-1 ($15.75)](https://aliexpress.ru/item/4000291960023.html), 
@@ -126,13 +131,13 @@ pin: 4
   UF725 ($22), 
   [H80 ($22)](https://aliexpress.ru/item/1005003065277530.html), 
   [Olax u80/u90 ($23)](https://olx.ua/702763471), 
-- Поддержка B1/B3/B7:  
+- Noname B1/B3/B7:  
   [MF783-3 ($28)](https://aliexpress.ru/item/4000291960023.html), 
   [LDW922E ($27)](https://aliexpress.ru/item/4001191990200.html), 
   [LDW923D ($27)](https://aliexpress.ru/item/4001191990200.html),  
   [LDW931-2 ($22)](https://www.aliexpress.com/item/4000444254077.html), 
   [U8 ($22)](https://aliexpress.ru/item/1005003298327779.html), 
-- Только 3G(7.2мбит):  
+- Noname 3G(7.2мбит):  
   [UFI-MF230_XXX ($14)](https://aliexpress.ru/item/32812483460.html), 
   [UFI_UF230_XXX (13)](https://aliexpress.ru/item/1005002124424135.html), 
   [UFI_UF230_XXX ($12)](https://aliexpress.ru/item/4000208102252.html)
