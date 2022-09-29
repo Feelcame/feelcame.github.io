@@ -75,12 +75,10 @@ pin: 4
 
 - **Просто USB-свисток:** Huawei **E3531**, E3533, E3131 - эти по 300грн
 - ZTE MF667, Evdo-Link EL3277 
-
 - **Свисток с Wi-Fi:** E355, Е8231, mf70 
-
 - **Модемы WiFi c АКБ:** E5220 mf60 mf65
-
 - **Устаревшие:** MF180
+
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
 - Huawei e5186s-22a, **b525**, b529, b535, b528, B535-232. Поддержка LTE Cat.6. Цена 2350грн
@@ -100,7 +98,6 @@ pin: 4
 - [Microdrive NR-400](https://www.micro-drive.ru/products/ulichnyij-router-nr-400). Компактный 4G роутер с PoE. Цена $100
 - [Антекс Unibox Active 4](https://antex-e.ru/store/39004/?pos=914996)
 - [KuWFi CPF905-3](https://aliexpress.ru/item/33053649924.html). $49
-- **Китайщина:** KuWFi, COMFAST, Tianjie. 
 
 ## Wi-Fi роутер с USB для модема
 - TP-Link TL MR3020 (v3.20). 400грн. Маленький
@@ -119,7 +116,7 @@ pin: 4
 ## Чистокровная китайщина
 - Популярные бренды на али: KuWFi, COMFAST, Tianjie. С виду все на одно лицо, возможно и на одном заводе производятся (OEM)
 
-<details markdown="1"><summary markdown="0">+ Нажми на спойлер что бы посмотреть</summary>
+<details markdown="1"><summary markdown="0">+ Показать больше</summary>
 - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
 - Noname B1/B3. Цена $15 самый дешевый. Бывает с разными названиями.  
   [UF902-1 ($15.75)](https://aliexpress.ru/item/33011621445.html), 
