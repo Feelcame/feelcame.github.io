@@ -60,6 +60,7 @@ comments: 107
 - Coda.io
 - basecamp
 - Miro - совместное планирование работы на доске
+- <https://worksection.com/en/price.html>
 
 **Списки TODO**
 - [Todoist](https://todoist.com/) - прикольное хранилище заметок. Понимает сложные временные конструкции
