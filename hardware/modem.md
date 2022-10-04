@@ -171,3 +171,5 @@ pin: 4
 - <https://www.micro-drive.ru/products/>
 - [Как выбрать пигтейл](https://net-well.ru/stati-o-3g-4g-internete/kakoj-vybrat-pigtejl-ts9-ili-crc9)
 - [Как сделать модем из M2 модуля и адаптера USB](https://4pda.to/forum/index.php?showtopic=994474)
+- <https://en.wikipedia.org/wiki/LTE_frequency_bands>
+- [Список сетей LTE](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_LTE-%D1%81%D0%B5%D1%82%D0%B5%D0%B9)
