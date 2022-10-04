@@ -6,7 +6,7 @@ tags: coding программирование
 pin: 0
 ---
 
-{% include ls.md spoiler="Все статьи" pinned="yes" %}
+{% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
 
 {% comment %}
 <details markdown="1"><summary markdown="0">+ Мои проекты</summary>
