@@ -170,3 +170,4 @@ pin: 4
 - <https://3g-digger.com/>
 - <https://www.micro-drive.ru/products/>
 - [Как выбрать пигтейл](https://net-well.ru/stati-o-3g-4g-internete/kakoj-vybrat-pigtejl-ts9-ili-crc9)
+- [Как сделать модем из M2 модуля и адаптера USB](https://4pda.to/forum/index.php?showtopic=994474)
