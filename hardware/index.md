@@ -6,7 +6,7 @@ tags: железо
 pin: 0
 ---
 
-{% include ls.md spoiler="Все статьи" pinned="yes" %}
+{% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
 
 {% comment %}
 
