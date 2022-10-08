@@ -34,12 +34,15 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
   [1drv](https://1drv.ms/u/s!An7p8rERUur5iQ4UdkvwRjPUOL7T?e=5I3nCp)
 - **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
-  [ссылка](#)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
-- **VoiceMeeter Banana** - виртуальный микшер
-- **Equalizer APO** - нативный эквалайзер на всю систему
+- **VoiceMeeter Banana** - виртуальный микшер.  
+  [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install Voicemeeter)
+- **Equalizer APO** - нативный эквалайзер на всю систему.  
+  [оф.сайт]([https://equalizerapo.com/#installation](https://equalizerapo.com/download.html))
+- **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.  
+  [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать для Windows)
 </details>
 
 [Наверх↑](#top)
