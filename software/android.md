@@ -236,6 +236,8 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=398433)
 - **AnyDesk**. Удаленное управление.<br>
   [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить файл APK)
+- **Network Monitor Mini Pro**.  
+  [4pda](https://4pda.to/forum/index.php?showtopic=317393)
 <details markdown="1">
 
 - **OpenVPN**. play, 4pda
