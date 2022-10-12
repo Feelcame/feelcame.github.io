@@ -94,7 +94,7 @@ pin: 4
 - **Модемы WiFi c АКБ:** Huawei E5220, E5330/424d, mf60, mf65, r206, **Pantech** MHS291LVW
 - **Устаревшие (7.2 мбит):** Huawei e303, k4511, k4605, k3806h, e352, **ZTE** mf665, MF110, MF112, MF190, K3806z
 - **Устаревшие (3.6 мбит):** Huawei ~~E153Eu-1~~, e1550, **ZTE** MF180, MF100
-- **CDMA.** Huawei EC315, Novatel 4510L
+- **CDMA.** Huawei EC315, Novatel 4510L, **Samsung** SCH–LC11
 
 
 ## Домашние роутеры с Wi-Fi, Ethernet и встроенным модемом
