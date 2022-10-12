@@ -55,7 +55,7 @@ pin: 4
 - E5776
 - E5783 
 - ZTE mf90, mf90+ (мтс 833f/ft - нафиг)
-- ZTE r216, mf910, mf920u. Цена $41
+- ZTE r216, mf910, mf920u, mf920v. Цена $40
 - ZTE MF93d Mf971 
 - Alcatel MW40 MW45 MW70 
 - TP-Link M7000, M7200, M7310, M7350, M7450, M7650. Цена $50-$80 новыми
