@@ -91,7 +91,7 @@ pin: 4
 
 - **USB-свисток (21.6 мбит):** Huawei E3531, E3533, E3131, K4305, **ZTE** MF667/MF669, Alcatel 1k3m/EL3277
 - **Свисток с Wi-Fi:** Huawei E355, Е8231, mf70 
-- **Модемы WiFi c АКБ:** Huawei E5220, E5330/424d, mf60, mf65, r206, **Pantech** MHS291LVW, Novatel MiFi 5510L 5792
+- **Модемы WiFi c АКБ:** Huawei E5220, E5330/424d, mf60, mf65, r206, **Pantech** MHS291LVW, **Novatel** MiFi 5510L, 5792, 4620L
 - **Устаревшие (7.2 мбит):** Huawei e303, k4511, k4605, k3806h, e352, **ZTE** mf665, MF110, MF112, MF190, K3806z
 - **Устаревшие (3.6 мбит):** Huawei ~~E153Eu-1~~, e1550, **ZTE** MF180, MF100
 - **CDMA.** Huawei EC315, EC5321u-2, **ZTE** MF96U, **Novatel** 4510L, **Samsung** SCH–LC11
