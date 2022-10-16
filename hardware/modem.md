@@ -1,4 +1,4 @@
-We---
+---
 title: Выбор 4G-модема с Wi-Fi
 date: 2021-09-27T05:23:14+03:00
 modified: 2021-10-03T00:20:18+03:00
@@ -172,3 +172,4 @@ pin: 4
 - [Как сделать модем из M2 модуля и адаптера USB](https://4pda.to/forum/index.php?showtopic=994474)
 - <https://en.wikipedia.org/wiki/LTE_frequency_bands>
 - [Список сетей LTE](https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_LTE-%D1%81%D0%B5%D1%82%D0%B5%D0%B9)
+- характеристики роутеров <https://deviwiki.com/wiki/TP-LINK_TD-W8968_v1>
