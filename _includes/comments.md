@@ -1,8 +1,8 @@
 <p>
 <h2 id="comments">Комментарии:</h2>
-{% if com_id > 1 -%}
 {% assign comments_channel = profi_soft %}  
 {% assign post_id = page.comments %}  
+{% if post_id > 1 -%}
 Где желаете комментировать?
 <ul>
 <li><a href="#">в браузере</a></li>
