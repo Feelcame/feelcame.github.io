@@ -39,7 +39,7 @@
 			<span class="site-footer-owner">{{ site.copyright | default: "©" }}  <a href="/about.html">{{ site.github.owner_name }}</a>.
 			<time class="shaded"> 
 				{{ site.time | date: "%Y-%m-%dT%H:%M:%S" }} 
-				<a target = "_blank" href="{{ site.github.repository_url }}/blob/master/{{ page.path }}">[ред.]</a>
+				<a target = "_blank" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">[ред.]</a>
 				{% if page.name == "index.md" %} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/new/master{{ page.dir }}">[+]</a>
 				{% endif %}
