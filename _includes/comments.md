@@ -8,7 +8,7 @@
 <li>
 <script>
 var text = encodeURIComponent(btoa('<p id="comments"><script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel }}/{{ post_id }}" data-comments-limit="10"><\/script><\/p>'));
-document.write('<a href="https://4QR.xyz/r/?' + text'" target="blank">в браузере</a>');
+document.write('<a href="https://4QR.xyz/r/?' + text + '" target="blank">в браузере</a>');
 </script>
 
 </li>
