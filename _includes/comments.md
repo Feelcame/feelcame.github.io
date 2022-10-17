@@ -10,6 +10,7 @@ comments_channel: profi_soft
 <ul>
 <li><a href="#">в браузере</a></li>
 <li><a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}">в telegram</a></li>
+</ul>
 
 <script>
 function run_comments(){
