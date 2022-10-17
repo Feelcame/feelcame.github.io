@@ -78,7 +78,7 @@ _(лучше, конечно же, в телеграм)_
 	<span>
 	Made with: <a href="{{ site.github.repository_url }}">GitHub Pages</a>
 	</span>
-</br></br></br>
+<br><br><br>
 </footer>
 
 </main>
