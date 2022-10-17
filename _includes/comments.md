@@ -11,7 +11,7 @@
 
 <script>
 function run_comments(){
-  var text = '<p id="comments"><script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel | default: "#" }}/{{ post_id }}" data-comments-limit="5"></script></p>';
+  var text = '<p id="comments"><script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel | default: "#" }}/{{ post_id }}" data-comments-limit="5"><\/script></p>';
   var url = "https://4QR.xyz/r/?" + encodeURIComponent(btoa(text));
   open(url, "_blank");
   return false;
