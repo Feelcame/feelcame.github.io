@@ -21,8 +21,12 @@ document.write('<li><a class="commentBtn" href="https://4QR.xyz/r/?' + text + '"
 </p>
 
 {% comment %}
-
 <!--
+TODO: показывать попап вместо открытия в новой вкладке https://learn.javascript.ru/popup-windows
+let params = `scrollbars=no,resizable=no,status=no,location=no,toolbar=no,menubar=no,
+width=600,height=300,left=100,top=100`;
+open('/', 'test', params);
+
 <script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel | default: "#" }}/{{ post_id }}" data-comments-limit="5"></script>  
 </ul>
 
