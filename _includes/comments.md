@@ -5,14 +5,11 @@
 {% if post_id > 1 -%}
 Где желаете комментировать?
 <ul>
-<li>
+<li><a class="commentBtn" href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">в telegram</a></li>
 <script>
-var text = encodeURIComponent(btoa('<p id="comments"><script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel }}/{{ post_id }}" data-comments-limit="10"><\/script><\/p>'));
-document.write('<a href="https://4QR.xyz/r/?' + text + '" target="blank">в браузере</a>');
+var text = encodeURIComponent(btoa('<div id="comments" style="max-width:700px;padding:10px;margin:auto;background: #faf8f8;"><script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-discussion="{{ comments_channel }}/{{ post_id }}" data-comments-limit="10"><\/script><\/div>'));
+document.write('<li><a class="commentBtn" href="https://4QR.xyz/r/?' + text + '" target="_blank">в браузере</a></li>');
 </script>
-
-</li>
-<li><a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="blank">в telegram</a></li>
 </ul>
 
 
