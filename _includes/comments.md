@@ -5,7 +5,7 @@
 {% if post_id > 1 -%}
 Где желаете комментировать?
 <ul>
-<li><a href=""https://telegram.org" onclick="run_comments();">в браузере</a></li>
+<li><a href="https://telegram.org" onclick="run_comments();">в браузере</a></li>
 <li><a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}">в telegram</a></li>
 </ul>
 
