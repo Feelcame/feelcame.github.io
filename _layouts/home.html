@@ -1,55 +1,20 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-	{% include google-analytics.html %}
-    <meta charset="UTF-8">
-<title>Домик</title>
-{% seo title=false %}
+<head>
+	<meta charset="UTF-8">
+	<title>Домик</title>
+	{% seo title=false %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="shortcut icon" href="/assets/img/favicon.png" type="image/png">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+	{% include google-analytics.html %}
 
 </head>
-  <body>
-	<header class="page-header" role="banner">
-		<h1 class="project-name">Привет</h1><br>
-		<h2 class="project-tagline">Все статьи распределены по категориям. Выбери нужную</h2>
+<body>
 
-<!--
-		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-		<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
--->
-		<div id="nav">
-			<a href="/hardware/" class="btn">😎 Железки</a>
-			<a href="/coding/" class="btn">🎮 Кодинг</a>
-			<a href="/software/" class="btn">💾 Софт</a>
-			<a href="/about" class="btn">🔍</a>
-			<br>
-			<a href="/life/" class="btn">Лайфстайл</a>
-		</div>
-	</header>
+{{ content }}
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
-
-	<footer class="site-footer">
-		<span class="site-footer-owner">
-			{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
-		</span>
-		<span>
-			Made with: <a href="{{ site.github.repository_url }}">GitHub Pages</a>
-		</span>
-		</br></br></br>
-      </footer>
-    </main>
-<script>
-// переопределение всех внешних ссылок на открытие в новой вкладке
-var links = document.links;
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
-}
-</script>
 </body>
 </html>
