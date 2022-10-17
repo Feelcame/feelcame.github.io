@@ -7,19 +7,19 @@ layout: home
 
 
 <header class="page-header" role="banner" markdown="0">
-<h1 class="project-name">Привет</h1><br>
-<h2 class="project-tagline">Все статьи распределены по категориям. Выбери нужную</h2>
+<h1 class="project-name">Привет</h1>
+<h2 class="project-tagline">Все статьи распределены по категориям. Для начала выбери интересующую</h2>
 	<div id="nav">
 	<a href="/hardware/" class="btn">😎 Железки</a>
 	<a href="/coding/" class="btn">🎮 Кодинг</a>
 	<a href="/software/" class="btn">💾 Софт</a>
 	<a href="/about" class="btn">🔍</a>
 	<br>
-	<a href="/life/" class="btn">Лайфстайл</a>
+	<a href="/life/" class="btn">Лайфстайл (не работой единой)</a>
 	</div>
 </header>
 
-<main id="content" class="main-content" role="main">
+<main id="content" class="main-content" role="main" markdown="0">
 
 
 
@@ -33,6 +33,7 @@ layout: home
 [Каталог инструментов](/shop/)
 
 </div>
+	
 ---
 
 <strong>Хочешь больше?</strong>
@@ -71,7 +72,7 @@ _(лучше, конечно же, в телеграм)_
 
 
 
-<footer class="site-footer">
+<footer class="site-footer" markdown="0">
 	<span class="site-footer-owner">
 	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
 	</span>
