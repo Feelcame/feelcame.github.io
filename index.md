@@ -9,6 +9,10 @@ layout: home
 
 Мой канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
 
+[Мои проекты](/projects/)
+
+[Каталог инструментов](/shop/)
+
 ---
 
 **Хочешь больше?**  
