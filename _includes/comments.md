@@ -1,6 +1,6 @@
 <p>
 <h2 id="comments">Комментарии:</h2>
-{% assign comments_channel = profi_soft %}  
+{% assign comments_channel = "profi_soft" %}  
 {% assign post_id = page.comments %}  
 {% if post_id > 1 -%}
 Где желаете комментировать?
