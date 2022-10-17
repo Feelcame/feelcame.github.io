@@ -5,6 +5,25 @@ modified: 2022-08-19T02:24:23+03:00
 layout: home
 ---
 
+
+<header class="page-header" role="banner">
+<h1 class="project-name">Привет</h1><br>
+<h2 class="project-tagline">Все статьи распределены по категориям. Выбери нужную</h2>
+	<div id="nav">
+	<a href="/hardware/" class="btn">😎 Железки</a>
+	<a href="/coding/" class="btn">🎮 Кодинг</a>
+	<a href="/software/" class="btn">💾 Софт</a>
+	<a href="/about" class="btn">🔍</a>
+	<br>
+	<a href="/life/" class="btn">Лайфстайл</a>
+	</div>
+</header>
+
+<main id="content" class="main-content" role="main">
+
+
+
+
 **Дом проектов Ромы**
 
 Мой канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
@@ -17,7 +36,7 @@ layout: home
 
 **Хочешь больше?**  
 
-Принимаю заказы на разработку мелкой электроники. Вот [тут](/projects) мои пет-проекты. Контакты по ссылке ниже!<br><br><br>
+Принимаю заказы на разработку мелкой электроники. Контакты по ссылке ниже!<br><br><br>
 
 <p style="text-align: center;"><style>
 a.button7 {
@@ -46,62 +65,23 @@ _(лучше, конечно же, в телеграм)_
 
 
 
-{% comment %}
-<!--
-- [**Мои статьи**](#){: onclick="alert('↑ Выбери категорию в шапке ↑')" } 
-- [**Мои проекты** (хвастаюсь)](./projects/)
 
+<footer class="site-footer">
+	<span class="site-footer-owner">
+	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
+	</span>
+	<span>
+	Made with: <a href="{{ site.github.repository_url }}">GitHub Pages</a>
+	</span>
+</br></br></br>
+</footer>
 
+</main>
 
-<p style="text-align:center;"><img src="/assets/arrow-home.png" alt=""></p>
-<h2 style="text-align:center;">Для начала выбери раздел :+1:</h2>
-
-<br>
-
-<style>
-.drid {
-	overflow: hidden; 
-	flex-wrap: wrap;
-	}
-.grid ul {  
-	//display: table;
-	//flex-wrap: wrap;
-	display: flex;
-	flex-flow: row wrap;
-	padding: 0;
-	}
-.grid li {
-	text-align:center;
-	float: left;
-	box-sizing: border-box;
-	width: calc(50% - 8px);
-	padding: 7px 10px;
-	background: #eee;
-	margin: 4px; 
-	list-style-type: none;
-	min-height: 50px;
-	//height: 5em;
-	padding-left: 15px;
-	padding-right: 15px;
-	border-radius: 10px;
-	}
-</style>
-
-<div class="grid" markdown="1">
-- первый **элемент**
-- второй
-- третий
-
-</div>
-
-
-<br><br><br><br>
-
-## Чего тут происходит?
-
-***
-
-<br><br>
-Сайт работает как ***записная книжка*** и шпаргалка на будущее для себя любимого. Если тебе нравится местный юмор - наслаждайся. Только тсс... Никому!
--->
-{% endcomment %}
+<script>
+// переопределение всех внешних ссылок на открытие в новой вкладке
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+}
+</script>
