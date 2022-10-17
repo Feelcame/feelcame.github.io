@@ -14,16 +14,15 @@ layout: home
 	<a href="/coding/" class="btn">🎮 Кодинг</a>
 	<a href="/software/" class="btn">💾 Софт</a>
 	<a href="/about" class="btn">🔍</a>
-	<br>
-	<a href="/life/" class="btn">Лайфстайл (не работой единой)</a>
+	<div><a href="/life/" class="btn">Лайфстайл (не работой единой)</a></div>
 	</div>
 </header>
 
-<main id="content" class="main-content" role="main" markdown="0">
+<main id="content" class="main-content" role="main" markdown="1">
 
 
 
-<div markdown="1">
+
 **Дом проектов Ромы**
 
 Мой канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
@@ -32,7 +31,7 @@ layout: home
 
 [Каталог инструментов](/shop/)
 
-</div>
+
 	
 ---
 
