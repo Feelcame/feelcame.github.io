@@ -4,9 +4,9 @@
 и вывести чере document.write
 -->
 
+<script>
 var comments_channel = "profi_soft";
 var post_id = 109;
-<script>
 if (post_id > 1){
 document.write('
 <div id="comments" 
