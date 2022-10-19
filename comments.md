@@ -3,7 +3,7 @@
 подставить в текст шаблона 
 и вывести чере document.write
 -->
-
+<div id="cmnt">
 <script>
 var comments_channel = "profi_soft";
 var post_id = 109;
@@ -19,7 +19,7 @@ data-comments-limit="10">
 ');
 }
 </script>
-
+</div>
 
 
 
