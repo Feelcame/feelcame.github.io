@@ -1,5 +1,5 @@
 ---
-title: Добро пожаловать домой
+title: Домик
 date: 2020-07-16T13:31:13+03:00
 modified: 2022-08-19T02:24:23+03:00
 layout: home
@@ -20,16 +20,15 @@ layout: home
 
 <main id="content" class="main-content" role="main" markdown="1">
 
+**Дом проектов Ромы Feelcame**
+
+- Мой канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
+
+- Каталог инструментов - [**/shop**](/shop/)
+
+- Другие мои проекты - [**/projects**](/projects/)
 
 
-
-**Дом проектов Ромы**
-
-Мой канал с котиками - [**@memcdn**](tg://resolve?domain=memcdn)
-
-[Мои проекты](/projects/)
-
-[Каталог инструментов](/shop/)
 
 
 	
