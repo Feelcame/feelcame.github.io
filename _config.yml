@@ -28,6 +28,7 @@ timezone: Europe/Kiev
 
 
 chtg: profi_soft
+comments_channel: profi_soft
 
 defaults:
 - scope:
