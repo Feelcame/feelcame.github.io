@@ -1,9 +1,9 @@
 <p>
 <h2 id="comments">Комментарии:</h2>
-{% assign comments_channel = "profi_soft" %}  
-{% assign post_id = page.comments %}  
-{% if post_id > 1 -%}
-Где желаете комментировать?
+{% assign comments_channel = site.comments_channel | default: "" %}  
+{% assign post_id = page.comments | default: 0 %}  
+{% if post_id > 1 and comments_channel != "" -%}
+Где желаете откомментировать?
 <ul>
 <li><a class="commentBtn" href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">в telegram</a></li>
 <li><a class="commentBtn" href="/comments.html?{{ post_id }}" target="_blank">в браузере</a></li>
