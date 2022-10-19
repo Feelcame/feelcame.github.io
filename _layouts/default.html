@@ -16,14 +16,14 @@
 	<a href="#top" id="vverh" onclick="showNav()"></a>
 	<a id="skip-to-content" href="#content">навигация выше</a>
 	<header class="page-header" role="banner">
-		<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-		<h2 class="project-tagline" id="top">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-		<a href="{{ site.baseurl }}/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
-		<div id="nav">
-		<a href="{{ site.baseurl }}/hardware/" class="btn">😎 Хлеб</a>
-		<a href="{{ site.baseurl }}/coding/" class="btn">🎮 Соль</a>
-		<a href="{{ site.baseurl }}/software/" class="btn">💾 Вода</a>
-		<a href="{{ site.baseurl }}/about" class="btn">🔍</a>
+	<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+	<h2 class="project-tagline" id="top">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+	<a href="{{ site.baseurl }}/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
+	<div id="nav">
+		<a href="{{ '/hardware/' | relative_url }}" class="btn">😎 Хлеб</a>
+		<a href="{{ '/coding/'   | relative_url}}" class="btn">🎮 Соль</a>
+		<a href="{{ '/software/' | relative_url}}" class="btn">💾 Вода</a>
+		<a href="{{ '/about'     | relative_url}}" class="btn">🔍</a>
 		</div>
 	</header>
 	<main id="content" class="main-content" role="main">
@@ -36,7 +36,7 @@
 		{%- endif -%}
 		{% if page.comments %}{% include comments.md %}{% endif %}
 		<footer class="site-footer">
-			<span class="site-footer-owner">{{ site.copyright | default: "©" }}  <a href="/about.html">{{ site.github.owner_name }}</a>.
+			<span class="site-footer-owner">{{ site.copyright | default: "©" }}  <a href="{{ '/about.html' | relative_url }}">{{ site.github.owner_name | default: Feelcame }}</a>.
 			<time class="shaded"> 
 				{{ site.time | date: "%Y-%m-%dT%H:%M:%S" }} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">[ред.]</a>
@@ -52,9 +52,9 @@
 		</footer>
 	</main>
 <script>{% include hardcoded_scripts.js %}</script>
-<script src="{{ site.baseurl }}/assets/js/custom.js"></script>
+<script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 <!--<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>-->
-<script src="/assets/js/anchor.min.js">
+<script src=""{{ '/assets/js/anchor.min.js' | relative_url }}"></script>
 <script>anchors.add();</script>
 
 </body>
