@@ -1,8 +1,4 @@
-<!--
-Взять данные из ссылки, 
-подставить в текст шаблона 
-и вывести чере document.write
--->
+
 <div id="cmnt" markdown="0">
 <script>
 var comments_channel = "profi_soft";
@@ -13,8 +9,14 @@ document.write('<script async src="https://telegram.org/js/telegram-widget.js?14
 </script>
 </div>
 
-
-
+{% comment %}
+<!--
+Взять данные из ссылки, 
+подставить в текст шаблона 
+и вывести чере document.write
+TODO. Добавить обратную ссылку на статью
+-->
+{% endcomment %}
 
 
 
