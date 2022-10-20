@@ -76,7 +76,7 @@ comments:
 Перезвоняшка | \*104\*069номер#  
 {: style="width:100%;display:table;table-layout:fixed;"}
 
-## Лайф
+## Лайфсел
 
 Описание | Номер
 :-|:-
@@ -85,3 +85,11 @@ comments:
 Продлить номер | неизвестно
 Звонок оператору | 5433
 {: style="width:100%;display:table;table-layout:fixed;"}
+
+
+3mob (Utel)
+- хз
+
+
+Лайкамобайл (Lycamobile)
+- Счет *111₴
