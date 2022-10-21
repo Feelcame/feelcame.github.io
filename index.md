@@ -75,9 +75,10 @@ _(лучше, конечно же, в телеграм)_
 	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
 	</span>
 	<span>
-	Made with: <a href="{{ site.github.repository_url }}">GitHub Pages</a>
+	Made with GitHub Pages
+	<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>-->
 	</span>
-<br><br><br>
+<br><br><br><br><br>
 </footer>
 
 </main>
