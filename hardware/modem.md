@@ -90,7 +90,7 @@ pin: 4
 
 ## Модемы для сетей 3G
 
-- **USB-свисток (21.6 мбит):** Huawei E3531, E3533, E3131, K4305, k4510, **ZTE** MF667/MF669, Alcatel 1k3m/EL3277
+- **USB-свисток (21.6 мбит):** Huawei E3531, E3533, E3131, e353, K4305, k4510, **ZTE** MF667/MF669, Alcatel 1k3m/EL3277
 - **Свисток с Wi-Fi:** Huawei E355, Е8231, mf70 
 - **Модемы WiFi c АКБ:** Huawei E5220, E5330/424d, E586, E586E, **ZTE** mf60, mf65, r206, **Pantech** MHS291LVW, **Novatel** MiFi 5510L, 5792, 4620L
 - **Устаревшие (7.2 мбит):** Huawei e303, k3765, k3806h, K3806z, k4511, k4605, e352, **ZTE** mf665, MF110, MF112, MF190, **Pantech** UMW190,uml290vw
