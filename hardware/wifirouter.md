@@ -13,6 +13,10 @@ date: 2022-10-17T22:21:01
 ## Для модема с USB
 Переделка дешёвого роутера от Укртелеком в 532s <https://m.olx.ua/list/q-Huawei-532e/>
 
+Тут инструкция по переделке <https://4pda.to/forum/index.php?showtopic=741794&st=1440#entry95960442>
+
+
+
 ## Модификации
 - Модем+роутер <https://4pda.to/forum/index.php?showtopic=392489&st=120>
 - установка openwrt <https://4pda.to/forum/index.php?showtopic=911457&st=0#entry75549916>
