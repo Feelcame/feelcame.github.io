@@ -9,7 +9,8 @@ modified: 2021-08-24T13:33:23+03:00
 
 ## Программы и утилиты
 - 0x192/universal-android-debloater. норм. 
-  [github](https://github.com/0x192/universal-android-debloater/releases)
+  [github](https://github.com/0x192/universal-android-debloater/releases),
+  [список пакетов](https://raw.githubusercontent.com/0x192/universal-android-debloater/main/resources/assets/uad_lists.json)
 - ADB_AppControl. норм. 
   [оф.сайт](https://adbappcontrol.com/)
 - XiaomiADBFastbootTools. устарело. 
