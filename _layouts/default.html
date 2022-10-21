@@ -36,24 +36,46 @@
 		</time>
 		{%- endif -%}
 		{% if page.comments %}{% include comments.md %}{% endif %}
-		<footer class="site-footer">
-			<span class="site-footer-owner">{{ site.copyright | default: "©" }}  <a href="{{ '/about.html' | relative_url }}">{{ site.github.owner_name | default: Feelcame }}</a>.
-			<time class="shaded"> 
+<!-- Footer
+{% comment %}
+{% endcomment %} 
+-->
+<footer class="site-footer" style="text-align: center;">
+	<span>Написать админу: <br><br>
+		((<a href="https://forms.gle/UCfDCJHZsGKu5AHf7" target="_blank">email</a>)) -   
+		((<a href="https://t.me/FeelSoftBot" target="_blank">telegram</a>)) -
+		((<a href="https://github.com/Feelcame/feelcame.github.io/discussions/categories/forum" target="_blank">форум</a>))
+	</span>
+	<br><br><br>
+
+	<span class="site-footer-owner">{{ site.copyright | default: "©" }}
+		<a href="#">{{ site.github.owner_name | default: Feelcame }}</a><br>
+		<time class="shaded"> 
+			{{ site.time | date: "%Y-%m-%dT%H:%M:%S" }} 
+			<a target = "_blank" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">[ред.]</a>
+			{% if page.name == "index.md" %} 
+			<a target = "_blank" href="{{ site.github.repository_url }}/new/master{{ page.dir }}">[+]</a>
+			{% endif %}
+		</time>
+	</span>
+	<br><br><br><br><br><br>
+</footer>
+
+		
+
+<span class="site-footer-owner">{{ site.copyright | default: "©" }}  {{ site.github.owner_name | default: Feelcame }}
+<time class="shaded"> 
 				{{ site.time | date: "%Y-%m-%dT%H:%M:%S" }} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/edit/master/{{ page.path }}">[ред.]</a>
 				{% if page.name == "index.md" %} 
 				<a target = "_blank" href="{{ site.github.repository_url }}/new/master{{ page.dir }}">[+]</a>
 				{% endif %}
 			</time>
-			</span>
-			<br>
-			<span>Связь: 
-			(<a href="https://forms.gle/UCfDCJHZsGKu5AHf7">email</a>, 
-			<a href="https://t.me/FeelSoftBot">telegram</a>, 
-			<a href="https://github.com/Feelcame/feelcame.github.io/discussions/categories/forum">форум</a>)
-			</span>
-<br><br><br><br><br>
-		</footer>
+</span>
+<br><br><br><br><br><br>
+</footer>
+
+
 	</main>
 <script>{% include hardcoded_scripts.js %}</script>
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
