@@ -11,3 +11,25 @@ pin: 0
 **Проекты:**
 {% include ls.md dir="/projects/" tag="software" %}
 {% endcomment %}
+
+
+<!-- 
+## Программы для винды
+{% include ls.md tag="windows" %}
+
+## Для андроидов
+{% include ls.md tag="android" %}
+
+## МОИ ПРОГРАММЫ
+{% include ls.md tag="projects" %}
+
+## Полезное для работы
+{% include ls.md tag="work" %}
+
+## Обработка медиа
+{% include ls.md tag="media" %}
+
+## Веб-сервисы
+{% include ls.md tag="web" %}
+
+-->
