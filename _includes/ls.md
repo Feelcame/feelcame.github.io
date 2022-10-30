@@ -51,7 +51,7 @@
 
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
-<!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->
+{% comment %}<!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->{% endcomment -%}
 <ol reversed id="navigation">
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
