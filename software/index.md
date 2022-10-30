@@ -30,6 +30,6 @@ pin: 0
 {% include ls.md tag="media" %}
 
 ## Веб-сервисы
-{% include ls.md tag="web" %}
+{% include ls.md tag="web" %}-->
 
-  -->
+  
