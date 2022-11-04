@@ -5,11 +5,11 @@ modified: 2022-07-04T08:47:44+03:00
 pin: 0
 ---
 
-## Кодинг  
-{: #coding }
 
-{% include ls.md tag="coding" %}
+## Хард
+{: #hardware }
 
+{% include ls.md tag="hardware" %}
 
 ## Софт  
 {: #software }
@@ -17,22 +17,9 @@ pin: 0
 {% include ls.md tag="software" %}
 
 
-## Железки
-{: #hardware }
-
-{% include ls.md tag="hardware" %}
-
-
-## Не опубликованное
+## Идеи
 
 {% include ls.md tag="empty" %}
-
-
-## Все вместе
-<details markdown="1"><summary markdown="0">+ все вместе</summary>
-{% include ls.md %}
-</details>
-
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
@@ -42,4 +29,4 @@ pin: 0
 > Свои пожелания присылать на почту или в группу-телеграм
 
 > Тебе нужно сделать технически сложную штуку-дрюку? 
-> Закажи [разработку за деньги](../about.md). Не стесняйся! Так ты сэкономишь кучу времени и ресурсов
+> Закажи разработку у меня. Так будет быстрее и качественнее чем самому на коленке что-то паять
