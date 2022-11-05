@@ -1,5 +1,5 @@
 ---
-tags: hardware
+tags: hard
 date: 2022-09-25T11:58:42+03:00
 ---
 
