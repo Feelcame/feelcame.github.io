@@ -10,7 +10,7 @@ header #navButton {
 	display: none;
 }
 
-@media all and (max-width: 575px) {
+@media all and (max-width: 672px) {
 	header #nav {
 		display: none;
 	}
@@ -40,6 +40,9 @@ time.shaded {
 font-size: 10pt;
 }
 
+.comments_btn{
+	
+}
 
 .float-btn{
 	position:fixed;
