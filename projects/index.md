@@ -7,14 +7,14 @@ pin: 0
 
 
 ## Хард
-{: #hardware }
+{: #hard }
 
 {% include ls.md tag="hardware" %}
 
 ## Софт  
-{: #software }
+{: #soft }
 
-{% include ls.md tag="software" %}
+{% include ls.md tag="soft" %}
 
 
 ## Идеи
