@@ -1,5 +1,5 @@
 ---
-tags: hardware
+tags: hard
 ---
 
 ## PC watchdog
