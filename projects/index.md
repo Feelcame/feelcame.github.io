@@ -9,7 +9,7 @@ pin: 0
 ## Хард
 {: #hard }
 
-{% include ls.md tag="hardware" %}
+{% include ls.md tag="hard" %}
 
 ## Софт  
 {: #soft }
