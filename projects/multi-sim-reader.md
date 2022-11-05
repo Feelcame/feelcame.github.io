@@ -2,7 +2,7 @@
 date: 2021-11-01T11:58:59+02:00
 modified: 2021-11-03T11:59:46+02:00
 title: Мульти SIM-адаптер
-tags: hardware
+tags: hard
 comments: true
 ---
 
