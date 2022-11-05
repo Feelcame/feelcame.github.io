@@ -10,11 +10,13 @@ layout: home
 <h1 class="project-name">Привет</h1>
 <h2 class="project-tagline">Все статьи распределены по категориям. Для начала выбери интересующую</h2>
 	<div id="nav">
-	<a href="/hardware/" class="btn">😎 Железки</a>
-	<a href="/coding/" class="btn">🎮 Кодинг</a>
-	<a href="/software/" class="btn">💾 Софт</a>
-	<a href="/about" class="btn">🔍</a>
-	<div><a href="/life/" class="btn">Лайфстайл (не работой единой)</a></div>
+		<a href="{{ '/' | relative_url }}" title="Домой" class="btn">🏠</a>
+		<a href="{{ '/hardware/' | relative_url }}" title="Железки" class="btn">😎 Хліб</a>
+		<a href="{{ '/coding/'   | relative_url }}" title="Программирование" class="btn">🎮 Сіль</a>
+		<a href="{{ '/software/' | relative_url }}" title="Софт" class="btn">💾 Вода</a>
+		<a href="{{ '/life/' | relative_url}}" title="Лайфстайл" class="btn">💛Життя💙</a>
+		<a href="{{ '/projects/' | relative_url}}" title="Проекты" class="btn">🛠 Проекти</a>
+		<a href="{{ '/about'     | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
 </header>
 
