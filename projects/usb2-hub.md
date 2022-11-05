@@ -2,7 +2,7 @@
 date: 2021-10-03T00:00:00+02:00
 modified: 2021-11-03T00:00:00+02:00
 title: USB хаб со встроенными сетевой и аудиокартой
-tags: project hardware
+tags: hard
 ---
 
 - ToC
