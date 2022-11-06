@@ -142,7 +142,8 @@ comments: 112
 - yandex disk - русиянский аналог гдрайв
 - mega.nz - криптуется, тяжёлые веб страницы, 50гб бесплатно
 - ionos.de aka 1und1 - 5гб бесплатно, но нужно поморочиться
-
+- <https://jino.ru/disk/> 20gb
+- ukr.net 4gb
 
 ## Файлообменники "drag-n-drop"  
 {: #files }
