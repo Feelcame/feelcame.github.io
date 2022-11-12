@@ -2,7 +2,7 @@
 pin: 3
 comments: 96
 title: Программы на Windows
-description: В статье ссылки на официальный сайт. Скачать там же или на веб-диске: [**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I?usp=sharing) [**(для своих)**](https://drive.google.com/open?id=1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I&authuser=feelcame%40gmail.com&usp=drive_fs) [**Telegram**](https://t.me/FeelSoftWin/105), [**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs),  [**Проф. софт**](./profi-soft)
+description: тест
 date: 2021-09-09T12:19:30+03:00
 modified: 2022-07-04T08:40:38+03:00
 style: "details summary { display: block; width: 10em; width: -webkit-fit-content; width: -moz-fit-content; width: fit-content; border-bottom: 1px dotted; outline-style: none; cursor: pointer; }  details summary::-webkit-details-marker { display: none; } /* http://shpargalkablog.ru/2013/04/details-html.html */"
@@ -13,7 +13,8 @@ style: "details summary { display: block; width: 10em; width: -webkit-fit-conten
 {% comment %}style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'{% endcomment %}
 
 
-<!--<div style="font-size: 13px;"></div>-->
+<<div style="font-size: 13px;">В статье ссылки на официальный сайт. Скачать там же или на веб-диске: [**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I?usp=sharing) [**(для своих)**](https://drive.google.com/open?id=1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I&authuser=feelcame%40gmail.com&usp=drive_fs) [**Telegram**](https://t.me/FeelSoftWin/105), [**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs),  [**Проф. софт**](./profi-soft)
+</div>
 
 <details markdown="1" open>
 - toc
