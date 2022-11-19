@@ -15,8 +15,8 @@
   | where: "dir",  directory 
   | where_exp: "item", "item.pin != 0"
   | where_exp: "item", "item.name != 'redirect.html'"
-  | sort: "date" 
-  | reverse 
+  | sort: "name" | reverse
+  | sort: "date" | reverse 
 -%}  
 
 {%- comment -%}ТЕГИ{%- endcomment -%}  
@@ -71,7 +71,12 @@
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 {% unless showdate == "no" %}
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
+	{%- if showdate == "yes" and pg.date == "" or pg.date == nil -%}
+		{%- assign placeholder = "гггг-мм-дд" -%}
+	{%- endif -%}
+	<time class="shaded">
+		{{ pg.date | date: "%Y-%m-%d" | default: placeholder | default: "" }}
+	</time>
 {% endunless %}</li>
 
 {% endfor -%}

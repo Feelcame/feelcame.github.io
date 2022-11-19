@@ -12,7 +12,7 @@ pin: 0
 
 ## Мобильные телефоны
 {: #mobile }
-{% include ls.md tag="mobile" %}
+{% include ls.md tag="mobile" date="no" %}
 
 ## Компьютеры
 {: #computers }
@@ -47,10 +47,9 @@ pin: 0
 {: #notag }
 {%include ls.md tag="empty" %}
 
-## Прочее
-{% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
+<details markdown="1"><summary markdown="0">+ Нажми, чтобы открыть спойлер</summary>
+{% include ls.md pinned="yes" date="no" %}
+</details>
 
 {% comment %}
-{% include ls.md dir="/projects/" tag="hardware" spoiler="Проекты" %}
 {% endcomment %}
-
