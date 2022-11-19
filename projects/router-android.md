@@ -36,6 +36,8 @@
 Добавить свои ярлыки
 О приложении
 
+## программы
+Network Cell Info, Является инструментом мониторинга и тестирования сети.
 
-
-![image](https://user-images.githubusercontent.com/17731587/202875136-93e1ddbb-1bc5-47dd-a374-46eb9797857c.png)
+## картинки
+<details>![image](https://user-images.githubusercontent.com/17731587/202875136-93e1ddbb-1bc5-47dd-a374-46eb9797857c.png)</details>
