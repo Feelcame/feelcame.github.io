@@ -56,7 +56,10 @@
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
-<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time></li>
+{%- unless showdate == "no" -%}
+<time class="shaded">
+{{ pg.date | date: "%Y-%m-%d" | default: "" }}</time>
+{%- endunless -%}</li>
 
 {%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
 {%- assign ostatok = forloop.length | modulo: 5 -%}
@@ -71,12 +74,10 @@
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
 {% unless showdate == "no" %}
-	{%- if showdate == "yes" and pg.date == "" or pg.date == nil -%}
-		{%- assign placeholder = "гггг-мм-дд" -%}
-	{%- endif -%}
-	<time class="shaded">
-		{{ pg.date | date: "%Y-%m-%d" | default: placeholder | default: "" }}
-	</time>
+{%- if showdate == "yes" -%}{%- assign placeholder = "гггг-мм-дд" -%}{%- endif -%}
+<time class="shaded">
+{{ pg.date | date: "%Y-%m-%d" | default: placeholder | default: "" }}
+</time>
 {% endunless %}</li>
 
 {% endfor -%}
