@@ -2,6 +2,7 @@
 title: Микроконтроллеры с Wi-Fi от Espressif
 date: 2021-11-09T19:19:12
 comments: 93
+tags: controllers
 ---
 
 | Название   |  Год   | Описание

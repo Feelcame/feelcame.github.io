@@ -4,6 +4,7 @@ date: 2020-12-12T23:29:31+02:00
 modified: 2021-09-24T13:13:20+03:00
 tags: железо
 pin: 5
+tags: components
 ---
 раздел переехал/ жми сюда: [**/shop**](/shop/)  
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>

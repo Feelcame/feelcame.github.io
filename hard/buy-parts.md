@@ -3,6 +3,7 @@ date: 2021-10-15T00:00:00+02:00
 modified: 2021-11-03T00:00:00+02:00
 title: Где купить компоненты? + доставка
 comments: true
+tags: components
 ---
 
 

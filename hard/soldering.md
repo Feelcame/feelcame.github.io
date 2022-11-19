@@ -2,6 +2,7 @@
 title: Пайка и все о ней
 date: 2021-09-20T15:20:00+03:00
 comments: 1
+tags: soldering
 ---
 
 ## Паяльники

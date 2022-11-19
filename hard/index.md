@@ -6,41 +6,48 @@ tags: железо
 pin: 0
 ---
 
-## Домашняя автоматика {: #schematics }
-[/projects/](/projects/) - полезные самодельные устройства
-{% include ls.md tag="projects" %}
+## Полезные самодельные устройства
+{: #diy }
+{% include ls.md tag="diy" %}
 
-## Мобильные телефоны {: #mobile }
-{% include ls.md tag="soldering" %}
+## Мобильные телефоны
+{: #mobile }
+{% include ls.md tag="mobile" %}
 
-## Компьютеры {: #pc}
-{% include ls.md tag="pc" %}
+## Компьютеры
+{: #computers }
+{% include ls.md tag="computers" %}
 
-## Печатные платы {: #pcb }
+## Печатные платы
+{: #pcb }
 {% include ls.md tag="pcb" %}
 
-## Все про пайку {: #soldering }
+## Все про пайку
+{: #soldering }
 {% include ls.md tag="soldering" %}
 
-## Микроконтроллеры {: #stm }
-{% include ls.md tag="stm" %}
+## Микроконтроллеры
+{: #controllers }
+{% include ls.md tag="controllers" %}
 
-## Интересные микросхемы {: #ic }
-{% include ls.md tag="ic" %}
-
-## ВЧ-техника {: #hf }
+## ВЧ-техника
+{: #hf }
 {% include ls.md tag="hf" %}
 
-## Сети {: #network }
+## Сети
+{: #network }
 {% include ls.md tag="network" %}
 
-## Компонентная база {: #components }
+## Компонентная база
+{: #components }
 {% include ls.md tag="components" %}
 
-## Силовая электроника {: #power }
-{% include ls.md tag="power" %}
 
+## Без категории
+{: #notag }
+{%include ls.md tag="empty" %}
 
+## Прочее
 {% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
 
 {% comment %}

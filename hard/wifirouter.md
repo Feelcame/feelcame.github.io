@@ -1,6 +1,7 @@
 ---
 title: Какой выбрать wifi-роутер
 date: 2022-10-17T22:21:01
+tags: network
 ---
 
 **TLDR**
