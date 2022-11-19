@@ -35,3 +35,7 @@
 ### Дополнительно
 Добавить свои ярлыки
 О приложении
+
+
+
+![image](https://user-images.githubusercontent.com/17731587/202875136-93e1ddbb-1bc5-47dd-a374-46eb9797857c.png)
