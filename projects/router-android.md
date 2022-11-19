@@ -40,4 +40,8 @@
 Network Cell Info, Является инструментом мониторинга и тестирования сети.
 
 ## картинки
-<details>![image](https://user-images.githubusercontent.com/17731587/202875136-93e1ddbb-1bc5-47dd-a374-46eb9797857c.png)</details>
+<details markdown="1">
+  
+![image](https://user-images.githubusercontent.com/17731587/202875136-93e1ddbb-1bc5-47dd-a374-46eb9797857c.png)
+
+</details>
