@@ -3,6 +3,7 @@ title: Контакты
 date: 2020-05-10T21:39:06+03:00
 modified: 2022-09-05T00:04:21+03:00
 comments: false
+permalink: /:basename
 ---
 
 <input type="text" id="search-input" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">

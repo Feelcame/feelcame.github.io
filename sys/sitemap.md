@@ -1,6 +1,7 @@
 ---
 title: Карта сайта
 layout: default
+permalink: /:basename
 ---
 
 # Блог site.tags.blog

@@ -1,3 +1,6 @@
+---
+permalink: /:basename
+---
 
 <div id="cmnt" markdown="0">
 <script>
