@@ -73,11 +73,11 @@ a.button7:active {
 тебя что-нибудь спроектировать.
 
 
-<br><br>
+<br>
 
 
 <a href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" class="button7">купить гараж</a>
-<a href="tg://resolve?domain=memcdn" class="button7">видео с котиками</a>
+<a href="https://memcdn.t.me" class="button7">видео с котиками</a>
 <a href="/about.html#обратная-связь" class="button7">написать автору</a>
 
 </div>
