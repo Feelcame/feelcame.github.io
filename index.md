@@ -60,8 +60,13 @@ a.button7:active {
 
 
 
-<p style="text-align: center;">
-<h1><strong>ПРОДАМ ГАРАЖ</strong></h1>
+<div style="text-align: center;">
+	
+<h1>
+	<strong>ПРОДАМ ГАРАЖ</strong>
+</h1>
+	
+	
 ![](#)
 Шутка-минутка. Всего лишь занимаюсь  
 разработкой электроники. Могу и для  
@@ -78,7 +83,7 @@ a.button7:active {
 <a href="/about.html#обратная-связь" class="button7">написать автору</a>
 <br>
 
-</p>
+</div>
 
 <br><br><br><br><br><br><br><br><br>
 
