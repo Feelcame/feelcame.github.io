@@ -53,23 +53,30 @@ a.button7:active {
 какая-то реклама.
 
 
+<br>
+<br>
+<br>
 
-<p style="text-align: center;">
 
 ## ПРОДАМ ГАРАЖ
+
+<p style="text-align: center;">
 
 ![](#)
 Шутка-минутка. Всего лишь занимаюсь 
 разработкой электроники. Могу и для 
 тебя что-нибудь спроектировать.
 
-<br>
-<br>
+
+<br><br><br>
 
 
-<a href="javascript:alert('Простите, гараж уже продан')" class="button7">купить гараж</a><br>
-<a href="tg://resolve?domain=memcdn" class="button7">видео с котиками</a><br>
-<a href="/about.html#обратная-связь" class="button7">написать автору</a><br>
+<a href="javascript:alert('Простите, гараж уже продан')" class="button7">купить гараж</a>
+<br><br>
+<a href="tg://resolve?domain=memcdn" class="button7">видео с котиками</a>
+<br><br>
+<a href="/about.html#обратная-связь" class="button7">написать автору</a>
+<br>
 
 </p>
 
