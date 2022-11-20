@@ -58,20 +58,20 @@ a.button7:active {
 <br>
 
 
-## ПРОДАМ ГАРАЖ
+
 
 <p style="text-align: center;">
-
+<h1><strong>ПРОДАМ ГАРАЖ</strong></h2>
 ![](#)
-Шутка-минутка. Всего лишь занимаюсь 
-разработкой электроники. Могу и для 
+Шутка-минутка. Всего лишь занимаюсь  
+разработкой электроники. Могу и для  
 тебя что-нибудь спроектировать.
 
 
-<br><br><br>
+<br><br>
 
 
-<a href="javascript:alert('Простите, гараж уже продан')" class="button7">купить гараж</a>
+<a href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" class="button7">купить гараж</a>
 <br><br>
 <a href="tg://resolve?domain=memcdn" class="button7">видео с котиками</a>
 <br><br>
