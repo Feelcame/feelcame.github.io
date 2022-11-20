@@ -61,7 +61,7 @@ a.button7:active {
 
 
 <p style="text-align: center;">
-<h1><strong>ПРОДАМ ГАРАЖ</strong></h2>
+<h1><strong>ПРОДАМ ГАРАЖ</strong></h1>
 ![](#)
 Шутка-минутка. Всего лишь занимаюсь  
 разработкой электроники. Могу и для  
