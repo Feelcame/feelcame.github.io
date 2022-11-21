@@ -140,10 +140,10 @@ modified: 2022-07-04T08:40:38+03:00
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
-- Blank New Tab Page - заменяет стартовую страницу на пустую.
+- **Blank New Tab Page** - заменяет стартовую страницу на пустую.
   [оф.сайт](https://yuhaofe.com/blank-new-tab-page),
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh)
-- Quick Bookmarks Menu - быстрый доступ к закладкам<br>
+- **Quick Bookmarks Menu** - быстрый доступ к закладкам<br>
   [оф.сайт](https://yuhaofe.com/quick-bookmarks-menu),
   [chrome](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf)
 - **Переводчик SailorMax** - удобный, универсальный<br>
@@ -217,7 +217,7 @@ modified: 2022-07-04T08:40:38+03:00
   [ссылка](#)
 - **Duplicate File Detector** - поиск дубликатов файлов<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
-- WinDirStat<br>
+- **WinDirStat**<br>
   [оф.сайт](https://windirstat.net/download.html)
 </details>
 
@@ -239,7 +239,7 @@ modified: 2022-07-04T08:40:38+03:00
   
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
-- Win Updates Disabler - отключает обновления даже в Win 10 Home  
+- **Win Updates Disabler** - отключает обновления даже в Win 10 Home  
   [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
   [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
 - **AIDA64** - просмотр характеристик компа. платкая<br>
@@ -334,7 +334,9 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD** - Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
-</details>
+</details><br>
+
+
 
 <details markdown="1"><summary markdown="0">LiveCD</summary>
 
