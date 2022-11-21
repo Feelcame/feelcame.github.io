@@ -13,19 +13,20 @@
 	<style>{{ page.style }}</style>
 </head>
 <body>
-	<a href="#top" id="vverh" onclick="showNav()"></a>
+
 	<header class="page-header" role="banner">
-	<!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
+	<a href="#top" id="vverh"></a>
+<!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
 	<a href="{{ site.baseurl }}/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
 	<div id="nav">
-		<a href="{{ '/' | relative_url }}" title="Домой" class="btn">🏠</a>
+		<a href="{{ '/' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
 		<a href="{{ '/hard/' | relative_url }}" title="Железки" class="btn">😎 Хліб</a>
 		<a href="{{ '/code/'   | relative_url }}" title="Программирование" class="btn">🎮 Сіль</a>
 		<a href="{{ '/soft/' | relative_url }}" title="Софт" class="btn">💾 Вода</a>
 		<a href="{{ '/life/' | relative_url}}" title="Лайфстайл" class="btn">💛Життя💙</a>
 		<a href="{{ '/projects/' | relative_url}}" title="Проекты" class="btn">🛠 Проекти</a>
-		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn" onclick="showSearch(); return false;">🔍</a>
-
+		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn not-mobile" onclick="return showSearch();">🔍</a>
+	</div>
 <!-- 
 		<div id="mob">
 		<a href="{{ '/index.html' | relative_url }}" title="Домашня" class="btn">🏠</a>
@@ -33,7 +34,7 @@
 		<a href="#trigger" id="navBtn" onclick="return showNav();" title="Меню" class="btn">🥪🍔</a>
 		</div>
 -->
-	</div>
+
 	{%- if page.description %}
 	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
 	{% endif -%}
