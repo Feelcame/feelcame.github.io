@@ -86,7 +86,7 @@ a.button7:active {
 
 
 
-
+[todo](./projects/personal-page.md)
 <footer class="site-footer" markdown="0">
 	<span class="site-footer-owner">
 	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
