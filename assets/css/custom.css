@@ -14,6 +14,9 @@ header #navButton {
 	header #nav {
 		display: none;
 	}
+        header a.not-mobile{
+		display: none;
+        }
 	header #mob {
 		display: block;
 	}
