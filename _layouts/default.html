@@ -26,11 +26,11 @@
 		<a href="{{ '/projects/' | relative_url}}" title="Проекты" class="btn">🛠 Проекти</a>
 		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn not-mobile" onclick="return showSearch();">🔍</a>
 	</div>
-	<div id="mob">
+	<span id="mob">
 		<a href="{{ '/index.html' | relative_url }}" title="Домашня" class="btn">🏠</a>
 		<a href="#search" id="searchBtn" onclick="return showSearch();" title="Поиск" class="btn">🔍</a>
 		<a href="#trigger" id="navBtn" onclick="return showNav();" title="Меню" class="btn">🍔</a>
-	</div>
+	</span>
 
 	{%- if page.description %}
 	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
