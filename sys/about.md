@@ -6,14 +6,14 @@ comments: false
 permalink: /:basename
 ---
 
-<input type="text" id="search-input" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
+<input type="text" id="search-input2" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 <ul id="results-container"></ul>
 
-<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
+<script src="{{ '/assets/js/simple-jekyll-search.js' | relative_url }} "></script>
 
 <script>
   window.simpleJekyllSearch = new SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
+	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
 	json: '{{ site.baseurl }}/assets/json/search.json',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
