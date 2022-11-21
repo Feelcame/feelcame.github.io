@@ -32,7 +32,7 @@ const event = new Event('input');
 pole.dispatchEvent(event);
 return false;
 }
-setTimeout(setInput, 100);
+setTimeout(setInput, 1000);
 </script>
 
 
