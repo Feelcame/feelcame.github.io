@@ -73,7 +73,7 @@ new. 20220811
 
 
 
-<details markdown="1"><summary markdown="0">+ Версия 1.211106 Проверенно работает</summary>
+<details markdown="1"><summary markdown="0">Версия 1.211106 Проверенно работает</summary>
 {% raw %}
 ``` html
 {%- comment -%}Этот скрипт выводит список страниц в директории. Можно передать "dir" и "tag"  
@@ -108,7 +108,7 @@ new. 20220811
 </details>
 
 
-<details markdown="1"><summary markdown="0">+ Версия 2.211108 Проверено. Теперь более читабельные код</summary>
+<details markdown="1"><summary markdown="0">Версия 2.211108 Проверено. Теперь более читабельные код</summary>
 
 {% raw %}
 ``` html
@@ -141,7 +141,7 @@ new. 20220811
 
 
 
-<details markdown="1"><summary markdown="0">+ Версия 3.220107 спойлер, закреп, блоки</summary>
+<details markdown="1"><summary markdown="0">Версия 3.220107 спойлер, закреп, блоки</summary>
 
 {% raw %}
 ``` html
@@ -238,7 +238,7 @@ new. 20220811
 
 {%- if showpinned !="only" %}
 {%- if spoiler -%}
-<details markdown="1" open><summary markdown="0">+ {{ spoiler }}</summary>
+<details markdown="1" open><summary markdown="0">{{ spoiler }}</summary>
 {{ result }}
 </details>
 {%- else -%}
@@ -251,7 +251,7 @@ new. 20220811
 </details>
 
 
-<details markdown="1"><summary markdown="0">+ Версия 4.</summary>
+<details markdown="1"><summary markdown="0">Версия 4.</summary>
 
 {% raw %}
 ``` html
@@ -268,23 +268,23 @@ new. 20220811
 
 
 
-<details markdown="1"><summary markdown="0">+ Передано TAG и DIR</summary>
+<details markdown="1"><summary markdown="0">Передано TAG и DIR</summary>
 ```{ % include ls.md dir="/projects/" tag="hardware" %}```   
 {% include ls.md dir="/projects/" tag="hardware" %}
 </details>
 
-<details markdown="1"><summary markdown="0">+ Передано TAG</summary>
+<details markdown="1"><summary markdown="0">Передано TAG</summary>
 ```{ % include ls.md tag="hardware" %}```   
 {% include ls.md tag="hardware" %}
 </details>
 
-<details markdown="1"><summary markdown="0">+ Передано DIR</summary>
+<details markdown="1"><summary markdown="0">Передано DIR</summary>
 ```{ % include ls.md dir="/projects/" %}```   
 {% include ls.md dir="/projects/" %}
 </details>
 
 
-<details markdown="1"><summary markdown="0">+ Нет параметров</summary>
+<details markdown="1"><summary markdown="0">Нет параметров</summary>
 ```{ % include ls.md %}```   
 {% include ls.md %}
 </details>

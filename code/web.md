@@ -147,7 +147,7 @@ JavaScript — язык программирования, широко испо�
 {% raw %}
 ```html
 <details markdown="1">
-<summary markdown="0">+ Сегодня в программе</summary>
+<summary markdown="0">Сегодня в программе</summary>
 * Table of Content  
 { : toc}
 </details>

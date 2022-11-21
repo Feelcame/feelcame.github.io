@@ -9,17 +9,17 @@ pin: 0
 {% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
 
 {% comment %}
-<details markdown="1"><summary markdown="0">+ Мои проекты</summary>
+<details markdown="1"><summary markdown="0">Мои проекты</summary>
 {% include ls.md tag="project" %}
 </details>
 
 
 
-<details markdown="1"><summary markdown="0">+ Идеи</summary>
+<details markdown="1"><summary markdown="0">Идеи</summary>
 {% include ls.md dir="/projects/" tag="coding" %}
 </details>
 
-<details markdown="1"><summary markdown="0">+ Web</summary>
+<details markdown="1"><summary markdown="0">Web</summary>
 {% include ls.md tag="web" %}
 </details>
 {% endcomment %}

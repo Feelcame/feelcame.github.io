@@ -15,8 +15,7 @@
 <body>
 	<a href="#top" id="vverh" onclick="showNav()"></a>
 	<header class="page-header" role="banner">
-	<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-	<h2 class="project-tagline" id="top">{{ page.description | default: "Сайт feelcame.github.io - добро пожаловать домой" }}</h2>
+	<!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
 	<a href="{{ site.baseurl }}/" class="btn" id="navButton" onclick="return showNav();">Показать навигацию</a>
 	<div id="nav">
 		<a href="{{ '/' | relative_url }}" title="Домой" class="btn">🏠</a>
@@ -35,19 +34,32 @@
 		</div>
 -->
 	</div>
+	{%- if page.description %}
+	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
+	{% endif -%}
+	
+
 	</header>
 	<main id="content" class="main-content" role="main">
-{{ content }}
-		{% if page.date or page.modified %}
+{%- if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif -%}
+		{%- if page.pin !=0 and page.permalink ==nil and page.date or page.modified -%}
 		<time class="shaded">
-		Дата: {{ page.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}
-		{%- if page.modified %}. Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" }}
+		{%- if page.modified %}. 
+		Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
 		</time>
 		{%- endif -%}
-		{% if page.comments %}{% include comments.md %}{% endif %}
-
-<footer class="site-footer" style="text-align: center;">
-{% include footer.md %}
+{{ content }}
+		{%- if page.date or page.modified -%}
+		<time class="shaded">
+		Дата: {{ page.date | date: "%Y-%m-%d" | default: "не указана" }}
+		{%- if page.modified %}. 
+		Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+		</time>
+		{%- endif -%}
+{%- if page.comments %}{% include comments.md %}{% endif -%}
+<footer class="site-footer">
+{%- include footer.md -%}
 </footer>
 
 	</main>

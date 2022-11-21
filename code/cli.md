@@ -32,7 +32,7 @@ cmd /k powercfg /requests
 2. В свойствах ярлыка удалить все в поле "Рабочая папка"
 3. В свойстваъх ярлыка в поле "Окно" выбрать "Свернутое в значок". Это предотвратит появление окна консоли
 
-<details markdown="1"><summary markdown="0">+ Под спойдером картинка</summary>
+<details markdown="1"><summary markdown="0">Под спойдером картинка</summary>
 ![image](https://user-images.githubusercontent.com/17731587/140293941-fea0b2c8-0f0f-432c-8fad-9753c99496df.png)
 </details>
 

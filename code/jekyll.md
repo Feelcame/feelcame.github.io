@@ -6,7 +6,7 @@ comments: 95
 pin: 3
 ---
 
-<details markdown="1" open><summary  markdown="0">+ Спиок разделов</summary>
+<details markdown="1" open><summary markdown="0">Спиок разделов</summary>
 * Table of Content
 {: toc }
 </details>
@@ -219,11 +219,11 @@ title: test
 ### Спойлеры с markdown
 
 ``` html
-<details markdown="1"><summary markdown="0">+ Заголовок спойлера</summary>
+<details markdown="1"><summary markdown="0">Заголовок спойлера</summary>
 Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку
 </details>
 ```
-<details markdown="1"><summary markdown="0">+ Нажми на меня</summary>
+<details markdown="1"><summary markdown="0">Нажми на меня</summary>
 Спрятанный внутри текст. Может содержать в себе <b>HTML</b> или **Markdown** разметку
 </details>
 

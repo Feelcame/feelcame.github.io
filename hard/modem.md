@@ -9,7 +9,7 @@ tags: network
 
 **TL;DR**. Мои критерии выбора простые. Что-бы работало и требовало минимум внимания к себе. Желательна возможность кастомизации. Band **1/3/7/8** частоты 2100/1800/2600/900. Ниже будет длинный список популярных моделей модемов и некоторое пояснение от меня. 
 
-<details markdown="1"><summary markdown="0">+ Сегодня в программе</summary>
+<details markdown="1"><summary markdown="0">Сегодня в программе</summary>
 - toc  
 {: toc }
 
@@ -135,7 +135,7 @@ tags: network
 ## Чистокровная китайщина
 - Популярные бренды на али: KuWFi, COMFAST, Tianjie. С виду все на одно лицо, возможно и на одном заводе производятся (OEM)
 
-<details markdown="1"><summary markdown="0">+ Показать больше</summary>
+<details markdown="1"><summary markdown="0">Показать больше</summary>
 - [Тема на 4pda](https://4pda.to/forum/index.php?showtopic=849043)  
 - Noname B1/B3. Цена $15 самый дешевый. Бывает с разными названиями.  
   [UF902-1 ($15.75)](https://aliexpress.ru/item/33011621445.html), 

@@ -9,7 +9,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 <div style="font-size: 13px;">
-[**Google Drive (для своих)**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
+[**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
 [**Telegram**](https://t.me/FeelSoftWin/105), 
 [**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
 [**Проф. софт**](./profi-soft)
@@ -350,20 +350,21 @@ modified: 2022-07-04T08:40:38+03:00
 [Наверх↑](#top)
 
 
-
-## Разработчику
-на отдельной странице: [./profi-soft](./profi-soft.md)
+ 
 
 
 
 ## Полезные ссылки  
 {: .no_toc }
+- Разработчику [./profi-soft](./profi-soft.md)
+- Навигатор в телеграм-канале <https://t.me/s/FeelSoftWin/109>
 
+<!-- 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
 <center><a style="font-size: 13px;" href="https://t.me/s/FeelSoftWin/109"><strong>t.me/FeelSoftWin</strong></a></center>  
 <script async src="https://telegram.org/js/telegram-widget.js?15" data-telegram-post="FeelSoftWin/109" data-width="100%"></script>
 </details>
-
+-->
 
 
 

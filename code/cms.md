@@ -44,7 +44,7 @@ modified: 2021-08-25T11:37:03+03:00
 - <https://picocms.org/> простая цмс на файлах
 
 <details markdown="1">
-<summary markdown="0">+ показать больше</summary>
+<summary markdown="0">показать больше</summary>
 * Joomla - динозавр
 * [Mobilizon](https://mobilizon.org) - ивенты в вашем городе
 * Serendipity - <https://docs.s9y.org/index.html>
@@ -71,7 +71,7 @@ modified: 2021-08-25T11:37:03+03:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ **Разновидности**</summary>
+<summary markdown="0">**Разновидности**</summary>
 
 Практическое применение <https://hostiq.ua/wiki/cms/>  
 блог, форум (WordPress, phpBB, vBulletin);  
@@ -83,7 +83,7 @@ modified: 2021-08-25T11:37:03+03:00
 </details>
 
 <details markdown="1">
-<summary markdown="0">+ **Пояснение**</summary>
+<summary markdown="0">**Пояснение**</summary>
 
 Существует несколько основных типов решений для электронной коммерции. Некоторые фокусируются на продаже цифровых продуктов, некоторые отлично подходят для компаний, использующих дропшиппинг (Oberlo), а третьи идеальны для моделей с подпиской (Wix Membership).
 

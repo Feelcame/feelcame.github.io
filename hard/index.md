@@ -47,7 +47,8 @@ pin: 0
 {: #notag }
 {%include ls.md tag="empty" %}
 
-<details markdown="1"><summary markdown="0">+ Нажми, чтобы открыть спойлер</summary>
+## Все статьи
+<details markdown="1"><summary markdown="0">Нажми, чтобы открыть спойлер</summary>
 {% include ls.md pinned="yes" date="no" %}
 </details>
 

@@ -20,12 +20,39 @@ header #navButton {
 }
 
 
-/* примеры кастомизации спойлеров http://shpargalkablog.ru/2013/04/details-html.html */
-summary {
-  font-weight: 700;
+/* 
+Кастомизация спойлеров:
+- http://shpargalkablog.ru/2013/04/details-html.html 
+- https://habr.com/ru/post/477520/
+*/
+details summary {
   cursor: pointer;
-  border-bottom: 1px dotted; 
 }
+
+/* Убираем стандартный маркер Chrome */
+details summary::-webkit-details-marker {
+  display: none
+}
+/* Убираем стандартный маркер Firefox */
+details > summary {
+  list-style: none;
+}
+
+/* Добавляем собственный маркер для закрытого состояния */
+details summary:before {
+  content: '+';
+  //font-family: "Font Awesome 5 free";
+  margin-right: 7px;
+  margin-left: 7px;
+}
+
+/* Добавляем собственный маркер для открытого состояния */
+details[open] summary:before {
+  content: '–';
+}
+
+details[open] {
+border-left: 1px dotted black;}
 
 time {
   font-size: 10px;
@@ -61,4 +88,29 @@ font-size: 10pt;
 	padding: 0 30px;
 	font-size:18px;
 	font-family:Verdana, Geneva, sans-serif;
+}
+
+
+.project-tagline {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.page-header {
+    padding-bottom: 5px;
+    padding-top: 15px;
+}
+
+main h1.title {
+	text-align: center;
+}
+
+.site-comments {
+	padding-top: 2rem; 
+	margin-top: 2rem; 
+	border-top: solid 2px #eff0f1;
+}
+
+.site-footer {
+    border-top: solid 2px #eff0f1;
 }

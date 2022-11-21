@@ -5,7 +5,7 @@ modified: 2021-08-08T16:18:44+03:00
 tags: diy
 ---
 
-# Сброс пароля камеры
+## Сброс пароля камеры
 
 Сброс пароля камеры хикивижн  
 Reset hikivision camera admin password
