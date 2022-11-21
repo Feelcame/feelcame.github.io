@@ -336,8 +336,6 @@ modified: 2022-07-04T08:40:38+03:00
   [v4.2](https://tlgur.com/d/4rqo5v7g)
 </details><br>
 
-
-
 <details markdown="1"><summary markdown="0">LiveCD</summary>
 
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
