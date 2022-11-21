@@ -14,7 +14,7 @@ header #navButton {
 	header #nav {
 		display: none;
 	}
-	header #navButton {
+	header #mob {
 		display: block;
 	}
 }
