@@ -334,7 +334,8 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт(без либ)](http://wntsetup.ru/)
 - **Easy BCD** - Редактор загрузчика с красивым GUI    
   [v4.2](https://tlgur.com/d/4rqo5v7g)
-</details><br>
+</details>
+<p></p>
 
 <details markdown="1"><summary markdown="0">LiveCD</summary>
 
