@@ -24,7 +24,7 @@
 		<a href="{{ '/soft/' | relative_url }}" title="Софт" class="btn">💾 Вода</a>
 		<a href="{{ '/life/' | relative_url}}" title="Лайфстайл" class="btn">💛Життя💙</a>
 		<a href="{{ '/projects/' | relative_url}}" title="Проекты" class="btn">🛠 Проекти</a>
-		<a href="{{ '/about'     | relative_url }}" title="Поиск" class="btn">🔍</a>
+		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn" onclick="showSearch(); return false;">🔍</a>
 
 <!-- 
 		<div id="mob">
@@ -41,6 +41,10 @@
 
 	</header>
 	<main id="content" class="main-content" role="main">
+<form id="search-input" name="search" method="get" action="/search"  style="display:none;">
+<input type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
+<button type="submit">Найти</button> 
+</form>
 {%- if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif -%}
 		{%- if page.pin !=0 and page.permalink ==nil and page.date or page.modified -%}
 		<time class="shaded">

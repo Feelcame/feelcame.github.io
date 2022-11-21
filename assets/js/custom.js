@@ -20,9 +20,15 @@ beautifyLinks();
 
 // Подсветка результатов поиска по сайту
 // https://stackoverflow.com/questions/16251505/how-to-highlight-all-text-occurrences-in-a-html-page-with-javascript/47440755#47440755
+
+var search = decodeURIComponent(window.location.search.substring(1));
+var pair = search.split("&")[0];
+var key = pair.split("=")[0];
+var q = pair.split("=")[1];
+if (location.pathname == "/search" || key != "search") { q=""; }
+
 var c=0;
 function selectNext(){
-	var q = decodeURIComponent(window.location.search.substring(3));
 	if (q.length > 2){
 		if (c<1){
 			document.body.innerHTML += '<a href="#" class="float-btn" onclick="selectNext(); return false;" >еще</a>'; 	
@@ -34,3 +40,12 @@ function selectNext(){
 }
 selectNext();
 
+
+
+function showSearch(){
+	var textField = document.getElementById('search-input');
+	textField.style.display='block'; 
+	//textField.focus(); 
+    //textbox.scrollIntoView();
+	return false;
+}
