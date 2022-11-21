@@ -27,6 +27,7 @@ header #navButton {
 */
 details summary {
   cursor: pointer;
+border-bottom: 1px dotted;
 }
 
 /* Убираем стандартный маркер Chrome */
