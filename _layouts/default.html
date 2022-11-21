@@ -43,7 +43,7 @@
 <input type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 <button type="submit">Найти</button> 
 </form>
-{%- if page.title %}<h1 class="title">{{ page.title }}</h1>{% endif -%}
+{%- if page.title %}<h2 class="title">{{ page.title }}</h2>{% endif -%}
 		{%- if page.pin !=0 and page.permalink ==nil and page.date or page.modified -%}
 		<time class="shaded">
 		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" }}
