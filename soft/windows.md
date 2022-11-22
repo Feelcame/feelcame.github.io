@@ -2,22 +2,24 @@
 pin: 3
 comments: 96
 title: Программы на Windows
-description: В статье ссылки на официальный сайт. Скачать там же или на веб-диске
+no-description: В статье ссылки на официальный сайт. Скачать там же или на веб-диске
 date: 2021-09-09T12:19:30+03:00
 modified: 2022-07-04T08:40:38+03:00
 ---
 
 
+
+<details markdown="1"><summary markdown="0">Предисловие</summary>
 <div style="font-size: 13px;">
-[**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
+В статье ссылки на официальный сайт. Скачать там же или на веб-диске. [**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
 [**Telegram**](https://t.me/FeelSoftWin/105), 
 [**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
 [**Проф. софт**](./profi-soft)
 </div>
 
-<details markdown="1">
 - toc
 {:toc}
+
 </details>
 
 
