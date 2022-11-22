@@ -96,11 +96,12 @@ a.button7:active {
 	Made with GitHub Pages
 	<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>-->
 	</span>
+	[todo](./projects/personal-page.md){: style="color: #ccc;"}  
+	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #fdf85c59;">[edit]</a>
+
 <br><br><br><br><br>
 </footer>
 
-[todo](./projects/personal-page.md){: style="color: #ccc;"}  
-[edit](https://github.com/Feelcame/feelcame.github.io/edit/master/index.md){: style="color: #fdf85c59;"}
 
 </main>
 
