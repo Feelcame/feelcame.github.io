@@ -32,7 +32,9 @@ a.button7 {
   background: rgb(64,199,129);
   box-shadow: 0 -3px rgb(53,167,110) inset;
   transition: 0.2s;
-  line-height: 3.5;
+  line-height: 4;
+  margin-left: 10px;
+  margin-right: 10px;
 } 
 a.button7:hover { background: rgb(53, 167, 110); }
 a.button7:active {
