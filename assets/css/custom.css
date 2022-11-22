@@ -40,7 +40,7 @@ details summary {
 }
 
 details[open] summary {
-	border-left: none;
+  border-left: 1px dotted #00000000;
 }
 
 /* Убираем стандартный маркер Chrome */
