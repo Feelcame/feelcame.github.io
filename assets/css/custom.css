@@ -20,6 +20,12 @@ header #mob {
 	header #mob {
 		display: inline;
 	}
+	
+	#mob .btn {
+    display: inline-block;
+    width: 28%;
+    margin: 0 2% 16px;
+	}
 }
 
 
@@ -30,7 +36,11 @@ header #mob {
 */
 details summary {
   cursor: pointer;
-border: 1px dotted;
+  border: 1px dotted;
+}
+
+details[open] summary {
+	border-left: none;
 }
 
 /* Убираем стандартный маркер Chrome */
