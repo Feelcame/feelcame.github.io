@@ -6,49 +6,49 @@ tags: железо
 pin: 0
 ---
 
-{% include ls.md pinned="only" %}
+{% include dir-ls.md pinned="only" %}
 
 
 ## Полезное
 {: #sch }
-{% include ls.md tag="sch" %}
+{% include dir-ls.md tag="sch" %}
 
 ## Домашняя электроника
 {: #mobile }
-{% include ls.md tag="home" date="yes" %}
+{% include dir-ls.md tag="home" date="yes" %}
 
 ## Печатные платы
 {: #pcb }
-{% include ls.md tag="pcb" %}
+{% include dir-ls.md tag="pcb" %}
 
 ## Все про пайку
 {: #soldering }
-{% include ls.md tag="soldering" %}
+{% include dir-ls.md tag="soldering" %}
 
 ## Микроконтроллеры
 {: #controllers }
-{% include ls.md tag="controllers" %}
+{% include dir-ls.md tag="controllers" %}
 
 ## ВЧ-техника
 {: #hf }
-{% include ls.md tag="hf" %}
+{% include dir-ls.md tag="hf" %}
 
 ## Сети
 {: #network }
-{% include ls.md tag="network" %}
+{% include dir-ls.md tag="network" %}
 
 ## Компонентная база
 {: #components }
-{% include ls.md tag="components" %}
+{% include dir-ls.md tag="components" %}
 
 
 ## Без категории
 {: #notag }
-{%include ls.md tag="empty" %}
+{%include dir-ls.md tag="empty" %}
 
 ## Все статьи
 <details markdown="1"><summary markdown="0">Нажми, чтобы открыть спойлер</summary>
-{% include ls.md pinned="yes" date="no" %}
+{% include dir-ls.md pinned="yes" date="no" %}
 </details>
 
 {% comment %}

@@ -176,7 +176,7 @@ title: test
 ```
 {% endraw %}
 
-Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/ls.md) и [пример работы](/coding/directory-listing.html)  
+Мой скрипт навигации: [исходники]({{ site.github.repository_url }}/blob/master/_includes/dir-ls.md) и [пример работы](/coding/directory-listing.html)  
 
 ### Экранирование
 1. Экранирования одного символа обратным слешем ```\*md\*```. Распространяется на большинство служебных символов: (**\* \- \`**)

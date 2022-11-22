@@ -2,4 +2,4 @@
 title: Преобразование md2html
 ---
 
-{% include ls.md %}
+{% include dir-ls.md %}

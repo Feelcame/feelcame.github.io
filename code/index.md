@@ -7,21 +7,21 @@ pin: 0
 ---
 
 
-{% include ls.md pinned="yes" %}
+{% include dir-ls.md pinned="yes" %}
 
 {% comment %}
 <details markdown="1"><summary markdown="0">Мои проекты</summary>
-{% include ls.md tag="project" %}
+{% include dir-ls.md tag="project" %}
 </details>
 
 
 
 <details markdown="1"><summary markdown="0">Идеи</summary>
-{% include ls.md dir="/projects/" tag="coding" %}
+{% include dir-ls.md dir="/projects/" tag="coding" %}
 </details>
 
 <details markdown="1"><summary markdown="0">Web</summary>
-{% include ls.md tag="web" %}
+{% include dir-ls.md tag="web" %}
 </details>
 {% endcomment %}
 

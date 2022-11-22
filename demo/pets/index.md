@@ -6,4 +6,4 @@ redirect_from:
   - /pets/
 ---
 {% include breadcrumbs.html %}
-{% include ls.md %}
+{% include dir-ls.md %}

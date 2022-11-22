@@ -7,7 +7,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 этот магазин задуман как демо для [jekyll-shop](../projects/jekyll-shop.md)
 
 <div class="grid">
-{% include ls.md date="no" dir="/shop/cat/" %}
+{% include dir-ls.md date="no" dir="/shop/cat/" %}
 </div>
 
 ## Список рекомендуемых

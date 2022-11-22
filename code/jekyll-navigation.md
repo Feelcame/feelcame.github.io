@@ -1,5 +1,5 @@
 ---
-title: ls.md - Вывод навигации в Jekyll
+title: dir-ls.md - Вывод навигации в Jekyll
 date: 2021-11-05T11:58:23+02:00
 modified: 2022-08-11T03:35:23+03:00
 tags: soft
@@ -7,7 +7,7 @@ comments: 108
 pin: 5
 ---
 
-**ls.md** - этот скрипт для Jekyll выводит навигацию - список страниц в папке. Поддерживается кастомизация поведения через передачу параметров. 
+**dir-ls.md** - этот скрипт для Jekyll выводит навигацию - список страниц в папке. Поддерживается кастомизация поведения через передачу параметров. 
 
 Сортировка по дате (сначала новые). Группировка по пять ссылок, для удобства восприятия. Страницы без даты выводятся отдельно в самом низу. Можно отдельно вывести список закрепленных
 
@@ -17,12 +17,12 @@ pin: 5
 ## Использование
 Простой пример:
 ```
-{% raw %}{% include ls.md %}{% endraw %}
+{% raw %}{% include dir-ls.md %}{% endraw %}
 ```
 
 Передача параметров: 
 ```
-{% raw %}{% include ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles" %}{% endraw %}
+{% raw %}{% include dir-ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles" %}{% endraw %}
 ```
 
 
@@ -58,7 +58,7 @@ pin: 5
 
 ## Исходники
 
-Текущее состояние: [**ссылка**]({{ site.github.repository_url }}/blob/master/_includes/ls.md).  
+Текущее состояние: [**ссылка**]({{ site.github.repository_url }}/blob/master/_includes/dir-ls.md).  
 Репозиторий гитхаб: [**ссылка**](https://github.com/Feelcame/jekyll-directory-listing)  
 Примеры и тесты: [ссылка](../demo/directory-listing/)  
 
@@ -70,7 +70,7 @@ pin: 5
 - изменено поведение `spoiler` - теперь он выводится свернутым
 - изменен принцип работы параметра `date`. Теперь дату можно скрыть совсем, а по-умолчанию не выводится заглушка
 - исправлена работа параметра `pinned="yes"`, раньше он не выводил данные
-
+- переименовал в "dir-ls.md", раньше называлось просто ls.md
 
 220811
 - теперь можно передать параметр `tag="empty"` - выведутся только страницы без каких либо тегов 
@@ -288,24 +288,24 @@ v211106
 
 
 <details markdown="1"><summary markdown="0">Передано TAG и DIR</summary>
-```{ % include ls.md dir="/projects/" tag="hardware" %}```   
-{% include ls.md dir="/projects/" tag="hardware" %}
+```{ % include dir-ls.md dir="/projects/" tag="hardware" %}```   
+{% include dir-ls.md dir="/projects/" tag="hardware" %}
 </details>
 
 <details markdown="1"><summary markdown="0">Передано TAG</summary>
-```{ % include ls.md tag="hardware" %}```   
-{% include ls.md tag="hardware" %}
+```{ % include dir-ls.md tag="hardware" %}```   
+{% include dir-ls.md tag="hardware" %}
 </details>
 
 <details markdown="1"><summary markdown="0">Передано DIR</summary>
-```{ % include ls.md dir="/projects/" %}```   
-{% include ls.md dir="/projects/" %}
+```{ % include dir-ls.md dir="/projects/" %}```   
+{% include dir-ls.md dir="/projects/" %}
 </details>
 
 
 <details markdown="1"><summary markdown="0">Нет параметров</summary>
-```{ % include ls.md %}```   
-{% include ls.md %}
+```{ % include dir-ls.md %}```   
+{% include dir-ls.md %}
 </details>
 
 

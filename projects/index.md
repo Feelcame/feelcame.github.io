@@ -9,17 +9,17 @@ pin: 0
 ## Хард
 {: #hard }
 
-{% include ls.md tag="hard" %}
+{% include dir-ls.md tag="hard" %}
 
 ## Софт  
 {: #soft }
 
-{% include ls.md tag="soft" %}
+{% include dir-ls.md tag="soft" %}
 
 
 ## Идеи
 
-{% include ls.md tag="empty" %}
+{% include dir-ls.md tag="empty" %}
 
 [[+] добавить ещё]({{ site.github.repository_url }}/new/master{{ page.dir }})
 
