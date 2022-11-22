@@ -10,8 +10,8 @@ pin: 0
 
 
 ## Полезное
-{: #shema }
-{% include ls.md tag="shema" %}
+{: #sch }
+{% include ls.md tag="sch" %}
 
 ## Домашняя электроника
 {: #mobile }
