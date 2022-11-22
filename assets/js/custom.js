@@ -43,9 +43,9 @@ selectNext();
 
 
 function showSearch(){
-	var textField = document.getElementById('search-input');
-	textField.style.display='block'; 
-	//textField.focus(); 
-    //textbox.scrollIntoView();
+	let input = document.querySelector('#search-input');
+	input.style.display='block'; 
+	input.focus(); 
+	input.scrollIntoView();
 	return false;
 }
