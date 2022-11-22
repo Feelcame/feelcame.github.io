@@ -37,7 +37,8 @@ setTimeout(setInput, 1000);
 
 
 
-<details><summary>Поиск по репозиторию</summary>
+<details markdown="0">
+<summary markdown="0">Поиск по репозиторию</summary>
 <strong>Внимание! Поиск перекинет на другой сайт</strong>
 <form name="search" method="get" target="_blank" action="https://github.com/Feelcame/{{ site.github.repository_name }}/search">
 <input type="search" name="q" placeholder="Поиск Github">
