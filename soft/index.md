@@ -5,7 +5,7 @@ modified: 2021-09-11T20:58:58+03:00
 pin: 0
 ---
 
-{% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
+{% include ls.md pinned="yes" %}
 
 {% comment %}
 **Проекты:**

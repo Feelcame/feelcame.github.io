@@ -98,11 +98,11 @@
 
 
 {%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
-{%- if showpinned == "yes" %}
+{%- if showpinned == "yes" or showpinned == "only" %}
 {{ pins }}
 {%- endif %}  
 
-{%- if showpinned !="only" %}
+{%- unless showpinned =="only" %}
 {%- if spoiler -%}
 <details markdown="0"><summary markdown="0">{{ spoiler }}</summary>
 {{ result }}
@@ -110,4 +110,4 @@
 {%- else -%}
 {{ result }}
 {%- endif -%}
-{%- endif -%}
+{%- endunless -%}
