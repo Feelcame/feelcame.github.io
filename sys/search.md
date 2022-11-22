@@ -32,10 +32,11 @@ const event = new Event('input');
 pole.dispatchEvent(event);
 return false;
 }
-setTimeout(setInput, 1000);
+setTimeout(setInput, 500);
 </script>
 
 
+---
 
 <details markdown="0">
 <summary markdown="0">Поиск по репозиторию</summary>
