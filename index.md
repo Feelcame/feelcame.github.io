@@ -86,7 +86,10 @@ a.button7:active {
 
 
 
-[todo](./projects/personal-page.md)
+[todo](./projects/personal-page.md){: style="color: #ccc;"}  
+[edit](./projects/personal-page.md){: style="color: #eff;"}
+
+
 <footer class="site-footer" markdown="0">
 	<span class="site-footer-owner">
 	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
