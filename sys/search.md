@@ -3,7 +3,7 @@ title: Поиск
 permalink: /:basename
 ---
 
-<input type="text" id="search-input" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
+<input type="text" id="search-input2" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 
 <ul id="results-container"></ul>
 
@@ -11,7 +11,7 @@ permalink: /:basename
 
 <script>
   window.simpleJekyllSearch = new SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
+	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
 	json: '{{ site.baseurl }}/assets/json/search.json',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
@@ -26,7 +26,7 @@ permalink: /:basename
 <script>
 function setInput () {
 var query = decodeURIComponent(window.location.search.substring(1)).split("&")[0].split("=")[1];
-var pole = document.getElementById('search-input');
+var pole = document.getElementById('search-input2');
 pole.value = query;
 const event = new Event('input');
 pole.dispatchEvent(event);
