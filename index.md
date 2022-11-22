@@ -101,7 +101,7 @@ a.not_prefer{
 	</span>
 	
 	<div>
-	<a href="./projects/personal-page.html" style="color: #ccc;">[todo]</a>
+	<a href="./projects/personal-page.html" style="color: #cccccc47;">[todo]</a>
 	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #fdf85c59;">[edit]</a>
 	</div>
 	
