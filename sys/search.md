@@ -1,8 +1,8 @@
 ---
-title: Поиск
+no-title: Поиск
 permalink: /:basename
 ---
-
+<div markdown="0">
 <input type="text" id="search-input2" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 
 <ul id="results-container"></ul>
@@ -35,8 +35,9 @@ return false;
 setTimeout(setInput, 500);
 </script>
 
-
----
+<br>
+<hr>
+<br>
 
 <details markdown="0">
 <summary markdown="0">Поиск по репозиторию</summary>
@@ -47,6 +48,7 @@ setTimeout(setInput, 500);
 </form>
 </details>
 
+</div>
 <!-- 
 <div id="srch" markdown="0"></div>
 
