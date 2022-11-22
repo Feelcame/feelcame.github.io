@@ -1,5 +1,5 @@
 ---
-tags: mobile
+tags: home
 ---
 
 ## Ремонт телефона

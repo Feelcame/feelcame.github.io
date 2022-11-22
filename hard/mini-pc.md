@@ -3,7 +3,7 @@ date: 2021-11-01T00:00:00+02:00
 modified: 2021-11-17T17:10:07+02:00
 title: Одноплатные компьютеры Orange Pi и другие
 redirect_from: /hardware/orange-pi/
-tags: computers
+tags: home
 ---
 
 

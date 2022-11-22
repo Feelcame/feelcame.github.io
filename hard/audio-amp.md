@@ -2,7 +2,7 @@
 title: Усилители звука
 no-date: 2021-05-30T13:25:02+03:00
 modified: 2021-11-08T22:32:00
-tags: diy
+tags: home
 comments: true
 ---
 

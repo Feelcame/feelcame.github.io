@@ -1,6 +1,5 @@
 ---
-comments: true
-tags: diy
+tags: super
 title: тест на знание электроники
 ---
 

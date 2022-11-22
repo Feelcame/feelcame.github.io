@@ -6,13 +6,13 @@ tags: железо
 pin: 0
 ---
 
-## Полезные самодельные устройства
-{: #diy }
-{% include ls.md tag="diy" %}
+## Полезное
+{: #super }
+{% include ls.md tag="super" %}
 
-## Мобильные телефоны
+## Домашняя электроника
 {: #mobile }
-{% include ls.md tag="mobile" date="no" %}
+{% include ls.md tag="home" date="yes" %}
 
 ## Компьютеры
 {: #computers }
