@@ -43,7 +43,7 @@
 <input type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 <button type="submit">Найти</button> 
 </form>
-{%- if page.title %}<h2 class="title"><strong>{{ page.title }}</strong></h2>{% endif -%}
+{%- if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
 		{%- if page.pin !=0 and page.permalink ==nil and page.date or page.modified -%}
 		<time class="shaded">
 		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" }}
@@ -70,7 +70,7 @@
 </script>
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/anchor.min.js' | relative_url }}"></script>
-<script>anchors.add('h2:not(#top), h3');</script>
+<script>anchors.add('h2:not(.no_anchor), h3');</script>
 
 </body>
 </html>
