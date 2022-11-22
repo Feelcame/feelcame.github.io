@@ -20,31 +20,31 @@ comments: 116
 
 ## дизайн
 - Сделать красивые кастомные спойлеры. [Кастомизация спойлеров](http://shpargalkablog.ru/2013/04/details-html.html)
-	<details markdown="1"><summary markdown="0">Подробнее<summary>
-	Например, как-то так:
-	```
-	details summary {
-		display: block; 
-		width: 10em; 
-		width: -webkit-fit-content; 
-		width: -moz-fit-content; 
-		width: fit-content; 
-		border-bottom: 1px dotted; 
-		outline-style: none; 
-		cursor: pointer; 
-	}  
-	details summary::-webkit-details-marker { 
-		display: none; 
-	}
-	```
-</details>
+	<details markdown="1"><summary markdown="0">Пример стилей</summary>
+**вот как-то так:**
+```
+details summary {
+	display: block; 
+	width: 10em; 
+	width: -webkit-fit-content; 
+	width: -moz-fit-content; 
+	width: fit-content; 
+	border-bottom: 1px dotted; 
+	outline-style: none; 
+	cursor: pointer; 
+}  
+details summary::-webkit-details-marker { 
+	display: none; 
+}
+```
+	</details>
 - Заебенить списки блоками в два столбика
 	<details markdown="1">
-	<summary markdown="0">Подробнее<summary>
+	<summary markdown="0">Подробнее</summary>
 	```
 style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px}'
 	```
-</details>
+	</details>
 - тест
 
 
