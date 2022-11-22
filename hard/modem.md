@@ -143,6 +143,7 @@ tags: network
 - TP-Link TL MR3020 (v3.20). 400грн. Маленький
 - Netis MW5230. 400грн. Три антенны, мощный передатчик
 - D-Link DIR-620S
+- Asus RT-N14U
 - Китайский мини-роутер M1. Цена $8-$11. Продается на али.
   [M1_51161C ($11)](https://aliexpress.ru/item/1299388604.html), 
   [LW_A0510 ($11)](https://aliexpress.ru/item/1299388604.html), 
