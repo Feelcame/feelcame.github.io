@@ -16,7 +16,7 @@ layout: home
 		<a href="{{ '/soft/' | relative_url }}" title="Софт" class="btn">💾 Вода</a>
 		<a href="{{ '/life/' | relative_url}}" title="Лайфстайл" class="btn">💛Життя💙</a>
 		<a href="{{ '/projects/' | relative_url}}" title="Проекты" class="btn">🛠 Проекти</a>
-		<a href="{{ '/about'     | relative_url }}" title="Поиск" class="btn">🔍</a>
+		<a href="{{ '/search'     | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
 </header>
 
