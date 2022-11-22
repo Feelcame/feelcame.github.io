@@ -6,17 +6,16 @@ tags: железо
 pin: 0
 ---
 
+{% include ls.md pinned="only" %}
+
+
 ## Полезное
-{: #super }
-{% include ls.md tag="super" %}
+{: #shema }
+{% include ls.md tag="shema" %}
 
 ## Домашняя электроника
 {: #mobile }
 {% include ls.md tag="home" date="yes" %}
-
-## Компьютеры
-{: #computers }
-{% include ls.md tag="computers" %}
 
 ## Печатные платы
 {: #pcb }

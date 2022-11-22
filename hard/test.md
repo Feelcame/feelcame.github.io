@@ -1,5 +1,5 @@
 ---
-tags: super
+tags: sch
 title: тест на знание электроники
 ---
 
