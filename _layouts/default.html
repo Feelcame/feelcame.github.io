@@ -2,7 +2,8 @@
 <html lang="{{ site.lang | default: "ru-RU" }}">
 <head>
 	<meta charset="UTF-8">
-	{% seo %}
+	<title>{{ page.title | default: page.no-title | default: page.name | append: "|" | append: site.title }}</title>
+	{% seo title=false %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#157878">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
