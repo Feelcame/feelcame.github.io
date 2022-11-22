@@ -86,8 +86,6 @@ a.button7:active {
 
 
 
-[todo](./projects/personal-page.md){: style="color: #ccc;"}  
-[edit](https://github.com/Feelcame/feelcame.github.io/edit/master/index.md){: style="color: #eff;"}
 
 
 <footer class="site-footer" markdown="0">
@@ -100,6 +98,9 @@ a.button7:active {
 	</span>
 <br><br><br><br><br>
 </footer>
+
+[todo](./projects/personal-page.md){: style="color: #ccc;"}  
+[edit](https://github.com/Feelcame/feelcame.github.io/edit/master/index.md){: style="color: #fdf85c59;"}
 
 </main>
 
