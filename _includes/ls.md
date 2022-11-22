@@ -104,7 +104,7 @@
 
 {%- if showpinned !="only" %}
 {%- if spoiler -%}
-<details markdown="1" open><summary markdown="0">{{ spoiler }}</summary>
+<details markdown="1"><summary markdown="0">{{ spoiler }}</summary>
 {{ result }}
 </details>
 {%- else -%}
