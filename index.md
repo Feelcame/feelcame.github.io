@@ -62,17 +62,15 @@ a.button7:active {
 
 <div style="text-align: center;">
 	
-<h1>
-	<strong>ПРОДАМ ГАРАЖ</strong>
-</h1>
-	
-	
-![](#)
-Шутка-минутка. Всего лишь занимаюсь  
-разработкой электроники. Могу и для  
-тебя что-нибудь спроектировать.
+<h1><strong>ПРОДАМ ГАРАЖ</strong></h1>
 
-
+<div style="max-width: 416px; text-align: center;margin-right: auto; margin-left: auto;">
+<p>
+Шутка-минутка. Всего лишь занимаюсь разработкой электроники. <br>
+Могу и для тебя что-нибудь спроектировать
+</p>
+</div>
+	
 <br>
 
 
@@ -97,9 +95,11 @@ a.button7:active {
 	<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>-->
 	</span>
 	
-	<a href="./projects/personal-page.html" style="color: #ccc;">[todo]</a><br>
+	<div>
+	<a href="./projects/personal-page.html" style="color: #ccc;">[todo]</a>
 	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #fdf85c59;">[edit]</a>
-
+	</div>
+	
 <br><br><br><br><br>
 </footer>
 
