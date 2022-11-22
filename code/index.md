@@ -6,6 +6,12 @@ tags: coding программирование
 pin: 0
 ---
 
+{% include ls.md spoiler="Все статьи" pinned="only" date="no" %}
+
+
+---
+
+
 {% include ls.md spoiler="Все статьи" pinned="yes" date="no" %}
 
 {% comment %}
