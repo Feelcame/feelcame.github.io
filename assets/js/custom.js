@@ -43,8 +43,9 @@ selectNext();
 
 
 function showSearch(){
+	let inputForm = document.querySelector('#search-input-form');
 	let input = document.querySelector('#search-input');
-	input.style.display='block'; 
+	inputForm.style.display='block'; 
 	input.focus(); 
 	input.scrollIntoView();
 	return false;
