@@ -19,9 +19,8 @@ comments: 116
 
 
 ## дизайн
-- Сделать красивые кастомные спойлеры. [Кастомизация спойлеров](http://shpargalkablog.ru/2013/04/details-html.html)
-	<details markdown="1"><summary markdown="0">Пример стилей</summary>
-**вот как-то так:**
+- <details markdown="1"><summary markdown="0">Сделать красивые кастомные спойлеры. </summary>
+**вот как-то так:** [Кастомизация спойлеров](http://shpargalkablog.ru/2013/04/details-html.html)
 ```
 details summary {
 	display: block; 
@@ -46,6 +45,8 @@ style: 'ul{overflow:hidden;flex-wrap:wrap} ul{/*display:table;flex-wrap:wrap*/;d
 	```
 	</details>
 - тест
+
+
 
 
 {% comment %}
