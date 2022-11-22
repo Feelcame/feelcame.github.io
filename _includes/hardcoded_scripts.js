@@ -10,6 +10,6 @@ function showSearch(){
 	let input = document.querySelector('#search-input');
 	inputForm.style.display='block'; 
 	input.focus(); 
-	input.scrollIntoView();
+	//input.scrollIntoView();
 	return false;
 }
