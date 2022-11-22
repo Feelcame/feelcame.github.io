@@ -79,8 +79,8 @@ a.not_prefer{
 <br>
 
 
-<a href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" class="button7 not_prefer" title="мимо">купить&nbsp;гараж</a>  
-<a href="https://memcdn.t.me" class="button7 not_prefer" title="мяу">видео&nbsp;с&nbsp;котиками</a>  
+<a href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" class="button7 not_prefer" title="мимо">купить&nbsp;гараж</a>
+<a href="https://memcdn.t.me" class="button7 not_prefer" title="мяу">видео&nbsp;с&nbsp;котиками</a>
 <a href="/about.html#обратная-связь" class="button7" title="выбери меня">написать&nbsp;автору</a>
 
 </div>
