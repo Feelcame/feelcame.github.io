@@ -24,7 +24,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Музыка
+### Музыка
 - **AIMP** - Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
   [v5.01.2358](https://tlgur.com/d/81vnoBPG), 
@@ -46,7 +46,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Видео
+### Видео
 - **PotPlayer** - Видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/), 
   [оф.сайт2](https://potplayer.daum.net/), 
@@ -72,7 +72,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Графика
+### Графика
 - **XnView MP** - Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#downloads), 
   [ссылка](#)
@@ -89,7 +89,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Интернет
+### Интернет
 - **Google Chrome** - слей свои данные<br>
   [оф.сайт (standalone)](http://google.com/intl/ru/chrome/?standalone=1)
 - **Mozilla Firefox** - Браузер для людей<br>
@@ -113,7 +113,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Сеть
+### Сеть
 - **NetTraffic** - плавающий график скорости интернета, статистика<br>
   [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
   v1.66.2
@@ -133,7 +133,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Расширения
+### Расширения
 *<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus** - Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/download),
@@ -170,7 +170,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Офис
+### Офис
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
   [оф.сайт](http://www.stdutility.com/stduviewer.html), 
   [ссылка](#)
@@ -198,7 +198,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Файлы
+### Файлы
 - **7-zip** - архиватор с открытым исходным кодом<br>
   [оф.сайт](https://www.7-zip.org/download.html), 
   [ссылка](#)
@@ -227,7 +227,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Система
+### Система
 - **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
   [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download), 
 - **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
@@ -257,7 +257,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Безопасность 
+### Безопасность 
 - **VirusTotal Uploader** - Проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 - **SmartFix** - Восстановление слетевших настроек системы после вирусов<br>
@@ -277,7 +277,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Драйвера
+### Драйвера
 - **Snappy Driver Installer** - Драйверпак без рекламы<br>
   [оф.сайт](https://sdi-tool.org/download/), 
   [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
@@ -302,7 +302,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-## Диски
+### Диски
 - **Windows** - операционная система. <br>
   [Win7 adguard(rtr)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
   [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz), 
