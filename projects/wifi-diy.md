@@ -7,3 +7,10 @@
 
 Также некоторые сетевые вайфай карты ноутбуков работают по юсб не глядя на то что вставляются в слот pcie, в нем разведены линии юсб. А значит можно сделать пассивный переходник для подключения модуля в другой комп по юсб. 
 Вот полезная ссылка <https://www.instructables.com/Running-mini-PCI-e-3G-card-with-USB-mini-PCI-e-t/>
+
+
+## Модем mini pcie usb 
+В некоторых сетевых картах есть разведены линии юсб. Это значит что они могут работать по этому протоколу. А поэтому ничего не мешает припаяться напрямую и пользоваться нак юсб сетевой картой.
+- <https://shop-gsm.ua/blog/3g_modul870/>
+- <https://www.instructables.com/Running-mini-PCI-e-3G-card-with-USB-mini-PCI-e-t/>
+- <https://hackaday.com/2017/03/29/use-a-mini-pci-e-3g-card-with-usb-instead/>
