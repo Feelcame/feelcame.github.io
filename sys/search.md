@@ -29,8 +29,8 @@ var query = decodeURIComponent(window.location.search.substring(1)).split("&")[0
 var key = query.split("=")[0];
 var val = query.split("=")[1];
 var field = document.getElementById('search-input2');
-field.value = val;
 	if (key == "q" && val.length > 1) {
+		field.value = val;
 		const event = new Event('input');
 		field.dispatchEvent(event);
 	}
