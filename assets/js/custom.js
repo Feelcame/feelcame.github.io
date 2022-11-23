@@ -25,11 +25,11 @@ var search = decodeURIComponent(window.location.search.substring(1));
 var pair = search.split("&")[0];
 var key = pair.split("=")[0];
 var q = pair.split("=")[1];
-if (location.pathname == "/search" || key != "search") { q=""; }
+//if (location.pathname == "/search" || key != "search") { q=""; }
 
 var c=0;
 function selectNext(){
-	if (q.length > 2){
+	if (key == "search" && q.length > 2){
 		if (c<1){
 			document.body.innerHTML += '<a href="#" class="float-btn" onclick="selectNext(); return false;" >еще</a>'; 	
 			c++;

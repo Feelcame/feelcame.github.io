@@ -13,7 +13,7 @@ permalink: /:basename
   window.simpleJekyllSearch = new SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '{{ site.baseurl }}/assets/json/search.json',
+	json: '{{ '/assets/json/search.json' | relative_url }}',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 20,
@@ -25,11 +25,15 @@ permalink: /:basename
 
 <script>
 function setInput () {
-var query = decodeURIComponent(window.location.search.substring(1)).split("&")[0].split("=")[1];
-var pole = document.getElementById('search-input2');
-pole.value = query;
-const event = new Event('input');
-pole.dispatchEvent(event);
+var query = decodeURIComponent(window.location.search.substring(1)).split("&")[0];
+var key = query.split("=")[0];
+var val = query.split("=")[1];
+var field = document.getElementById('search-input2');
+field.value = val;
+	if (key == "q" && val.length > 1) {
+		const event = new Event('input');
+		field.dispatchEvent(event);
+	}
 return false;
 }
 setTimeout(setInput, 500);
