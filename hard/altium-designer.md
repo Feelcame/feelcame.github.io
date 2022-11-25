@@ -8,6 +8,20 @@ tags: pcb
 ## О чем эта телега
 Позволяет разводить печатные платы. Но достаточно сложный для новичка. Решил сделать небольшую статью про альтиум, как им пользоваться. А получилась статья "Припекло. Верните мои деньги"
 
+### Altium
+раздел переехал [сюда](altium-designer.md)
+Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
+* www .altium.com - [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1)
+* easyelectronics.ru - [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html)
+* easyelectronics.ru - [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
+* microsin.net - [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html)
+* microsin.net - [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html)
+* microsin.net - [Как делать библиотеки](http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html)
+* Видеоуроки от BSVi - [youtube](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [телега](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
+* Видеоуроки от Сабунина - [youtube](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [телега](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
+* Видеоуроки от Altium Russia - [Ютуб канал](https://www.youtube.com/channel/UCvZ_kyV4ATrQfjmtVpuj0LQ)
+
+
 ## Где купить?
 У официального диллера, они есть даже в русскоговорящих странах. Ну или взять демо - на поучиться пройдет. Учитывая цену программы, её не каждый может себе позволить. *Продюссеры* это понимают и по этой причине свободно раздают демки, вполне официально. Нужно просто написать им письмо на английском (гугл транслейт в помощь)
 
