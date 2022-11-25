@@ -130,14 +130,6 @@ modified: 2021-08-23T13:58:34+03:00
   
   
 
-## Разводка печатных плат
-- **Eagle CAD** - разводка печатных плат  
-  [оф.сайт](#)
-- altium
-- kicad
-- easyeda
-- diptrace
-- sprint layout
 
 
 
