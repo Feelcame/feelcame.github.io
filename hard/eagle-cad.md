@@ -7,6 +7,15 @@ tags: pcb
 
 Как разводить платы. От самого начала и с основ.
 
+### Инфа по Eagle 
+{: id="eagle"}  
+Орел условно бесплатный. С некоторыми ограничениями: максимум два слоя, ограничение размера PCB 100\*100mm
+* [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
+* [Eagele для начинающих](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html)
+* <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
+* <http://eagle.autodesk.com/eagle/libraries> - Официальный репозиторий библиотек (устаревает, но пока жив)
+* <http://we.easyelectronics.ru/search/topics/?q=eagle>
+
 ### Зачем вообще нужны печатные платы?
 Если ты задаешь этот вопрос - срочно закрой данную статью, от нее тебе будет только больно
 
