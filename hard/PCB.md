@@ -7,7 +7,7 @@ pin: 3
 tags: pcb
 ---
 
-*Привет!* Здесь раскажу пару (десятков?) полезных фич про разводку печатных плат для электроники. Сначала пояснение для самых маленьких. На печатных платах делаются большинство электронных устройств. Ниже инфа про их разработку, изготовление и просто полезности.
+Привет! Здесь раскажу про разводку печатных плат для электроники. Это такие зеленые досточки внутри устройств. На них крепится вся начинка. Ну ты знаешь. Ниже инфа про их разработку, изготовление и полезные лайфхаки для производства.
 <details markdown="1">
 <summary markdown="0">Сегодня в программе</summary>
 - тут появится навигация
@@ -17,6 +17,16 @@ tags: pcb
 
 ### Программа для разработки
 Для проектирования нужна CAD-программа (computer aided design).  
+- **Eagle CAD** - бесплатная CAD. Простая приятная  
+- **altium** - платная продвинутая, почти стандарт индустрии
+- **kicad** - опенсорс
+- **easyeda** - веб редактор от производителя печатных плат jlcpcb
+- **diptrace** - вроде норм
+- **sprint layout** - простейшая программа для рисования лейаута, без схематика
+
+- **Splan** - старенькая и надежная программа для рисования схем. на торрентах раздщается с обширной библиотекой
+- **gerbv** - просмотр gerber (герберов) файлов перед отправкой нга завод
+
 Я использую эти:
 - [EAGLE](#eagle) - бесплатна с некоторыми ограничениями.  
   Раньше разрабатывалась компанией Cadsoft, сейчас программу купила Autodesk.  
@@ -28,28 +38,8 @@ tags: pcb
 - есть еще с десяток известных и не очень
 
 
-### Инфа по Eagle 
-{: id="eagle"}  
-Орел условно бесплатный. С некоторыми ограничениями: максимум два слоя, ограничение размера PCB 100\*100mm
-* [Скачать](https://www.autodesk.com/products/eagle/free-download) - на официальном сайте Autodesk
-* [Eagele для начинающих](http://easyelectronics.ru/rabota-v-eagle-cad-chast-1.html)
-* <http://microsin.net/adminstuff/others/eagle-faq.html> - Справка и ответы на часто задаваемые вопросы от любителей
-* <http://eagle.autodesk.com/eagle/libraries> - Официальный репозиторий библиотек (устаревает, но пока жив)
-* <http://we.easyelectronics.ru/search/topics/?q=eagle>
 
 
-### Altium
-раздел переехал [сюда](altium-designer.md)
-Его основная задача - разводка плат для сложных вещей. Соответственено он сам сложный, но это скорее наследие из прошлого. Но пояснениедля новичка все-равно требуется
-* www .altium.com - [Интерактивная трассировка](https://www.altium.com/ru/documentation/altium-designer/interactive-routing-ad?version=18.1)
-* easyelectronics.ru - [FAQ по работе в Altium Designer](http://we.easyelectronics.ru/faq/faq-po-rabote-v-altium-designer.html)
-* easyelectronics.ru - [Виды библиотек компонентов](http://we.easyelectronics.ru/CADSoft/bd-biblioteki-dlya-altium-designer.html)
-* microsin.net - [Горячие клавиши](http://microsin.net/adminstuff/others/altium-designer-editor-shortcuts.html)
-* microsin.net - [Полигоны](http://microsin.net/adminstuff/others/altium-designer-polygon-pours-and-copper-regions.html)
-* microsin.net - [Как делать библиотеки](http://microsin.net/adminstuff/others/altium-designer-building-an-integrated-library.html)
-* Видеоуроки от BSVi - [youtube](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [телега](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
-* Видеоуроки от Сабунина - [youtube](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [телега](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
-* Видеоуроки от Altium Russia - [Ютуб канал](https://www.youtube.com/channel/UCvZ_kyV4ATrQfjmtVpuj0LQ)
 
 
 ### Библиотеки компонентов
@@ -83,8 +73,10 @@ tags: pcb
 ### Произвести самому
 Диайвайщики и мамкины хацкеры тут?
 
-### Купить компоненты
-Раздел переехал на отдельную страницу: [ссылка](buy-parts.md)
+## Стати по теме
+- [Eagle CAD для разводки плат](./eagle-cad.md)
+- [Что не так с Altium Designer](./altium-designer.md)
+- [Где купить компоненты](./buy-parts.md)
 
 ### Разновидности футпринотов
 <http://lehih80.blogspot.com/2017/07/smd.html>
