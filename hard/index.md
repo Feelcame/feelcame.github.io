@@ -48,7 +48,7 @@ pin: 0
 
 ## Все статьи
 <details markdown="1"><summary markdown="0">Нажми, чтобы открыть спойлер</summary>
-{% include dir-ls.md pinned="yes" date="no" %}
+{% include dir-ls.md pinned="no" %}
 </details>
 
 {% comment %}
