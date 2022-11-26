@@ -3,7 +3,7 @@ title: Усилители звука
 no-date: 2021-05-30T13:25:02+03:00
 modified: 2021-11-08T22:32:00
 tags: home
-comments: true
+comments: 117
 ---
 
 ## Плата расширения для китайского модуля усилителя звука
@@ -51,5 +51,5 @@ comments: true
 * <http://interlavka.narod.ru/nabor/nabf005.htm>
 * <http://interlavka.narod.ru/nabor/im/f005sh.jpg>
 * <https://forum.cxem.net/uploads/monthly_01_2015/post-145741-0-71367900-1420535837.jpg>
-* <>
+* Устранить щелчки при включении tpa3116 <http://9zip.ru/home/tpa3116_dorabotka.htm>
 
