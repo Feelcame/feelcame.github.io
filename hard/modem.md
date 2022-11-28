@@ -115,8 +115,16 @@ tags: network
   **Novatel** MiFi 5510L, 
   5792, 
   4620L
-- **Устаревшие (7.2 мбит):** Huawei e303, k3765, k3806h, K3806z, k4511, k4605, e352, **ZTE** mf665, MF110, MF112, MF190, **Pantech** UMW190,uml290vw
-- **Устаревшие (3.6 мбит):** Huawei ~~E153Eu-1~~, e1550, **ZTE** MF180, MF100
+- **Устаревшие (7.2 мбит):
+  ** Huawei e303, k3765, k3806h, K3806z, k4511, k4605, e352, 
+  **ZTE** mf665, MF110, MF112, MF190, 
+  **Pantech** UMW190,uml290vw
+- **Устаревшие (3.6 мбит):** 
+  Huawei ~~E153Eu-1~~, 
+  e1550, 
+  **ZTE** MF180, 
+  MF100, 
+  mf626
 - **CDMA.** Huawei EC315, EC5321u-2, **ZTE** MF96U, **Novatel** 4510L, **Samsung** SCH–LC11
 
 
