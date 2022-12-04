@@ -29,3 +29,6 @@ tags: hf
 - <https://www.edn.com/planning-the-design-cycle-for-adding-an-antenna-to-a-wireless-device/>
 - <https://eax.me/books-issue-25/>
 - 
+
+## Полезные ссылки
+- Bi-Quad Antenna Calculator <https://www.changpuak.ch/electronics/bi_quad_antenna_designer.php>
