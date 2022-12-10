@@ -144,6 +144,7 @@ comments: 112
 - ionos.de aka 1und1 - 5гб бесплатно, но нужно поморочиться
 - <https://jino.ru/disk/> 20gb
 - ukr.net 4gb
+- files.fm - раздают через него вирусню, как то связан с рашкой
 
 ## Файлообменники "drag-n-drop"  
 {: #files }
