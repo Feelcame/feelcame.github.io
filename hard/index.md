@@ -9,13 +9,6 @@ pin: 0
 {% include dir-ls.md pinned="only" %}
 
 
-## Полезное
-{: #sch }
-{% include dir-ls.md tag="sch" %}
-
-## Домашняя электроника
-{: #mobile }
-{% include dir-ls.md tag="home" date="yes" %}
 
 ## Печатные платы
 {: #pcb }
@@ -24,6 +17,14 @@ pin: 0
 ## Все про пайку
 {: #soldering }
 {% include dir-ls.md tag="soldering" %}
+
+## Полезное
+{: #sch }
+{% include dir-ls.md tag="sch" %}
+
+## Домашняя электроника
+{: #mobile }
+{% include dir-ls.md tag="home" date="yes" %}
 
 ## Микроконтроллеры
 {: #controllers }
