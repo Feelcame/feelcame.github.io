@@ -6,7 +6,11 @@ comments:
 ---
 
 **Список номеров.** Полезных и не очень. Сортированы по операторам. Актуально на момент написания поста ( {{ page.modified }} ).
+
+
 <!--
+
+
 ## Сводная таблица
 
 Описание | Киевстар | Vodafone | Lifecell
@@ -93,3 +97,7 @@ comments:
 
 Лайкамобайл (Lycamobile)
 - Счет *111₴
+
+
+## Полезные ссылки
+- Переадресация вызовов <https://minfin.com.ua/telecom/articles/pereadresaciya-zvonkov-dlya-vseh-operatorov-ukrainy>
