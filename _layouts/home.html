@@ -11,6 +11,12 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 	{% include google-analytics.html %}
 
+<style>
+@media (max-width: 672px)
+header a.not-mobile {
+    display: none;
+}
+</style>
 </head>
 <body>
 
