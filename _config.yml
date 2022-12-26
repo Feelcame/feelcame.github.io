@@ -24,7 +24,7 @@ plugins:
 kramdown:
   parse_span_html: true
   parse_block_html: true
-timezone: +02:00
+timezone: Europe/Kiev
 
 
 chtg: profi_soft
