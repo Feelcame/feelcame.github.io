@@ -1,10 +1,12 @@
 ---
 date: 2021-03-08T20:47:11+02:00
 modified: 2021-03-08T23:09:43+02:00
-title: Антенны [разработка]. ВЧ-техника
+title: Разработка ВЧ-устройств и антен
 comments: true
 tags: hf
 ---
+
+
 
 ## Измеряем диаграмму направленности антенны
 
@@ -32,3 +34,24 @@ tags: hf
 
 ## Полезные ссылки
 - Bi-Quad Antenna Calculator <https://www.changpuak.ch/electronics/bi_quad_antenna_designer.php>
+
+
+## Моделирование ВЧ
+- [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
+- [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
+- AWR MWO - моделирование ВЧ-схем, EM-лейаутов и систем связи. Интерфейс виндовый с окошечками
+- HFSS - моделирование и анализ вч трактов и антен. интерфейс как у програм родом из девяностых. Работает на линуксе
+- Ansys ...
+- [MMANA-GAL](http://gal-ana.de/basicmm/ru/) - калькулятор для рассчета антенн
+
+## Просмотр scattering parameters
+
+Нашел всего несколько на просторах интернета. Делюсь:
+* [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
+* [SnP View](#)
+* <https://www.dataweek.co.za/63748n>
+* <http://www.hp.woodshot.com/>
+* <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
+* <https://snpview.com/>
+
+
