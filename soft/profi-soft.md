@@ -1,5 +1,5 @@
 ---
-title: Проф. софт для инженера
+title: Софт для инженера
 date: 2021-08-06T14:48:00+03:00
 modified: 2021-08-23T13:58:34+03:00
 ---
@@ -131,25 +131,6 @@ modified: 2021-08-23T13:58:34+03:00
   
 
 
-
-
-## Моделирование ВЧ
-- [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
-- [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
-- AWR MWO - моделирование ВЧ-схем, EM-лейаутов и систем связи. Интерфейс виндовый с окошечками
-- HFSS - моделирование и анализ вч трактов и антен. интерфейс как у програм родом из девяностых. Работает на линуксе
-- Ansys ...
-- MMANA-GAL - калькулятор для рассчета антен
-
-## Просмотр scattering parameters
-
-Нашел всего несколько на просторах интернета. Делюсь:
-* [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
-* [SnP View](#)
-* <https://www.dataweek.co.za/63748n>
-* <http://www.hp.woodshot.com/>
-* <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
-* <https://snpview.com/>
 
 
 ## Рисование чертежей и 3D
