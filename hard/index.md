@@ -18,9 +18,9 @@ pin: 0
 {: #soldering }
 {% include dir-ls.md tag="soldering" %}
 
-## Полезное
-{: #sch }
-{% include dir-ls.md tag="sch" %}
+## Силовая єлектроника
+{: #power }
+{% include dir-ls.md tag="power" %}
 
 ## Домашняя электроника
 {: #mobile }
