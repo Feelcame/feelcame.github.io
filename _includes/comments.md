@@ -7,6 +7,7 @@
 <ul>
 <li><a class="commentBtn" href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">в telegram</a></li>
 <li><a class="commentBtn" href="/comments.html?{{ post_id }}" target="_blank">в браузере</a></li>
+<li><a class="commentBtn" href="#?{{ post_id }}" target="_blank">прямо тут</a></li>
 </ul>
 
 {%- else -%}  
