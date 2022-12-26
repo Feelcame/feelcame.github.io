@@ -133,12 +133,13 @@ modified: 2021-08-23T13:58:34+03:00
 
 
 
-## Электромагнитное моделирование
+## Моделирование ВЧ
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
-- AWR MWO
-- HFSS
-- Ansys
+- AWR MWO - моделирование ВЧ-схем, EM-лейаутов и систем связи. Интерфейс виндовый с окошечками
+- HFSS - моделирование и анализ вч трактов и антен. интерфейс как у програм родом из девяностых. Работает на линуксе
+- Ansys ...
+- MMANA-GAL - калькулятор для рассчета антен
 
 ## Просмотр scattering parameters
 
@@ -160,7 +161,7 @@ modified: 2021-08-23T13:58:34+03:00
 - Fusion360 (ранее 123Designer)
 - autocad
 
-## Дополнительно
+## Дополнительно (LINUX)
 - emacs - текстовый редактор
 - midnight commander - файл менеджер Linux
 - Terraform - позволяет автоматизировать развертывание приложений в облака и тд
