@@ -276,7 +276,10 @@ pin: 2
 
 - **Виджет громкости**. play, 4pda
 - **Mi Band Master**. play, 4pda
-- **Universal copy**
+- **To Clipboard** - скопировать текст через функцию "поделиться"
+  [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard)
+- **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере
+  [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink)
 </details>
 
 [Наверх↑](#top)
