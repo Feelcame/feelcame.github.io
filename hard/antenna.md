@@ -47,13 +47,20 @@ tags: hf
 ## Просмотр scattering parameters
 
 Нашел всего несколько на просторах интернета. Делюсь:
-* [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
-* [SnP View](#)
-* <https://www.dataweek.co.za/63748n>
-* <http://www.hp.woodshot.com/>
-* <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
-* <https://snpview.com/>
-* <http://www.arkrfsystems.com/SPview.htm>
+- [SPA](https://www.ag-rf-engineering.de/products/software/s-parameter-viewer/)
+- [SnP View](#)
+- <https://www.dataweek.co.za/63748n>
+- <http://www.hp.woodshot.com/>
+- <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
+- <https://snpview.com/>
+- <http://www.arkrfsystems.com/SPview.htm>
+- <https://sparamnx.xmicrowave.com/>
+- <http://www.magimaji.com/>
+- <https://www.dataweek.co.za/63748n>
+- <https://www.mathworks.com/matlabcentral/fileexchange/68893-s-parameter-utilities>
+- <https://teledynelecroy.com/support/softwaredownload/sparamviewer.aspx>
+- <https://cxem.net/software/rfsim99.php>
+
 
 
 
