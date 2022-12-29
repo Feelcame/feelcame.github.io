@@ -53,5 +53,15 @@ tags: hf
 * <http://www.hp.woodshot.com/>
 * <https://books.google.com.ua/books?id=U9FEDwAAQBAJ&dq=scattering+parameters+android&hl=ru&source=gbs_navlinks_s>
 * <https://snpview.com/>
+* <http://www.arkrfsystems.com/SPview.htm>
 
 
+
+## Полезные ссылки
+- <https://www.antenna-theory.com/antennas/patches/antenna.php>
+- <https://www.will-kelsey.com/smith_chart/>
+- <https://www.microwaves101.com/cool-links>
+- <https://www.qsl.net/va3iul/>
+- <https://www.falstad.com/circuit/>
+- <https://books.google.com.ua/books/about/Microwave_and_RF_Engineering.html?id=LSAhywAACAAJ&source=kp_cover&redir_esc=y>
+- <http://www.platan.ru/shem/pdf/str10-14n.pdf>
