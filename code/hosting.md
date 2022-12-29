@@ -179,7 +179,7 @@ comments: 112
 - [wetransfer](https://wetransfer.com/) - временное хранение файлов (2гб, 7дней). очень быстрые сервера. встраивается в почтовик
 - [LitterBox](https://litterbox.catbox.moe/) - временное хранение файлов (1гб, 3дня) от автора catbox.moe
 - [Uguu.se](https://uguu.se/) - временное хранение файлов (128мб, 48ч) от автора pomf.se
-
+- <https://zaix.ru/upload> - прямая ссылка. [Test 221229](http://d.zaix.ru/x5GN.png)
 
 
 
