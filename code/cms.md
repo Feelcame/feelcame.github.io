@@ -30,6 +30,8 @@ modified: 2021-08-25T11:37:03+03:00
 - [Docusaurus](https://docusaurus.io/) - используется на сайте документации gui-библиотеки для go [wails](https://wails.io/docs/gettingstarted/firstproject)
 - [Lektor](https://www.getlektor.com/) - используется на сайте библиотеки веб сервера для python [Flask](https://palletsprojects.com/)
 - [Docsify](https://docsify.js.org/#/) - docsify generates your documentation website on the fly. A magical documentation site generator. Simple and lightweight. No statically built html files. Multiple themes
+- [GitBook](https://www.gitbook.com/)
+
 
 ## По старинке PHP
 {: #php }
