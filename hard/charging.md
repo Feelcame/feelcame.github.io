@@ -15,6 +15,7 @@ tags: power
 Микросхемы для 1s1p li-ion:
 - dw06 - то же что и dw01, но со встроенными ключами
 - MCP121 - супервизор, притягивает ногу к земле при заданном пороге напряжения
+- [Monitors & Reset Circuits - LCSC](https://www.lcsc.com/products/Monitors-Reset-Circuits_934.html)
 
 ## Быстрая зарядка. Quick Charge. Power Delivery
 
