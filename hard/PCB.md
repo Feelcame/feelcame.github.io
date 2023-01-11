@@ -58,6 +58,7 @@ tags: pcb
 * [diymodules](https://www.diymodules.org/eagle-search?text=ESP8266&desc=1) - библиотеки модулей только eagle. не работает
 * [componentsearchengine.com](https://componentsearchengine.com/part-view/CC1101RGPR/Texas%20Instruments) - нужно указывать полный partnumber
 * [ultralibrarian](https://ultralibrarian.com) - немножечко говняные библиоткеки, гененрируются автоматически. Работают с производителем ST
+- [EasyEDA](https://easyeda.com/) - немного неочевидно, но в этой бесплатной CAD-системе можно делиться своими библиотеками, что успешно делает сообщество. А производитель поддерживает. Ситуация вин-вин, пользователям библиотеки, производителю заказы плат. Можно экспортировать в формат альтиума. Будьте осторожны, либы могут содержать ошибки
 
 > Большинство сайтов требуют регистрацию, но это обходится с помощью <http://bugmenot.com>
 
