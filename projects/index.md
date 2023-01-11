@@ -17,7 +17,7 @@ pin: 0
 {% include dir-ls.md tag="soft" %}
 
 
-## Идеи
+## Без категории (идеи)
 
 {% include dir-ls.md tag="empty" %}
 
