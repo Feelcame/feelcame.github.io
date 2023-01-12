@@ -96,3 +96,5 @@ date: 2022-11-22T00:00:00
 ## Полезные ссылки
 - защита для свинцово кислотных аккумуляторов с гистерезисом на компараторе <http://9zip.ru/home/lead_acid_battery_discharge_protection_circuit.htm>
 - [защита акб на таймере 555 по схеме генератора одиночного импульса](https://volstr.ru/?p=102)
+- [Защита от КЗ на полевом транзисторе](https://www.kondratev-v.ru/zashhita-radioapparatury/zashhita-ot-kz-na-polevom-tranzistore.html)
+
