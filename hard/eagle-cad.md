@@ -46,3 +46,4 @@ tags: pcb
 
 ## Полезные ссылки 
 - Какие слои за что отвечают <http://microsin.net/adminstuff/others/eagle-pcb-layers.html>
+- [CadSoft EAGLE: Готовим печатную плату к производству - создание групповой заготовки](http://web.archive.org/web/20190330113449/http://we.easyelectronics.ru/CADSoft/cadsoft-eagle-gotovim-pechatnuyu-platu-k-proizvodstvu-sozdanie-gruppovoy-zagotovki.html)
