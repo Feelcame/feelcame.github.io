@@ -9,6 +9,14 @@ pin: 2
 - Список разделов  
 {: toc }
 
+## Стандартные
+Стандартные программы не всегда отвечают потребностям пользователей.
+Под спойлером список опенсорсных альтернатив
+<details markdown="1">
+<summary markdown="0">Открой меня</summary>
+Файлы - Total commander
+</details>
+
 ## Файлы
 <div class="highlight22" markdown="1">
 
@@ -25,6 +33,7 @@ pin: 2
 </div>
 
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **TotalCmd USB stick plugin by OperaFan** - открывает флешки подключенные через OTG на китайских телефонах с обрезанной прошивкой.<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
