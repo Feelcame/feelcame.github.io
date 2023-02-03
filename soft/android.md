@@ -212,8 +212,8 @@ pin: 2
   [v9.7.0](https://tlgur.com/d/g306JW64)
 - **Aurora Store**. <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
-  [оф.сайт](https://files.auroraoss.com/AuroraStore/Stable/),
-  [телега](https://t.me/AuroraOfficial), 
+  [оф.сайт](https://files.auroraoss.com/),
+  [оф.тг-канал](https://t.me/AuroraOfficial), 
   [v4.0.7](https://tlgur.com/d/4x5bADY8), 
 - **App&Game 4PDA**. <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=275433),
@@ -239,7 +239,7 @@ pin: 2
 
 - **System App Remover**. 
   [телега](https://t.me/FeelSoftAn/170)
-- **CPU Spy**. play, 4pda
+- **CPU Spy**. play, 4pda, [tlgur](https://tlgur.com/d/GZ32PM5g)
 - **Google Play Blocker**. 4pda
 </details>
 
@@ -290,8 +290,9 @@ pin: 2
   [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
 - **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
   [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
-  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps)
-- Simple Keyboard - клавиатура 800kb 
+  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps),
+  [tlgur](https://tlgur.com/d/4Rmv5Aeg)
+- **Simple Keyboard** - клавиатура 800kb 
   [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 - **Сканер штрих-кодов**. play, 4pda
 - **Shake me** - игра про пьяненького бетмена. play, 4pda
@@ -300,9 +301,11 @@ pin: 2
 - **Виджет громкости**. play, 4pda
 - **Mi Band Master**. play, 4pda
 - **To Clipboard** - скопировать текст через функцию "поделиться"
-  [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard)
+  [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
+  [tlgur](https://tlgur.com/d/gm6JVnN4)
 - **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере
-  [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink)
+  [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink),
+  [tlgur](https://tlgur.com/d/GW157pL4)
 </details>
 
 [Наверх↑](#top)
