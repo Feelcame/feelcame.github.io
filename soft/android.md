@@ -10,11 +10,23 @@ pin: 2
 {: toc }
 
 ## Стандартные
-Стандартные программы не всегда отвечают потребностям пользователей.
-Под спойлером список опенсорсных альтернатив
 <details markdown="1">
-<summary markdown="0">Открой меня</summary>
-Файлы - Total commander
+<summary markdown="0">Замена стандартных програм</summary>
+- Браузер. Opera. Bromite
+- Календарь. Простой календарь Pro
+- Play Store. Aurora Store. App&Game 4PDA
+- Калькулятор. Калькулятор ++
+- Галерея. QuickPic. Simple Gallery
+- Телефон (Контакты)
+- Лаунчер. Launcher <3. Microsoft Launcher
+- Клавиатура. Microsoft Swift. Simple Keyboard <https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/>
+- Сообщения. QKSMS <https://f-droid.org/en/packages/com.moez.QKSMS/>
+- Карты. Organic Maps. Яндекс Карты
+- YouTube. Vanced. NewPipe. Opera
+- Файлы. Total Commander
+- Музыка. AIMP
+- Видео. UPlayer. MX Player
+
 </details>
 
 ## Файлы
@@ -279,6 +291,8 @@ pin: 2
 - **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
   [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
   [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps)
+- Simple Keyboard - клавиатура 800kb 
+  [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
 - **Сканер штрих-кодов**. play, 4pda
 - **Shake me** - игра про пьяненького бетмена. play, 4pda
 <details markdown="1">
