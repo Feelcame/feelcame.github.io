@@ -108,6 +108,9 @@ pin: 2
   [оф.сайт](https://newpipe.net/#download), 
   [v0.20.8(4.1+)](https://tlgur.com/d/GL0ZDJ6G)
   [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
+- **Кино HD**. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=787648),
+  [github](https://github.com/publicfks/temp/blob/main/apk/app-release.apk)
 - **Youtube Vanced**. Мод без рекламы. 
   [4pda](https://4pda.to/forum/index.php?showtopic=916464)
 - **PicSay Pro** – фоторедактор. <br>
@@ -124,10 +127,12 @@ pin: 2
 - **XRecorder** – запись экрана. <br>
   [store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
-  [v2.1.2 (5+)](https://tlgur.com/d/GaxZEpE8)
+  [v2.1.2 (5.0+)](https://tlgur.com/d/GaxZEpE8)
 - **LazyMedia Deluxe**. [4pda](https://4pda.to/forum/index.php?showtopic=848635)
-- **Кино HD**. [4pda](https://4pda.to/forum/index.php?showtopic=787648)
-- **Wink** (мод)
+- **LazyIPTV Deluxe** - удобній просмотр IPTV 
+  [store](https://play.google.com/store/apps/details?id=com.lcs.lazyiptvdeluxe),
+  [4pda](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
+  [плейлист](https://iptv.org.ua)
 - **PowerTube**
 - **HD VideoBox** (закрыли)
 </details>
@@ -136,18 +141,20 @@ pin: 2
 
 ## Интернет 
 - **Telegram** - удобный мессенджер<br>
-  [store](https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru&gl=US),
+  [store](https://play.google.com/store/apps/details?id=org.telegram.messenger),
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
   [оф.сайт](https://telegram.org/android?setln=ru),
   [оф.телега](https://t.me/TAndroidAPK), 
-- **Opera** - браузер. есть блокировка рекламы, vpn/экономия трафика<br>
+- **Opera** - браузер. adblock, vpn<br>
   [store](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
-  [telegram](https://t.me/s/feelsoftan?q=om.opera.browser), 
+  [telegram](https://t.me/s/feelsoftan?q=com.opera.browser), 
   [оф.ftp](https://get.geo.opera.com/pub/opera/android/),
   [оф.сайт](https://download.opera.com),
-  v50.6(4.1+), 
-  v66.2(5.1+)
+  [v72.7(6.0+)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896),
+  <!--[v66.2(5.1+)](#),-->
+  [58.4(4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317),
+  [v50.8(4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
 - **Bromite**. Хром без гугла. (6.0+)<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=725481&st=100),
   [оф.сайт](https://www.bromite.org/#download-bromite),
