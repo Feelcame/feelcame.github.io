@@ -72,6 +72,7 @@ pin: 2
   [web](https://open.spotify.com/), 
   [+боты](./telegram-bots.html#музыка)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **YouTube Music (vanced)** <br>
   [store](https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music), 
@@ -93,8 +94,8 @@ pin: 2
 - **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
   [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
   [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-- **Simple Gallery Pro** - опенсорсная галерея.
-  [4pda](https://4pda.to/forum/index.php?showtopic=785182)
+- **Simple Gallery Pro** - опенсорсная галерея.<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=785182),
   [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
 - **MX Player** - продвинутый видеоплеер<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=253883),
@@ -123,6 +124,7 @@ pin: 2
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **XRecorder** – запись экрана. <br>
   [store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
@@ -163,6 +165,7 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=100813)
   [v7.6.0(tlgur)](https://tlgur.com/d/gvbZ51ng)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **Viber**
 - **Instander**. Инста без рекламы
@@ -191,6 +194,7 @@ pin: 2
   [store](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
   [4pda](https://4pda.to/forum/index.php?showtopic=486245)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **Acode**. Редактор кода. <br>
   [store](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree), 4pda
@@ -232,6 +236,7 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=246407),
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **Darker Pro**. <br>
   [store](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
@@ -267,6 +272,7 @@ pin: 2
 - **Network Monitor Mini Pro**.  
   [4pda](https://4pda.to/forum/index.php?showtopic=317393)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **OpenVPN**. play, 4pda
 - **Unified Remote** - удобное управление компом. play, 4pda
@@ -295,34 +301,40 @@ pin: 2
   [fdroid](https://f-droid.org/packages/de.audioattack.openlink/),
   [исходники](https://codeberg.org/marc.nause/easyopenlink)
   [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
+- **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере
+  [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink),
+  [tlgur](https://tlgur.com/d/GW157pL4)
 - **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
   [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
   [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps),
   [tlgur](https://tlgur.com/d/4Rmv5Aeg)
 - **Simple Keyboard** - клавиатура 800kb 
-  [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/)
-- **Сканер штрих-кодов**. play, 4pda
-- **Shake me** - игра про пьяненького бетмена. play, 4pda
+  [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/#latest)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **Виджет громкости**. play, 4pda
-- **Mi Band Master**. play, 4pda
 - **To Clipboard** - скопировать текст через функцию "поделиться"
   [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
   [tlgur](https://tlgur.com/d/gm6JVnN4)
-- **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере
-  [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink),
-  [tlgur](https://tlgur.com/d/GW157pL4)
+- **Shake me** - игра про пьяненького бетмена. play, 4pda
+- **Сканер штрих-кодов**. play, 4pda
+- **Mi Band Master**. play, 4pda
 </details>
 
 [Наверх↑](#top)
 
 ## Карты
-- **Organic Maps** - форк опенсорсных карт maps.me без мишуры
-- **GPS Fields Area Measure**.<br>
+- **Organic Maps** - офлайн карты без регистрации и смс.
+  [store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=uk&gl=US),
+  [fdroid](https://f-droid.org/en/packages/app.organicmaps/#latest),
+  [4pda](https://4pda.to/forum/index.php?showtopic=1027194),
+  [оф.сайт](https://organicmaps.app/)
+- **GPS Fields Area Measure** - измерение площади по GPS<br>
   [store](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
   [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 <details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 
 - **Gmaps**. play
 - **Яндекс карты**. play, 4pda
