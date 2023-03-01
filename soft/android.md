@@ -339,4 +339,5 @@ pin: 2
 - **Программы для компа**. [ссылка](./android-firmware.md#программы-и-утилиты)
 - **Телеграм-канал**: <https://t.me/feelsoftan>
 - список Foss программ <https://github.com/offa/android-foss>
+
 [Наверх↑](#top)
