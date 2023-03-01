@@ -18,7 +18,7 @@ tags: controllers
 - **ESP32-S3** (2021) - новый мощный чип. Дорогой. Заточен под аудио, дисплеи, искусственный интелект и т.д. 
 - **ESP32-С3** (2021) - доступная и современная замена ESP8266. Больше оперативки, есть BLE. Позиционируется как SoC для слабых IoT-устройств. Аналоги: ESP8685(2021, встроенный флеш), ESP32-C2, esp32-C6 (2022, больше протоколов). Для программирования надо использовать новую версию Arduino IDE v2
 
-[**Product selector**](https://products.espressif.com/#/product-selector?language=en "Найди нужный чип на оф.сайте")- каталог продуктов на официальном сайте. Все самое новое тут. Но все самое необычное на али
+Рекомендую посмотреть раздел [**документация**](#docs). Там собраны ссылки на рекомендации по разработке от производителя
 
 
 
@@ -45,6 +45,12 @@ tags: controllers
 
 Рекомендую также почитать мою [**статью про arduino**](../coding/arduino.md)
 
+**Полезные дополнения:**
+- [ESP8266Flasher](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe "Программатотр для ESP") - программа для прошивки по UART
+- [EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - декодирует крэшлог
+- <https://github.com/esp8266/arduino-esp8266fs-plugin/releases>
+- <https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/>
+
 
 
 ## Готовые кастомные прошивки
@@ -55,15 +61,9 @@ tags: controllers
 
 
 
-## Утилиты для отладки
-- [ESP8266Flasher](https://github.com/nodemcu/nodemcu-flasher/blob/master/Win32/Release/ESP8266Flasher.exe "Программатотр для ESP") - программа для прошивки по UART
-- [EspExceptionDecoder](https://github.com/me-no-dev/EspExceptionDecoder) - декодирует крэшлог
-- <https://github.com/esp8266/arduino-esp8266fs-plugin/releases>
-- <https://github.com/me-no-dev/arduino-esp32fs-plugin/releases/>
-
-
-
 ## Документация
+{: #docs }  
+- [Product selector](https://products.espressif.com/#/product-selector?language=en "Найди нужный чип на оф.сайте")- каталог продуктов на официальном сайте. Все самое новое тут. Но все самое необычное на али
 - [Espressif docs](https://www.espressif.com/en/support/documents/technical-documents). Вся официальная документация от производителя на одной странице
 - [ESP-IDF](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/). Espressif-IoT-Development-Framework
 - [ESP-AT](https://docs.espressif.com/projects/esp-at/en/latest). Доки по AT-командам
