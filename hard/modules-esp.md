@@ -31,7 +31,7 @@ tags: controllers
 
 [**Большой список плат**](https://docs.platformio.org/en/latest/boards/index.html#espressif-32 "Список поддерживаемых плат"). Документация PlatformIO, тут перечислены дугие популярные платы
 
-[Product selector](https://products.espressif.com/#/product-selector?language=en "Найди нужный чип на оф.сайте") - каталог продуктов на официальном сайте. Все самое новое тут. Но все самое необычное на али
+[**Product selector**](https://products.espressif.com/#/product-selector?language=en "Найди нужный чип на оф.сайте") - каталог продуктов на официальном сайте. Все самое новое тут. Но все самое необычное на али
 
 
 ## Среда разработки
