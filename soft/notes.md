@@ -47,6 +47,7 @@ comments: 114
 - Nimbus Note. онлай хрень
 - Simplenote. в  инетах ставят в один ряд с evernote, плохой наверное
 - стандартные заметки xiaomi. Норм, но лучше уж Omni Notes
+- workflowy
 
 
 ## Для компа
