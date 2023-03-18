@@ -2,7 +2,7 @@
 title: Хостинг и файлообменники
 date: 2020-07-28T01:34:10+03:00
 modified: 2022-08-21T15:29:20+03:00
-tags: web
+tags: server
 comments: 112
 ---
 

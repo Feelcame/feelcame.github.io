@@ -7,7 +7,45 @@ pin: 0
 ---
 
 
+{% include dir-ls.md pinned="only" %}
+
+
+## Сайтостроение Фронтенд
+{: #web }
+{% include dir-ls.md tag="web" %}
+
+## Сервера
+{: #server }
+{% include dir-ls.md tag="server" %}
+
+## Управление проектами
+{: #proj }
+{% include dir-ls.md tag="proj" %}
+
+## Приложения для мобильников и компов
+{: #apps }
+{% include dir-ls.md tag="apps" %}
+
+## Микроконтроллеры. Embedded
+{: #embed }
+{% include dir-ls.md tag="embed" %}
+
+## Прочее
+{: #other }
+{% include dir-ls.md tag="other" %}
+
+
+
+
+
+
+
+
+## Все подряд
+<details markdown="1">
+<summary markdown="0">Нажми что-бы открыть спойлер</summary>
 {% include dir-ls.md pinned="yes" %}
+</details>
 
 {% comment %}
 <details markdown="1"><summary markdown="0">Мои проекты</summary>
@@ -26,6 +64,8 @@ pin: 0
 {% endcomment %}
 
 
+
+
 <details>
 <summary></summary>
 
@@ -37,6 +77,7 @@ pin: 0
 - Прочее (тг боты)
 
 </details>
+
 
 
 

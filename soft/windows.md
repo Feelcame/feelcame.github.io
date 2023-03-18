@@ -303,15 +303,6 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 ### Диски
-- **Windows** - операционная система. <br>
-  [Win7 adguard(rtr)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard) +
-  [Loader by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz), 
-  [Win8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
-  <br>
-  [Win10(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows) +
-  [KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
-- **WinPE 10-8 Sergei Strelec** - Да это же легендарная сборка от стрельца!<br>
-  [поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 - **UltraISO** - Cоздание, изменение .iso. Запись загрузочных дисков на флешку  
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus** - Запись винды на флешку  
@@ -339,8 +330,21 @@ modified: 2022-07-04T08:40:38+03:00
 </details>
 <p></p>
 
-<details markdown="1"><summary markdown="0">LiveCD</summary>
+### LiveCD
 
+- **Windows 10** - операционная система. Нужно дотюнивать через WinAero<br>
+  [Поиск на Nnm](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
+  [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
+- **Windows 7** - для старых компов<br>
+  [Поиск на Nnm](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
+  [Win7 v21.01.13](https://rutracker.org/forum/viewtopic.php?t=5996235),
+  [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
+  [Win8.1](https://nnmclub.to/forum/viewtopic.php?t=1524993)
+- **WinPE Sergei Strelec** - сборка программ для аварийного восстановления системы<br>
+  [поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+
+<details markdown="1">
+<summary markdown="0">Другие LiveCD</summary>
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)

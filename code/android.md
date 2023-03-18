@@ -2,6 +2,7 @@
 title: Создаем приложения для Android
 date: 2020-06-28T23:56:53+03:00
 modified: 2021-08-25T11:38:41+03:00
+tags: apps
 ---
 
 ### Стандартно в Android Studio
