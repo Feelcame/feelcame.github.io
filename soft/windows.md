@@ -121,9 +121,9 @@ modified: 2022-07-04T08:40:38+03:00
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
   [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
   [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
-
 <details markdown="1">
 <summary markdown="0">Показать еще</summary>
+
 - **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 - **Quick Bookmarks Menu** - быстрый доступ к закладкам<br>
