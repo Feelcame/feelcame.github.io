@@ -26,17 +26,18 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 ### Музыка
-- **AIMP** - Аудиоплеер<br>
+- **AIMP** - удобный проигрыватель музыки, конвертер, редактор тегов<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
   [biblprog](https://biblprog.org.ua/ua/aimp/download/),
   [softportal](https://www.softportal.com/get-5099-aimp.html)
-- **Audacity** - Запись и редактирование звука<br>
+- **Audacity** - запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
-- **VoiceMeeter Banana** - виртуальный микшер.  
+- **VoiceMeeter Banana** - виртуальный микшер, для перенаправления звука.<br>
   [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install Voicemeeter)
-- **Equalizer APO** - нативный эквалайзер на всю систему.  
-  [оф.сайт]([https://equalizerapo.com/#installation](https://equalizerapo.com/download.html))
-- **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.  
+- **Equalizer APO** - нативный эквалайзер на всю систему.<br>
+  [оф.сайт](https://equalizerapo.com/#installation),
+  [страница загрузки](https://equalizerapo.com/download.html)
+- **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.<br>
   [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать для Windows)
 
 
