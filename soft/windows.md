@@ -32,16 +32,13 @@ modified: 2022-07-04T08:40:38+03:00
   [softportal](https://www.softportal.com/get-5099-aimp.html)
 - **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
 - **VoiceMeeter Banana** - виртуальный микшер.  
   [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install Voicemeeter)
 - **Equalizer APO** - нативный эквалайзер на всю систему.  
   [оф.сайт]([https://equalizerapo.com/#installation](https://equalizerapo.com/download.html))
 - **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.  
   [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать для Windows)
-</details>
+
 
 [Наверх↑](#top)
 
@@ -73,11 +70,7 @@ modified: 2022-07-04T08:40:38+03:00
 - **Paint.Net** - Редактор фото<br>
   [оф.сайт](https://paintnet.ru/download/),
   [ссылка](#)  
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
 - **Krita** - крутая рисовалка для графического планшета
-</details>
 
 [Наверх↑](#top)
 
@@ -109,14 +102,10 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт](https://openvpn.net/community-downloads/)
 - **AnyDesk** - удаленное управление<br>
   [оф.сайт](http://anydesk.com/ru/downloads)
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
 - **Networx** - мониторинг скорости сети<br>
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
 - **ChromeCacheView** - сохранение закешированных браузером файлов  
   [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
-</details>
 
 [Наверх↑](#top)
 
@@ -132,7 +121,9 @@ modified: 2022-07-04T08:40:38+03:00
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
   [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
   [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
-<details markdown="1"><summary markdown="0">Показать еще</summary>
+
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
 - **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 - **Quick Bookmarks Menu** - быстрый доступ к закладкам<br>
@@ -192,7 +183,8 @@ modified: 2022-07-04T08:40:38+03:00
 - Geek Uninstaller - расширенное удаление программ
   [оф.сайт](https://geekuninstaller.com/ru/download)
 
-<details markdown="1"><summary markdown="0">Показать еще</summary>
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
 
 - **WizTree** - анализ места на диске<br>
   [оф.сайт](https://diskanalyzer.com/download), 
@@ -219,7 +211,8 @@ modified: 2022-07-04T08:40:38+03:00
 - **WinAero Tweaker** - умеет делатьприкольные штуки  
   [оф.сайт](https://winaero.com/)
   
-<details markdown="1"><summary markdown="0">Показать еще</summary>
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
 
 - **Win Updates Disabler** - отключает обновления даже в Win 10 Home  
   [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
@@ -239,6 +232,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 ### Безопасность 
 {: .no_toc #security }
+
 - **VirusTotal Uploader** - Проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 - **SmartFix** - Восстановление слетевших настроек системы после вирусов<br>
@@ -276,7 +270,10 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework), 
 - **Набор обновлений Windows 7** - Лучше ставить винду с уже интегрированными обновами<br>
   [simplix](https://blog.simplix.info/updatepack7r2/)
-- Nvidia, AMD
+- Драйвер видеокарты<br>
+  Nvidia, AMD
+- Пак драйверов для корректной работы игр<br>
+  обновляемая раздача(rtr)
 </details>
 
 [Наверх↑](#top)
@@ -288,7 +285,6 @@ modified: 2022-07-04T08:40:38+03:00
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus** - Запись винды на флешку  
   [оф.сайт](https://rufus.ie/ru/#download), 
-  [ссылка](#)
 - **CrystalDiskMark** - Проверка скорости накопителя<br>
   [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark), 
   [ссылка](#)
@@ -296,7 +292,8 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version), 
   [v5.36](#)
 
-<details markdown="1"><summary markdown="0">Показать еще</summary>
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
 
 - **BOOTICE** - Редактор загрузчика  
   [ссылка](#)
