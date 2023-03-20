@@ -2,7 +2,7 @@
 title: Пишем Telegram-ботов
 no-date: 2020-08-25T14:19:55+03:00
 modified: 2021-08-25T11:38:30+03:00
-tags: other
+tags: server
 ---
 
 Каталог полезных ботов [**на отдельной странице**](../software/telegram-bots.md)
