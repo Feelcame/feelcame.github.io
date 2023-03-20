@@ -86,9 +86,10 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт](https://desktop.telegram.org/) - 
   [**Kotatogram**](https://kotatogram.github.io/ru/download/#beta)
 - **qBitTorrent** - скачивание файлов<br>
-  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows x64), 
+  [оф.сайт](https://www.qbittorrent.org/)
+  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows%20x64), 
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download),
-  [Последняя x86 v4.4.5(fosshub, прямая ссылка)](https://www.fosshub.com/qBittorrent-old.html?dwl=qbittorrent_4.4.5_setup.exe)
+  [v4.4.5old (для x86)](https://www.fosshub.com/qBittorrent-old.html#:~:text=[v4.4.5]%20qBittorrent%20Windows)
 
 [Наверх↑](#top)
 
@@ -121,6 +122,7 @@ modified: 2022-07-04T08:40:38+03:00
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
   [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
   [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
+  
 <details markdown="1">
 <summary markdown="0">Показать еще</summary>
 
@@ -156,10 +158,8 @@ modified: 2022-07-04T08:40:38+03:00
 ### Офис
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
   [оф.сайт](http://www.stdutility.com/stduviewer.html), 
-  [ссылка](#)
 - **SumatraPDF** - Простая читалка с редактором аннотаций<br>
   [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer), 
-  [ссылка](#)
 - **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
   [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
   [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
@@ -180,7 +180,7 @@ modified: 2022-07-04T08:40:38+03:00
 - **Total Commander** - двухпанельный файл-менеджер<br>
   [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack), 
 - **Uninstall Tool** - удаление программ с корнями<br>
-- Geek Uninstaller - расширенное удаление программ
+- **Geek Uninstaller** - расширенное удаление программ
   [оф.сайт](https://geekuninstaller.com/ru/download)
 
 <details markdown="1">
@@ -188,7 +188,6 @@ modified: 2022-07-04T08:40:38+03:00
 
 - **WizTree** - анализ места на диске<br>
   [оф.сайт](https://diskanalyzer.com/download), 
-  [ссылка](#)
 - **Duplicate File Detector** - поиск дубликатов файлов<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
 - **WinDirStat**<br>
