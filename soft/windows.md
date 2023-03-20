@@ -4,7 +4,7 @@ comments: 96
 title: Программы на Windows
 no-description: В статье ссылки на официальный сайт. Скачать там же или на веб-диске
 date: 2021-09-09T12:19:30+03:00
-modified: 2022-07-04T08:40:38+03:00
+modified: 2023-03-20T08:40:38+03:00
 ---
 
 
@@ -213,7 +213,7 @@ modified: 2022-07-04T08:40:38+03:00
 - **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
   [оф.сайт](https://www.hwinfo.com/download/)
 - **AIDA64** - просмотр характеристик компа. платкая<br>
-  [rtr](http://rutracker.org/forum/tracker.php?nm=aida64), 
+  [поиск на rutracker](http://rutracker.org/forum/tracker.php?nm=aida64)
 - **Furmark** - нагружает видуху по полной для проверки стабильности<br>
   [оф.сайт](https://geeks3d.com/furmark/downloads/), 
 - **OCCT** - максимально нагружает комп
