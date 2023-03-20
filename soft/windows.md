@@ -109,14 +109,17 @@ modified: 2022-07-04T08:40:38+03:00
   [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
 - **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
-- **Softperfect Netscan**
-- **Advanced NetScan **
+- **Softperfect Netscan**<br>
+  [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
+- **Advanced IP Scanner**<br>
+  [оф.сайт](https://www.advanced-ip-scanner.com/ru/)
+  
+
 [Наверх↑](#top)
 
 
 
 ### Расширения
-*<https://t.me/s/FeelSoftAddons/7>*
 - **AdBlock Plus** - Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/download),
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
@@ -125,14 +128,15 @@ modified: 2022-07-04T08:40:38+03:00
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
   [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
   [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
-  
-<details markdown="1">
-<summary markdown="0">Показать еще</summary>
-
 - **Переводчик SailorMax** - удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
   [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/),
   [edge](https://microsoftedge.microsoft.com/addons/detail/translator/cdkmohnpfdennnemmjekmmiibgfddako?hl=ru-RU)
+
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
+
+Еще один список тут: *<https://t.me/s/FeelSoftAddons/7>*
 - **DarkReader** - затемняет страницы<br>
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block** - вырезает нативную реклам в ютубе<br>
