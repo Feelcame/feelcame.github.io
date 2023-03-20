@@ -10,19 +10,18 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 <details markdown="1" open>
-<summary markdown="0">Предисловие</summary>
-<div style="font-size: 13px;">
-В статье ссылки на официальный сайт. Скачать там же или на веб-диске. [**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
-[**Telegram**](https://t.me/FeelSoftWin/105), 
-[**OneDrive**](https://1drv.ms/f/s!An7p8rERUur5gg4V5MscshoeOfgs), 
-[**Проф. софт**](./profi-soft)
-</div>
+<summary markdown="0">Навигатор</summary>
 
 - toc
 {:toc}
 
 </details>
 
+
+<div style="font-size: 13px;">
+На сайте только список программ. Качать на официальном сайте или на веб-диске: 
+[**Telegram**](https://t.me/FeelSoftWin/105), 
+</div>
 
 
 ### Музыка
@@ -338,8 +337,6 @@ modified: 2023-03-20T08:40:38+03:00
 
 ## Полезные ссылки  
 {: .no_toc }
-- Разработчику [./profi-soft](./profi-soft.md)
-- Навигатор в телеграм-канале <https://t.me/s/FeelSoftWin/109>
 
 <!-- 
 <details markdown="1"><summary markdown="0">+ Открой спойлер что бы посмотреть навигатор в телеграм-канале</summary>
