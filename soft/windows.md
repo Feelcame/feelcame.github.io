@@ -9,7 +9,8 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 
-<details markdown="1"><summary markdown="0">Предисловие</summary>
+<details markdown="1" open>
+<summary markdown="0">Предисловие</summary>
 <div style="font-size: 13px;">
 В статье ссылки на официальный сайт. Скачать там же или на веб-диске. [**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I), 
 [**Telegram**](https://t.me/FeelSoftWin/105), 
@@ -27,8 +28,8 @@ modified: 2022-07-04T08:40:38+03:00
 ### Музыка
 - **AIMP** - Аудиоплеер<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
-  [v5.01.2358](https://tlgur.com/d/81vnoBPG), 
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iQ4UdkvwRjPUOL7T?e=5I3nCp)
+  [biblprog](https://biblprog.org.ua/ua/aimp/download/),
+  [softportal](https://www.softportal.com/get-5099-aimp.html)
 - **Audacity** - Запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/), 
 
@@ -53,20 +54,13 @@ modified: 2022-07-04T08:40:38+03:00
   [softportal](https://www.softportal.com/get-21466-potplayer.html), 
   [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
 - **Bandicam** - Запись экрана<br>
-  [v5.3.3(rt)](https://rutracker.org/forum/viewtopic.php?t=5001428), 
-  [tlgur](https://tlgur.com/d/4x5Nb5x8), 
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iSrG0CR4Ya19Bkva)
-- **FFQueue** - GUI for FFMpeg<br>
-  [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
-- **HandBrake** - Конвернтер видео. Тормозной<br>
-  [оф.сайт](https://handbrake.fr/downloads.php)
-- **Avidemux**
-- **Any Video Converter** 
-- **MakeMKV**
-</details>
+  [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647),
+  [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam),
+- **FFQueue** - Быстрый редактор видео на основе FFMpeg с графическим интерфейсом<br>
+  [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx),
+  [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
+- **Any Video Converter** - старенький конвертер видео
+- **MakeMKV** - упаковать DVD-Video в один файл MKV
 
 [Наверх↑](#top)
 
@@ -98,16 +92,10 @@ modified: 2022-07-04T08:40:38+03:00
 - **Telegram** - удобный мессенджер<br>
   [оф.сайт](https://desktop.telegram.org/) - 
   [**Kotatogram**](https://kotatogram.github.io/ru/download/#beta)
-- **AnyDesk** - удаленное управление<br>
-  [оф.сайт](http://anydesk.com/ru/downloads)
 - **qBitTorrent** - скачивание файлов<br>
-  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=x64), 
-  [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
-- ...
-</details>
+  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows x64), 
+  [biblprog](http://biblprog.org.ua/ru/qbittorrent/download),
+  [Последняя x86 v4.4.5(fosshub, прямая ссылка)](https://www.fosshub.com/qBittorrent-old.html?dwl=qbittorrent_4.4.5_setup.exe)
 
 [Наверх↑](#top)
 
@@ -119,12 +107,13 @@ modified: 2022-07-04T08:40:38+03:00
   v1.66.2
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
+- **AnyDesk** - удаленное управление<br>
+  [оф.сайт](http://anydesk.com/ru/downloads)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
 - **Networx** - мониторинг скорости сети<br>
   [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
-- **CCProxy** - прокси-сервер
 - **ChromeCacheView** - сохранение закешированных браузером файлов  
   [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
 </details>
@@ -138,19 +127,21 @@ modified: 2022-07-04T08:40:38+03:00
 - **AdBlock Plus** - Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/download),
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
-- **Video Resume** - продолжает ютуб с места остановки<br>
-  [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-- **Blank New Tab Page** - заменяет стартовую страницу на пустую.
+- **Blank New Tab Page** - заменяет стартовую страницу на пустую.<br>
   [оф.сайт](https://yuhaofe.com/blank-new-tab-page),
-  [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh)
+  [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
+  [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
+  [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
+<details markdown="1"><summary markdown="0">Показать еще</summary>
+- **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность<br>
+  [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 - **Quick Bookmarks Menu** - быстрый доступ к закладкам<br>
   [оф.сайт](https://yuhaofe.com/quick-bookmarks-menu),
   [chrome](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf)
 - **Переводчик SailorMax** - удобный, универсальный<br>
   [opera](https://addons.opera.com/ru/extensions/details/translator/), 
-  [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/)
+  [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/),
+  [edge](https://microsoftedge.microsoft.com/addons/detail/translator/cdkmohnpfdennnemmjekmmiibgfddako?hl=ru-RU)
 - **DarkReader** - затемняет страницы<br>
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block** - вырезает нативную реклам в ютубе<br>
@@ -158,12 +149,13 @@ modified: 2022-07-04T08:40:38+03:00
 - **Steam Recorder** - Скачивание видео и трансляций<br>
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
-- **Yandex Acces** - доступ к вк, ок и афк<br>
+- **Yandex Acces** - доступ к вк, ок и афк. Разработчик яндекс<br>
   [ссылка](#)
 - **Windscribe** - Платный VPN-сервис для разблокировки сайтов<br>
   [оф.сайт](https://rus.windscribe.com/download)
 - **Video Downloader Plus** - скачивает видео из фейсбука<br>
-  [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf)
+  [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf),
+  [архив](https://extpose.com/ext/206921/ru)
 </details>
 
 [Наверх↑](#top)
@@ -178,21 +170,12 @@ modified: 2022-07-04T08:40:38+03:00
   [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer), 
   [ссылка](#)
 - **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
-  [v2007](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
-  [v2010](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
-  [v2021](https://rutracker.org/forum/viewtopic.php?t=6087671), 
-  [v365(оф.сайт)](https://www.office.com/?auth=2)
+  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
+  [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
+  [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
+  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671), 
 - **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
-  [оф.сайт](https://notepad-plus-plus.org/downloads/)
-  [ссылка](#) - 
-
-<details markdown="1"><summary markdown="0">Показать еще</summary>
-
-- Dynalist. Списки с бесконечной вложенностью, markdown
-- Notable
-- Obsidian
-- Notion
-</details>
+  [оф.сайт](https://notepad-plus-plus.org/downloads/) 
 
 [Наверх↑](#top)
 
@@ -201,16 +184,13 @@ modified: 2022-07-04T08:40:38+03:00
 ### Файлы
 - **7-zip** - архиватор с открытым исходным кодом<br>
   [оф.сайт](https://www.7-zip.org/download.html), 
-  [ссылка](#)
 - **WinRAR** - мощный архиватор с большой историей<br>
   [rutracker](http://rutracker.org/forum/tracker.php?nm=winrar), 
-  [ссылка](#)
 - **Total Commander** - двухпанельный файл-менеджер<br>
   [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack), 
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHQV5MscshoeOfgs)
 - **Uninstall Tool** - удаление программ с корнями<br>
-  [беспл.аналог](https://geekuninstaller.com/ru/download), 
-  [ссылка](#)
+- Geek Uninstaller - расширенное удаление программ
+  [оф.сайт](https://geekuninstaller.com/ru/download)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
@@ -236,7 +216,7 @@ modified: 2022-07-04T08:40:38+03:00
 - **Feelsoft Tweaker** - Для тонкой настройки системы<br>
   [оф.сайт](https://linker.pp.ua/projects/tweaker.html), 
   [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
-- **WiaAero Tweaker** - умеет делатьприкольные штуки  
+- **WinAero Tweaker** - умеет делатьприкольные штуки  
   [оф.сайт](https://winaero.com/)
   
 <details markdown="1"><summary markdown="0">Показать еще</summary>
@@ -258,6 +238,7 @@ modified: 2022-07-04T08:40:38+03:00
 
 
 ### Безопасность 
+{: .no_toc #security }
 - **VirusTotal Uploader** - Проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 - **SmartFix** - Восстановление слетевших настроек системы после вирусов<br>
@@ -284,9 +265,9 @@ modified: 2022-07-04T08:40:38+03:00
 - **Microsoft Visual C++ Runtime** - Набор библиотек для стабильной работы програм<br>
   [поиск rtr](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B), 
   [rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213), 
-  [1drv](#)
 
-<details markdown="1"><summary markdown="0">Показать еще</summary>
+<details markdown="1">
+<summary markdown="0">Показать еще</summary>
 
 - **DirectX** - Для работы игр и графических приложений<br>
   [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35), 
@@ -314,9 +295,6 @@ modified: 2022-07-04T08:40:38+03:00
 - **Victoria** - Проверка диска на битые сектора<br>
   [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version), 
   [v5.36](#)
-- **Acronis** Disk Director / True Image - переразбивка и клонирование диска<br>
-  [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998), 
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
 
 <details markdown="1"><summary markdown="0">Показать еще</summary>
 
@@ -343,8 +321,21 @@ modified: 2022-07-04T08:40:38+03:00
 - **WinPE Sergei Strelec** - сборка программ для аварийного восстановления системы<br>
   [поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 
-<details markdown="1">
-<summary markdown="0">Другие LiveCD</summary>
+[Наверх↑](#top)
+
+
+
+## Не актуальное
+{: .no_toc }
+
+ <details markdown="1">
+ <summary markdown="0">Открыть спойлер</summary>
+- Dynalist. Списки с бесконечной вложенностью, markdown
+- Notable
+- Obsidian
+- Notion
+
+
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
@@ -352,14 +343,17 @@ modified: 2022-07-04T08:40:38+03:00
 - [MSDaRT](https://rutracker.org/forum/viewtopic.php?t=4456092)
 - [Windows PE x64 by evgen_b Acronis edition (2021.05.30)](https://rutracker.org/forum/viewtopic.php?t=5765167)
 - [Acronis BootCD 10PE x86x64 by naifle (26.09.2018)](https://rutracker.org/forum/viewtopic.php?t=5536761). топчик
+- **Acronis** Disk Director / True Image - переразбивка и клонирование диска<br>
+  [rtr](http://rutracker.org/forum/viewtopic.php?t=5691998), 
+  [1drv](https://1drv.ms/u/s!An7p8rERUur5iHkfRYAlJvhEuU1V)
+  
+- **HandBrake** - Конвернтер видео. Тормозной<br>
+  [оф.сайт](https://handbrake.fr/downloads.php)
+- **Avidemux**
+
+- **CCProxy** - прокси-сервер
+
 </details>
-
-[Наверх↑](#top)
-
-
- 
-
-
 
 ## Полезные ссылки  
 {: .no_toc }
