@@ -30,20 +30,32 @@ a.not_prefer{
 </style>
 
 
-Пожалуйста, почитай обращение в шапке. 
-<br>
-<br>
-<br>
-**Реклама спонсирует сайт:**
-
+Самореклама спонсирует сайт:
 
 <br>
+
+<div style="text-align: center;">
+	
+<h1><strong>Привет</strong></h1>
+
+<div style="max-width: 416px; text-align: center;margin-right: auto; margin-left: auto;">
+<p>
+Меня зовут Рома. Занимаюсь разработкой электроники (платы, прошивки и т.д). Мое хобби - кибербезопасность, презираю злые лицемерность корпорации. У себя на сайте пишу статьи "как настроить компьютер", также публикую мемы с котиками в телеграм-канале
+</p>
+</div>
+	
 <br>
-<br>
+
+
+<a href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" class="button7 not_prefer" title="мимо">купить&nbsp;гараж</a>
+<a href="https://memcdn.t.me" class="button7 not_prefer" title="мяу">видео&nbsp;с&nbsp;котиками</a>
+<a href="/about.html" class="button7" title="выбери меня">заказать&nbsp;разработку</a>
+
+</div>
 
 
 
-
+{% comment %}
 <div style="text-align: center;">
 	
 <h1><strong>ПРОДАМ ГАРАЖ</strong></h1>
@@ -63,6 +75,8 @@ a.not_prefer{
 <a href="/about.html" class="button7" title="выбери меня">написать&nbsp;автору</a>
 
 </div>
+
+{% endcomment %}
 
 <br><br><br><br><br><br><br><br><br>
 
