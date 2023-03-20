@@ -10,11 +10,11 @@ pin: 0
 {% include dir-ls.md pinned="only" %}
 
 
-## Сайтостроение Фронтенд
+## Создание сайта
 {: #web }
 {% include dir-ls.md tag="web" %}
 
-## Сервера
+## Настройка сервера
 {: #server }
 {% include dir-ls.md tag="server" %}
 
@@ -22,17 +22,17 @@ pin: 0
 {: #proj }
 {% include dir-ls.md tag="proj" %}
 
-## Приложения для мобильников и компов
+## Нативные приложения
 {: #apps }
 {% include dir-ls.md tag="apps" %}
 
-## Микроконтроллеры. Embedded
+## Embedded 
 {: #embed }
 {% include dir-ls.md tag="embed" %}
 
-## Прочее
-{: #other }
-{% include dir-ls.md tag="other" %}
+## Без категории
+{: #notag }
+{%include dir-ls.md tag="empty" %}
 
 
 
@@ -40,6 +40,7 @@ pin: 0
 
 
 
+{% comment %}
 
 ## Все подряд
 <details markdown="1">
@@ -47,38 +48,33 @@ pin: 0
 {% include dir-ls.md pinned="yes" %}
 </details>
 
-{% comment %}
+
 <details markdown="1"><summary markdown="0">Мои проекты</summary>
 {% include dir-ls.md tag="project" %}
 </details>
-
 
 
 <details markdown="1"><summary markdown="0">Идеи</summary>
 {% include dir-ls.md dir="/projects/" tag="coding" %}
 </details>
 
+
 <details markdown="1"><summary markdown="0">Web</summary>
 {% include dir-ls.md tag="web" %}
 </details>
-{% endcomment %}
-
-
 
 
 <details>
 <summary></summary>
-
 - Фронтенд. Создание сайта, маркдаун
 - Бэкенд. Настройка сервера, веб-приложений, телеграм боты
 - Архитектура, управление
 - Для мобильников и компов
 - Микроконтроллеры. Embedded
 - Прочее (тг боты)
-
 </details>
 
-
+{% endcomment %}
 
 
 > Все права защищены. Тексты в свободном доступе. Если понравился код - копируй на здоровье! Только обязательно проверяй перед использованием
