@@ -25,6 +25,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Музыка
+{: #music }
 - **AIMP** - удобный проигрыватель музыки, конвертер, редактор тегов<br>
   [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
   [biblprog](https://biblprog.org.ua/ua/aimp/download/),
@@ -45,6 +46,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Видео
+{: #video }
 - **PotPlayer** - видеоплеер<br>
   [оф.сайт](https://potplayer.ru/download/), 
   [оф.сайт2](https://potplayer.daum.net/), 
@@ -65,6 +67,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Графика
+{: #img }
 - **XnView MP** - Просмотр фото<br>
   [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows), 
 - **Paint.Net** - Редактор фото<br>
@@ -76,7 +79,26 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 
+### Офис
+{: #office }
+- **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
+  [оф.сайт](https://notepad-plus-plus.org/downloads/) 
+- **SumatraPDF** - Простая читалка с редактором аннотаций<br>
+  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer), 
+- **STDU Viewer** - Читалка PDF родом из нулевых<br>
+  [оф.сайт](http://www.stdutility.com/stduviewer.html), 
+- **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
+  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
+  [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
+  [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
+  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671), 
+
+[Наверх↑](#top)
+
+
+
 ### Интернет
+{: #internet }
 - **Google Chrome** - слей свои данные<br>
   [оф.сайт (standalone)](http://google.com/intl/ru/chrome/?standalone=1)
 - **Mozilla Firefox** - Браузер для людей<br>
@@ -96,29 +118,8 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 
-### Сеть
-- **NetTraffic** - плавающий график скорости интернета, статистика<br>
-  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
-  v1.66.2
-- **OpenVPN** - cоединение компов в локалку через интернет<br>
-  [оф.сайт](https://openvpn.net/community-downloads/)
-- **AnyDesk** - удаленное управление<br>
-  [оф.сайт](http://anydesk.com/ru/downloads)
-- **ChromeCacheView** - сохранение закешированных браузером файлов  
-  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
-- **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
-  [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
-- **Softperfect Netscan**<br>
-  [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
-- **Advanced IP Scanner**<br>
-  [оф.сайт](https://www.advanced-ip-scanner.com/ru/)
-  
-
-[Наверх↑](#top)
-
-
-
 ### Расширения
+{: .no_toc #addons }
 - **AdBlock Plus** - Скрывает рекламу<br>
   [оф.сайт](https://adblockplus.org/ru/download),
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
@@ -161,24 +162,31 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 
-### Офис
-- **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
-  [оф.сайт](https://notepad-plus-plus.org/downloads/) 
-- **SumatraPDF** - Простая читалка с редактором аннотаций<br>
-  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer), 
-- **STDU Viewer** - Читалка PDF родом из нулевых<br>
-  [оф.сайт](http://www.stdutility.com/stduviewer.html), 
-- **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
-  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
-  [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
-  [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
-  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671), 
+### Сеть
+{: #network }
+- **NetTraffic** - плавающий график скорости интернета, статистика<br>
+  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
+  v1.66.2
+- **OpenVPN** - cоединение компов в локалку через интернет<br>
+  [оф.сайт](https://openvpn.net/community-downloads/)
+- **AnyDesk** - удаленное управление<br>
+  [оф.сайт](http://anydesk.com/ru/downloads)
+- **ChromeCacheView** - сохранение закешированных браузером файлов  
+  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
+- **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
+  [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
+- **Softperfect Netscan**<br>
+  [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
+- **Advanced IP Scanner**<br>
+  [оф.сайт](https://www.advanced-ip-scanner.com/ru/)
+  
 
 [Наверх↑](#top)
 
 
 
 ### Файлы
+{: #files }
 - **7-zip** - архиватор с открытым исходным кодом<br>
   [оф.сайт](https://www.7-zip.org/download.html), 
 - **WinRAR** - мощный архиватор с большой историей<br>
@@ -201,6 +209,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Система
+{: #system }
 - **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт
   [оф.сайт](https://winaero.com/),
   [скачать мой конфиг](#)
@@ -240,6 +249,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Драйвера
+{: #drivers }
 - **Snappy Driver Installer** - драйверпак без рекламы<br>
   [оф.сайт](https://sdi-tool.org/download/), 
   [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
@@ -266,6 +276,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 
 ### Диски
+{: #diski }
 - **UltraISO** - редактор .iso. Запись дисков и флешкек. Монтирование<br>
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus** - запись винды на флешку<br>
@@ -283,6 +294,7 @@ modified: 2023-03-20T08:40:38+03:00
   [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
 
 ### LiveCD
+{: .no_toc #livecd }
 - **Windows 10** - операционная система. Нужно дотюнивать через WinAero<br>
   [Поиск на Nnm](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
   [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
