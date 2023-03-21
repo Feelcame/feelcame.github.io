@@ -210,8 +210,8 @@ pin: 3
 ### Система
 {: #system }
 - **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт<br>
-  [оф.сайт](https://winaero.com/)
-  [скачать список что менять](https://files.catbox.moe/bzor5u.ini)
+  [оф.сайт](https://winaero.com/),
+  [мой пресет](https://files.catbox.moe/bzor5u.ini)
 - **Win Updates Disabler** - отключает обновления даже в Win10 Home  
   [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
   [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
