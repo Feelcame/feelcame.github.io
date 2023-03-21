@@ -47,8 +47,8 @@ pin: 3
 ### Видео
 {: #video }
 - **PotPlayer** - видеоплеер<br>
-  [оф.сайт](https://potplayer.ru/download/), 
-  [оф.сайт2](https://potplayer.daum.net/), 
+  [оф.сайт](https://potplayer.daum.net/), 
+  [оф.сайт.ru](https://potplayer.ru/download/), 
   [softportal](https://www.softportal.com/get-21466-potplayer.html), 
   [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
 - **Bandicam** - запись видео с экрана<br>
@@ -172,7 +172,7 @@ pin: 3
 - **ChromeCacheView** - сохранение закешированных браузером файлов  
   [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
 - **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
-  [v5.5(free)](http://biblprog.org.ua/ru/networx/download)
+  [v5.5-free (biblprog)](http://biblprog.org.ua/ru/networx/download)
 - **Softperfect Netscan**<br>
   [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
 - **Advanced IP Scanner**<br>
@@ -188,9 +188,9 @@ pin: 3
 - **7-zip** - архиватор с открытым исходным кодом<br>
   [оф.сайт](https://www.7-zip.org/download.html)
 - **WinRAR** - мощный архиватор с большой историей<br>
-  [rutracker](http://rutracker.org/forum/tracker.php?nm=winrar)
+  [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=winrar)
 - **Total Commander** - двухпанельный файл-менеджер<br>
-  [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
+  [раздача(rtr)](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
 - **WinDirStat**<br>
   [оф.сайт](https://windirstat.net/download.html),
   [fosshub](https://www.fosshub.com/WinDirStat.html)
@@ -199,7 +199,7 @@ pin: 3
 - **Duplicate File Detector** - поиск дубликатов файлов<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
 - **Uninstall Tool** - удаление программ с корнями<br>
-  [тема rutracker](#)
+  [vX.X.X(tlgur)](#)
 - **Geek Uninstaller** - расширенное удаление программ<br>
   [оф.сайт](https://geekuninstaller.com/ru/download)
 
@@ -220,7 +220,7 @@ pin: 3
 - **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
   [оф.сайт](https://www.hwinfo.com/download/)
 - **AIDA64** - просмотр характеристик компа. платкая<br>
-  [поиск на rutracker](http://rutracker.org/forum/tracker.php?nm=aida64)
+  [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=aida64)
 - **Furmark** - нагружает видуху по полной для проверки стабильности<br>
   [оф.сайт](https://geeks3d.com/furmark/downloads/), 
 - **OCCT** - максимально нагружает комп<br>
@@ -241,7 +241,7 @@ pin: 3
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
 - **Unchecky** - снимает галочки при установке софта<br>
   [оф.сайт](https://unchecky.com/)
-- **Cureit** - бесплатный одноразовой антивирус со встроенным анальным зондом от яндекса (шутка)<br>
+- **Cureit** - бесплатный одноразовой антивирус родом из рф<br>
   [biblprog](http://biblprog.org.ua/ru/dr_web_cureit)
 
 [Наверх↑](#top)
@@ -254,8 +254,8 @@ pin: 3
   [оф.сайт](https://sdi-tool.org/download/), 
   [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
 - **Microsoft Visual C++ Runtime** - набор библиотек для стабильной работы програм<br>
-  [поиск rtr](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B), 
-  [тема rutracker](https://rutracker.org/forum/viewtopic.php?t=5953213)
+  [поиск(rtr)](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B), 
+  [раздача(rtr)](https://rutracker.org/forum/viewtopic.php?t=5953213)
 - **NetFramework** - актуально для старых систем, в десятку уже встроен<br>
   [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework), 
   [тема rutracker](https://rutracker.org/forum/viewtopic.php?t=3808372)
@@ -266,7 +266,7 @@ pin: 3
   [Nvidia](https://www.nvidia.com/download/index.aspx?lang=ru), 
   [AMD Radeon](https://www.amd.com/en/support)
 - **Необходимый софт для запуска любых игр**<br>
-  [тема rutracker](https://rutracker.org/forum/viewtopic.php?t=5985015)
+  [раздача(rutracker)](https://rutracker.org/forum/viewtopic.php?t=5985015)
 - **Набор обновлений Windows 7** - лучше ставить винду с уже интегрированными обновами<br>
   [simplix](https://blog.simplix.info/updatepack7r2/)
 
@@ -278,7 +278,7 @@ pin: 3
 ### Диски
 {: #diski }
 - **UltraISO** - редактор .iso. Запись дисков и флешкек. Монтирование<br>
-  [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
+  [раздача(rtr)](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus** - запись винды на флешку<br>
   [оф.сайт](https://rufus.ie/ru/#download)
 - **CrystalDiskMark** - проверка скорости накопителя<br>
@@ -292,20 +292,21 @@ pin: 3
   [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
 - **Easy BCD** - редактор загрузчика с красивым GUI<br>
   [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
+
 [Наверх↑](#top)
 
 ### LiveCD
 {: .no_toc #livecd }
 - **Windows 10** - операционная система. Нужно дотюнивать через WinAero<br>
-  [Nnm(поиск)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
+  [Поиск(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
   [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
 - **Windows 7** - для старых компов<br>
   [v21.01.13(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
-  [Nnm(поиск)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
+  [Поиск(nnm)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
   [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
   [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
 - **WinPE Sergei Strelec** - сборка программ для аварийного восстановления системы<br>
-  [Nnm(поиск)](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+  [Поиск(nnm)](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 
 [Наверх↑](#top)
 
