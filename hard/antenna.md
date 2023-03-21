@@ -39,7 +39,7 @@ tags: hf
 ## Моделирование ВЧ
 - [CST STUDIO SUITE 2021](http://eurointech.ru/eda/microwave_design/cst/CST-STUDIO-SUITE.phtml) - моделирование трехмерных электромагнитных структур
 - [Antenna Magus](http://eurointech.ru/eda/microwave_design/cst/Antenna-Magus.phtml) - специализированный продукт для проектирования антенн
-- AWR MWO - моделирование ВЧ-схем, EM-лейаутов и систем связи. Интерфейс виндовый с окошечками
+- AWR MWO - моделирование ВЧ-схем, EM-лейаутов и систем связи. Интерфейс виндовый с окошечками <https://rutracker.org/forum/tracker.php?f=1192&nm=AWR>
 - HFSS - моделирование и анализ вч трактов и антен. интерфейс как у програм родом из девяностых. Работает на линуксе
 - Ansys ...
 - [MMANA-GAL](http://gal-ana.de/basicmm/ru/) - калькулятор для рассчета антенн
