@@ -212,9 +212,6 @@ pin: 3
 - **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт<br>
   [оф.сайт](https://winaero.com/),
   [мой пресет](https://files.catbox.moe/bzor5u.ini)
-- **Win Updates Disabler** - отключает обновления даже в Win10 Home  
-  [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
-  [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
 - **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
   [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download)
 - **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
@@ -346,6 +343,10 @@ pin: 3
 - **Feelsoft Tweaker** - Для тонкой настройки системы<br>
   [оф.сайт](https://linker.pp.ua/projects/tweaker.html), 
   [github](https://github.com/Feelcame/feelsoft-tweaker/releases)
+
+- **Win Updates Disabler** - отключает обновления даже в Win10 Home  
+  [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
+  [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
 
 </details>
 
