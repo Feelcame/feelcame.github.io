@@ -106,7 +106,7 @@ modified: 2023-03-20T08:40:38+03:00
   [portable](https://portableapps.com/apps/internet/firefox_portable#:~:text=Russian)
 - **Telegram** - удобный мессенджер<br>
   [оф.сайт](https://desktop.telegram.org/)
-- **Kotatogram** - модификация телеги, быстрая выгрузка файлов
+- **Kotatogram** - модификация телеги, быстрая выгрузка файлов<br>
   [оф.сайт модификации](https://kotatogram.github.io/ru/download/#beta)
 - **qBitTorrent** - скачивание файлов, обмен файлами p2p<br>
   [оф.сайт](https://www.qbittorrent.org/), 
@@ -193,7 +193,7 @@ modified: 2023-03-20T08:40:38+03:00
 - **Total Commander** - двухпанельный файл-менеджер<br>
   [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
 - **WinDirStat**<br>
-  [оф.сайт](https://windirstat.net/download.html)
+  [оф.сайт](https://windirstat.net/download.html),
   [fosshub](https://www.fosshub.com/WinDirStat.html)
 - **WizTree** - анализ места на диске<br>
   [оф.сайт](https://diskanalyzer.com/download)
@@ -210,7 +210,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 ### Система
 {: #system }
-- **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт
+- **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт<br>
   [оф.сайт](https://winaero.com/)
   [скачать список что менять](https://files.catbox.moe/bzor5u.ini)
 - **Win Updates Disabler** - отключает обновления даже в Win10 Home  
@@ -293,19 +293,20 @@ modified: 2023-03-20T08:40:38+03:00
   [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
 - **Easy BCD** - редактор загрузчика с красивым GUI<br>
   [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
+[Наверх↑](#top)
 
 ### LiveCD
 {: .no_toc #livecd }
 - **Windows 10** - операционная система. Нужно дотюнивать через WinAero<br>
-  [Поиск на Nnm](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
+  [Nnm(поиск)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
   [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
 - **Windows 7** - для старых компов<br>
-  [Поиск на Nnm](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
-  [Win7 v21.01.13](https://rutracker.org/forum/viewtopic.php?t=5996235),
+  [v21.01.13adguard(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
+  [Nnm(поиск)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
   [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
-  [может попробуешь Win8.1?](https://nnmclub.to/forum/viewtopic.php?t=1524993)
+  [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
 - **WinPE Sergei Strelec** - сборка программ для аварийного восстановления системы<br>
-  [поиск на nnm](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+  [Nnm(поиск)](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
 
 [Наверх↑](#top)
 
