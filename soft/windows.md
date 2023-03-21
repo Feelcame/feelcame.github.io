@@ -20,7 +20,7 @@ modified: 2023-03-20T08:40:38+03:00
 
 <div style="font-size: 13px;">
 На сайте только список программ. Качать на официальном сайте или на веб-диске: 
-[**Telegram**](https://t.me/FeelSoftWin/105), 
+[**Telegram**](https://t.me/FeelSoftWin/105)
 </div>
 
 
@@ -31,7 +31,7 @@ modified: 2023-03-20T08:40:38+03:00
   [biblprog](https://biblprog.org.ua/ua/aimp/download/),
   [softportal](https://www.softportal.com/get-5099-aimp.html)
 - **Audacity** - запись и редактирование звука<br>
-  [оф.сайт](https://www.audacityteam.org/download/), 
+  [оф.сайт](https://www.audacityteam.org/download/)
 - **VoiceMeeter Banana** - виртуальный микшер, для перенаправления звука.<br>
   [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install Voicemeeter)
 - **Equalizer APO** - нативный эквалайзер на всю систему.<br>
@@ -54,7 +54,7 @@ modified: 2023-03-20T08:40:38+03:00
   [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
 - **Bandicam** - запись видео с экрана<br>
   [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647),
-  [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam),
+  [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam)
 - **FFQueue** - быстрый редактор видео на основе FFMpeg с графическим интерфейсом<br>
   [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx),
   [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
@@ -69,9 +69,9 @@ modified: 2023-03-20T08:40:38+03:00
 ### Графика
 {: #img }
 - **XnView MP** - Просмотр фото<br>
-  [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows), 
+  [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows)
 - **Paint.Net** - Редактор фото<br>
-  [оф.сайт](https://paintnet.ru/download/),
+  [оф.сайт](https://paintnet.ru/download/)
 - **Krita** - крутая рисовалка для графического планшета<br>
   [оф.сайт](https://krita.org/en/download/krita-desktop/)
 
@@ -84,14 +84,14 @@ modified: 2023-03-20T08:40:38+03:00
 - **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
   [оф.сайт](https://notepad-plus-plus.org/downloads/) 
 - **SumatraPDF** - Простая читалка с редактором аннотаций<br>
-  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer), 
+  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
-  [оф.сайт](http://www.stdutility.com/stduviewer.html), 
+  [оф.сайт](http://www.stdutility.com/stduviewer.html)
 - **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
   [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
   [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
   [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
-  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671), 
+  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671)
 
 [Наверх↑](#top)
 
@@ -109,7 +109,7 @@ modified: 2023-03-20T08:40:38+03:00
 - **Kotatogram** - модификация телеги, быстрая выгрузка файлов
   [оф.сайт модификации](https://kotatogram.github.io/ru/download/#beta)
 - **qBitTorrent** - скачивание файлов, обмен файлами p2p<br>
-  [оф.сайт](https://www.qbittorrent.org/)
+  [оф.сайт](https://www.qbittorrent.org/), 
   [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows%20x64), 
   [biblprog](http://biblprog.org.ua/ru/qbittorrent/download),
   [v4.4.5old (для x86)](https://www.fosshub.com/qBittorrent-old.html#:~:text=[v4.4.5]%20qBittorrent%20Windows)
@@ -120,10 +120,10 @@ modified: 2023-03-20T08:40:38+03:00
 
 ### Расширения
 {: .no_toc #addons }
-- **AdBlock Plus** - Скрывает рекламу<br>
+- **AdBlock Plus** - скрывает рекламу, за щет этого ускоряет работу<br>
   [оф.сайт](https://adblockplus.org/ru/download),
   [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
-- **Blank New Tab Page** - заменяет стартовую страницу на пустую.<br>
+- **Blank New Tab Page** - заменяет стартовую страницу на пустую<br>
   [оф.сайт](https://yuhaofe.com/blank-new-tab-page),
   [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
   [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
@@ -148,7 +148,7 @@ modified: 2023-03-20T08:40:38+03:00
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
 - **Yandex Acces** - доступ к вк, ок и афк. Разработчик яндекс<br>
-  [ссылка](#)
+  ссылки нет
 - **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность<br>
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
 - **Windscribe** - Платный VPN-сервис для разблокировки сайтов<br>
@@ -165,8 +165,7 @@ modified: 2023-03-20T08:40:38+03:00
 ### Сеть
 {: #network }
 - **NetTraffic** - плавающий график скорости интернета, статистика<br>
-  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic),
-  v1.66.2
+  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic)
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
 - **AnyDesk** - удаленное управление<br>
@@ -174,7 +173,7 @@ modified: 2023-03-20T08:40:38+03:00
 - **ChromeCacheView** - сохранение закешированных браузером файлов  
   [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
 - **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
-  [v5.5(free)](http://biblprog.org.ua/ru/networx/download), 
+  [v5.5(free)](http://biblprog.org.ua/ru/networx/download)
 - **Softperfect Netscan**<br>
   [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
 - **Advanced IP Scanner**<br>
@@ -188,21 +187,22 @@ modified: 2023-03-20T08:40:38+03:00
 ### Файлы
 {: #files }
 - **7-zip** - архиватор с открытым исходным кодом<br>
-  [оф.сайт](https://www.7-zip.org/download.html), 
+  [оф.сайт](https://www.7-zip.org/download.html)
 - **WinRAR** - мощный архиватор с большой историей<br>
-  [rutracker](http://rutracker.org/forum/tracker.php?nm=winrar), 
+  [rutracker](http://rutracker.org/forum/tracker.php?nm=winrar)
 - **Total Commander** - двухпанельный файл-менеджер<br>
-  [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack), 
-- **Geek Uninstaller** - расширенное удаление программ
-  [оф.сайт](https://geekuninstaller.com/ru/download)
-- **Uninstall Tool** - удаление программ с корнями<br>
+  [rutracker](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
 - **WinDirStat**<br>
   [оф.сайт](https://windirstat.net/download.html)
   [fosshub](https://www.fosshub.com/WinDirStat.html)
 - **WizTree** - анализ места на диске<br>
-  [оф.сайт](https://diskanalyzer.com/download), 
+  [оф.сайт](https://diskanalyzer.com/download)
 - **Duplicate File Detector** - поиск дубликатов файлов<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
+- **Uninstall Tool** - удаление программ с корнями<br>
+  [тема rutracker](#)
+- **Geek Uninstaller** - расширенное удаление программ<br>
+  [оф.сайт](https://geekuninstaller.com/ru/download)
 
 [Наверх↑](#top)
 
@@ -211,20 +211,21 @@ modified: 2023-03-20T08:40:38+03:00
 ### Система
 {: #system }
 - **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт
-  [оф.сайт](https://winaero.com/),
-  [скачать мой конфиг](#)
+  [оф.сайт](https://winaero.com/)
+  [скачать список что менять](https://files.catbox.moe/bzor5u.ini)
 - **Win Updates Disabler** - отключает обновления даже в Win10 Home  
   [оф.сайт](https://www.site2unblock.com/win-updates-disabler/),
   [softportal](https://www.softportal.com/get-42359-win-updates-disabler.html)
 - **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
-  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download), 
+  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download)
 - **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
   [оф.сайт](https://www.hwinfo.com/download/)
 - **AIDA64** - просмотр характеристик компа. платкая<br>
   [поиск на rutracker](http://rutracker.org/forum/tracker.php?nm=aida64)
 - **Furmark** - нагружает видуху по полной для проверки стабильности<br>
   [оф.сайт](https://geeks3d.com/furmark/downloads/), 
-- **OCCT** - максимально нагружает комп
+- **OCCT** - максимально нагружает комп<br>
+  оф.сайт
 
 [Наверх↑](#top)
 
@@ -236,13 +237,13 @@ modified: 2023-03-20T08:40:38+03:00
 - **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
 - **SmartFix** - восстановление слетевших настроек системы после вирусов, встраивание средств восстановление системы в загрузчик<br>
-  [оф.сайт](https://smartfix.pro/), 
+  [оф.сайт](https://smartfix.pro/)
 - **AdwCleaner** - пытается чистить комп от малвари<br>
   [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
 - **Unchecky** - снимает галочки при установке софта<br>
-  [оф.сайт](https://unchecky.com/), 
-- **Cureit** - Бесплатный одноразовой антивирус<br>
-  [biblprog](http://biblprog.org.ua/ru/dr_web_cureit), 
+  [оф.сайт](https://unchecky.com/)
+- **Cureit** - бесплатный одноразовой антивирус со встроенным анальным зондом от яндекса (шутка)<br>
+  [biblprog](http://biblprog.org.ua/ru/dr_web_cureit)
 
 [Наверх↑](#top)
 
@@ -280,7 +281,7 @@ modified: 2023-03-20T08:40:38+03:00
 - **UltraISO** - редактор .iso. Запись дисков и флешкек. Монтирование<br>
   [rutracker](http://rutracker.org/forum/tracker.php?nm=ultraiso)
 - **Rufus** - запись винды на флешку<br>
-  [оф.сайт](https://rufus.ie/ru/#download), 
+  [оф.сайт](https://rufus.ie/ru/#download)
 - **CrystalDiskMark** - проверка скорости накопителя<br>
   [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark)
 - **Victoria** - проверка диска на битые сектора<br>
@@ -288,8 +289,8 @@ modified: 2023-03-20T08:40:38+03:00
 - **BOOTICE** - редактор загрузчика<br>
   [softportal](https://www.softportal.com/get-32168-bootice.html)
 - **WinNTSetup** - установка новой винды без заходов в биос<br>
-  [оф.сайт(без либ)](http://wntsetup.ru/)
-  [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238) - 
+  [оф.сайт(без либ)](http://wntsetup.ru/),
+  [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
 - **Easy BCD** - редактор загрузчика с красивым GUI<br>
   [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
 
