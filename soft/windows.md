@@ -33,7 +33,7 @@ modified: 2023-03-20T08:40:38+03:00
 - **Audacity** - запись и редактирование звука<br>
   [оф.сайт](https://www.audacityteam.org/download/)
 - **VoiceMeeter Banana** - виртуальный микшер, для перенаправления звука.<br>
-  [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install Voicemeeter)
+  [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install%20Voicemeeter)
 - **Equalizer APO** - нативный эквалайзер на всю систему.<br>
   [оф.сайт](https://equalizerapo.com/#installation),
   [страница загрузки](https://equalizerapo.com/download.html)
