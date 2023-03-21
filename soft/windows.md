@@ -34,8 +34,7 @@ pin: 3
 - **VoiceMeeter Banana** - виртуальный микшер, для перенаправления звука.<br>
   [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install%20Voicemeeter)
 - **Equalizer APO** - нативный эквалайзер на всю систему.<br>
-  [оф.сайт](https://equalizerapo.com/#installation),
-  [страница загрузки](https://equalizerapo.com/download.html)
+  [оф.сайт](https://equalizerapo.com/download.html),
 - **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.<br>
   [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать%20для%20Windows)
 
@@ -48,7 +47,7 @@ pin: 3
 {: #video }
 - **PotPlayer** - видеоплеер<br>
   [оф.сайт](https://potplayer.daum.net/), 
-  [оф.сайт.ru](https://potplayer.ru/download/), 
+  [оф.сайт(ru)](https://potplayer.ru/download/), 
   [softportal](https://www.softportal.com/get-21466-potplayer.html), 
   [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
 - **Bandicam** - запись видео с экрана<br>
@@ -57,7 +56,8 @@ pin: 3
 - **FFQueue** - быстрый редактор видео на основе FFMpeg с графическим интерфейсом<br>
   [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx),
   [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
-- **Any Video Converter** - старенький конвертер видео, шустро работает
+- **Any Video Converter** - конвертер видео, старенький, шустро работает<br>
+  v3.2.1(telegram)
 - **MakeMKV** - упаковать DVD-Video в один файл MKV<br>
   [оф.сайт](https://www.makemkv.com/download/)
 
@@ -83,11 +83,11 @@ pin: 3
 - **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
   [оф.сайт](https://notepad-plus-plus.org/downloads/) 
 - **SumatraPDF** - Простая читалка с редактором аннотаций<br>
-  [ссылка](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+  [оф.сайт](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
   [оф.сайт](http://www.stdutility.com/stduviewer.html)
 - **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
-  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2)
+  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2),
   [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
   [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
   [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671)
@@ -164,7 +164,7 @@ pin: 3
 ### Сеть
 {: #network }
 - **NetTraffic** - плавающий график скорости интернета, статистика<br>
-  [оф.сайт](https://www.venea.net/web/downloads_start/nettraffic)
+  [оф.сайт(прямая ссылка)](https://www.venea.net/web/downloads_start/nettraffic)
 - **OpenVPN** - cоединение компов в локалку через интернет<br>
   [оф.сайт](https://openvpn.net/community-downloads/)
 - **AnyDesk** - удаленное управление<br>
@@ -199,7 +199,7 @@ pin: 3
 - **Duplicate File Detector** - поиск дубликатов файлов<br>
   [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
 - **Uninstall Tool** - удаление программ с корнями<br>
-  [vX.X.X(tlgur)](#)
+  v3.2.1(tlgur)
 - **Geek Uninstaller** - расширенное удаление программ<br>
   [оф.сайт](https://geekuninstaller.com/ru/download)
 
