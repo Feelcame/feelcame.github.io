@@ -1,10 +1,9 @@
 ---
-pin: 3
-comments: 96
 title: Программы на Windows
-no-description: В статье ссылки на официальный сайт. Скачать там же или на веб-диске
 date: 2021-09-09T12:19:30+03:00
-modified: 2023-03-20T08:40:38+03:00
+modified: 2023-03-21T08:40:38+03:00
+comments: 96
+pin: 3
 ---
 
 
@@ -301,7 +300,7 @@ modified: 2023-03-20T08:40:38+03:00
   [Nnm(поиск)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
   [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
 - **Windows 7** - для старых компов<br>
-  [v21.01.13adguard(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
+  [v21.01.13(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
   [Nnm(поиск)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
   [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
   [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
