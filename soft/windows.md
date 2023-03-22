@@ -87,10 +87,11 @@ pin: 3
 - **STDU Viewer** - Читалка PDF родом из нулевых<br>
   [оф.сайт](http://www.stdutility.com/stduviewer.html)
 - **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
-  [v365(оф.сайт, нужен логин)](https://www.office.com/?auth=2),
+  [оф.сайт](https://www.office.com/?auth=2),
+  [поиск(rtr)](https://rutracker.org/forum/tracker.php?nm=Microsoft%20Office),
   [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
   [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
-  [v2021(nnm)](https://rutracker.org/forum/viewtopic.php?t=6087671)
+  [v2021(rtr)](https://rutracker.org/forum/viewtopic.php?t=6087671)
 
 [Наверх↑](#top)
 
