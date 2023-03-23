@@ -4,7 +4,7 @@ date: 2021-09-12T17:53:55+03:00
 modified: 2021-09-27T16:51:43+03:00
 ---
 
-Смотри также: [_как написать бота самому_](../coding/telegram-bot.md)
+Смотри также: [_как написать бота самому_](../code/telegram-bot.md)
 
 ## Музыка
 - [**@LyBot**](tg://resolve?domain=LyBot) - скачивает из ютуба, яндекса, spitify и др. есть inline поиск. Есть конструктор своих ботов @creatorMusicBot. Support: @lyblog @ly_oBot
