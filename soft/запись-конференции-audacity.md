@@ -1,9 +1,8 @@
 ---
 title: Запись конфы в audacity
-tags: звук запись vac
 date: 2021-05-30T13:43:41+03:00
-comments: true
 modified: 2021-06-01T01:25:53+03:00
+tags: native
 ---
 
 ### **Запись конференции в Audacity**
