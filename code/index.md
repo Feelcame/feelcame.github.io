@@ -24,7 +24,7 @@ pin: 0
 
 ## Нативные приложения
 {: #apps }
-{% include dir-ls.md tag="apps" %}
+{% include dir-ls.md tag="native" %}
 
 ## Embedded 
 {: #embed }
