@@ -6,11 +6,11 @@ comments: 105
 pin: 2
 ---
 
-- Список разделов  
+- Навигатор  
 {: toc }
 
 <div style="font-size: 13px;">
-  <p>Обрати внимание, на [список опенсорсных альтернатив страндартного софта](#free)
+  <p>Посмотри также чем можно заменить страндартный софт: [ссылка](#default)
     </p>
 </div>
 
@@ -49,6 +49,7 @@ pin: 2
 [Наверх↑](#top)
 
 ## Музыка
+{: #music }
 - **AIMP** - удобный плеер, работает с плейлистами <br>
   [store](https://play.google.com/store/apps/details?id=com.aimp.player),
   [4pda](https://4pda.to/forum/index.php?showtopic=442204),
@@ -82,40 +83,38 @@ pin: 2
 
 [Наверх↑](#top)
 
-## Медиа
-- **Simple Gallery Pro** - опенсорсная галерея.<br>
-  [4pda](https://4pda.to/forum/index.php?showtopic=785182),
-  [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+## Видео, графика
+{: #media }
+
+- **NewPipe** - клиент youtube, написанный с нуля. без рекламы, опенсорс, есть скачивание<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=694195), 
+  [github](https://github.com/TeamNewPipe/NewPipe/releases/latest), 
+  [оф.сайт](https://newpipe.net/#download), 
+- **Youtube reVanced** - мод официального ютубе без рекламы<br>
+  [оф.сайт](https://revanced.io/#download-apk),
+  [4pda](https://4pda.to/forum/index.php?showtopic=1050118)
 - **MX Player** - продвинутый видеоплеер<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=253883),
   v19(4.1+), v20(5+), v30(7+)
 - **UPlayer**. Новый плеер все в одном.<br>
   [store](https://play.google.com/store/apps/details?id=uplayer.video.player), 
   [4pda](https://4pda.to/forum/index.php?showtopic=900750)
-- **NewPipe**. Скачивание с youtube.<br>
-  [4pda](https://4pda.to/forum/index.php?showtopic=694195), 
-  [github](https://github.com/TeamNewPipe/NewPipe/releases), 
-  [оф.сайт](https://newpipe.net/#download), 
-  [v0.20.8(4.1+)](https://tlgur.com/d/GL0ZDJ6G)
-  [v0.21.13(tlgur)](https://tlgur.com/d/81vyjo6G), 
+- **Simple Gallery Pro** - опенсорсная галерея<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=785182),
+  [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
+- **PicSay Pro** – фоторедактор<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=131210),
+  [v1.8.0.5](https://tlgur.com/d/GdX03zrG)
+
+<details markdown="1">
+<summary markdown="0">Показать ещё</summary>
 - **Кино HD** - просмотр фильмов и сериалов из разных сервисов. реклама не убирается. 
   [4pda](https://4pda.to/forum/index.php?showtopic=787648),
   [github](https://github.com/publicfks/temp/blob/main/apk/app-release.apk)
-- **Youtube reVanced**. Мод без рекламы. 
-  [4pda](https://4pda.to/forum/index.php?showtopic=1050118),
-  [оф.сайт](https://4pda.to/forum/index.php?showtopic=1050118)
-- **PicSay Pro** – фоторедактор. <br>
-  [4pda](https://4pda.to/forum/index.php?showtopic=131210),
-  [v1.8.0.5](https://tlgur.com/d/GdX03zrG), 
-  [шрифты](#), 
 - **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
   4pda,
   [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
   [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-
-<details markdown="1">
-<summary markdown="0">Показать ещё</summary>
-
 - **XRecorder** – запись экрана. <br>
   [store](https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder),
   [4pda](https://4pda.to/forum/index.php?showtopic=978817), 
@@ -132,6 +131,7 @@ pin: 2
 [Наверх↑](#top)
 
 ## Интернет 
+{: #inet }
 - **Telegram** - удобный мессенджер<br>
   [store](https://play.google.com/store/apps/details?id=org.telegram.messenger),
   [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
@@ -170,6 +170,7 @@ pin: 2
 
 
 ## Офис
+{: #office }
 - **ReadEra** - удобная читалка PDF и электронных книг<br>
   [store](https://play.google.com/store/apps/details?id=org.readera)
 - **Калькулятор++** - инженерный калькулятор <br>
@@ -206,6 +207,7 @@ pin: 2
 
 
 ## Система
+{: #system }
 - **Aurora Store** - скачивание программ из Play Store без регистрации<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
   [оф.сайт](https://files.auroraoss.com/?folder=AuroraStore/Stable),
@@ -224,8 +226,11 @@ pin: 2
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 - **AIDA64** - показывает параметры железа<br>
 
+[Наверх↑](#top)
+
 
 ## Твикеры, управление, хакинг
+{: #tweaks }
 - **LuckyPatcher** - удаление рекламы и другие операции над приложениями<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
   [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/),
@@ -243,23 +248,19 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=538357)
 - **Microsoft Launcher** - продвинуты лончер, есть папки и много настроек<rb>
 - **Launcher<3** - альтернативный лаунчер, если родной не нравится<rb>
-- **Powerful Control** - кнопки управления в штороке. Андроид 4<rb>
+- **Powerful Control** - кнопки управления в штороке Android 4.3<rb>
 - **CPU Spy** - показывает статистику активости процессора <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=247838), 
   [v0.4.0(tlgur)](https://tlgur.com/d/GZ32PM5g)
-
-
 - **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
   [телега](https://t.me/FeelSoftAn/170)
 - **Titanium Backup** - резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут
 - **AdAway** - редактирует файл hosts что бы заблокировать рекламу
 - **Adguard** - фильтрует рекламу через локальный впн
 - **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
-  store: [com.kliksob.forgswitch](https://play.google.com/store/apps/details?id=com.kliksob.forgswitch),
+  play: [com.kliksob.forgswitch](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
   [v1.0(tlgur)](https://tlgur.com/d/GbZ0rVdG),
-- **TTL Master**. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
-- **Google Play Blocker**
   
 </details>
 
@@ -269,6 +270,7 @@ pin: 2
 
 
 ## Сеть
+{: #net }
 - **Internet Speed Meter**. <br>
   [store](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite),
   [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
@@ -303,6 +305,7 @@ pin: 2
 
 
 ## Утилиты
+{: #tools }
 - **Easy Open Link** - открыть ссылку в нативном приложении через меню "поделиться"<br>
   [store](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
   [4pda](https://4pda.to/forum/index.php?showtopic=716031),
@@ -330,6 +333,7 @@ pin: 2
 
 
 ## Карты
+{: #maps }
 - **Organic Maps** - офлайн карты без регистрации и смс.
   [store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=uk&gl=US),
   [fdroid](https://f-droid.org/en/packages/app.organicmaps/#latest),
@@ -339,12 +343,14 @@ pin: 2
   [store](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
   [4pda](https://4pda.to/forum/index.php?showtopic=745108)
 
+[Наверх↑](#top)
+
 
 
 [Наверх↑](#top)
 
 ## Стандартные
-{: .no_toc #free }
+{: .no_toc #default }
 <details markdown="1">
 <summary markdown="0">Замена стандартных програм</summary>
 - Браузер. Opera. Bromite
@@ -364,6 +370,8 @@ pin: 2
 
 </details>
 
+[Наверх↑](#top)
+  
 ## Не актуальные
 {: .no_toc #old }
 <details markdown="1">
@@ -381,6 +389,8 @@ pin: 2
 - **Bolt** - такси
 - **Uklon** - такси
 - **Blablacar** - поиск попутчиков. play, 4pda, оф.сайт, web
+- **TTL Master**. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
+- **Google Play Blocker**
 
 
 
@@ -389,9 +399,11 @@ pin: 2
 
 </details>
 
+[Наверх↑](#top)
 
 
 ## Полезные ссылки
+{: .no_toc #links }
 - [**Прошивка и настройка телефона**](./android-firmware.md)
 - **Телеграм-канал с программами:** <https://t.me/feelsoftan>
 - **Болшьшой список FOSS программ:** <https://github.com/offa/android-foss>
