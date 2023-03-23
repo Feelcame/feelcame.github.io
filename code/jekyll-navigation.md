@@ -80,7 +80,7 @@ pin: 5
 
 
 ## Пояснение работы
-{: #how-it-works }
+{: #work }
 
 Внутри цикла FOR перебираются все страницы и оставляются только нужные. Затем сортировка, группировка, украшение html-тегами и вывод
     
@@ -93,20 +93,18 @@ pin: 5
     </ol>
     {% endraw %}
 
-Для сортировки и фильтрации используются встроенные в Jekyll так называемые Liquid-фильтры. В примере ниже (строка 1) также показан пример передачи скрипту параметра "dir"
+Для сортировки и фильтрации используются встроенные в Jekyll так называемые Liquid-фильтры. В примере ниже (строка 1) также показан пример передачи параметра
 
-{% raw %}
-``` html
-{%- assign directory = include.dir | default: page.dir -%}  
-{%- 
-  assign output_pages = site.pages 
-  | where: "dir",  directory 
-  | where_exp: "item", "item.pin != 0"
-  | sort: "date" 
-  | reverse 
--%}  
-```
-{% endraw %}
+    {% raw %}
+    {%- assign directory = include.dir | default: page.dir -%}  
+    {%- 
+      assign output_pages = site.pages 
+      | where: "dir",  directory 
+      | where_exp: "item", "item.pin != 0"
+      | sort: "date" 
+      | reverse 
+    -%}  
+    {% endraw %}
 
 ## Список изменений  
 {: #changelog }
