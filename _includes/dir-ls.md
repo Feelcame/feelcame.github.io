@@ -18,7 +18,7 @@
   | sort: "name" | reverse
   | sort: "date" | reverse 
 -%}  
-{%- assign all_pages_count = all_pages.size -%}  
+{%- assign dir_size = all_pages.size -%}  
 
 {%- comment -%}ТЕГИ{%- endcomment -%}  
 {%- if rec_tag and rec_tag != "empty" %}  
@@ -53,7 +53,7 @@
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
 {% comment %}<!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->{% endcomment -%}
-<ol reversed debug_tag="{{ rec_tag }}" debug_count="{{ output_pages.size }}/{{ all_pages_count }}">
+<ol reversed debug_tag="{{ rec_tag }}" debug_count="{{ all_pages.size }}/{{ dir_size }}">
 {%- if output_pages.size == 0 -%}(( пустой список )){%- endif -%}
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
