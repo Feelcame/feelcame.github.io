@@ -5,11 +5,9 @@ modified: 2021-09-11T20:58:58+03:00
 pin: 0
 ---
 
-{% include dir-ls.md pinned="yes" %}
+{% include dir-ls.md pinned="only" %}
 
 
-
-<!-- 
 ## Нативные приложения
 {% include dir-ls.md tag="native" %}
 
@@ -19,4 +17,11 @@ pin: 0
 ## Веб-сервисы
 {% include dir-ls.md tag="web" %}
 
--->
+## Без категории
+{: #notag }
+{% include dir-ls.md tag="empty" %}
+
+---
+
+## Все вместе
+{% include dir-ls.md pinned="yes" spoiler="Нажми, что бы открыть спойлер"  %}
