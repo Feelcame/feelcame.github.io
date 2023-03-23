@@ -24,4 +24,4 @@ pin: 0
 ---
 
 ## Все вместе
-{% include dir-ls.md pinned="yes" spoiler="Нажми, что бы открыть спойлер"  %}
+{% include dir-ls.md pinned="no" spoiler="Нажми, что бы открыть спойлер"  %}
