@@ -1,8 +1,9 @@
 ---
+title: Софт для Android
 date: 2021-07-24T00:00:00+03:00
 modified: 2022-07-04T08:40:48+03:00
-title: Софт для Android
 comments: 105
+tags: native
 pin: 2
 ---
 
