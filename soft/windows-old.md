@@ -2,6 +2,7 @@
 title: Софт для Windows. old
 no-date: 2020-06-29T00:19:30+03:00
 modified: 2021-08-23T14:54:33+03:00
+tags: native
 ---
 
 **Здесь самое важное.** Полный каталог: [t.me/FeelSoft](https://t.me/s/FeelSoftWin/125)
