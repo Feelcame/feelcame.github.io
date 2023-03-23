@@ -1,5 +1,6 @@
 ---
 title: Настройка VPN-соединения
+date: 2023-01-15T12:00:00
 comments: 103
 tags: profi
 ---
