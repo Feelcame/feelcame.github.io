@@ -38,12 +38,11 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [v1.3.6(tlgur)](https://tlgur.com/d/GVqJmM68), 
   [телега](https://t.me/FeelSoftAn/164)
-- MiXplorer - внезапно удобный и легкий файл менеджер<br>
+- **MiXplorer** - внезапно удобный и легкий файл менеджер<br>
   4pda, плагины
-- ES Проводник 3.2.5 - старенький, но рабочий файл менеджер. 
-- Sync - синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
-  play, 4pda
-- RAR - крутой архиватор
+- **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
+- **Sync** - синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
+- **RAR** - крутой архиватор
 </details>
 
 [Наверх↑](#top)
@@ -124,19 +123,12 @@ pin: 2
   [store](https://play.google.com/store/apps/details?id=com.lcs.lazyiptvdeluxe),
   [4pda](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
   [плейлист](https://iptv.org.ua)
-- **PowerTube**
-- **HD VideoBox** (закрыли)
 </details>
 
 [Наверх↑](#top)
 
 ## Интернет 
 {: #inet }
-- **Telegram** - удобный мессенджер<br>
-  [store](https://play.google.com/store/apps/details?id=org.telegram.messenger),
-  [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
-  [оф.сайт](https://telegram.org/android?setln=ru),
-  [оф.телега](https://t.me/TAndroidAPK), 
 - **Opera** - браузер. adblock, vpn<br>
   [store](https://play.google.com/store/apps/details?id=com.opera.browser),
   [4pda](https://4pda.to/forum/index.php?showtopic=438451), 
@@ -154,14 +146,19 @@ pin: 2
 - **Opera Mini 7**. Старая версия для очень медленного интернета.<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=100813)
   [v7.6.0(tlgur)](https://tlgur.com/d/gvbZ51ng)
+- **Telegram** - удобный мессенджер<br>
+  [store](https://play.google.com/store/apps/details?id=org.telegram.messenger),
+  [4pda](https://4pda.to/forum/index.php?showtopic=948576), 
+  [оф.сайт](https://telegram.org/android?setln=ru),
+  [оф.телега](https://t.me/TAndroidAPK), 
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
 
-- **Viber**
+- **Viber** голосовые звонки, много спама
 - **Instander**. Инста без рекламы
-- **LoaderDroid**
-- **Advanced Download Manager**
+- **LoaderDroid** скачиватель
+- **Advanced Download Manager** скачиватель
 - **Flow** – клиент rutracker.org
 - **Flud** – торрент клиент
 </details>
@@ -182,8 +179,9 @@ pin: 2
 - **Microsoft Office** - редактор документов word, excell, powerpoint. нужна регистрация<br>
   [store](https://play.google.com/store/apps/details?id=com.microsoft.office.officehubrow),
   [4pda](https://4pda.to/forum/index.php?showtopic=486245)
-- **WriterP** - записная книжка, редактор текстовых файлов с подсветкой Markdown<br>
-  store, 4pda
+- **Writer Plus** - записная книжка, редактор текстовых файлов с подсветкой Markdown<br>
+  [play](https://play.google.com/store/apps/details?id=co.easy4u.writer), 
+  [4pda](https://4pda.to/forum/index.php?showtopic=1007018)
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
@@ -199,8 +197,8 @@ pin: 2
   [store](https://play.google.com/store/apps/details?id=it.android.demi.elettronica),
   [4pda](https://4pda.to/forum/index.php?showtopic=221412&st=60),
   [v5.1(tlgur)](https://tlgur.com/d/4NqLExWg)
-- **Переводчик**. play, 4pda
-- **Секундомер**. play, 4pda
+- **Переводчик**<br>
+- **Секундомер**<br>
 </details>
 
 [Наверх↑](#top)
@@ -220,7 +218,7 @@ pin: 2
 - **QKSMS** - свободная замена для стандартной программы обмена SMS<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=576815),
   [fdroid](https://f-droid.org/en/packages/com.moez.QKSMS/)
-- **Клавиатура Google** - у гборда хорошее предугадывание (не зря шпионили)<rb>
+- **Клавиатура Google** - gboard дает хорошее предугадывание (нашпионили)<rb>
 - **App Backup&Restore** - удобный бекап установленных приложений <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=246407),
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
@@ -229,7 +227,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Твикеры, управление, хакинг
+## Твикеры
 {: #tweaks }
 - **LuckyPatcher** - удаление рекламы и другие операции над приложениями<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
@@ -237,8 +235,11 @@ pin: 2
   [v9.7.0](https://tlgur.com/d/g306JW64)
 - **My android tools** - отключение активити у приложений, редактор баз данных<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=587771),
-  [v1.6.8(tlgur)](https://tlgur.com/d/GL0ZNxBG), 
+  [v1.6.8(tlgur)](https://tlgur.com/d/GL0ZNxBG)
 - **App Manager** - менеджер разрешений, удалялка, запуск активити и другое<br>
+  [4pda](https://4pda.to/forum/index.php?showtopic=998293),
+  [github](https://github.com/MuntashirAkon/AppManager/releases/latest),
+  [оф.сайт(инструкция)](https://muntashirakon.github.io/AppManager/ru/)
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
@@ -254,9 +255,9 @@ pin: 2
   [v0.4.0(tlgur)](https://tlgur.com/d/GZ32PM5g)
 - **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
   [телега](https://t.me/FeelSoftAn/170)
-- **Titanium Backup** - резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут
-- **AdAway** - редактирует файл hosts что бы заблокировать рекламу
-- **Adguard** - фильтрует рекламу через локальный впн
+- **Titanium Backup** - резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут<br>
+- **AdAway** - редактирует файл hosts что бы заблокировать рекламу<br>
+- **Adguard** - фильтрует рекламу через локальный впн<br>
 - **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
   play: [com.kliksob.forgswitch](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
@@ -281,22 +282,22 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=398433)
 - **AnyDesk**. Удаленное управление.<br>
   [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить%20файл%20APK)
-- **Network Monitor Mini Pro**.  
+- **Network Monitor Mini Pro** - мониторинг скорости инета<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=317393)
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
 
-- **OpenVPN** - клиент для своих серваков VPN
-- **Unified Remote** - удобное управление компом
-- **Remote Ripple VNC** - 
-- **Network scanner**. play
-- **PCAPdroid** - покажет список активных подключений
+- **OpenVPN** - клиент для своих серваков VPN<br>
+- **Unified Remote** - удобное управление компом<br>
+- **Remote Ripple VNC**<br>
+- **Network scanner**<br>
+- **PCAPdroid** - покажет список активных подключений<br>
 - **Network Utilities** (4.1+). [4pda](https://4pda.to/forum/index.php?showtopic=608346)
 - **kWS** - простой веб-сервер. <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=532923), 
   [v1.5.1(tlgur)](https://tlgur.com/d/g30QqnO4)
-- **primitive ftpd**. play,
+- **primitive ftpd**<br>
   [GitHub](https://github.com/wolpi/prim-ftpd/releases)
 - **IP Webcam**. play
 </details>
@@ -312,29 +313,24 @@ pin: 2
   [fdroid](https://f-droid.org/packages/de.audioattack.openlink/),
   [исходники](https://codeberg.org/marc.nause/easyopenlink)
   [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
-- **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере
+- **Copy Link to Clipboard** - скопировать ссылку вместо ее открытия в браузере<br>
   [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink),
   [tlgur](https://tlgur.com/d/GW157pL4)
-- **Copy** - копирование любого текст с экрана. Вызывается длинным нажатием кнопки "домой"<br>
+- **Copy** - копирование любого текст с экрана длинным нажатием кнопки "домой"<br>
   [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
   [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps),
   [tlgur](https://tlgur.com/d/4Rmv5Aeg)
-
-<details markdown="1">
-<summary markdown="0">Показать ещё</summary>
-
-- **Виджет громкости**. play, 4pda
-- **To Clipboard** - скопировать текст через функцию "поделиться"
+- **Виджет громкости**. play, 4pda<br>
+- **To Clipboard** - скопировать текст через функцию "поделиться"<br>
   [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
   [tlgur](https://tlgur.com/d/gm6JVnN4)
-</details>
 
 [Наверх↑](#top)
 
 
 ## Карты
 {: #maps }
-- **Organic Maps** - офлайн карты без регистрации и смс.
+- **Organic Maps** - офлайн карты на основе OpenStreetMap. без регистрации и смс (это цитата)<br>
   [store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=uk&gl=US),
   [fdroid](https://f-droid.org/en/packages/app.organicmaps/#latest),
   [4pda](https://4pda.to/forum/index.php?showtopic=1027194),
@@ -392,6 +388,8 @@ pin: 2
 - **TTL Master**. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
 - **Google Play Blocker**
 
+- **PowerTube**
+- **HD VideoBox** (закрыли)
 
 
 
