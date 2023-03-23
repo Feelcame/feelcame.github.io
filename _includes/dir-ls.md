@@ -52,9 +52,8 @@
 
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
-{% comment %}<!-- Debug. dir: ({{ directory }}). tag: ({{ rec_tag }}), qty: ({{ output_pages.size }}) -->{% endcomment -%}
+{%- if all_pages.size == 0 -%}((пустой список)){%- endif -%}
 <ol reversed debug_tag="{{ rec_tag }}" debug_count="{{ all_pages.size }}/{{ dir_size }}">
-{%- if output_pages.size == 0 -%}(( пустой список )){%- endif -%}
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
