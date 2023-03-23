@@ -52,7 +52,7 @@
 
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
-{%- if all_pages.size == 0 -%}((пустой список)){%- endif -%}
+{%- if all_pages.size == 0 -%}<p>((пустой список))</p>{%- endif %}
 <ol reversed debug_tag="{{ rec_tag }}" debug_count="{{ all_pages.size }}/{{ dir_size }}">
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
