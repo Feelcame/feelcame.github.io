@@ -84,26 +84,27 @@ pin: 5
 
 Внутри цикла FOR перебираются все страницы и оставляются только нужные. Затем сортировка, группировка, украшение html-тегами и вывод
     
-    {% raw %}
-    <ol>
-    {%- for pg in output_pages -%}
-      <li>
-        <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
-      </li>
-    </ol>
-    {% endraw %}
+{% raw %}
+<ol>
+{%- for pg in output_pages -%}
+  <li>
+    <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+  </li>
+</ol>
+{% endraw %}
 
 Для сортировки и фильтрации используются встроенные в Jekyll так называемые Liquid-фильтры. В примере ниже (строка 1) также показан пример передачи скрипту параметра "dir"
+
 {% raw %}
-```
-    {%- assign directory = include.dir | default: page.dir -%}  
-    {%- 
-      assign output_pages = site.pages 
-      | where: "dir",  directory 
-      | where_exp: "item", "item.pin != 0"
-      | sort: "date" 
-      | reverse 
-    -%}  
+``` html
+{%- assign directory = include.dir | default: page.dir -%}  
+{%- 
+  assign output_pages = site.pages 
+  | where: "dir",  directory 
+  | where_exp: "item", "item.pin != 0"
+  | sort: "date" 
+  | reverse 
+-%}  
 ```
 {% endraw %}
 
