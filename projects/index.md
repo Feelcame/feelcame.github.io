@@ -6,15 +6,15 @@ pin: 0
 ---
 
 
-## Хард
-{: #hard }
-
-{% include dir-ls.md tag="hard" %}
-
-## Софт  
+## Программы  
 {: #soft }
 
 {% include dir-ls.md tag="soft" %}
+
+## Электроника
+{: #hard }
+
+{% include dir-ls.md tag="hard" %}
 
 
 ## Без категории (идеи)
