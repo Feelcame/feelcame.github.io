@@ -1,6 +1,6 @@
 ---
 title: Загрузчик ОС
-tags: native
+tags:
 ---
 
 {% comment %}
