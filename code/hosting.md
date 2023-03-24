@@ -15,13 +15,13 @@ comments:
 ## Хостинг статичных сайтов  
 {: #static }  
 
-- [GitHub Pages](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
-- [neocites](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
+- [**GitHub Pages**](http://pages.github.com) - хостинг для документации. Домен третьего уровня user.github.io или кастомный. Раздает статику или преобразует markdown в html через Jekyll cms
+- [**neocites**](https://neocities.org/). Конструктор простых сайтов, можно залить html. Дают домен третьего уррвня
 
 **не проверено**  
-- [Netlify](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
-- [Netlify Drop](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
-- [GitLab](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
+- [**Netlify**](https://app.netlify.com). Хостинг для headless cms с личным CDN и жирным API. 
+- [**Netlify Drop**](https://app.netlify.com/drop) - захостят у себя твой статичный сайт без регистрации и смс. Просто перетяни файлы html в окно браузера
+- [**GitLab**](https://gitlab.com/). Хостинг для git-репозиториев, так же как и гитхаб позволяет сделать веб-сайт с доками, ну или скачать репо
 - <https://pages.cloudflare.com/>
 - <https://codeberg.page/> - тут можно хранить документацию для git-проектов
 - Vercel - what?
@@ -29,14 +29,17 @@ comments:
 - Также можно использовать любой [хостинг для php](#php)
 
 **CDN** - нужен для отказоустойчивости
-- [jsDelivr](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
+- [**jsDelivr**](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
 
 
 **Конструкторы**
-- [tilda.cc](https://tilda.cc)
-- [telegra.ph](https://telegra.ph/)
+- [**tilda.cc**](https://tilda.cc)
+- [**telegra.ph**](https://telegra.ph/)
 - Смотри больше конструкторов в [статье про CMS](./cms.md)
 
+**непонятное**
+- [**4qr.xyz**](http://4qr.xyz) - хранить данные в URL-адресе. Сервис лишь рендерит страницу. Ссылку можно сократить, например тут [**tinyurl.com**](http://tinyurl.com). Лучше не превышать размер 10Кб<br>
+  Тест (лето 2022): [страница 3кб](https://tinyurl.com/yrf7sa2k). 
 
 ## Для web-приложений  
 {: #php }
@@ -47,13 +50,13 @@ comments:
 
 
 **SaaS для python или golang**
-- [heroku](https://www.heroku.com/)
-- [Netlify](https://www.netlify.com/)
+- [**heroku**](https://www.heroku.com/)
+- [**Netlify**](https://www.netlify.com/)
 
 **для vps**
-- ho.ua дешевые сервера в украине
-- aws. самая большая доля рынка виртуальных серверов
-- veesp. юзает zaborona.help
+- **ho.ua** дешевые сервера в украине
+- **aws**. самая большая доля рынка виртуальных серверов
+- **veesp**. юзает zaborona.help
 
 ## Захостить у себя на домашнем сервере
 {: #selfhost }
@@ -64,8 +67,8 @@ comments:
 {: #nat-tonnel }
 
 Можно у себя на компе запустить сайт, а в интернет отдавать его через сервис-прокладку. Если есть белый ip-адрес, то такие сервисы не нужны
-- [ngrok](https://ngrok.com/) - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
-- [hostyoself](https://hostyoself.com/) - ради прикола запущенный сайт. Ты ему папку с html-страницами, а он проксирует все запросы на твой комп. В тестах показал себя нестабильно. [Сорцы](https://github.com/schollz/hostyoself)
+- [**ngrok**](https://ngrok.com/) - самый популярный у кулхацкеррв метод публикации своих локальных проектов в большой интернет
+- [**hostyoself**](https://hostyoself.com/) - ради прикола запущенный сайт. Ты ему папку с html-страницами, а он проксирует все запросы на твой комп. В тестах показал себя нестабильно. [Сорцы](https://github.com/schollz/hostyoself)
 
 **не проверено**
 - <http://inlets.dev> - платный аналог ngrok. Когда-то был открытым проектом: [гитаб](https://github.com/alexellis/inlets)
@@ -80,12 +83,12 @@ comments:
 - [beaker browser](https://beakerbrowser.com/) - p2p браузер. говорят использует новый протокол [hypercore](https://hypercore-protocol.org/). не проверял
 
 **Смотри также:**
-- [передача файлов без сервера p2p](#p2p)
-- [приватный впн](./vpn.md) - если выход в мир нужен для удаленного управления - то лучше использовать 
+- [**передача файлов без сервера p2p**](./sendfile.md#p2p)
+- [**приватный впн**](./vpn.md) - если выход в мир нужен для удаленного управления - то лучше использовать 
 
 
 ## Программы для сервера
-Смотри раздел [Настройка сервера](/code/#server)
+Смотри раздел [**Настройка сервера**](/code/#server)
 
 
 ## Полезные ссылки
