@@ -1,12 +1,12 @@
 ---
 title: Хостинг файлов и картинок
-date: 2020-07-28T01:34:10+03:00
+date: 2021-07-28T01:34:10+03:00
 modified: 2022-08-21T15:29:20+03:00
 comments: 112
 tags: server
 ---
 
-Надо уточнить, что файлы можно хранить на обычном хостинге [для сайтов](./hosting.md). Но это не всегда удобно, или например надо экономить место. Могут не подойти также обычные Google-диск или Onedrive из-за своих ограничений
+Файлы можно хранить на обычном хостинге [для сайтов](./hosting.md). Но это не всегда удобно, или например надо экономить место. Могут не подойти также обычные облачные диски из-за своих ограничений
 
 - Содержание
 {:toc}
@@ -16,38 +16,39 @@ tags: server
 ## Для картинок
 {: #images }
 
-- **Github** - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно скопировать прямую raw-ссылку. Можно прикрутить свой домен через gitgub pages. Ограничение - 1гб/репо<br>
-  Тест (200101): 
-  [картинка 3кб из репо](https://github.com/Feelcame/feelcame.github.io/raw/master/assets/img/favicon.png),
-  [прямая raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
-  [через домен github.io](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
 - **Github CDN** - при редактировании в браузере markdown-файла на github, перетянуть в окно редактора картинку или видео. <br>
   Тест (210405): 
   [котик играет с цветком, видео 1.5МБ](https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4)
-- [**Telegra.ph**](https://telegra.ph/) - предназначен для написания статей, туда можно вставить картинку?аудио или видео и получить прямую ссылку. Также есть телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). <br> 
+- [**Telegra.ph**](https://telegra.ph/) - предназначен для написания статей. Можно вставить картинку, аудио или видео и получить прямую ссылку. Ограничение 5Мб. Можно выгружать через телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). <br> 
   Тест (220819):
   [картинка 50кб, загружено через сайт](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб, через бот](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
-- [**Directupload.net**](http://directupload.net) - тоже на торрентах юзают. <br>
+- [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке<br>
   Тест: 
-  [картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
-  [гифка 7мб (2022г)](https://s20.directupload.net/images/220911/ojn3m8ao.gif)
-- [**Imgur.com**](https://imgur.com/) - есть прямые ссылки. <br>
-  Тест 230325: 
-  [пост](https://imgur.com/a/SlaG7rs),
-  [сиси](https://i.imgur.com/18hTvCu.jpg),
-  [пес (11мб)](https://i.imgur.com/B9oRBn1.jpg),
-  [скриншот](https://i.imgur.com/P8a0qze.jpg)
-- [**Fastpic.org**](https://fastpic.org/) - юзают на рутрекере. Тест (230325): 
-  [встроено в страницу](https://tinyurl.com/2zeafwqf), 
-  [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
-- [**imageban**](https://imageban.ru/) - с рутрекера. сервера в рашке. нет прямых ссылок. удобный просмотрщик. Тест (230325): [таня](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
+  [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
+  [Гифка 7мб (2022г)](https://s20.directupload.net/images/220911/ojn3m8ao.gif), 
+  [Собакен 11Мб (230325)](https://s20.directupload.net/images/230325/kyu9vbow.png)
 - [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. Загрузка до 30 изображений (до 15 МБ каждое) за один раз. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются
+
+**сомнительно**
+- [**Imgur.com**](https://imgur.com/) - Нет прямых ссылок. На телефоне открывается глючный сайт, а на компе картинка <br>
+  Тест (230325): 
+  [сиси](https://i.imgur.com/18hTvCu.jpg),
+  [пес 11мб](https://i.imgur.com/B9oRBn1.jpg) + [встроено](https://tinyurl.com/4dc8fsu6),
+  [скриншот](https://i.imgur.com/P8a0qze.jpg)
+- [**Fastpic.org**](https://fastpic.org/) - Нет прямых ссылок. Реклама просто вырвиглазная. Тест (230325): 
+  [встроено в страницу](https://tinyurl.com/84th6rc2), 
+  [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
+- [**imageban**](https://imageban.ru/) - сервера в рашке. нет прямых ссылок. Тест: [Таня (230325)](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
 
 
 ## Облачные файл-менеджеры  
 {: #cloudstorage }
-- [**Github Releases**](http://github.com) - тут можно и отдельный файл скачать и весь репо целиком, и релизы выкладывать и даже свой сайт сделать. Бонусом идёт контроль версий
+- **GitHub** - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно добавлять прямо в репозиторий или заливать через Releases. Можно прикрутить свой домен gitgub.io. Ограничение - 1гб/репо<br>
+  Тест (200101): 
+  [картинка 3кб из репо](https://github.com/Feelcame/feelcame.github.io/raw/master/assets/img/favicon.png),
+  [прямая raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
+  [через домен github.io](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
 - [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
   Тест 20220802: 
   [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4),
@@ -55,9 +56,12 @@ tags: server
 - [**raysync**](https://www.raysync.io/pricing/) - 100гб бесплатно, не проверял
 - [**massive.io**](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
 
-**мейнстрим**
-- [**Fex.net**](http://fex.net) - легкий, быстрый, дешёвый. Есть функция быстрого обмена файлами без регистрации. От создателей ex.ua
-- **Google drive** - Бесплатно 15 Гб, можно делать прямые ссылки, параноидальная проверка на вирусы при каждом скачивании (до 15 секунд). Предпросмотр видео через плеер как в ютубе 
+
+- [**Telegram**](https://t.me). 2000Мб/файл. Создатпь приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
+  Тест (10901): 
+  [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
+- [**Fex.net**](http://fex.net) - быстрые сервера. Платный: 1Тб стоит 60грн/мес. Глючит. Реклама. От создателей ex.ua
+- **Google drive** - 15 Гб. можно делать прямые ссылки(работают через раз). Параноидальная проверка на вирусы - при **каждом** скачивании надо ждать до 15 секунд. Предпросмотр видео через плеер как в ютубе, можно даже качество выбирать 
 - **onedrive** - удобная интеграция в Microsoft Windows. проверка на вирусы. может просто так удалить файлы
 - **yandex disk** - русиянский аналог гдрайв. 10гб
 - **mega.nz** - криптуется, тяжёлые веб страницы, 50гб бесплатно
@@ -69,9 +73,6 @@ tags: server
 ## Файлообменники (скинул и забыл)  
 {: #files }
 
-- [**Telegram**](https://t.me). Создатпь приватный канал и загрузить туда что угодно размером до 2000 Мб. Но нет прямых ссылок. И не абузоустойчиво. <br>
-  Тест 20210901: 
-  [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
 - [**tlgurbot**](http://t.me/tlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. Максимальный размер файла 20МБ. Работает с перебоями, так как автору приходится бороться со скамерами. <br>
   Тест 20211201: 
   [apk 10mb](https://tlgur.com/d/g306JW64)
