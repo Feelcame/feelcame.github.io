@@ -21,7 +21,8 @@ tags: native
 <div style="font-size: 13px;">
 На сайте только список программ. Качать на официальном сайте или на веб-диске: 
 [**Telegram**](https://t.me/FeelSoftWin/105),
-[**FEX.NET**](https://fex.net/uk/s/vl6ftsa)
+[**FEX.NET**](https://fex.net/uk/s/vl6ftsa),
+[**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I?usp=sharing)
 </div>
 
 
