@@ -18,12 +18,12 @@ tags: server
 
 - **Github CDN** - при редактировании в браузере markdown-файла на github, перетянуть в окно редактора картинку или видео. <br>
   Тест (210405): 
-  [котик играет с цветком, видео 1.5МБ](https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4)
+  [котик играет с цветком видео 1.5МБ](https://user-images.githubusercontent.com/17731587/113583782-c0140200-9632-11eb-9c59-1596155e5ac1.mp4)
 - [**Telegra.ph**](https://telegra.ph/) - предназначен для написания статей. Можно вставить картинку, аудио или видео и получить прямую ссылку. Ограничение 5Мб. Можно выгружать через телеграм-бот [@mediauploader_bot](tg://resolve?domain=mediauploader_bot). <br> 
   Тест (220819):
-  [картинка 50кб, загружено через сайт](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
-  [сисюняшки 40кб, через бот](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
-- [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. Загрузка до 30 изображений (до 15 МБ каждое) за один раз. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
+  [картинка 50кб (сайт)](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
+  [сисюняшки 40кб (через бот)](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
+- [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. До 15 МБ. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
 
 **сомнительно**
 - [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке. Иногда просто перестает работать<br>
@@ -31,7 +31,7 @@ tags: server
   [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
   [Гифка 7мб (2022г)](https://s20.directupload.net/images/220911/ojn3m8ao.gif), 
   [Собакен 11Мб (230325)](https://s20.directupload.net/images/230325/kyu9vbow.png)
-- [**Imgur.com**](https://imgur.com/) - Нет прямых ссылок. На телефоне открывается глючный сайт, а на компе картинка <br>
+- [**Imgur.com**](https://imgur.com/) - Нет прямых ссылок. Глючный сайт<br>
   Тест (230325): 
   [сиси](https://i.imgur.com/18hTvCu.jpg),
   [пес 11мб](https://i.imgur.com/B9oRBn1.jpg) + [встроено](https://tinyurl.com/4dc8fsu6),
@@ -46,13 +46,13 @@ tags: server
 
 ## Облачные файл-менеджеры  
 {: #cloudstorage }
-- **GitHub** - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно добавлять прямо в репозиторий или заливать через Releases. Можно настроить свой домен через github pages. Ограничение - 1гб/репо<br>
+- [**GitHub**](https://github.com/) - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно добавлять прямо в репозиторий или заливать через Releases. Можно настроить свой домен через github pages. Ограничение - 1гб/репо<br>
   Тест (200101): 
-  [картинка 3кб, raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
+  [картинка 3кб raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
   [через домен](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
-- [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
-  Тест 20220802: 
-  [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4),
+- [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh<br>
+  Тест: 
+  [фильм 870мб (20220802)](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4) +
   [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [**raysync**](https://www.raysync.io/pricing/) - 100гб бесплатно, не проверял
 - [**massive.io**](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
