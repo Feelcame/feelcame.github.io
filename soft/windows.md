@@ -20,7 +20,8 @@ tags: native
 
 <div style="font-size: 13px;">
 На сайте только список программ. Качать на официальном сайте или на веб-диске: 
-[**Telegram**](https://t.me/FeelSoftWin/105)
+[**Telegram**](https://t.me/FeelSoftWin/105),
+[**FEX.NET**](https://fex.net/uk/s/vl6ftsa)
 </div>
 
 
