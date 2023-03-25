@@ -23,32 +23,33 @@ tags: server
   Тест (220819):
   [картинка 50кб, загружено через сайт](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб, через бот](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
-- [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке<br>
+- [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. Загрузка до 30 изображений (до 15 МБ каждое) за один раз. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
+
+**сомнительно**
+- [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке. Иногда просто перестает работать<br>
   Тест: 
   [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
   [Гифка 7мб (2022г)](https://s20.directupload.net/images/220911/ojn3m8ao.gif), 
   [Собакен 11Мб (230325)](https://s20.directupload.net/images/230325/kyu9vbow.png)
-- [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. Загрузка до 30 изображений (до 15 МБ каждое) за один раз. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются
-
-**сомнительно**
 - [**Imgur.com**](https://imgur.com/) - Нет прямых ссылок. На телефоне открывается глючный сайт, а на компе картинка <br>
   Тест (230325): 
   [сиси](https://i.imgur.com/18hTvCu.jpg),
   [пес 11мб](https://i.imgur.com/B9oRBn1.jpg) + [встроено](https://tinyurl.com/4dc8fsu6),
   [скриншот](https://i.imgur.com/P8a0qze.jpg)
-- [**Fastpic.org**](https://fastpic.org/) - Нет прямых ссылок. Реклама просто вырвиглазная. Тест (230325): 
+- [**Fastpic.org**](https://fastpic.org/) - Нет прямых ссылок. Реклама просто вырвиглазная. <br>
+  Тест (230325): 
   [встроено в страницу](https://tinyurl.com/84th6rc2), 
   [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
-- [**imageban**](https://imageban.ru/) - сервера в рашке. нет прямых ссылок. Тест: [Таня (230325)](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
+- [**imageban**](https://imageban.ru/) - сервера в рашке. нет прямых ссылок. <br>
+  Тест: [Таня (230325)](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
 
 
 ## Облачные файл-менеджеры  
 {: #cloudstorage }
-- **GitHub** - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно добавлять прямо в репозиторий или заливать через Releases. Можно прикрутить свой домен gitgub.io. Ограничение - 1гб/репо<br>
+- **GitHub** - предназначен для хранения исходных кодов. Но поддерживает и бинарники. Можно добавлять прямо в репозиторий или заливать через Releases. Можно настроить свой домен через github pages. Ограничение - 1гб/репо<br>
   Тест (200101): 
-  [картинка 3кб из репо](https://github.com/Feelcame/feelcame.github.io/raw/master/assets/img/favicon.png),
-  [прямая raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
-  [через домен github.io](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
+  [картинка 3кб, raw-ссылка](https://raw.githubusercontent.com/Feelcame/feelcame.github.io/master/assets/img/favicon.png),
+  [через домен](https://feelcame.github.io/assets/img/favicon.png){: target="_blank" }
 - [**Storj**](https://www.storj.io/) - дешевое файлохранилище с хорошим api. Бесплатно 250гб. Поддерживается программой transfer.sh. 
   Тест 20220802: 
   [фильм 870мб](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4),
@@ -61,10 +62,10 @@ tags: server
   Тест (10901): 
   [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
 - [**Fex.net**](http://fex.net) - быстрые сервера. Платный: 1Тб стоит 60грн/мес. Глючит. Реклама. От создателей ex.ua
+- **mega.nz** - криптуется, тяжёлые веб страницы, 50гб бесплатно
 - **Google drive** - 15 Гб. можно делать прямые ссылки(работают через раз). Параноидальная проверка на вирусы - при **каждом** скачивании надо ждать до 15 секунд. Предпросмотр видео через плеер как в ютубе, можно даже качество выбирать 
 - **onedrive** - удобная интеграция в Microsoft Windows. проверка на вирусы. может просто так удалить файлы
 - **yandex disk** - русиянский аналог гдрайв. 10гб
-- **mega.nz** - криптуется, тяжёлые веб страницы, 50гб бесплатно
 - **ionos.de** aka 1und1 - 5гб бесплатно, но нужно поморочиться
 - **jino.ru/disk** - 20гб. Это хостер. Рашка. На счету должно быть больше нуля. Пополнение минимум 249р
 - **ukr.net** 4gb
