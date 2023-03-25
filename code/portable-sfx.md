@@ -58,6 +58,8 @@ tags: native
 	}
 	Shortcut=P, ".\", , , "WizTree", 
 
+Сценарий самодостаточный, даже комментарии написаны понятно. Приложу сюда лучше скриншот
+![image](https://user-images.githubusercontent.com/17731587/227707108-cfb7d548-241d-4bcf-a2c5-cfdcfcbf41c7.png)
 
 
 ## Распаковка многофайлового установщика
@@ -67,9 +69,9 @@ tags: native
 
 **Сценарий SFX-архива**  
 
-В архиваторе надо указать, что бы он распаковывался во временную папку. После завершения установки модуль SFX уберется за собой и удалит временную папку.
+Архиву надо указать, что бы он распаковывался во временную папку. В логику SFX-модуля уже заложено что бы ждать завершения программы инсталлятора. После завершения установки модуль SFX уберется за собой и удалит временную папку.
 
-;Расположенный ниже комментарий содержит команды SFX-сценария
+	;Расположенный ниже комментарий содержит команды SFX-сценария
 
 	Setup=install.bat
 	TempMode="Что-бы продолжить реши задачку:\n  100+23=?","Распковка..."
@@ -88,37 +90,41 @@ if defined PROCESSOR_ARCHITEW6432 (set arch=64) else If "%PROCESSOR_ARCHITECTURE
 
 При обновлении версии программы меняется имя исполняемого файла. Но скрипт ведь умный, он может подобрать нужное имя по маске
 
-	FOR %%i IN ("WinRar*_RusX64.exe") DO Set FileName="%%i"
+``` batch
+FOR %%i IN ("WinRar*_RusX64.exe") DO Set FileName="%%i"
+```
 
 Осталось сделать bat-файл, расставить IF в нужных местах и в путь
 
 
+``` batch
+@echo off
+@chcp 1251 > nul
+title Installing...
+cd /d %~dp0
+cd
+echo. Выполняется установка...
+if defined PROCESSOR_ARCHITEW6432 (set arch=64) else If "%PROCESSOR_ARCHITECTURE%"=="AMD64" (set arch=64)
+if %arch%==64 (
+	echo. Версия: 64bit
+	FOR %%i IN ("WinRar*_RusX64.exe") DO Set FileName="%%i"
+) else (
+	echo. Версия: 32bit
+	FOR %%i IN ("WinRar*_RusX32.exe") DO Set FileName="%%i"
+)
+echo. Файл:  %FileName%
+start "" /wait %FileName%
+timeout /t 1 >nul
+echo.
+echo. УСТАНОВКА ЗАВЕРШЕНА
+echo. 
+timeout /t 4
+exit
+```
 
-	@echo off
-	@chcp 1251 > nul
-	title Installing...
-	cd /d %~dp0
-	cd
-	echo. Выполняется установка...
-	if defined PROCESSOR_ARCHITEW6432 (set arch=64) else If "%PROCESSOR_ARCHITECTURE%"=="AMD64" (set arch=64)
-	if %arch%==64 (
-		echo. Версия: 64bit
-		FOR %%i IN ("WinRar*_RusX64.exe") DO Set FileName="%%i"
-	) else (
-		echo. Версия: 32bit
-		FOR %%i IN ("WinRar*_RusX32.exe") DO Set FileName="%%i"
-	)
-	echo. Файл:  %FileName%
-	start "" /wait %FileName%
-	timeout /t 1 >nul
-	echo.
-	echo. УСТАНОВКА ЗАВЕРШЕНА
-	echo. 
-	timeout /t 4
-	exit
-	
+## Результат
+Установщик распаковался и передал управление скрипту install.bat
+![image](https://user-images.githubusercontent.com/17731587/227706629-72436041-3532-42eb-9a5a-ee4dfef471b0.png)
 
-**Результат**
-![image](https://user-images.githubusercontent.com/17731587/227705977-93ce355a-b7b4-4726-a7db-d17ae3623539.png)
 
 
