@@ -74,32 +74,31 @@ tags: server
 ## Файлообменники (скинул и забыл)  
 {: #files }
 
-- [**tlgurbot**](http://t.me/tlgurbot) - Скидываешь этому телеграм-боту файл, а он выдает прямую ссылку на скачивание. При переходе по ссылке файл будет качаться напрямую с серверов телеги, а бот просто проксирует трафик через себя. Максимальный размер файла 20МБ. Работает с перебоями, так как автору приходится бороться со скамерами. <br>
-  Тест 20211201: 
-  [apk 10mb](https://tlgur.com/d/g306JW64)
-- [**catbox.moe**](https://catbox.moe/) - 200мб, прямая ссылка, ограничение скорости.
-  Тест от 20220802: 
-  [программа в архиве 72Мб](https://files.catbox.moe/mufkwf.zip), 
-  [картинка 60кб](https://files.catbox.moe/fk9c1e.jpg)
-- [**Zaix.ru**](https://zaix.ru/upload) - дают прямую ссылку. <br>
-  Test (221229): [карттинка](http://d.zaix.ru/x5GN.png)
-
-
-
-## Времменное хранение   
-{: #temporary }
-- [**FEX.NET**](http://fex.net) - 100гб/файл, 7дней. От создателей ex.ua
-- [**LitterBox**](https://litterbox.catbox.moe/) - 1гб/файл, 3дня. Прямые ссылки. От автора catbox.moe
-- [**Uguu.se**](https://uguu.se/) - 128мб/файл, 48ч. От автора pomf.se.
-  [Исходники(github)](https://github.com/nokonoko/Uguu)
-- [**wetransfer**](https://wetransfer.com/) - 2гб/файл, 7дней. Очень быстрые сервера. Встраивается в почтовик
-- [**zippyshare**](https://www.zippyshare.com/) - 500 Мб, 30 days after no activity. Внимание! Куча скам-рекламы. Прямых ссылок нет. Не доступен через впн. Юзает автор лакипатчера
-- [**AnonFiles**](https://anonfiles.com/). 20ГБ/файл. Хранится менее полугода. Ограниченная скорость **выгрузки**<br>
+- [**tlgurbot**](http://t.me/tlgurbot) - 20МБ, время не ограничено. Бот проксирует файл из телеги по URL<br>
+  Тест: [apk 10mb (211201)](https://tlgur.com/d/g306JW64)
+- [**catbox.moe**](https://catbox.moe/) - 200мб, время не ограничено. Прямая ссылка. Нет рекламы
+  Тест: [архив .exe.zip 72Мб (220802)](https://files.catbox.moe/mufkwf.zip), 
+  [картинка 60кб (220802)](https://files.catbox.moe/fk9c1e.jpg)
+- [**Zaix.ru**](https://zaix.ru/upload) - 20Мб, 3 месяца от посл. скачивания. Прямые ссылки. Рашка<br>
+  Тест: [скриншот 300кб (221229)](http://d.zaix.ru/x5GN.png),
+  [картинка 11мб (230325)](http://d.zaix.ru/yxYL.png)
+- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Ограниченная скорость выгрузки<br>
   Аналоги: 
   [filechan.org](https://filechan.org), 
   [letsupload.cc](https://letsupload.cc), 
   [share-online.is](https://share-online.is), 
   [megaupload.nz](https://megaupload.nz)
+
+
+## Времменное хранение   
+{: #temporary }
+- [**FEX.NET**](http://fex.net) - 100гб, 7дней. От создателей ex.ua
+- [**LitterBox**](https://litterbox.catbox.moe/) - 1гб/файл, 3дня. Прямые ссылки. От автора catbox.moe
+- [**Uguu.se**](https://uguu.se/) - 128мб, 2дня. От автора pomf.se.<br>
+  [Исходники(github)](https://github.com/nokonoko/Uguu)
+- [**wetransfer**](https://wetransfer.com/) - 2гб, 7дней. Очень быстрые сервера. Встраивается в почтовик
+- [**zippyshare**](https://www.zippyshare.com/) - 500 Мб, 30 days after no activity. Скоро закрывается
+
 
 
 
