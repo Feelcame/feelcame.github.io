@@ -23,9 +23,11 @@ tags: server
   Тест (220819):
   [картинка 50кб (сайт)](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб (через бот)](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
+- [**Imgix.com**](https://imgix.com/pricing) - платный сервис. 1000шт бесплатно. Юзают для документации флипрпера
 - [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. До 15 МБ. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
 
-**сомнительно**
+<details markdown="1">
+<summary markdown="0">**сомнительно**</summary>
 - [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке. Иногда просто перестает работать<br>
   Тест: 
   [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
@@ -42,6 +44,7 @@ tags: server
   [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
 - [**imageban**](https://imageban.ru/) - сервера в рашке. нет прямых ссылок. <br>
   Тест: [Таня (230325)](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
+</details>
 
 
 ## Облачные файл-менеджеры  
@@ -55,7 +58,6 @@ tags: server
   [фильм 870мб (20220802)](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4) +
   [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [**raysync**](https://www.raysync.io/pricing/) - 100гб бесплатно, не проверял
-- [**massive.io**](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
 
 
 - [**Telegram**](https://t.me). 2000Мб/файл. Создатпь приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
@@ -121,7 +123,8 @@ tags: server
   [Исходники](https://github.com/LTD-Beget/sprutio) 
 - [**h5ai**](https://larsjung.de/h5ai/) - отображает структуру каталогов сайта на php как файловый менеджер с деревом и предпросмотром. [Демо](https://larsjung.de/h5ai/demo/empty%20folder/), [Исходники](https://github.com/lrsjng/h5ai) 
 
-**не проверено**
+<details markdown="1">
+<summary markdown="0">**не проверено**</summary>
 - https://www.seafile.com/ 
 - **FreeNAS** - операционнка для создания локального хранилища данных
 - **synology** - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
@@ -129,15 +132,17 @@ tags: server
 - https://www.filecloud.com/developer/
 - https://www.openstack.org/software/
 - [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
+</details>
 
 
 ## Обмен файлами P2P без серверов  
 {: #p2p }
 - [**Resilio Sync**](https://www.resilio.com/individuals/) - от создателей BitTorrent. Синхронизация файлов локально или через инет
-- **Torrent** - нужно создать .torrent файл. Программы: qBitTorrent (ПК), Flud (Android)
+- **Torrent** - нужно создать .torrent файл. Программы: **qBitTorrent** (ПК), **Flud** (Android)
 - Поднять samba-сервер на ПК с Windows. Расширить в инет через VPN, ну или ngrok. Смотри выше 
 - [**TotalCmd Wifi Transfer Plugin**](https://www.ghisler.com/wifitools.htm) - плагин для телефона, поднимает http и WebDAV, удобен в использовании, легкий. На приемной стороне WebDAV plugin for Total Commander, WinSCP или просто проводник. Только локалка
 - [**ShareDrop**](https://www.sharedrop.io/) - Удобный и работает стабильно. Открывается в браузере, не нужно ничего качать. Скорость с телефона на телефон 1.6Мб. Построен на WebRTC и HTML5. [**Исходники**](https://github.com/szimek/sharedrop). Сигналинг сервер - Firebase (он нужен что бы пробить NAT). Есть аналогичные проекты, котрые используют bitTorrent announcement server для этих целей <https://t.me/zhovner_hub/1608>. Исходники такой библиотеки: [гитхаб](https://github.com/subins2000/p2pt)
+- [**massive.io**](https://massive.io/pricing/) - максимальная скорость пердачи, но платно ($0.25/гб). не проверял
 
 
 ## Нецелевое использование
