@@ -29,7 +29,7 @@ tags: profi
 
 
 ## Сервисы VPN для локальной сети
-- <https://tailscale.com/>
+- <https://tailscale.com/> - Tailscale connects multiple devices together
 - <https://www.zerotier.com/> - VPN в два клика 
 - ssh ssh-j.com. пробросить соединение для удаленного управления компом. бесплатно. автор valdikSS
 
