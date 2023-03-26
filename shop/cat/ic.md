@@ -47,15 +47,23 @@ title: Микросхемы
 - .
 - .
 
-## Для управления питанием
+## Зарядка аккумуляторов
+- tp405
+- bq25896
+
+
+## Защита аккумуляторов
+- CN3163 Mini Solar Lipo Charger 
+- HY2111-GB - защита лития 2.9в
+- fs312f-g - защита лития 3в
+
+## Контроль питания
 - PL5111 Nano-Power System Timer for Power Gating
 - MCP3021 Low-Power 10-Bit A/D Converter with I2C Interface
 - STWD100 Watchdog timer circuit
 - MCP102/MCP103/MCP121/MCP131 Micropower Voltage Supervisors
 - MCP100/120, MCP111
-- CN3163 Mini Solar Lipo Charger 
-- HY2111-GB - защита лития 2.9в
-- fs312f-g - защита лития 3в
+
 
 ## драйвер светодиода
 - CN5711 источник тока для светодиодов
@@ -63,3 +71,6 @@ title: Микросхемы
 - NSI45030AZT1G
 - NSI45015WT1G
 - AMC7135PKFT
+
+## Драйвер двигателя
+- **TA6586** - driving bi-directional DC motor.
