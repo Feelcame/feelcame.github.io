@@ -117,5 +117,6 @@ FS312F-G
 
 ## Полезные ссылки
 - [**SuperPower**](https://github.com/SensorsIot/SuperPower). Проект ютубера AndreasSpies по созданию идеальной платы питания. В результате сделано три платы. Для малины, для микроконтроллеров и lowprice
+- [Документация Flipper](https://docs.flipperzero.one/development/hardware/schematic) - BQ25896RTWR I2C Controlled Single Cell 3-A Fast Charger. BQ27220YZFR Single-Cell CEDV Fuel Gauge
 - [Доработка модуль TPS61088](https://youtu.be/UtS0hpmpKGs?t=86). повышение напряжений
 - Защита акб <http://radioamator.ru/istochniki-pitaniya/akkumulyatory/1159-zashchitnoe-ustrojstvo-dlya-li-ion-batarei>
