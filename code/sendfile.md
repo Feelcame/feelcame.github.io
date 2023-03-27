@@ -27,7 +27,7 @@ tags: server
 - [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. До 15 МБ. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
 
 <details markdown="1">
-<summary markdown="0">**сомнительно**</summary>
+<summary markdown="0">сомнительно</summary>
 - [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке. Иногда просто перестает работать<br>
   Тест: 
   [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
@@ -38,7 +38,7 @@ tags: server
   [сиси](https://i.imgur.com/18hTvCu.jpg),
   [пес 11мб](https://i.imgur.com/B9oRBn1.jpg) + [встроено](https://tinyurl.com/4dc8fsu6),
   [скриншот](https://i.imgur.com/P8a0qze.jpg)
-- [**Fastpic.org**](https://fastpic.org/) - Нет прямых ссылок. Реклама просто вырвиглазная. <br>
+- [**Fastpic.org**](https://fastpic.org/) - Нет прямых ссылок. Просто вырвиглазная реклама. <br>
   Тест (230325): 
   [встроено в страницу](https://tinyurl.com/84th6rc2), 
   [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
@@ -58,15 +58,16 @@ tags: server
   [фильм 870мб (20220802)](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4) +
   [прямая ссылка](https://link.storjshare.io/s/jxnnsqrzeqxvfinajdd5tqek6kla/feel-soft/Matrica_voskreshenie_TEVAS.mp4?download=1)
 - [**raysync**](https://www.raysync.io/pricing/) - 100гб бесплатно, не проверял
+- **Amazon AWS и Google Cloud** - дорого, сложно. Те, для кого предназначены эти сервисы, врядли заинтересовались прочитать эту статью
 
-
+**Без прямых ссылок:**
 - [**Telegram**](https://t.me). 2000Мб/файл. Создатпь приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
   Тест (10901): 
   [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
 - [**Fex.net**](http://fex.net) - быстрые сервера. Платный: 1Тб стоит 60грн/мес. Глючит. Реклама. От создателей ex.ua
-- **mega.nz** - криптуется, тяжёлые веб страницы, 50гб бесплатно
+- **mega.nz** - 50гб бесплатно. криптуется, тяжёлые веб страницы
 - **Google drive** - 15 Гб. можно делать прямые ссылки(работают через раз). Параноидальная проверка на вирусы - при **каждом** скачивании надо ждать до 15 секунд. Предпросмотр видео через плеер как в ютубе, можно даже качество выбирать 
-- **onedrive** - удобная интеграция в Microsoft Windows. проверка на вирусы. может просто так удалить файлы
+- **onedrive** - 5Гб. иногда просто так удаляет файлы
 - **yandex disk** - русиянский аналог гдрайв. 10гб
 - **ionos.de** aka 1und1 - 5гб бесплатно, но нужно поморочиться
 - **jino.ru/disk** - 20гб. Это хостер. Рашка. На счету должно быть больше нуля. Пополнение минимум 249р
@@ -84,7 +85,7 @@ tags: server
 - [**Zaix.ru**](https://zaix.ru/upload) - 20Мб, 3 месяца от посл. скачивания. Прямые ссылки. Рашка<br>
   Тест: [скриншот 300кб (221229)](http://d.zaix.ru/x5GN.png),
   [картинка 11мб (230325)](http://d.zaix.ru/yxYL.png)
-- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Ограниченная скорость выгрузки<br>
+- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Ограниченная скорость выгрузки<br>
   Аналоги: 
   [filechan.org](https://filechan.org), 
   [letsupload.cc](https://letsupload.cc), 
