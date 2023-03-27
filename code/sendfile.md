@@ -28,6 +28,7 @@ tags: server
 
 <details markdown="1">
 <summary markdown="0">сомнительно</summary>
+
 - [**Directupload.net**](http://directupload.net) - на торрентах юзают. 64Мб/файл. Прямые ссылки. реклама при выгрузке. Иногда просто перестает работать<br>
   Тест: 
   [Картинка 1мб (2011г)](http://s14.directupload.net/images/110930/czej6dlt.png), 
@@ -44,6 +45,7 @@ tags: server
   [типа прямая ссылка](https://i121.fastpic.org/big/2023/0325/1c/11067e3208f5404cf81d07467baf991c.jpg)
 - [**imageban**](https://imageban.ru/) - сервера в рашке. нет прямых ссылок. <br>
   Тест: [Таня (230325)](https://i7.imageban.ru/out/2023/03/25/1df015acee5c480ee4cbae65ae5a739e.jpg)
+  
 </details>
 
 
@@ -85,7 +87,7 @@ tags: server
 - [**Zaix.ru**](https://zaix.ru/upload) - 20Мб, 3 месяца от посл. скачивания. Прямые ссылки. Рашка<br>
   Тест: [скриншот 300кб (221229)](http://d.zaix.ru/x5GN.png),
   [картинка 11мб (230325)](http://d.zaix.ru/yxYL.png)
-- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Ограниченная скорость выгрузки<br>
+- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Реклама. Ограниченная скорость выгрузки<br>
   Аналоги: 
   [filechan.org](https://filechan.org), 
   [letsupload.cc](https://letsupload.cc), 
