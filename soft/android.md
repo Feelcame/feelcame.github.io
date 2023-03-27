@@ -224,6 +224,8 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=246407),
   [v3.11.old(tlgur)](https://tlgur.com/d/4kx3qvZ8)
 - **AIDA64** - показывает параметры железа<br>
+- **Microsoft Launcher** - продвинуты лончер, есть папки и много настроек<rb>
+- **Launcher<3** - альтернативный лаунчер, если родной не нравится<rb>
 
 [Наверх↑](#top)
 
@@ -245,24 +247,16 @@ pin: 2
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
 
+- **AdAway** - редактирует файл hosts что бы заблокировать рекламу<br>
+- **Adguard** - фильтрует рекламу через локальный впн<br>
+- **Titanium Backup** - резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут<br>
 - **Darker Pro** - затемнение экрана ниже системного уровня. Андроид 4 <br>
   [store](https://play.google.com/store/apps/details?id=com.mlhg.screenfilter#), 
   [4pda](https://4pda.to/forum/index.php?showtopic=538357)
-- **Microsoft Launcher** - продвинуты лончер, есть папки и много настроек<rb>
-- **Launcher<3** - альтернативный лаунчер, если родной не нравится<rb>
 - **Powerful Control** - кнопки управления в штороке Android 4.3<rb>
 - **CPU Spy** - показывает статистику активости процессора <br>
   [4pda](https://4pda.to/forum/index.php?showtopic=247838), 
   [v0.4.0(tlgur)](https://tlgur.com/d/GZ32PM5g)
-- **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
-  [телега](https://t.me/FeelSoftAn/170)
-- **Titanium Backup** - резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут<br>
-- **AdAway** - редактирует файл hosts что бы заблокировать рекламу<br>
-- **Adguard** - фильтрует рекламу через локальный впн<br>
-- **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
-  play: [com.kliksob.forgswitch](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
-  [4pda](https://4pda.to/forum/index.php?showtopic=974135),
-  [v1.0(tlgur)](https://tlgur.com/d/GbZ0rVdG),
   
 </details>
 
@@ -325,6 +319,12 @@ pin: 2
 - **To Clipboard** - скопировать текст через функцию "поделиться"<br>
   [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
   [tlgur](https://tlgur.com/d/gm6JVnN4)
+- **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
+  [телега](https://t.me/FeelSoftAn/170)
+- **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
+  [поиск(com.kliksob.forgswitch)](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
+  [4pda](https://4pda.to/forum/index.php?showtopic=974135),
+  [v1.0(tlgur)](https://tlgur.com/d/GbZ0rVdG),
 
 [Наверх↑](#top)
 
