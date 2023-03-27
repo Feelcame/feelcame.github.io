@@ -16,7 +16,8 @@ comments: 0
 - Взять флешку на 8 Гб или больше
 - Скачать образ винды - самую свежую **официальную** версию Windows 10. Например тут: [поиск(nnmclub.to)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows). Программа Rufus может сама скачать из оф.сайта
 - Записать ранее скачанный образ через **Rufus**. Альтернативы: **UltraISO** или **WinSetupFromUSB**
-- В корень флешки положить файл автоответов "Unattached.xml". (есть в составе WinPE Strelec). Описание от [Вадима Стеркина](https://www.outsidethebox.ms/9951/)
+- В корень флешки положить файл автоответов "Unattached.xml". (есть в составе WinPE Strelec)
+![image](https://user-images.githubusercontent.com/17731587/228090123-11509bee-8462-4067-9656-c499421b1998.png)
 
 
 ## Установка Windows
