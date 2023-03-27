@@ -45,137 +45,58 @@ tags: native
 - Применить мой твик реестра. Смотри след.раздел
 
 **Останется сделать вручную:**
-1. Активировать винду ключём
-1. Настроить панель задач. Убрать поиск, новости, кортану
-1. В пуске удалить ярлыки на установку игр и прочей мешуры
-1. Удалить предустановленный софт: OneDrive, игры, офис, скайп
-1. Изменить программы по умолчанию (браузер, музыка, видео, просмотр PDF)
-1. А в разделе "Конфиденциальность" убрать галки для показа недавних элементов в меню пуск.
-1. На вкладке "Вид" включить показ скрытых файлов и показ расширений файлов
-1. Включить отображение в панели задач диспетчера задач. Он удобно отображает текущую загрузку ЦП на своей иконке.
-1. Закрепить Taskmgr на панели задач. 
-1. Добавить Taskmgr его в автозагрузку. В папке "shell:startup" создать ярлык на "taskmgr" и в его свойствах поставить запуск в свернутом состоянии
+- Настроить панель задач: поиск значком, новости откл.
+- Удалить предустановленный софт в меню "спуск"
+- Изменить программы по умолчанию, если нужно
+- Закрепить Taskmgr на панели задач. Включить постоянное отображение возле часов. Он показывает загрузку ЦП в реальном времени.
+- Добавить Taskmgr его в автозагрузку. В папке "shell:startup" создать ярлык на "taskmgr" и в его свойствах поставить запуск в свернутом состоянии
 
-## Твики реестра
-Ниже список, что будет сделано. Сам файл реестра под спойлером. Скачать тут: [ссылка](#)
-- Отключить Автоматичесие обновления Windows (работатет только в Pro)
-- Смена языка по Ctrl+Shift
-- Темная тема оформления
-- Добавить значок Компьютер на рабочий стол
-- Открывать Компьютер при запуске проводника
-- Отключить показ недавних файлов
+## Доп.настройки через твик реестра
+
+Ниже сам твик с комментариями. Его нужно скопировать в текстовый файл и сохранить с расширением `.reg`. После этого запустить и согласиться в нести изменения в системы
 
 
-<details markdown="1">
-<summary markdown="0">Список твиков и исходники</summary>
-
-``` reg
+```
 Windows Registry Editor Version 5.00
 
-;01. Отключить Defender
-;02. Отключить UAC
-;03. Отключить Smart Screen
-;04. Отключить Windows Update
-;05. Смена языка по Ctrl+Shift
-;06. Темная тема оформления
-;07. Добавить значок Компьютер на рабочий стол
-;08. Открывать Компьютер при запуске проводника
-;09. Отключить показ недавних файлов
+;Отключить принулительное автоматическое обновление системы (Win10 Pro). По прежнему можно будет запустить обновление вручную через параметры
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+"NoAutoUpdate"=dword:00000001
 
-
-;01. Отключить Defender. Сработает только если сначала вручную отключить пункт "Защита от подделки".
-;Win10: Параметры > Обновление и безопасность > Безопасность Windows > Защита от вирусов и угроз > Параметры защиты от вирусов и угроз (Управление настройками) > Защита от подделки (Откл)
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender]
-"DisableAntiSpyware"=dword:00000001
-"AllowFastServiceStartup"=dword:00000000
-"ServiceKeepAlive"=dword:00000000
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Real-Time Protection]
-"DisableIOAVProtection"=dword:00000001
-"DisableRealtimeMonitoring "=dword:00000001
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender\Spynet]
-"DisableBlockAtFirstSeen"=dword:00000001
-"LocalSettingOverrideSpynetReporting"=dword:00000000
-"SubmitSamplesConsent"=dword:00000002
-
+;Отключить уведомления "центра безопасности"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications]
 "DisableNotifications"=dword:00000001
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows Defender Security Center\Notifications]
-"DisableNotifications"=dword:00000001
+;Включить показ скрытых файлов и показ расширений файлов
+[HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"Hidden"=dword:00000001
+"HideFileExt"=dword:00000000
 
+;Отключить показ частоиспользуемых и недавних файлов в контекстном меню проводника на панели задач
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"ShowRecent"=dword:00000000
+"ShowFrequent"=dword:00000000
 
-;02. Отключить UAC
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\System]
-"ConsentPromptBehaviorAdmin"=dword:00000000
-"EnableLUA"=dword:00000000
-"PromptOnSecureDesktop"=dword:00000000
+;При запуске проводника показывать "Этот Компьютер" вместо "Избранного"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"LaunchTo"=dword:00000001
 
-
-;03. Отключить Smart Screen
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
-"SmartScreenEnabled"="Off"
-
-[HKEY_CURRENT_USER\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppContainer\Storage\microsoft.microsoftedge_8wekyb3d8bbwe\MicrosoftEdge\PhishingFilter]
-"EnabledV9"=dword:00000000
-
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\AppHost]
-"EnableWebContentEvaluation"=dword:00000000
-
-
-;04. Отключить обновления Win10. Официальный способ
-;Инфа тут https://blog.simplix.info/disable-update-win10/ и тут https://remontka.pro/disable-updates-windows-10/
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
-"DoNotConnectToWindowsUpdateInternetLocations"=dword:00000001
-"WUServer"="localhost"
-"WUStatusServer"="localhost"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
-"UseWUServer"=dword:00000001
-"NoAutoUpdate"=dword:00000001
-
-
-;Как вернуть все взад? Раскомментируй, скопируй в отдельный файл и запусти.
-;[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
-;"DoNotConnectToWindowsUpdateInternetLocations"=-
-;"WUServer"=-
-;"WUStatusServer"=-
-
-;[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
-;"UseWUServer"=-
-;"NoAutoUpdate"=-
-
-
-;05. Смена языка по Ctrl+Shift
+;Смена языка по Ctrl+Shift, смена раскладки по Alt+Shift
 [HKEY_CURRENT_USER\Keyboard Layout\Toggle]
 "Hotkey"="2"
 "Language Hotkey"="2"
 "Layout Hotkey"="3"
 
-
-;06. Темная тема оформления
+;Темная тема оформления
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
 "AppsUseLightTheme"=dword:00000000
 
-
-;07. Добавить значок Компьютер на рабочий стол
+;07. Добавить на рабочий стол значок Компьютер
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
 "{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
- 
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu]
 "{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
 
-
-;08. Открывать Компьютер при запуске проводника (вместо избранного)
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
-"LaunchTo"=dword:00000001
-
-
-;09. Отключить показ недавних файлов
-[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
-"ShowRecent"=dword:00000000
-"ShowFrequent"=dword:00000000
 ```
 </details>
 
