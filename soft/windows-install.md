@@ -44,14 +44,15 @@ comments: 0
 
 
 ## Настройка системы
-- Настроить панель задач: поиск значком, новости откл.
 - Удалить предустановленный софт в меню "спуск"
 - Изменить программы по умолчанию, если нужно
 - Закрепить Taskmgr на панели задач. Включить постоянное отображение возле часов. Он показывает загрузку ЦП в реальном времени.
 - Добавить Taskmgr его в автозагрузку. В папке "shell:startup" создать ярлык на "taskmgr" и в его свойствах поставить запуск в свернутом состоянии
 
 **Все остальное можно автоматизировать**
-- Применить твики через WinAero Tweaker. [Мой конфиг](./windows.md#:~:text=WinAero)
+- Применить твики через WinAero Tweaker. [Мой пресет](./windows.md#:~:text=WinAero)<br>
+  ![image](https://user-images.githubusercontent.com/17731587/228089658-7b9ae657-b6c1-4554-b6c0-8574d0e1998f.png)
+
 - Применить настройки из следующего раздела
 
 ## Мой твик реестра
@@ -70,6 +71,14 @@ Windows Registry Editor Version 5.00
 ;Отключить уведомления "центра безопасности"
 [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications]
 "DisableNotifications"=dword:00000001
+
+;Убрать погоду и новости с панели задач
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Feeds]
+"ShellFeedsTaskbarViewMode"=dword:00000002
+
+;Поиск на панели задач - значком
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+"SearchboxTaskbarMode"=dword:00000001
 
 ;Включить показ скрытых файлов и показ расширений файлов
 [HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
