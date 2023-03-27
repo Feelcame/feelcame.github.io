@@ -1,5 +1,5 @@
 ---
-title: SFX-инсталлятор для Portable программ
+title: Упаковать программу в инсталлятор (sfx)
 date: 2021-11-11T11:11:11+02:00
 modified: 2023-03-25T10:26:00
 comments: 0
@@ -17,7 +17,7 @@ tags: native
 
 
 - Просто zip-архив - большинство portrable пролграмм так распространяются
-- Nullsoft Install Sastem
+- Nullsoft Install System
 - Inno Setup
 - В винде можно генерировать MSI, это тоже что-то типа инсталлятора
 - Самораспаковывающийся архив WinRAR SFX
