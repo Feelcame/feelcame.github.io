@@ -50,9 +50,12 @@ tags: native
 {: #video }
 - **PotPlayer** - видеоплеер<br>
   [оф.сайт](https://potplayer.daum.net/), 
-  [оф.сайт(ru)](https://potplayer.ru/download/), 
+  [сайт(ru)](https://potplayer.ru/download/), 
   [softportal](https://www.softportal.com/get-21466-potplayer.html), 
-  [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
+  [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/),
+  [codecpackи](https://codecpack.co/download/PotPlayer.html),
+  [vLatest64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe),
+  [кодеки64](https://get.daum.net/PotPlayer/Codec/OpenCodecSetup64.exe)
 - **Bandicam** - запись видео с экрана<br>
   [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647),
   [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam)
