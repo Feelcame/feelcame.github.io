@@ -63,6 +63,7 @@ title: Микросхемы
 - STWD100 Watchdog timer circuit
 - MCP102/MCP103/MCP121/MCP131 Micropower Voltage Supervisors
 - MCP100/120, MCP111
+- kia7042 - voltage detector
 
 
 ## драйвер светодиода
