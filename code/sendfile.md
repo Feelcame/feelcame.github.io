@@ -63,7 +63,8 @@ tags: server
 - [**raysync**](https://www.raysync.io/pricing/) - 100гб бесплатно, не проверял
 - **Amazon AWS и Google Cloud** - дорого, сложно. Те, для кого предназначены эти сервисы, врядли заинтересовались прочитать эту статью
 
-**Без прямых ссылок:**
+## Мейнстрим-сервисы  
+{: #dumb }
 - [**Telegram**](https://t.me). 2000Мб/файл. Создатпь приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
   Тест (10901): 
   [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
@@ -77,12 +78,12 @@ tags: server
 - **ukr.net** 4gb
 - **files.fm** - 5гб бесплатно. нужна регистроация. раздают через него вирусню, как то связан с рашкой
 
-## Файлообменники (скинул и забыл)  
+## Доступ по прямой ссылке
 {: #files }
 
 - [**tlgurbot**](http://t.me/tlgurbot) - 20МБ, время не ограничено. Бот проксирует файл из телеги по URL<br>
   Тест: [apk 10mb (211201)](https://tlgur.com/d/g306JW64)
-- [**catbox.moe**](https://catbox.moe/) - 200мб, время не ограничено. Прямая ссылка. Нет рекламы
+- [**catbox.moe**](https://catbox.moe/) - 200мб, время не ограничено. Прямая ссылка. Нет рекламы<br>
   Тест: [архив .exe.zip 72Мб (220802)](https://files.catbox.moe/mufkwf.zip), 
   [картинка 60кб (220802)](https://files.catbox.moe/fk9c1e.jpg)
 - [**Zaix.ru**](https://zaix.ru/upload) - 20Мб, 3 месяца от посл. скачивания. Прямые ссылки. Рашка<br>
@@ -126,17 +127,9 @@ tags: server
   [Статья на хабре](https://habr.com/ru/company/beget/blog/277449/), 
   [Исходники](https://github.com/LTD-Beget/sprutio) 
 - [**h5ai**](https://larsjung.de/h5ai/) - отображает структуру каталогов сайта на php как файловый менеджер с деревом и предпросмотром. [Демо](https://larsjung.de/h5ai/demo/empty%20folder/), [Исходники](https://github.com/lrsjng/h5ai) 
-
-<details markdown="1">
-<summary markdown="0">**не проверено**</summary>
-- https://www.seafile.com/ 
+- [sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server
 - **FreeNAS** - операционнка для создания локального хранилища данных
 - **synology** - лидер в коммерческом секторе. говорят надежно. но нужно купить сервак и поставить гдето в кладовке
-- https://www.sparkleshare.org/ https://github.com/hbons/Dazzle File sync.Version history. Self hosted. Client side encryption. Free and Open Source
-- https://www.filecloud.com/developer/
-- https://www.openstack.org/software/
-- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
-</details>
 
 
 ## Обмен файлами P2P без серверов  
@@ -170,5 +163,10 @@ tags: server
 - <https://toffeeshare.com> - не проверен
 - <https://takeafile.com/> - не проверен
 - <https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload>
+- <https://www.seafile.com/>
+- <https://www.sparkleshare.org/> + <https://github.com/hbons/Dazzle> File sync.Version history. Self hosted. Client side encryption. Free and Open Source
+- <https://www.filecloud.com/developer/>
+- <https://www.openstack.org/software/>
+- [список еще](https://github.com/awesome-selfhosted/awesome-selfhosted#file-transfer---single-click--drag-n-drop-upload)
 
 
