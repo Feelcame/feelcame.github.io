@@ -1,4 +1,5 @@
 ---
+title: Комментарии
 permalink: /:basename
 ---
 
