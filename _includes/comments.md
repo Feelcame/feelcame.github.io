@@ -1,5 +1,4 @@
 <div class="site-comments">
-<h2 id="comments">Комментарии:</h2>
 {% assign comments_channel = site.comments_channel | default: "" %}  
 {% assign post_id = page.comments | default: 0 %}  
 {% if post_id > 1 and comments_channel != "" -%}
@@ -39,11 +38,9 @@ a.btn-tg {
 text-decoration: none;
 }
 </style>
-<div class="site-comments">
-	<a href="/" class="btn-tg">💬 Показать комментрарии</a><br>
-	или<br>
-	<a href="tg://resolve?domain=profi_soft&amp;post=96" target="_blank">открыть в telegram</a><br>
-</div>
+<a href="/" class="btn-tg">💬 Показать комментрарии</a><br>
+или<br>
+<a href="tg://resolve?domain=profi_soft&amp;post=96" target="_blank">открыть в telegram</a><br>
 {%- else -%}  
 <strong>Комментарии закрыты.</strong>
 {%- endif -%}
