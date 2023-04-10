@@ -1,22 +1,21 @@
+<hr>
 <div class="site-comments">
 {% assign comments_channel = site.comments_channel | default: "" %}  
 {% assign post_id = page.comments | default: 0 %}  
 {% if post_id > 1 and comments_channel != "" -%}
 <style>
 .site-comments {
-	background-color: #DDD;
+	background-color: #f3f3f3;
 	padding-top:1rem;
 	text-align: center;
-	//margin-right: auto;
-	//margin-left: auto;
 }
 
 .btn-tg {
-	line-height: 1.5;
-	padding: 0.8rem 3rem;
-    font-size: 0.9rem;
-	font-weight: 500;
-	text-transform: uppercase;
+    line-height: 1.5;
+    padding: 0.8rem 3rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    text-transform: uppercase;
     display: inline-block;
     margin-bottom: 1rem;
     color: #FFF;
@@ -38,9 +37,11 @@ a.btn-tg {
 text-decoration: none;
 }
 </style>
-<a href="/" class="btn-tg">💬 Показать комментрарии</a><br>
+
+<a href="/comments.html?{{ post_id }}" class="btn-tg" target="_self">💬 Показать комментрарии</a><br>
 или<br>
-<a href="tg://resolve?domain=profi_soft&amp;post=96" target="_blank">открыть в telegram</a><br>
+<a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_self">открыть в telegram</a><br>
+
 {%- else -%}  
 <strong>Комментарии закрыты.</strong>
 {%- endif -%}
