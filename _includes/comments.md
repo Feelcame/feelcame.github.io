@@ -3,9 +3,46 @@
 {% assign comments_channel = site.comments_channel | default: "" %}  
 {% assign post_id = page.comments | default: 0 %}  
 {% if post_id > 1 and comments_channel != "" -%}
-<div style="text-align: center;">
-<a class="commentBtn" href="/comments.html?{{ post_id }}" target="_blank"><b>💬 Показать комментарии</b></a><br>
-<a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">или открыть в telegram</a>
+<style>
+.site-comments {
+	background-color: #DDD;
+	padding-top:1rem;
+	text-align: center;
+	//margin-right: auto;
+	//margin-left: auto;
+}
+
+.btn-tg {
+	line-height: 1.5;
+	padding: 0.8rem 3rem;
+    font-size: 0.9rem;
+	font-weight: 500;
+	text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 1rem;
+    color: #FFF;
+    background-color: #4ba3e2;
+    border-color: rgba(255,255,255,0.6);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0.3rem;
+    transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+}
+
+.btn-tg:hover {
+    text-decoration: none;
+    background-color: #3f99d9;
+    border-color: rgba(255,255,255,0.9)
+}
+
+a.btn-tg {
+text-decoration: none;
+}
+</style>
+<div class="site-comments">
+	<a href="/" class="btn-tg">💬 Показать комментрарии</a><br>
+	или<br>
+	<a href="tg://resolve?domain=profi_soft&amp;post=96" target="_blank">открыть в telegram</a><br>
 </div>
 {%- else -%}  
 <strong>Комментарии закрыты.</strong>
