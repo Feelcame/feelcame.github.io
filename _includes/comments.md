@@ -3,8 +3,10 @@
 {% assign comments_channel = site.comments_channel | default: "" %}  
 {% assign post_id = page.comments | default: 0 %}  
 {% if post_id > 1 and comments_channel != "" -%}
-<h2><a class="commentBtn" href="/comments.html?{{ post_id }}" target="_blank"><b>💬 Показать комментарии</b></a></h2><br>
-<a class="commentBtn" href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">или открыть в telegram</a>
+<div style="text-align: center;">
+<a class="commentBtn" href="/comments.html?{{ post_id }}" target="_blank"><b>💬 Показать комментарии</b></a><br>
+<a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_blank">или открыть в telegram</a>
+</div>
 {%- else -%}  
 <strong>Комментарии закрыты.</strong>
 {%- endif -%}
