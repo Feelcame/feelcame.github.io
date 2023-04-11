@@ -5,15 +5,15 @@
 {% if post_id > 1 and comments_channel != "" -%}
 <style>
 .site-comments {
-	background-color: #f3f3f3;
+	//background-color: #f3f3f3;
 	padding-top:1rem;
 	text-align: center;
 }
 
 .btn-tg {
     line-height: 1.5;
-    padding: 0.8rem 3rem;
-    font-size: 1.1rem;
+    padding: 0.8rem 2rem;
+    font-size: 1rem;
     font-weight: 600;
     text-transform: uppercase;
     display: inline-block;
@@ -39,8 +39,7 @@ text-decoration: none;
 </style>
 
 <a href="/comments.html?{{ post_id }}" class="btn-tg" target="_self">💬 Показать комментрарии</a><br>
-или<br>
-<a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_self">открыть в telegram</a><br>
+или <a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_self">открыть в telegram</a><br>
 
 {%- else -%}  
 <strong>Комментарии закрыты.</strong>
