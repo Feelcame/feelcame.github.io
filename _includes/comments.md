@@ -5,7 +5,6 @@
 {% if post_id > 1 and comments_channel != "" -%}
 <style>
 .site-comments {
-	//background-color: #f3f3f3;
 	padding-top:1rem;
 	text-align: center;
 }
