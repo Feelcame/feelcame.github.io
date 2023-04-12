@@ -124,7 +124,7 @@ Windows Registry Editor Version 5.00
 
     Windows Registry Editor Version 5.00
 
-;Отключить принулительное автоматическое обновление системы (Win10 Pro). 
+;Отключить принулительное автоматическое обновление системы (Win10 Pro).   
 ;По прежнему можно будет запустить обновление вручную через параметры
 
     [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
