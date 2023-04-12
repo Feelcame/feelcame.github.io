@@ -77,7 +77,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Feeds]
 "ShellFeedsTaskbarViewMode"=dword:00000002
 
-;Поиск на панели задач - значком
+;Свернуть поле "Поиск" на панели задач в значок
 [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
 "SearchboxTaskbarMode"=dword:00000001
 
@@ -86,7 +86,7 @@ Windows Registry Editor Version 5.00
 "Hidden"=dword:00000001
 "HideFileExt"=dword:00000000
 
-;Отключить показ частоиспользуемых и недавних файлов в контекстном меню проводника на панели задач
+;Отключить показ частоиспользуемых, а также недавних файлов
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
 "ShowRecent"=dword:00000000
 "ShowFrequent"=dword:00000000
@@ -114,6 +114,66 @@ Windows Registry Editor Version 5.00
 ```
 
 
+## То же самое, но в другом виде  
+{ .no_toc }
+
+    Windows Registry Editor Version 5.00
+
+;Отключить принулительное автоматическое обновление системы (Win10 Pro). 
+;По прежнему можно будет запустить обновление вручную через параметры
+
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\AU]
+    "NoAutoUpdate"=dword:00000001
+
+;Отключить уведомления "центра безопасности"
+
+    [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows Defender Security Center\Notifications]
+    "DisableNotifications"=dword:00000001
+
+;Убрать погоду и новости с панели задач
+
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Feeds]
+    "ShellFeedsTaskbarViewMode"=dword:00000002
+
+;Свернуть поле "Поиск" на панели задач в значок
+
+    [HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search]
+    "SearchboxTaskbarMode"=dword:00000001
+
+;Включить показ скрытых файлов и показ расширений файлов
+
+    [HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+    "Hidden"=dword:00000001
+    "HideFileExt"=dword:00000000
+
+;Отключить показ частоиспользуемых, а также недавних файлов
+
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+    "ShowRecent"=dword:00000000
+    "ShowFrequent"=dword:00000000
+
+;При запуске проводника показывать "Этот Компьютер" вместо "Избранного"
+
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+    "LaunchTo"=dword:00000001
+
+;Смена языка по Ctrl+Shift, смена раскладки по Alt+Shift
+
+    [HKEY_CURRENT_USER\Keyboard Layout\Toggle]
+    "Hotkey"="2"
+    "Language Hotkey"="2"
+    "Layout Hotkey"="3"
+
+;Темная тема оформления
+
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+    "AppsUseLightTheme"=dword:00000000
+
+;07. Добавить на рабочий стол значок Компьютер
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\NewStartPanel]
+    "{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
+    [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\HideDesktopIcons\ClassicStartMenu]
+    "{20D04FE0-3AEA-1069-A2D8-08002B30309D}"=dword:00000000
 
 
 
