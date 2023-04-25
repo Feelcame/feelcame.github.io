@@ -116,6 +116,8 @@ pin: 2
 - **Кино HD** - просмотр фильмов и сериалов из разных сервисов. реклама не убирается. 
   [4pda](https://4pda.to/forum/index.php?showtopic=787648),
   [github](https://github.com/publicfks/temp/blob/main/apk/app-release.apk)
+- **Lampa** - просмотр фильмов
+- **SmartTube** - ютуб для телевизоров
 - **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
   4pda,
   [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
