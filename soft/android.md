@@ -26,7 +26,7 @@ pin: 2
   [оф.сайт](https://www.ghisler.com/android.htm#download), 
   [v3.xx(оф.)](https://www.ghisler.com/tcandroid3.apk), 
   [v3.23(tlgur)](https://tlgur.com/d/GW1rxPb4)
-- **TotalCmd-WiFi-обмен** -удобный и быстрый способ передать файлы по WiFi<br>
+- **TotalCmd-WiFi-обмен** - удобный и быстрый способ передать файлы по WiFi<br>
   [store](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
   [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
   [другие плагины](https://www.ghisler.com/androidplugins/download/)
@@ -39,11 +39,16 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [v1.3.6(tlgur)](https://tlgur.com/d/GVqJmM68), 
   [телега](https://t.me/FeelSoftAn/164)
-- **MiXplorer** - внезапно удобный и легкий файл менеджер<br>
-  4pda, плагины
+- **MiXplorer Silver** - внезапно удобный и легкий файл менеджер<br>
+  [play](https://play.google.com/store/apps/details?id=com.mixplorer.silver),
+  [4pda](https://4pda.to/forum/index.php?showtopic=318294), 
+  [плагины](https://4pda.to/forum/index.php?showtopic=318294&st=2200#entry69037978)
 - **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
 - **Sync** - синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
 - **RAR** - крутой архиватор
+- **Send File To TV** - передача файлов по Wi-Fi внутри одной локальной сети<br>
+  [play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv),
+  [4pda](https://4pda.to/forum/index.php?showtopic=1017788)
 </details>
 
 [Наверх↑](#top)
