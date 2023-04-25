@@ -312,15 +312,10 @@ pin: 2
   [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink),
   [tlgur](https://tlgur.com/d/GW157pL4)
 - **Copy** - копирование любого текст с экрана длинным нажатием кнопки "домой"<br>
-  [store](https://play.google.com/store/apps/details?id=com.weberdo.apps), 
-  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps),
+  [store](https://play.google.com/store/apps/details?id=com.weberdo.apps.copy), 
+  [telegram](https://t.me/s/feelsoftan?q=com.weberdo.apps.copy),
   [tlgur](https://tlgur.com/d/4Rmv5Aeg)
 - **Виджет громкости**. play, 4pda<br>
-- **To Clipboard** - скопировать текст через функцию "поделиться"<br>
-  [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
-  [tlgur](https://tlgur.com/d/gm6JVnN4)
-- **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
-  [телега](https://t.me/FeelSoftAn/170)
 - **4G LTE Switcher** - открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)<br>
   [поиск(com.kliksob.forgswitch)](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
   [4pda](https://4pda.to/forum/index.php?showtopic=974135),
@@ -392,6 +387,11 @@ pin: 2
 - **PowerTube**
 - **HD VideoBox** (закрыли)
 
+- **To Clipboard** - скопировать текст через функцию "поделиться"<br>
+  [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
+  [tlgur](https://tlgur.com/d/gm6JVnN4)
+- **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
+  [телега](https://t.me/FeelSoftAn/170)
 
 
 
