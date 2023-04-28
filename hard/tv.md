@@ -41,33 +41,21 @@ Other   | Android
 
 
 ## Лампа
-**Lampa** - навигатор по каталогу фильмов.<br>
-Ставится как APK или через Media Station X на урезанных операционках. С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д.<br>
+**Lampa** - навигатор по каталогу фильмов. Ставится как APK или через Media Station X на урезанных операционках<br>
 <http://lampa.mx>
 
 **Плагины онлайн-просмотра**<br>
-- **MODSs** - просмотр фильмов онлайн. Это самый навороченный плагин, есть и другие<br>
+С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д.
+- **MODSs** - просмотр фильмов онлайн. Это самый навороченный плагин с кучей настроек<br>
   <http://lampa.stream/modss>
-- <details markdown="1">
-  <summary markdown="0">Другие плагины</summary>
-  Онлайн мод <https://nb557.github.io/plugins/online_mod.js><br>
-  Онлайн Prestige <http://jin.energy/newonline.js><br>
-  Подробнее в [группе](https://t.me/lampa_plugins/146725)
-  </details>
-  
-  
+- Другие: `https://nb557.github.io/plugins/online_mod.js`, `http://jin.energy/newonline.js`. Подробнее в [группе](https://t.me/lampa_plugins/146725)
 
-**Плагины ТВ**
 - **КуликКаналы** - онлайн тв, раздает пользователь со своего сервера. Донатить [сюда](https://t.me/RenDonutBot) <br>
   <http://cdn.kulik.uz/cors>
-- <details markdown="1">
-  <summary markdown="0">Другие плагины</summary>
-  - **IPTVbeta** - просмотр своего плейлиста. Надо зарегаться на cub.watch и прописать там ссылку на плейлист<br>
-    <http://cub.watch/plugin/iptv>
-  - **FreeTV** - прямые ссылки на потоки, иногда отваливается<br>
-    <http://lampatv.fun/freetv.js>
-  - Подробнее в группе <https://t.me/lampa_channels/25790>
-</details>
+- Другие для ТВ: 
+  **IPTVbeta** (свой плейлист) <http://cub.watch/plugin/iptv>, 
+  **FreeTV** (прямые ссылки, глючит) <http://lampatv.fun/freetv.js>. 
+  Обсуждение в группе <https://t.me/lampa_channels/25790>
 
 
 ## Комфорт
