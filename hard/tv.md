@@ -62,11 +62,11 @@ Other   | Android
   <http://cdn.kulik.uz/cors>
 - <details markdown="1">
   <summary markdown="0">Другие плагины</summary>
-- **IPTVbeta** - просмотр своего плейлиста. Надо зарегаться на cub.watch и прописать там ссылку на плейлист<br>
-  <http://cub.watch/plugin/iptv>
-- **FreeTV** - прямые ссылки на потоки, иногда отваливается<br>
-  <http://lampatv.fun/freetv.js>
-- Подробнее в группе <https://t.me/lampa_channels/25790>
+  - **IPTVbeta** - просмотр своего плейлиста. Надо зарегаться на cub.watch и прописать там ссылку на плейлист<br>
+    <http://cub.watch/plugin/iptv>
+  - **FreeTV** - прямые ссылки на потоки, иногда отваливается<br>
+    <http://lampatv.fun/freetv.js>
+  - Подробнее в группе <https://t.me/lampa_channels/25790>
   </details>
 
 
