@@ -49,7 +49,7 @@ Other   | Android
 **КуликКаналы** - онлайн тв. Донат автору [сюда](https://t.me/RenDonutBot) <br>
 <http://cdn.kulik.uz/cors><br>
 <details markdown="1">
-<summary markdown="0">**Другие плагины**</summary>
+<summary markdown="0">Другие плагины</summary>
 ```
 https://nb557.github.io/plugins/online_mod.js
 http://jin.energy/newonline.js
