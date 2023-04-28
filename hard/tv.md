@@ -48,13 +48,14 @@ Other   | Android
 <http://lampa.stream/modss><br>
 **КуликКаналы** - онлайн тв. Донат автору [сюда](https://t.me/RenDonutBot) <br>
 <http://cdn.kulik.uz/cors><br>
-**И другие плагины:**
+**Другие плагины:**<br>
     ```
     https://nb557.github.io/plugins/online_mod.js
     http://jin.energy/newonline.js
     http://cub.watch/plugin/iptv
     http://lampatv.fun/freetv.js
     ```
+    
 Обсуждение плагинов Онлайн - <https://t.me/lampa_plugins/146725><br>
 Обсуждение плагинов ТВ - <https://t.me/lampa_channels/25790>
 
