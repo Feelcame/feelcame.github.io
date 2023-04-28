@@ -103,6 +103,14 @@ comments:
 | :------: |
 | Счет<br>\*111# |
 | Мегабайты<br>\*112# |
+{: style="width:100%;display:table;table-layout:fixed;"}
+
+| Киевстар
+| :---:
+| Счет<br>\*111#
+| Мегабайты<br>\*112#
+{: style="width:100%;display:table;table-layout:fixed;"}
+
 
 
 ## Полезные ссылки
