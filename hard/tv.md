@@ -41,24 +41,20 @@ Other   | Android
 
 
 ## Лампа
-**Lampa** - навигатор по каталогу фильмов. Ставится как APK или через Media Station X на Samsung<br>
+**Lampa** - навигатор по каталогу фильмов. Ставится как APK или через Media Station X на Samsung. С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д.<br>
 <http://lampa.mx>
-
-С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д. Я выбрал два лучших
 
 **Плагин MODSs** - просмотр фильмов онлайн<br>
   <http://lampa.stream/modss><br>
 **КуликКаналы** - онлайн тв. Донат автору [сюда](https://t.me/RenDonutBot) <br>
   <http://cdn.kulik.uz/cors><br>
-
-**Другие плагины в одну строчку:**<br>
+**И другие плагины:**<br>
 ```
 https://nb557.github.io/plugins/online_mod.js
 http://jin.energy/newonline.js
 http://cub.watch/plugin/iptv
 http://lampatv.fun/freetv.js
 ```
-
 Обсуждение плагинов Онлайн - <https://t.me/lampa_plugins/146725><br>
 Обсуждение плагинов ТВ - <https://t.me/lampa_channels/25790>
 
