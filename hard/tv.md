@@ -67,7 +67,7 @@ Other   | Android
   - **FreeTV** - прямые ссылки на потоки, иногда отваливается<br>
     <http://lampatv.fun/freetv.js>
   - Подробнее в группе <https://t.me/lampa_channels/25790>
-  </details>
+</details>
 
 
 ## Комфорт
