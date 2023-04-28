@@ -48,16 +48,27 @@ Other   | Android
 **Плагины онлайн-просмотра**<br>
 - **MODSs** - просмотр фильмов онлайн. Это самый навороченный плагин, есть и другие<br>
   <http://lampa.stream/modss>
-- Онлайн мод (https://nb557.github.io/plugins/online_mod.js), Онлайн Prestige(http://jin.energy/newonline.js). Подробнее в [группе](https://t.me/lampa_plugins/146725)
+- <details markdown="1">
+  <summary markdown="0">Другие плагины</summary>
+  Онлайн мод <https://nb557.github.io/plugins/online_mod.js><br>
+  Онлайн Prestige <http://jin.energy/newonline.js><br>
+  Подробнее в [группе](https://t.me/lampa_plugins/146725)
+  </details>
+  
+  
 
 **Плагины ТВ**
 - **КуликКаналы** - онлайн тв, раздает пользователь со своего сервера. Донатить [сюда](https://t.me/RenDonutBot) <br>
   <http://cdn.kulik.uz/cors>
+- <details markdown="1">
+  <summary markdown="0">Другие плагины</summary>
 - **IPTVbeta** - просмотр своего плейлиста. Надо зарегаться на cub.watch и прописать там ссылку на плейлист<br>
   <http://cub.watch/plugin/iptv>
 - **FreeTV** - прямые ссылки на потоки, иногда отваливается<br>
   <http://lampatv.fun/freetv.js>
 - Подробнее в группе <https://t.me/lampa_channels/25790>
+  </details>
+
 
 ## Комфорт
 В моем понимании человек покупает телефизор, что бы отдохнуть вечером после работы. Поэтому в телеке сделано все максимально просто и понятно. А где не понятно, там предлагается заплатить бабосик и все сразу станет еще проще. Например встроенное приложение YouTube через каждые две минуты показывает рекламу (почему то ее особенно много в детских мультиках). 
