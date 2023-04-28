@@ -41,21 +41,24 @@ Other   | Android
 
 
 ## Лампа
-**Lampa** - навигатор по каталогу фильмов. Ставится как APK или через Media Station X на урезанных операционках<br>
+**Lampa** - навигатор по каталогу фильмов. Ставится как APK или через Media Station X на TizenOS<br>
 <http://lampa.mx>
 
-**Плагины онлайн-просмотра**<br>
-С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д.
-- **MODSs** - просмотр фильмов онлайн. Это самый навороченный плагин с кучей настроек<br>
+С помощью плагинов можно добавить онлайн, торренты, ТВ и т.д. Я выбрал два лучших:
+- **Плагин MODSs** - просмотр фильмов онлайн. Это самый навороченный плагин с кучей настроек<br>
   <http://lampa.stream/modss>
-- Другие: `https://nb557.github.io/plugins/online_mod.js`, `http://jin.energy/newonline.js`. Подробнее в [группе](https://t.me/lampa_plugins/146725)
-
 - **КуликКаналы** - онлайн тв, раздает пользователь со своего сервера. Донатить [сюда](https://t.me/RenDonutBot) <br>
   <http://cdn.kulik.uz/cors>
-- Другие для ТВ: 
-  **IPTVbeta** (свой плейлист) <http://cub.watch/plugin/iptv>, 
-  **FreeTV** (прямые ссылки, глючит) <http://lampatv.fun/freetv.js>. 
-  Обсуждение в группе <https://t.me/lampa_channels/25790>
+
+Другие плагины в одну строчку:<br>
+`https://nb557.github.io/plugins/online_mod.js`<br>
+`http://jin.energy/newonline.js`<br>
+`http://cub.watch/plugin/iptv`<br>
+`http://lampatv.fun/freetv.js`
+
+Обсуждение плагинов Онлайн: <https://t.me/lampa_plugins/146725>
+
+Обсуждение плагинов ТВ: <https://t.me/lampa_channels/25790>
 
 
 ## Комфорт
