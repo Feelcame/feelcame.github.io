@@ -113,15 +113,11 @@ LycaMobile | Номер
 Меню услуг | [1111](tel:1111)
 {: style="width:100%;display:table;table-layout:fixed;"}
 
-Срок действия номера 120 дней с момента последнего движения средств по номеру
-
-## 3mob (Utel)  
-{: .no_toc }
-хз
+Срок действия номера 120 дней с момента последнего движения средств по номеру. Оператор работает в сети 3mob (Utel)  
 
 ## Переадресация
 Отключить любую переадресацию:  
-**##002#**
+**[##002#](tel:##002#)**
 
 Функция | Статус | Вкл | Откл
 :- | :- | :- | :-
@@ -129,9 +125,8 @@ LycaMobile | Номер
 Нет ответа | \*#61# | \*\*61\*номер\*\*время# | ##61#
 Вне сети | \*#62# | \*\*62\*номер# | ##62#
 Занято | \*#67# | \*\*67\*номер# | ##67#
+{: style="width:100%;display:table;table-layout:fixed;"}
 
-- Подробнее <https://minfin.com.ua/telecom/articles/pereadresaciya-zvonkov-dlya-vseh-operatorov-ukrainy>
+Подробнее: <https://minfin.com.ua/telecom/articles/pereadresaciya-zvonkov-dlya-vseh-operatorov-ukrainy>
 
-## Полезные ссылки  
-{: .no_toc }
 
