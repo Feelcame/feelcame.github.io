@@ -98,17 +98,20 @@ comments:
 
 ## Лайкамобайл
 
-| Lycamobile
+| LycaMobile
 | :---------:
 | Счет<br>[\*111#](tel:*111#)
-| Оператор<br>[1100](tel:1100)
 | Мой номер<br>[\*132#](tel:*132#)
+| Оператор<br>[1100](tel:1100)
 {: style="width:100%;display:table;table-layout:fixed;"}
 
-| Киевстар
+В два столбика
+
+| LycaMobile
 | :---:
-| Счет<br>\*111#
-| Мегабайты<br>\*112#
+| Счет | [\*111#](tel:*111#)
+| Мой номер | [\*132#](tel:*132#)
+| Оператор | [1100](tel:1100)
 {: style="width:100%;display:table;table-layout:fixed;"}
 
 
