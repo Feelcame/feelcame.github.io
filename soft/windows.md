@@ -141,8 +141,6 @@ tags: native
 
 <details markdown="1">
 <summary markdown="0">Показать еще</summary>
-
-Еще один список тут: *<https://t.me/s/FeelSoftAddons/7>*
 - **DarkReader** - затемняет страницы<br>
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block** - вырезает нативную реклам в ютубе<br>
@@ -165,10 +163,10 @@ tags: native
 - **m3u8 sniffer** - вылавливает ссылки на поток для просмотра в отдельной вкладке<br>
   [оф.сайт](http://sigmafxdx.com/m3u8Sniffer/),
   [chrome](https://chrome.google.com/webstore/detail/video-m3u8-sniffer-find-h/akkncdpkjlfanomlnpmmolafofpnpjgn)
-- **HLS player** - воспроизведение ссылки на поток прямо в браузере. можно расшарить ссылку через оф.сайт
+- **HLS player** - воспроизведение ссылки на поток прямо в браузере. можно расшарить ссылку через оф.сайт<br>
   [оф.сайт](https://www.hlsplayer.org/),
   [chrome](https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka)
-- **Adaptive Bitrate Manifest Viewer** - открывает плейлист m3u в виде текста
+- **Adaptive Bitrate Manifest Viewer** - открывает плейлист m3u в виде текста<br>
   [chrome](https://chrome.google.com/webstore/detail/adaptive-bitrate-manifest/omjpjjekjefmdkidigpkhpjnojoadbih)
 </details>
 
