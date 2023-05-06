@@ -162,6 +162,14 @@ tags: native
 - **Video Downloader Plus** - скачивает видео из фейсбука<br>
   [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf),
   [архив](https://extpose.com/ext/206921/ru)
+- **m3u8 sniffer** - вылавливает ссылки на поток для просмотра в отдельной вкладке<br>
+  [оф.сайт](http://sigmafxdx.com/m3u8Sniffer/),
+  [chrome](https://chrome.google.com/webstore/detail/video-m3u8-sniffer-find-h/akkncdpkjlfanomlnpmmolafofpnpjgn)
+- **HLS player** - воспроизведение ссылки на поток прямо в браузере. можно расшарить ссылку через оф.сайт
+  [оф.сайт](https://www.hlsplayer.org/),
+  [chrome](https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka)
+- **Adaptive Bitrate Manifest Viewer** - открывает плейлист m3u в виде текста
+  [chrome](https://chrome.google.com/webstore/detail/adaptive-bitrate-manifest/omjpjjekjefmdkidigpkhpjnojoadbih)
 </details>
 
 [Наверх↑](#top)
