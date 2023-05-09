@@ -111,3 +111,6 @@ tags: pcb
 ](https://www.altium.com/ru/documentation/altium-designer/creating-connectivity-ad?version=18.1)
 - [Altium Designer: что делать если проект стал сложным?](https://habr.com/ru/post/426951/)
 - <https://www.rezonit.ru/articles/tekhnika-razvodki-pechatnykh-plat/>
+
+- <http://microsin.net/adminstuff/others/altium-designer-gerber-output-options.html>
+- <http://microsin.net/adminstuff/others/pcb-terms-and-acronyms.html>
