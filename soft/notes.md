@@ -58,7 +58,8 @@ tags: native
 - Obsidian
 - Todoist
 - makagiga
- 
+- Dendron <https://alternativeto.net/software/dendron/about/>
+- zotero
 
 ## черный список
 Ненавижу проприетарщину
