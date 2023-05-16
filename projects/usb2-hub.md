@@ -1,5 +1,5 @@
 ---
-title: Док-станция. 4xUSB, Ethernet, MicroSD, Audio
+title: Хаб 4xUSB2.0 Ethernet MicroSD Audio
 date: 2021-10-03T00:00:00
 modified: 2023-03-30T00:00:00
 tags: hard
