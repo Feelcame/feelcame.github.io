@@ -1,5 +1,5 @@
 
-# linker.pp.ua
+# my site
 
 Пишу про технологии.
 http://feelcame.github.io/
