@@ -55,22 +55,35 @@ pin: 2
 
 ## Музыка
 {: #music }
-- **AIMP** - удобный плеер, работает с плейлистами <br>
-  [store](https://play.google.com/store/apps/details?id=com.aimp.player),
-  [4pda](https://4pda.to/forum/index.php?showtopic=442204),
-  [оф.сайт](http://www.aimp.ru/?do=download&os=android),
-  [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
-  [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
-  [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
-- **Spotify** - слушать музыку онлайн. Официально, большая база, но нельзя скачивать<br>
-  [store](https://play.google.com/store/apps/details?id=com.spotify.music), 
-  [4pda](https://4pda.to/forum/index.php?showtopic=248440),
-  [web](https://open.spotify.com/), 
-  [боты(для скачивания)](./telegram-bots.html#музыка)
-- **Shazam** - распознает что за песня сейчас играет. Лайт версия, мод с 4пда. Android 2.3+<br>
-  [4pda](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214),
-  [telegram](https://t.me/s/feelsoftan?q=com.shazam.android), 
-  [v1.1.0_Lite(2.3+)](https://anonfiles.com/r9bao16by3/Shazam_1.1.0_armeabi-v7a_apk), v12.19.0(6.0+), 9.37,0(5.0+)
+-	**AIMP** - удобный плеер, работает с плейлистами
+	<details><summary markdown="0">скачать</summary>
+
+	- [оф.сайт](http://www.aimp.ru/?do=download&os=android),
+	- [play store](https://play.google.com/store/apps/details?id=com.aimp.player),
+	- [4pda](https://4pda.to/forum/index.php?showtopic=442204),
+	- [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
+	- [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
+	- [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
+	</details>
+
+-	**Spotify** - слушать музыку онлайн. Официально, большая база, но нельзя скачивать
+	<details><summary markdown="0">скачать</summary>
+	
+	- [play store](https://play.google.com/store/apps/details?id=com.spotify.music), 
+	- [4pda](https://4pda.to/forum/index.php?showtopic=248440),
+	- [web](https://open.spotify.com/), 
+	- [боты(для скачивания)](./telegram-bots.html#музыка)
+	</details>
+
+- **Shazam** - распознает что за песня сейчас играет. Лайт версия, мод с 4пда. Android 2.3+
+	<details><summary markdown="0">скачать</summary>
+	
+	- [4pda](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214),
+	- [telegram](https://t.me/s/feelsoftan?q=com.shazam.android), 
+	- [v1.1.0_Lite(2.3+)](https://anonfiles.com/r9bao16by3/Shazam_1.1.0_armeabi-v7a_apk)
+	- v12.19.0(6.0+)
+	- 9.37,0(5.0+)
+	</details>
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
