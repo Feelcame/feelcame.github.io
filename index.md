@@ -5,6 +5,13 @@ modified: 2023-03-20T22:24:23+03:00
 layout: home
 ---
 
+## Популярные статьи
+- [Программы для Android](/soft/android.md)
+- [Программы для Windows](/soft/windows.md)
+- [Jekyll - CMS для статичных сайтов](/code/jekyll.md)
+
+---
+
 <style>
 a.button7 {
   font-weight: 700;
