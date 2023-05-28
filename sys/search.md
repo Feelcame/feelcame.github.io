@@ -14,7 +14,7 @@ no-permalink: /:basename
   window.simpleJekyllSearch = new SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '../assets/json/search.json',
+	json: '/assets/json/search.json',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 20,
