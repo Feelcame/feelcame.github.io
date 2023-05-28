@@ -13,12 +13,11 @@ layout: none
 {%- unless dir[1] == "demo" or dir[1] == "assets" or page.title == nil -%}
 {
 "title"    : "{{ page.title | escape }}",
-"url"      : "{{ site.baseurl }}{{ page.url }}",
+"url"      : "{{ page.url | relative_url}}",
 "date"     : "{{ page.date }}",
 "name"     : "{{ page.name }}{{ page.extname }}",
-"content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
+"content"  : {{ page.content | strip_html | strip_newlines | remove_chars | remove: '“' | remove: '”' | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
-
 {% endunless %}
 {% endfor %}
 ]

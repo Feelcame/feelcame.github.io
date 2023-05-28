@@ -7,13 +7,13 @@ permalink: /:basename
 
 <ul id="results-container"></ul>
 
-<script src="{{ site.baseurl }}/assets/js/simple-jekyll-search.js"></script>
+<script src="{{ '/assets/js/simple-jekyll-search.js' | relative_url}}"></script>
 
 <script>
   window.simpleJekyllSearch = new SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '{{ '/assets/json/search.json' | relative_url }}',
+	json: '{{ "/assets/json/search.json" | relative_url }}',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 20,
