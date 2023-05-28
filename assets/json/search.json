@@ -16,7 +16,7 @@ layout: none
 "url"      : "{{ page.url | relative_url}}",
 "date"     : "{{ page.date }}",
 "name"     : "{{ page.name }}{{ page.extname }}",
-"content"  : {{ page.content | strip_html | strip_newlines | remove_chars | remove: '“' | remove: '”' | escape | jsonify }}
+"content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
 } {% unless forloop.last %},{% endunless %}
 {% endunless %}
 {% endfor %}

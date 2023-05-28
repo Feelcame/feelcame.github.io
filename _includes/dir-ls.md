@@ -56,7 +56,7 @@
 <ol reversed debug_tag="{{ rec_tag }}" debug_count="{{ all_pages.size }}/{{ dir_size }}">
 {%- for pg in output_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
-<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+<a href="{{ pg.url | relative_url }}">{{ pg.title | default: pg.name }}</a>
 {%- unless showdate == "no" -%}
 <time class="shaded">
 {{ pg.date | date: "%Y-%m-%d" | default: "" }}</time>
@@ -73,7 +73,7 @@
 <ul>
 {%- for pg in wo_date_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
-<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+<a href="{{ pg.url | relative_url }}">{{ pg.title | default: pg.name }}</a>
 {% unless showdate == "no" %}
 {%- if showdate == "yes" -%}{%- assign placeholder = "гггг-мм-дд" -%}{%- endif -%}
 <time class="shaded">
@@ -91,7 +91,7 @@
 <ul>
 {%- for pg in pinned_pages -%}
 <li>
-<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+<a href="{{ pg.url | relative_url }}">{{ pg.title | default: pg.name }}</a>
 </li>
 {% endfor -%}
 </ul>

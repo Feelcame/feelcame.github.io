@@ -1,6 +1,7 @@
 ---
 no-title: Поиск
-permalink: /:basename
+permalink: /search
+no-permalink: /:basename
 ---
 <div markdown="0">
 <input type="text" id="search-input2" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
@@ -13,7 +14,7 @@ permalink: /:basename
   window.simpleJekyllSearch = new SimpleJekyllSearch({
 	searchInput: document.getElementById('search-input2'),
 	resultsContainer: document.getElementById('results-container'),
-	json: '{{ "/assets/json/search.json" | relative_url }}',
+	json: '../assets/json/search.json',
 	searchResultTemplate: '<li><a href="{url}?search={query}" title="{name}" target="_blank">{title}</a></li>',
 	noResultsText: 'No results found',
 	limit: 20,
