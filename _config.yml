@@ -1,38 +1,40 @@
-# This is configuration file
+# Переменные
 title: Домик
 description: <a href="/" style="color:white; font-weight:bold">🏠 Домик</a>. Заметки о важном
-comments: true
 show_downloads: true
 google_analytics: G-5KGG8GDK54
-theme: jekyll-theme-cayman
 copyright: © 20<span style="background:#0092FF;color:#fff;">18+</span>
+comments: true
+chtg: profi_soft
+comments_channel: profi_soft
+
+# Конфигурация
+encoding: UTF-8
+theme: jekyll-theme-cayman
+timezone: Europe/Kiev
 markdown: kramdown
 highlighter: rouge
-#markdown: GFM
-#markdown: CommonMarkGhPages
-#commonmark:
-#  options: ["SMART", "FOOTNOTES"]
-#  extensions: ["strikethrough", "autolink", "tables"]
-# baseurl: ""
-# url: ""
-timezone: Europe/Kiev
+url: ""
+baseurl: "/"
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
 plugins:
   - jekyll-redirect-from
   - jemoji
   - jekyll-paginate
   - jekyll-gist
-
-kramdown:
-  parse_span_html: true
-  parse_block_html: true
-timezone: Europe/Kiev
-
-
-chtg: profi_soft
-comments_channel: profi_soft
-
+  - rouge
+  
+# Заранее заданные переменные для файлов
 defaults:
 - scope:
     type: pages
   values:
     layout: default
+
+#markdown: GFM
+#markdown: CommonMarkGhPages
+#commonmark:
+#  options: ["SMART", "FOOTNOTES"]
+#  extensions: ["strikethrough", "autolink", "tables"]
