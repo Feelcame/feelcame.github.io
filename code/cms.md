@@ -32,7 +32,7 @@ tags: web
 - [Lektor](https://www.getlektor.com/) - используется на сайте библиотеки веб сервера для python [Flask](https://palletsprojects.com/)
 - [Docsify](https://docsify.js.org/#/) - docsify generates your documentation website on the fly. A magical documentation site generator. Simple and lightweight. No statically built html files. Multiple themes
 - [GitBook](https://www.gitbook.com/)
-
+- <https://astro.build/>
 
 ## По старинке PHP
 {: #php }
