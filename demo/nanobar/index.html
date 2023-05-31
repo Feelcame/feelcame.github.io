@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html class="no-js">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>nanobar.js</title>
+	<meta name="description" content="nanobar.js - Very very lightweight progress bars">
+	<!-- Style defined first. Copy this to a css style sheet or to the head section -->
+	<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+	<div class="container">
+		<h2 id="nanobar">nanobar</h2>
+		<button class="doc_go" onClick="nanobar.go(30)">nanobar.go(30)</button>
+		<button class="doc_go" onClick="nanobar.go(60)">nanobar.go(60)</button>
+		<button class="doc_go" onClick="nanobar.go(100)">nanobar.go(100)</button>
+		<div style="height: 2000px"></div>
+
+		<!-- This is the bar which shows scroll percentage -->
+		<!--<div class="nanobar my-class" id="my-id" style="position: fixed;">
+			<div class="bar"></div>
+		</div>-->
+		<div class="progress-bar"></div>
+	</div>
+<script src="./nanobar.js"></script>
+<script>
+	var options = {
+		classname: 'my-class',
+		id: 'my-id'
+	};
+	var nanobar = new Nanobar( options );
+	nanobar.go( 30 );
+	nanobar.go( 76 );
+	nanobar.go(100);
+
+	var element = document.documentElement,
+	  body = document.body,
+	  scrollTop = 'scrollTop',
+	  scrollHeight = 'scrollHeight',
+	  progress = document.querySelector('.progress-bar'),
+	  scroll;
+
+	document.addEventListener('scroll', function() {
+	  scroll = (element[scrollTop]||body[scrollTop]) / ((element[scrollHeight]||body[scrollHeight]) - element.clientHeight) * 100;
+	  progress.style.setProperty('--scroll', scroll + '%');
+	});
+</script>
+
+</body>
+</html>

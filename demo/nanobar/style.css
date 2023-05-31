@@ -1,0 +1,49 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+.container {
+	margin:0 auto;
+	max-width: 72em;
+}
+
+#color, #centered {
+	padding: 1em;
+	background: #fff;
+	float: left;
+	width: 50%;
+	box-sizing: border-box;
+}
+
+#color .nanobar, #centered .nanobar {
+	margin-bottom: 2em;
+}
+
+#color .nanobar .bar {
+	background: #38f;
+	border-radius: 4px;
+	box-shadow: 0 0 10px #59d;
+	height: 6px;
+	margin: 0 auto;
+}
+
+#centered .nanobar .bar {
+	background: url('img/rainbow.gif') 100%;
+	height: 9px;
+}
+
+.progress-bar {
+	background: linear-gradient(to right, red var(--scroll), transparent 0);
+	background-repeat: no-repeat;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	height: 4px;
+	z-index: 1;
+}
+
+.my-class .bar {
+  background:#f04c78;
+}
