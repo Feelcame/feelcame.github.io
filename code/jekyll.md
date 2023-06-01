@@ -88,7 +88,7 @@ Jekyll стремится быть простым снаружи, не гляд�
 - <https://github.com/poole/lanyon>
 - <https://github.com/barryclark/jekyll-now>
 - [Тема hyde](https://github.com/poole/hyde)
-
+- [documentation-theme-jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html)
 
 
 
