@@ -90,7 +90,7 @@ Jekyll стремится быть простым снаружи, не гляд�
 - [Тема hyde](https://github.com/poole/hyde)
 - [documentation-theme-jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html)
 - [hagura](https://github.com/sharu725/hagura) + [порт на svelte](https://github.com/sharu725/hagura-sveltekit) + [демо](https://hagura.webjeda.com/) 
-
+- [chola](https://github.com/sharu725/chola) + [демо](https://chola.sveltethemes.dev/). Это не тема, а просто макет на svelte 
 
 ## Файл конфигураци \_config.yml
 В файле ```_config.yml``` задаются глобальные настройки рендеринга сайта. Формат написания конфигов `YAML`. Ниже пример настроек, которые я выработал для себя. Уверен, можно напихать намного больше всего в конфиг, но я предпочитаю использовать необходимый минимум
