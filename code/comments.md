@@ -26,7 +26,9 @@ date: 2021-01-01T12:00:00
 - vk. параша, удаляет комменты, шпион
 - disqus. не соцсеть, но тоже шпионит
 
-  
+
+## github-api
+  - <https://utteranc.es/> A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more!
 
 ## Непроверено
 1. <https://github.com/utterance/utterances>  
