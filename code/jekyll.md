@@ -89,7 +89,7 @@ Jekyll стремится быть простым снаружи, не гляд�
 - <https://github.com/barryclark/jekyll-now>
 - [Тема hyde](https://github.com/poole/hyde)
 - [documentation-theme-jekyll](https://idratherbewriting.com/documentation-theme-jekyll/mydoc_publishing_github_pages.html)
-
+- [hagura](https://github.com/sharu725/hagura) + [порт на svelte](https://github.com/sharu725/hagura-sveltekit) + [демо](https://hagura.webjeda.com/) 
 
 
 ## Файл конфигураци \_config.yml
