@@ -13,3 +13,4 @@ JAM-stack (JavaScript, API, Markup). Представьте себе фронт�
 - <https://nextjs.org/>
 - <https://www.sphinx-doc.org/en/master/>
 - hugo
+- <https://dou.ua/lenta/articles/creating-blog-with-jamstack/>
