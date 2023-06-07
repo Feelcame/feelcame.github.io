@@ -129,6 +129,7 @@ id; Наличие; Цена в у.е; Название; Категории че
 - <https://blog.webjeda.com/free-static-ecommerce-website/>
 - <https://codepen.io/Dimasion/pen/oBoqBM>
 - <https://blog.webjeda.com/svelte-ecommerce-shopping-cart/>
+- <https://webjeda.com/blog/google-pre-filled-forms#>
 
 ## Твой фидбек
 Что думаешь про такую телегу? Стоит ли этот конь съеденого им сена? Напиши комментарий!
