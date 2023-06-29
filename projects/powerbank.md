@@ -120,3 +120,7 @@ FS312F-G
 - [Документация Flipper](https://docs.flipperzero.one/development/hardware/schematic) - BQ25896RTWR I2C Controlled Single Cell 3-A Fast Charger. BQ27220YZFR Single-Cell CEDV Fuel Gauge
 - [Доработка модуль TPS61088](https://youtu.be/UtS0hpmpKGs?t=86). повышение напряжений
 - Защита акб <http://radioamator.ru/istochniki-pitaniya/akkumulyatory/1159-zashchitnoe-ustrojstvo-dlya-li-ion-batarei>
+- 
+
+- <https://m.youtube.com/watch?v=8Pd18yqP5z0>
+- 
