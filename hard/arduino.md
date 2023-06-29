@@ -50,4 +50,6 @@ arduino - фреймворк для программирования любых 
 - <https://habr.com/ru/post/463669/>
 - Умный дом от эелектроники в объективе <https://www.youtube.com/watch?v=4O-2dJwRQtg>
 
-
+- 1
+- 2
+- 3
