@@ -7,6 +7,9 @@ tags: controllers
 arduino - фреймворк для программирования любых микроконтроллеров в едином стиле
 
 
+## Симуляторы
+- <https://wokwi.com/projects/322410731508073042>
+
 ## STM32
 
 - <https://hubstub.ru/auto/> интересное чтиво (spi)
