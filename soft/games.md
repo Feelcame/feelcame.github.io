@@ -13,4 +13,6 @@ tags: native
 - CS GO
 
 ## Хочу поиграть
-- Deathloop 
+- Deathloop
+- GTA V
+- Dishonored 2
