@@ -16,6 +16,18 @@ pin: 2
 </div>
 
 
+## Базовый набор
+- total commander
+- opera
+- copy link to clipboard
+- open link with
+- 
+## Расширенная коллекция
+Все что ниже
+## Для профессионала
+Для работы
+## Стандартные программы
+замена
 
 ## Файлы
 <div class="highlight22" markdown="1">
