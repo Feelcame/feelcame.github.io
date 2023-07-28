@@ -11,25 +11,18 @@ pin: 2
 {: toc }
 
 ## Базовый набор
-- total commander
-- opera
-- copy link to clipboard
-- open link with
+- Total Commander
+- TotalCmd Wifi Transfer
+- Opera
+- UPlayer
+- Telegram
+- NewPipe
+- AIMP
+- Copy link to clipboard
+- Easy Open Link
 
 ## Расширенная коллекция
 Все что ниже
-
-## Для профессионала
-- Для работы
-
-## Стандартные программы
-- лучшая замена [ссылка](#default)
-
-## Утратили актуальность
-- Устаревшее
-
-## Надо проверить
-- затестить
 
 
 Ниже норм: 
@@ -56,22 +49,16 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [v1.3.6(tlgur)](https://tlgur.com/d/GVqJmM68), 
   [телега](https://t.me/FeelSoftAn/164)
-- **MiXplorer Silver** - внезапно удобный и легкий файл менеджер<br>
-  [play](https://play.google.com/store/apps/details?id=com.mixplorer.silver),
-  [4pda](https://4pda.to/forum/index.php?showtopic=318294), 
-  [плагины](https://4pda.to/forum/index.php?showtopic=318294&st=2200#entry69037978)
 - **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
-- **Sync** - синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
+- **Syncthing** - синхронизация файлов между двумя устройствами
 - **RAR** - крутой архиватор
-- **Send File To TV** - передача файлов по Wi-Fi внутри одной локальной сети<br>
-  [play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv),
-  [4pda](https://4pda.to/forum/index.php?showtopic=1017788)
 </details>
 
 [Наверх↑](#top)
 
 ## Музыка
 {: #music }
+
 -	**AIMP** - удобный плеер, работает с плейлистами
 	<details><summary markdown="0">скачать</summary>
 
@@ -146,7 +133,9 @@ pin: 2
 - **Кино HD** - просмотр фильмов и сериалов из разных сервисов. реклама не убирается. 
   [4pda](https://4pda.to/forum/index.php?showtopic=787648),
   [github](https://github.com/publicfks/temp/blob/main/apk/app-release.apk)
-- **Lampa** - просмотр фильмов
+- **Lampa** - просмотр фильмов. 
+  [скачать](http://cub.watch/download/lampa.apk), 
+  [обновы](https://nemiroff.github.io/lampa/apk/info.json)
 - **SmartTube** - ютуб для телевизоров
 - **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
   4pda,
@@ -375,12 +364,18 @@ pin: 2
 
 [Наверх↑](#top)
 
+## Для профессионала
+{: .no_toc #profi }
+- Для работы
+
+
 
 
 [Наверх↑](#top)
 
-## Стандартные
+## Стандартные программы
 {: .no_toc #default }
+
 <details markdown="1">
 <summary markdown="0">Замена стандартных програм</summary>
 - Браузер. Opera. Bromite
@@ -401,8 +396,8 @@ pin: 2
 </details>
 
 [Наверх↑](#top)
-  
-## Не актуальные
+ 
+## Утратили актуальность
 {: .no_toc #old }
 <details markdown="1">
 <summary markdown="0">Замена стандартных програм</summary>
@@ -430,6 +425,14 @@ pin: 2
   [tlgur](https://tlgur.com/d/gm6JVnN4)
 - **System App Remover** - запускает упраление приложениями в стандартных настройках, актуально для MIUI. <br>
   [телега](https://t.me/FeelSoftAn/170)
+- **MiXplorer Silver** - внезапно удобный и легкий файл менеджер<br>
+  [play](https://play.google.com/store/apps/details?id=com.mixplorer.silver),
+  [4pda](https://4pda.to/forum/index.php?showtopic=318294), 
+  [плагины](https://4pda.to/forum/index.php?showtopic=318294&st=2200#entry69037978)
+- **Sync** - синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
+- **Send File To TV** - передача файлов по Wi-Fi внутри одной локальной сети<br>
+  [play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv),
+  [4pda](https://4pda.to/forum/index.php?showtopic=1017788)
 
 
 
@@ -438,7 +441,9 @@ pin: 2
 
 [Наверх↑](#top)
 
-
+## Надо проверить
+- затестить
+ 
 ## Полезные ссылки
 {: .no_toc #links }
 - [**Прошивка и настройка телефона**](./android-firmware.md)
