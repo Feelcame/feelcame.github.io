@@ -28,6 +28,8 @@ comments:
 - [https://habr.com/ru/post/251797/](https://web.archive.org/web/20210828015650/https://habr.com/ru/post/251797/) альтернативы narod.ru 
 - Также можно использовать любой [хостинг для php](#php)
 - <https://surge.sh/pricing>
+- Sourcehut
+
 
 **CDN** - нужен для отказоустойчивости
 - [**jsDelivr**](https://www.jsdelivr.com/). CDN для раздачи javascript. умеет шарить файлы из github
