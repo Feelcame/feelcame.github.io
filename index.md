@@ -12,6 +12,12 @@ layout: home
 
 ---
 
+
+<div style="text-align: center;"><h2><strong>Передаем лайки за проезд</strong></h2></div>
+
+
+
+{% comment %}
 <style>
 a.button7 {
   font-weight: 700;
@@ -64,8 +70,9 @@ a.not_prefer{
 </div>
 
 
+*******************************
 
-{% comment %}
+
 <div style="text-align: center;">
 	
 <h1><strong>ПРОДАМ ГАРАЖ</strong></h1>

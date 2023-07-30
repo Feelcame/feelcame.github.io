@@ -27,7 +27,17 @@ plugins:
   - jekyll-paginate
   - jekyll-gist
   - rouge
-  
+# for github pages compatibility
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+#  - jekyll-readme-index
+#  - jekyll-coffeescript
+#  - jekyll-gist
+#  - jekyll-github-metadata
+#  - jekyll-default-layout
+
+ 
 # Заранее заданные переменные для файлов
 defaults:
 - scope:

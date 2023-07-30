@@ -11,8 +11,25 @@ pin: 2
 {: toc }
 
 ## Базовый набор
-- Total Commander
-- TotalCmd Wifi Transfer
+<details><summary markdown="0"><b>Total Commander</b></summary>
+
+Мощный файл-менеджер
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
+- [**Тема на 4pda**](https://4pda.to/forum/index.php?showtopic=224555)
+- [Оф.сайт](https://www.ghisler.com/android.htm#download) - страница загрузки
+- [Оф. сайт](https://www.ghisler.com/tcandroid3.apk) - прямая ссылка
+- **Версия: 3.23** [tlgur](https://tlgur.com/d/GW1rxPb4)
+</details>
+
+
+<details><summary markdown="0"><b>TotalCmd WiFi Transfer</b></summary>
+
+Удобный и быстрый способ передать файлы по WiFi<br>
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
+- **Версия: 3.5** [Оф. сайт](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
+</details>
+
+
 - Opera
 - UPlayer
 - Telegram
@@ -21,29 +38,37 @@ pin: 2
 - Copy link to clipboard
 - Easy Open Link
 
-## Расширенная коллекция
-Все что ниже
-
-
-Ниже норм: 
-
-## Файлы
-<div class="highlight22" markdown="1">
-
-- **Total Commander** - мощный файл-менеджер<br>
-  [store](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander),
-  [4pda](https://4pda.to/forum/index.php?showtopic=224555), 
-  [оф.сайт](https://www.ghisler.com/android.htm#download), 
-  [v3.xx(оф.)](https://www.ghisler.com/tcandroid3.apk), 
-  [v3.23(tlgur)](https://tlgur.com/d/GW1rxPb4)
-- **TotalCmd-WiFi-обмен** - удобный и быстрый способ передать файлы по WiFi<br>
-  [store](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer), 
-  [v3.5(оф.ссылка)](http://totalcommander.ch/aplg/tcandroidwifi35.apk), 
-  [другие плагины](https://www.ghisler.com/androidplugins/download/)
-</div>
+## Стандартные программы
+{: #default }
 
 <details markdown="1">
-<summary markdown="0">Показать ещё</summary>
+<summary markdown="0">Замена стандартных програм</summary>
+- Браузер. Opera. Bromite
+- Календарь. Простой календарь Pro
+- Play Store. Aurora Store. App&Game 4PDA
+- Калькулятор. Калькулятор ++
+- Галерея. QuickPic. Simple Gallery
+- Телефон (Контакты)
+- Лаунчер. Launcher <3. Microsoft Launcher
+- Клавиатура. Microsoft Swift. Simple Keyboard 
+- Сообщения. QKSMS
+- Карты. Organic Maps. Яндекс Карты
+- YouTube. Vanced. NewPipe. Opera
+- Файлы. Total Commander
+- Музыка. AIMP
+- Видео. UPlayer. MX Player
+
+</details>
+
+[Наверх↑](#top)
+
+## Расширенная коллекция
+
+### Файлы
+
+
+
+
 
 - **TotalCmd USB stick plugin by OperaFan** - открывает флешки подключенные через OTG на китайских телефонах с обрезанной прошивкой.<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
@@ -52,60 +77,58 @@ pin: 2
 - **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
 - **Syncthing** - синхронизация файлов между двумя устройствами
 - **RAR** - крутой архиватор
-</details>
+
 
 [Наверх↑](#top)
 
-## Музыка
+### Музыка
 {: #music }
 
--	**AIMP** - удобный плеер, работает с плейлистами
-	<details><summary markdown="0">скачать</summary>
 
-	- [оф.сайт](http://www.aimp.ru/?do=download&os=android),
-	- [play store](https://play.google.com/store/apps/details?id=com.aimp.player),
-	- [4pda](https://4pda.to/forum/index.php?showtopic=442204),
-	- [v2.90(4.0+)](https://tlgur.com/d/4AX2qxKg), 
-	- [v3.10(4.4+)](https://tlgur.com/d/4zexQ7lg), 
-	- [v3.22(tlgur,5.0+)](https://tlgur.com/d/8l6jQKDg)
-	</details>
+<details><summary markdown="0"><b>AIMP</b></summary>
 
--	**Spotify** - слушать музыку онлайн. Официально, большая база, но нельзя скачивать
-	<details><summary markdown="0">скачать</summary>
-	
-	- [play store](https://play.google.com/store/apps/details?id=com.spotify.music), 
-	- [4pda](https://4pda.to/forum/index.php?showtopic=248440),
-	- [web](https://open.spotify.com/), 
-	- [боты(для скачивания)](./telegram-bots.html#музыка)
-	</details>
+Удобный плеер, работает с плейлистами
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.aimp.player)
+- [**Оф. сайт**](http://www.aimp.ru/?do=download&os=android) - страница загрузки
+- [**Тема на 4pda**](https://4pda.to/forum/index.php?showtopic=442204)
+- **Версия: 3.22** (5.0+) [tlgur](https://tlgur.com/d/8l6jQKDg)
+- **Версия: 3.10** (4.4+) [tlgur](https://tlgur.com/d/4zexQ7lg)
+- **Версия: 2.90** (4.0+) [tlgur](https://tlgur.com/d/4AX2qxKg)
+</details>
 
-- **Shazam** - распознает что за песня сейчас играет. Лайт версия, мод с 4пда. Android 2.3+
-	<details><summary markdown="0">скачать</summary>
-	
-	- [4pda](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214),
-	- [telegram](https://t.me/s/feelsoftan?q=com.shazam.android), 
-	- [v1.1.0_Lite(2.3+)](https://anonfiles.com/r9bao16by3/Shazam_1.1.0_armeabi-v7a_apk)
-	- v12.19.0(6.0+)
-	- 9.37,0(5.0+)
-	</details>
+
+<details><summary markdown="0"><b>Spotify</b></summary>
+
+Слушай музыку онлайн - это бесплатно и легально. Скачивание по прежнему доступно через сомнительные [пиратские телеграм-боты](./telegram-bots.html#музыка)
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.spotify.music)
+- [**Оф. сайт**](https://open.spotify.com/) - можно слушать через браузер
+- [**Тема на 4pda**](https://4pda.to/forum/index.php?showtopic=248440)
+- **Версия: 8.8.48.523** (5.0+) [4pda](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
+</details>
+
+
+<details><summary markdown="0"><b>Shazam</b></summary>
+
+Распознает что за песня сейчас играет
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.shazam.android)
+- [**Тема на 4pda**](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
+- **Версия: 1.1.0** (2.3+) [telegram](https://t.me/s/feelsoftan?q=shazam)
+</details>
 
 <details markdown="1">
 <summary markdown="0">Показать ещё</summary>
+
 - **Hi-Q MP3 Recorder** – диктофон. <br>
   [store](https://play.google.com/store/apps/details?id=com.hiqrecorder.full),
   [4pda](https://4pda.to/forum/index.php?showtopic=210572),
   [v2.4.2](https://tlgur.com/d/4yq02Lb4),
   [v2.9.0](https://tlgur.com/d/8l6jMXVg)
-- **Яндекс музыка** - росийский сервис прослушивания музыки, можно скачивать<br>
-  [мод strannik(tg)](https://t.me/alexstranniklite/14131)
-- **Deezer**. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
-- **Murglar**. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 - **PlayerPro**. [4pda](https://4pda.to/forum/index.php?showtopic=189092)
 </details>
 
 [Наверх↑](#top)
 
-## Видео, графика
+### Видео, графика
 {: #media }
 
 - **NewPipe** - клиент youtube, написанный с нуля. без рекламы, опенсорс, есть скачивание<br>
@@ -154,7 +177,7 @@ pin: 2
 
 [Наверх↑](#top)
 
-## Интернет 
+### Интернет 
 {: #inet }
 - **Opera** - браузер. adblock, vpn<br>
   [store](https://play.google.com/store/apps/details?id=com.opera.browser),
@@ -193,7 +216,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Офис
+### Офис
 {: #office }
 - **ReadEra** - удобная читалка PDF и электронных книг<br>
   [store](https://play.google.com/store/apps/details?id=org.readera)
@@ -231,7 +254,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Система
+### Система
 {: #system }
 - **Aurora Store** - скачивание программ из Play Store без регистрации<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
@@ -257,7 +280,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Твикеры
+### Твикеры
 {: #tweaks }
 - **LuckyPatcher** - удаление рекламы и другие операции над приложениями<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=298302), 
@@ -292,7 +315,7 @@ pin: 2
 
 
 
-## Сеть
+### Сеть
 {: #net }
 - **Internet Speed Meter**. <br>
   [store](https://play.google.com/store/apps/details?id=com.internet.speed.meter.lite),
@@ -327,7 +350,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Утилиты
+### Утилиты
 {: #tools }
 - **Easy Open Link** - открыть ссылку в нативном приложении через меню "поделиться"<br>
   [store](https://play.google.com/store/apps/details?id=de.audioattack.openlink),
@@ -351,7 +374,7 @@ pin: 2
 [Наверх↑](#top)
 
 
-## Карты
+### Карты
 {: #maps }
 - **Organic Maps** - офлайн карты на основе OpenStreetMap. без регистрации и смс (это цитата)<br>
   [store](https://play.google.com/store/apps/details?id=app.organicmaps&hl=uk&gl=US),
@@ -373,29 +396,7 @@ pin: 2
 
 [Наверх↑](#top)
 
-## Стандартные программы
-{: .no_toc #default }
 
-<details markdown="1">
-<summary markdown="0">Замена стандартных програм</summary>
-- Браузер. Opera. Bromite
-- Календарь. Простой календарь Pro
-- Play Store. Aurora Store. App&Game 4PDA
-- Калькулятор. Калькулятор ++
-- Галерея. QuickPic. Simple Gallery
-- Телефон (Контакты)
-- Лаунчер. Launcher <3. Microsoft Launcher
-- Клавиатура. Microsoft Swift. Simple Keyboard 
-- Сообщения. QKSMS
-- Карты. Organic Maps. Яндекс Карты
-- YouTube. Vanced. NewPipe. Opera
-- Файлы. Total Commander
-- Музыка. AIMP
-- Видео. UPlayer. MX Player
-
-</details>
-
-[Наверх↑](#top)
  
 ## Утратили актуальность
 {: .no_toc #old }
@@ -416,10 +417,8 @@ pin: 2
 - **Blablacar** - поиск попутчиков. play, 4pda, оф.сайт, web
 - **TTL Master**. [4pda](https://4pda.to/forum/index.php?showtopic=647126)
 - **Google Play Blocker**
-
 - **PowerTube**
 - **HD VideoBox** (закрыли)
-
 - **To Clipboard** - скопировать текст через функцию "поделиться"<br>
   [play](https://play.google.com/store/apps/details?id=be.shiro.android.toclipboard), 
   [tlgur](https://tlgur.com/d/gm6JVnN4)
@@ -433,6 +432,10 @@ pin: 2
 - **Send File To TV** - передача файлов по Wi-Fi внутри одной локальной сети<br>
   [play](https://play.google.com/store/apps/details?id=com.yablio.sendfilestotv),
   [4pda](https://4pda.to/forum/index.php?showtopic=1017788)
+- **Яндекс музыка** - росийский сервис прослушивания музыки, можно скачивать<br>
+  [мод strannik(tg)](https://t.me/alexstranniklite/14131)
+- **Deezer**. [4pda](https://4pda.to/forum/index.php?showtopic=485010)
+- **Murglar**. Клиент для стримингов, скачивание. [4pda](https://4pda.to/forum/index.php?showtopic=905252)
 
 
 
