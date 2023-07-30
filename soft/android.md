@@ -16,7 +16,7 @@ pin: 2
 <b>Total Commander</b>
 | Мощный файл-менеджер
 </summary>
-<!-- ######### -->
+
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
 - [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=224555)
 - **Страница загрузки** [Оф.сайт](https://www.ghisler.com/android.htm#download)
@@ -32,7 +32,7 @@ pin: 2
 <b>TotalCmd WiFi Transfer</b>
 | Передача файлов по вайфай
 </summary>
-<!-- ######### -->
+
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
 - **Прямая ссылка** [Оф. сайт](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
 </details>
@@ -316,7 +316,6 @@ pin: 2
   [телега](https://t.me/FeelSoftAn/164)
 - **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
 - **X-plore** - файл менеджер
-- **Syncthing** - синхронизация файлов между двумя устройствами
 - **RAR** - крутой архиватор
 - **Simple Gallery Pro** - опенсорсная галерея<br>
   [4pda](https://4pda.to/forum/index.php?showtopic=785182),
@@ -436,6 +435,7 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
+- **Syncthing** - синхронизация файлов между двумя устройствами
 - **PingTools**. <br>
   [store](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools),
   [4pda](https://4pda.to/forum/index.php?showtopic=398433)
