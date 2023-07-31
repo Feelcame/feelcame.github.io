@@ -99,9 +99,11 @@ pin: 2
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=224555)
 	- [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk)
 	- [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
+
 - **TotalCmd WiFi Transfer**
 	- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
 	- [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
+
 - **Браузер Opera**
 	- [Google Play](https://play.google.com/store/apps/details?id=com.opera.browser)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=438451)
@@ -111,24 +113,29 @@ pin: 2
 	- [v72.7 Android 6.0+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896)
 	- [v58.4 Android 4.4+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317)
 	- [v50.8 Android 4.1+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
+
 - **Telegram**
 	- [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=948576)
 	- [оф.сайт](https://telegram.org/android?setln=ru)
 	- [оф.телега](https://t.me/TAndroidAPK)
+
 - **NewPipe**
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=694195)
 	- [оф.сайт](https://newpipe.net/#download)
 	- [github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
+
 - **UPlayer**
 	- [Google Play](https://play.google.com/store/apps/details?id=uplayer.video.player)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=900750)
+
 - **Easy Open Link**
 	- [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=716031)
 	- [fdroid](https://f-droid.org/packages/de.audioattack.openlink/)
 	- [codeberg (релизы от автора)](https://codeberg.org/marc.nause/easyopenlink/releases)
 	- [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
+
 - **Copy Link to Clipboard**
 Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
 	- [Google Play](https://apkcombo.com/nl.robwu.copylink/download/apk)
