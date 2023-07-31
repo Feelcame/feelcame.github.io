@@ -14,11 +14,11 @@ pin: 2
 
 <details><summary markdown="0">
 <b>Total Commander</b>
-| Мощный файл-менеджер
+| Файл-менеджер
 </summary>
 
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
-- [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=224555)
+- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
+- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=224555)
 - **Страница загрузки** [Оф.сайт](https://www.ghisler.com/android.htm#download)
 - **Прямая ссылка** [Оф. сайт](https://www.ghisler.com/tcandroid3.apk)
 - **Версия: 3.42d** [Catbox](https://files.catbox.moe/m50bnj.apk)
@@ -30,10 +30,10 @@ pin: 2
 
 <details><summary markdown="0">
 <b>TotalCmd WiFi Transfer</b>
-| Передача файлов по вайфай
+| Передача файлов
 </summary>
 
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
+- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
 - **Прямая ссылка** [Оф. сайт](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
 </details>
 
@@ -43,9 +43,10 @@ pin: 2
 <b>Opera</b>
 | Браузер с VPN и блокировкой рекламы
 </summary>
-<!-- ######### -->
-- [store](https://play.google.com/store/apps/details?id=com.opera.browser)
-- [4pda](https://4pda.to/forum/index.php?showtopic=438451)
+
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.opera.browser)
+- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=438451)
 - [telegram](https://t.me/s/feelsoftan?q=com.opera.browser)
 - [оф.ftp](https://get.geo.opera.com/pub/opera/android/)
 - [оф.сайт](https://download.opera.com)
@@ -61,7 +62,7 @@ pin: 2
 <b>Telegram</b>
 | Удобный мессенджер
 </summary>
-<!-- ######### -->
+
 - [store](https://play.google.com/store/apps/details?id=org.telegram.messenger)
 - [4pda](https://4pda.to/forum/index.php?showtopic=948576)
 - [оф.сайт](https://telegram.org/android?setln=ru)
@@ -73,9 +74,9 @@ pin: 2
 
 <details><summary markdown="0">
 <b>NewPipe</b>
-| Альтернативный клиент youtube
+| Скачивает с youtube
 </summary>
-<!-- ######### -->
+
 - [4pda](https://4pda.to/forum/index.php?showtopic=694195)
 - [github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
 - [оф.сайт](https://newpipe.net/#download)
@@ -87,7 +88,7 @@ pin: 2
 <b>UPlayer</b>
 | Мощный видеоплеер
 </summary>
-<!-- ######### -->
+
 - [store](https://play.google.com/store/apps/details?id=uplayer.video.player)
 - [4pda](https://4pda.to/forum/index.php?showtopic=900750)
 </details>
@@ -99,7 +100,7 @@ pin: 2
 <b>Easy Open Link</b>
 | Открыть ссылку через меню "поделиться"
 </summary>
-<!-- ######### -->
+
 - [store](https://play.google.com/store/apps/details?id=de.audioattack.openlink)
 - [4pda](https://4pda.to/forum/index.php?showtopic=716031)
 - [fdroid](https://f-droid.org/packages/de.audioattack.openlink/)
@@ -114,7 +115,7 @@ pin: 2
 <b>Copy Link to Clipboard</b>
 | "Поделиться" в буфер обмена
 </summary>
-<!-- ######### -->
+
 Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
 - [play](https://play.google.com/store/apps/details?id=nl.robwu.copylink)
 - [tlgur](https://tlgur.com/d/GW157pL4)
@@ -130,12 +131,12 @@ pin: 2
 
 <details><summary markdown="0">
 <b>AIMP</b>
-| Музыкальный плеер, играет по плейлистам
+| Музыкальный плеер
 </summary>
-<!-- ######### -->
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.aimp.player)
-- [**Оф. сайт**](http://www.aimp.ru/?do=download&os=android) - страница загрузки
-- [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=442204)
+
+- [Google Play](https://play.google.com/store/apps/details?id=com.aimp.player)
+- [Оф. сайт](http://www.aimp.ru/?do=download&os=android) - страница загрузки
+- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=442204)
 - **Версия: 3.22** (5.0+) [tlgur](https://tlgur.com/d/8l6jQKDg)
 - **Версия: 3.10** (4.4+) [tlgur](https://tlgur.com/d/4zexQ7lg)
 - **Версия: 2.90** (4.0+) [tlgur](https://tlgur.com/d/4AX2qxKg)
@@ -147,9 +148,9 @@ pin: 2
 
 <details><summary markdown="0">
 <b>Aurora Store</b>
-| Скачивание APK из Google Play
+| Google Play
 </summary>
-<!-- ######### -->
+
 - [4pda](https://4pda.to/forum/index.php?showtopic=887569), 
 - [оф.сайт](https://auroraoss.com),
 - [оф.канал(tg)](https://t.me/AuroraOfficial), 
@@ -163,7 +164,7 @@ pin: 2
 <b>Bromite</b>
 | Хром без рекламы
 </summary>
-<!-- ######### -->
+
 - [4pda](https://4pda.to/forum/index.php?showtopic=725481&st=100),
 - [оф.сайт](https://www.bromite.org/#download-bromite),
 - Android 6.0+ [github](https://github.com/bromite/bromite/releases)
@@ -187,9 +188,9 @@ pin: 2
 
 <details><summary markdown="0">
 <b>QKSMS</b>
-| Опенсорсная программа менеджер сообщений
+| Сообщения
 </summary>
-<!-- ######### -->
+
 - [4PDA](https://4pda.to/forum/index.php?showtopic=576815),
 - [fdroid](https://f-droid.org/en/packages/com.moez.QKSMS/)
 </details>
@@ -200,9 +201,9 @@ pin: 2
 
 <details><summary markdown="0">
 <b>Simple Contacts</b>
-| Управление телефонной книгой
+| Тел. книга
 </summary>
-<!-- ######### -->
+
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts)
 - [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=1050350)
 - **Версия: 6.22.4** Paid [Catbox](https://files.catbox.moe/x7dkgo.apk)
@@ -213,9 +214,9 @@ pin: 2
 
 <details><summary markdown="0">
 <b>Simple Keyboard</b>
-| Простая клавиатура без т9
+| Клава без Т9
 </summary>
-<!-- ######### -->
+
 - [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/#latest)
 </details>
 
@@ -226,7 +227,7 @@ pin: 2
 <b>KISS Launcher</b>
 | легкий и необычный лаунчер
 </summary>
-<!-- ######### -->
+
 - Google Play
 - 4pda
 </details>
