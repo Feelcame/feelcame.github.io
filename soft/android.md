@@ -177,7 +177,7 @@ pin: 2
 <b>QuickPic</b>
 | Галерея
 </summary>
-<!-- ######### -->
+
 - 4pda,
 - [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
 - [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
@@ -262,10 +262,10 @@ pin: 2
 <b>Spotify</b>
 | Слушай музыку онлайн
 </summary>
-<!-- ######### -->
-- Слушай музыку онлайн - это бесплатно и легально. Скачивание по прежнему доступно через сомнительные [пиратские телеграм-боты](./telegram-bots.html#музыка)
+
+- Скачивать через сомнительные [телеграм-боты](./telegram-bots.html#музыка)
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.spotify.music)
-- [**Оф. сайт**](https://open.spotify.com/) - можно слушать через браузер
+- [Веб-версия](https://open.spotify.com/)
 - [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=248440)
 - **Версия: 8.8.48.523** (5.0+) [4pda](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
 </details>
@@ -276,7 +276,7 @@ pin: 2
 <b>Shazam</b>
 | Распознает что за песня сейчас играет
 </summary>
-<!-- ######### -->
+
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.shazam.android)
 - [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
 - **Версия: 1.1.0** (2.3+) [Catbox](https://files.catbox.moe/im2ljj.apk)
@@ -289,7 +289,7 @@ pin: 2
 <b>Hi-Q MP3 Recorder</b>
 | Диктофон
 </summary>
-<!-- ######### -->
+
 - [store](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)
 - [4pda](https://4pda.to/forum/index.php?showtopic=210572)
 - [v2.4.2](https://tlgur.com/d/4yq02Lb4),
@@ -436,7 +436,9 @@ pin: 2
   [4pda](https://4pda.to/forum/index.php?showtopic=453821), 
   [v1.5.9 (8+)](https://tlgur.com/d/G7BY5Nd8), 
   [v1.4.8 (2.3+)](https://tlgur.com/d/gpYyML04), 
-- **Syncthing** - синхронизация файлов между двумя устройствами
+- **Syncthing**
+[Google Play](https://play.google.com/store/apps/details?id=com.nutomic.syncthingandroid) | F-Droid <https://f-droid.org/packages/com.nutomic.syncthingandroid/#latest> | 4PDA <https://4pda.to/forum/index.php?showtopic=625297>
+P2P синхронизация файлов между устройствами. Test. Failed
 - **PingTools**. <br>
   [store](https://play.google.com/store/apps/details?id=ua.com.streamsoft.pingtools),
   [4pda](https://4pda.to/forum/index.php?showtopic=398433)
