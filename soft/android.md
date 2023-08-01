@@ -136,9 +136,12 @@ pin: 2
 	- [codeberg (релизы от автора)](https://codeberg.org/marc.nause/easyopenlink/releases)
 	- [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
 
-- **Copy Link to Clipboard**
-Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
-	- [Google Play](https://apkcombo.com/nl.robwu.copylink/download/apk)
+- **Copy Link to Clipboard**<br>
+  ([Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
+  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
+  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/))<br>
+  Копирование и предпросмотр ссылок, не выходя из текущего приложения. Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
+	- [Google Play](https://apkcombo.com/ru/nl.robwu.copylink/download/apk)
 
 
 
