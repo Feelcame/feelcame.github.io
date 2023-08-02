@@ -129,19 +129,32 @@ pin: 2
 	- [Google Play](https://play.google.com/store/apps/details?id=uplayer.video.player)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=900750)
 
-- **Easy Open Link**
-	- [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink)
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=716031)
-	- [fdroid](https://f-droid.org/packages/de.audioattack.openlink/)
-	- [codeberg (релизы от автора)](https://codeberg.org/marc.nause/easyopenlink/releases)
-	- [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
-
-- **Copy Link to Clipboard**<br>
-  ([Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
+- **Easy Open Link**<br>
+  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
   [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
-  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/))<br>
-  Копирование и предпросмотр ссылок, не выходя из текущего приложения. Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
-	- [Google Play](https://apkcombo.com/ru/nl.robwu.copylink/download/apk)
+  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
+  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
+  Позволяет открыть ссылку через меню "поделиться"<br>
+  [**Скачать**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)
+
+- [**Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
+  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
+  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
+  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
+  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
+  Позволяет открыть ссылку через меню "поделиться"<br>
+
+- [**Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
+  Позволяет открыть ссылку через меню "поделиться"<br>
+  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
+  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
+  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
+  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
+
+- [**Copy Link to Clipboard**](https://apkcombo.com/ru/nl.robwu.copylink/download/apk)<br>
+  Добавляет в меню "поделиться" пункт "Copy Link to Clipboard"<br>
+  ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
+  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
 
 
 
