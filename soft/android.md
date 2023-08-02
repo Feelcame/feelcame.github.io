@@ -129,7 +129,7 @@ pin: 2
 	- [Google Play](https://play.google.com/store/apps/details?id=uplayer.video.player)
 	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=900750)
 
-- **Easy Open Link**<br>
+- **Easy Open Link**
   ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
   [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
   [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
@@ -144,7 +144,7 @@ pin: 2
   [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
   Позволяет открыть ссылку через меню "поделиться"<br>
 
-- [**Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
+- [![logo](./img/de.audioattack.openlink.png) **Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
   Позволяет открыть ссылку через меню "поделиться"<br>
   ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
   [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
@@ -152,7 +152,7 @@ pin: 2
   [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
 
 - [**Copy Link to Clipboard**](https://apkcombo.com/ru/nl.robwu.copylink/download/apk)<br>
-  Добавляет в меню "поделиться" пункт "Copy Link to Clipboard"<br>
+  Добавляет в меню "поделиться" пункт "скопировать в буфер"<br>
   ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
   [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
 
@@ -438,7 +438,7 @@ pin: 2
   [поиск(com.kliksob.forgswitch)](https://play.google.com/store/search?q=com.kliksob.forgswitch&c=apps),
   [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=974135),
   [v1.0(tlgur)](https://tlgur.com/d/GbZ0rVdG),
-- **APK Check** - просмотр информации о программе перед ее установкой
+- **APK Checker** - просмотр информации о программе перед ее установкой
 
 
 [Наверх↑](#top)
@@ -579,7 +579,10 @@ P2P синхронизация файлов между устройствами.
 [Наверх↑](#top)
 
 ## Надо проверить
-- затестить
+- Droid-ify
+- K9 Mail
+- shizuku
+- 
  
 ## Полезные ссылки
 {: .no_toc #links }
