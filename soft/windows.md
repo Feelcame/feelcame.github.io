@@ -320,7 +320,8 @@ tags: native
 
 [Наверх↑](#top)
 
-
+## Управление Android
+- ADB Explorer <https://www.microsoft.com/store/productid/9PPGN2WM50QB?ocid=pdpshare>
 
 ## Не актуальное
 {: .no_toc }
