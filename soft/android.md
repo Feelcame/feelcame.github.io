@@ -10,276 +10,126 @@ pin: 2
 - Навигатор  
 {: toc }
 
+
+
 ## Базовый набор
 
-<details><summary markdown="0"><b>Total Commander</b></summary>
+- <a href="/apps/?q=com.ghisler.android.TotalCommander" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Total Commander**</a><br>
+  Мощный файловый меенеджер. 
+  [4PDA](https://4pda.to/forum/index.php?showtopic=224555).
+  [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk).
+  [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=224555)
-- [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk)
-- [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
-</details>
+- <a href="/apps/?q=com.ghisler.tcplugins.wifitransfer" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **TotalCmd WiFi Transfer**</a><br>
+  Передача файлов через WiFi. [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
 
+- <a href="/apps/?q=com.opera.browser" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Браузер Opera**</a><br>
+  Просмотр интернета. Встроенный VPN. Блокировка рекламы.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=438451).
+  [Оф. FTP-сервер](https://get.geo.opera.com/pub/opera/android/).
+  [v72.7 (6.0+)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896).
+  [v58.4 (4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317).
+  [v50.8 (4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
 
+- <a href="/apps/?q=org.telegram.messenger" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Telegram**</a><br>
+  Удобный мессенджер. Онлайн звонки, групповые чаты, безлимитное файловое хранилище и т.д.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=948576).
+  [Оф.сайт](https://telegram.org/android?setln=ru).
+  [Оф.телега](https://t.me/TAndroidAPK)
 
-<details><summary markdown="0"><b>TotalCmd WiFi Transfer</b></summary>
+- <a href="/apps/?q=org.schabi.newpipe" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **NewPipe**</a><br>
+  Легкий и открытый клиент ютуб. Позволяет скачивать видео.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=694195).
+  [Оф.сайт](https://newpipe.net/#download).
+  [Github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
-- [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
-</details>
+- <a href="/apps/?q=uplayer.video.player" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **UPlayer**</a><br>
+  Мощный видеоплеер. Воспроизводит любые форматы, как видео, так и музыку. Есть резак.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=900750)
 
-
-
-<details><summary markdown="0"><b>Браузер Opera</b></summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=com.opera.browser)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=438451)
-- [Оф. сайт - страница загрузки](https://download.opera.com)
-- [Оф. сервер FTP](https://get.geo.opera.com/pub/opera/android/)
-- [поиск по каналу telegram](https://t.me/s/feelsoftan?q=com.opera.browser)
-- [v72.7 Android 6.0+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896)
-- [v58.4 Android 4.4+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317)
-- [v50.8 Android 4.1+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
-</details>
-
-
-
-<details><summary markdown="0"><b>Telegram</b></summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=948576)
-- [оф.сайт](https://telegram.org/android?setln=ru)
-- [оф.телега](https://t.me/TAndroidAPK)
-</details>
-
-
-
-
-<details><summary markdown="0"><b>NewPipe</b></summary>
-
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=694195)
-- [github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
-- [оф.сайт](https://newpipe.net/#download)
-</details>
-
-
-
-<details><summary markdown="0"><b>UPlayer</b></summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=uplayer.video.player)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=900750)
-</details>
+- <a href="/apps/?q=de.audioattack.openlink" target="_blank">
+  <img src="./img/de.audioattack.openlink.png" alt=".">
+  **Easy Open Link**</a><br>
+  Позволяет открыть ссылку через меню "поделиться".
+  [4PDA](https://4pda.to/forum/index.php?showtopic=716031).
+  [Codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases)
 
 
-
-
-<details><summary markdown="0"><b>Easy Open Link</b></summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=716031)
-- [fdroid](https://f-droid.org/packages/de.audioattack.openlink/)
-- [codeberg (релизы от автора)](https://codeberg.org/marc.nause/easyopenlink/releases)
-- [v1.5.6(tlgur)](https://tlgur.com/d/8KXW06JG)
-</details>
-
-
-
-
-<details><summary markdown="0"><b>Copy Link to Clipboard</b></summary>
-
-Эта маленькая утилита добавляет пункт "Скопировать в буфер обмена" в меню "Поделиться". Также она регистрируется как браузер, что позволяет просмотреть неизвестную ссылку перед открытием в браузере. Сесурити, хули
-- [Google Play](https://apkcombo.com/nl.robwu.copylink/download/apk)
-</details>
-
-
-## Базовый набор2
-
-- **Total Commander**
-	- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.android.TotalCommander)
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=224555)
-	- [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk)
-	- [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
-
-- **TotalCmd WiFi Transfer**
-	- [Google Play](https://play.google.com/store/apps/details?id=com.ghisler.tcplugins.wifitransfer) 
-	- [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
-
-- **Браузер Opera**
-	- [Google Play](https://play.google.com/store/apps/details?id=com.opera.browser)
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=438451)
-	- [Оф. сайт - страница загрузки](https://download.opera.com)
-	- [Оф. сервер FTP](https://get.geo.opera.com/pub/opera/android/)
-	- [поиск по каналу telegram](https://t.me/s/feelsoftan?q=com.opera.browser)
-	- [v72.7 Android 6.0+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896)
-	- [v58.4 Android 4.4+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317)
-	- [v50.8 Android 4.1+ (4pda)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
-
-- **Telegram**
-	- [Google Play](https://play.google.com/store/apps/details?id=org.telegram.messenger)
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=948576)
-	- [оф.сайт](https://telegram.org/android?setln=ru)
-	- [оф.телега](https://t.me/TAndroidAPK)
-
-- **NewPipe**
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=694195)
-	- [оф.сайт](https://newpipe.net/#download)
-	- [github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
-
-- **UPlayer**
-	- [Google Play](https://play.google.com/store/apps/details?id=uplayer.video.player)
-	- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=900750)
-
-- **Easy Open Link**
-  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
-  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
-  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
-  Позволяет открыть ссылку через меню "поделиться"<br>
-  [**Скачать**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)
-
-- [**Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
-  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
-  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
-  Позволяет открыть ссылку через меню "поделиться"<br>
-
-- [![logo](./img/de.audioattack.openlink.png) **Easy Open Link**](http://feelsoft.pp.ua/?q=de.audioattack.openlink)<br>
-  Позволяет открыть ссылку через меню "поделиться"<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=de.audioattack.openlink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=716031) |
-  [F-Droid](https://f-droid.org/packages/de.audioattack.openlink/) |
-  [codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases) )<br>
-
-- [![logo](/assets/img/d.png) **Copy Link to Clipboard**](/apps/?q=nl.robwu.copylink)<br>
-  Добавляет в меню "поделиться" пункт "скопировать в буфер"<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
-
-- [![logo](/assets/img/apk32.png) **Copy Link to Clipboard**](/apps/?q=nl.robwu.copylink)<br>
-  Добавляет в меню "поделиться" пункт "скопировать в буфер"<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
-
-- [![logo](/assets/img/apk24.png) **Copy Link to Clipboard**](/apps/?q=nl.robwu.copylink)<br>
-  Добавляет в меню "поделиться" пункт "скопировать в буфер"<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
-
-- [![logo](/assets/img/apk16.png) **Copy Link to Clipboard**](/apps/?q=nl.robwu.copylink)<br>
-  Добавляет в меню "поделиться" пункт "скопировать в буфер"<br>
-  ( [Google Play](https://play.google.com/store/apps/details?id=nl.robwu.copylink) |
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592) )<br>
-
+- <a href="/apps/?q=nl.robwu.copylink" target="_blank">
+  <img src="/assets/img/apk24.png" alt=".">
+  **Copy Link to Clipboard**</a><br>
+  Добавляет в меню "поделиться" пункт "скопировать в буфер".
+  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592)
 
 
 
 ## Стандартные программы
 {: #default }
 
+- <a href="/apps/?q=com.aimp.player" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **AIMP**</a><br>
+  Музыкальный проигрыватель. Расширенный функционал в плане настройки. Играет по плейлистам. 
+  [4PDA](https://4pda.to/forum/index.php?showtopic=442204).
+  [Оф. сайт](http://www.aimp.ru/?do=download&os=android).
+  [Прямая ссылка (оф.сайт)](http://www.aimp.ru/?do=download.file&id=13)
+  v3.22 (5.0+), v3.10 (4.4+), v2.90 (4.0+).
 
+- <a href="/apps/?q=Aurora Store" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Aurora Store**</a><br>
+  Альтернативный клиент Google Play Store.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=887569).
+  [Оф.сайт](https://auroraoss.com/#downloads).
 
-<details><summary markdown="0"><b>AIMP</b></summary>
+- <a href="/apps/?q=bromite" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Bromite**</a><br>
+  Хром без рекламы. Android 6.0+.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=725481&st=100).
+  [Оф.сайт](https://www.bromite.org/#download-bromite).
+  [Github](https://github.com/bromite/bromite/releases)
 
-- [Google Play](https://play.google.com/store/apps/details?id=com.aimp.player)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=442204)
-- [Оф. сайт- страница загрузки](http://www.aimp.ru/?do=download&os=android) 
-- [Версия: 3.22 Android 5.0+ (tlgur)](https://tlgur.com/d/8l6jQKDg)
-- [Версия: 3.10** Android 4.4+ (tlgur)](https://tlgur.com/d/4zexQ7lg)
-- [Версия: 2.90** Android 4.0+ (tlgur)](https://tlgur.com/d/4AX2qxKg)
-</details>
+- <a href="/apps/?q=QuickPic" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **QuickPic**</a><br>
+  Галерея. Легкая и удобная альтернатива для стандартной программы просмотра изображений
 
+- <a href="/apps/?q=com.moez.QKSMS" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **QKSMS**</a><br>
+  Сообщения. Опенсорсная альтернатива.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=576815)
 
+- <a href="/apps/?q=com.simplemobiletools.contacts" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Simple Contacts**</a><br>
+  Тел. книга. Легкое приложение. Открытый исходный код.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=1050350).
+  [Версия: 6.22.4 Paid (Catbox)](https://files.catbox.moe/x7dkgo.apk)
 
+- <a href="/apps/?q=rkr.simplekeyboard.inputmethod" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **Simple Keyboard**</a><br>
+  Простая клавиатура без Т9, emoji и лишних разрешений.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=906364)
 
-
-<details><summary markdown="0"><b>Aurora Store</b></summary>
-
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=887569), 
-- [оф.сайт](https://auroraoss.com),
-- [оф.канал(tg)](https://t.me/AuroraOfficial), 
-</details>
-
-
-
-
-
-<details><summary markdown="0">
-<b>Bromite</b>
-| Хром без рекламы
-</summary>
-
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=725481&st=100),
-- [оф.сайт](https://www.bromite.org/#download-bromite),
-- Android 6.0+ [github](https://github.com/bromite/bromite/releases)
-</details>
-
-
-
-
-<details><summary markdown="0">
-<b>QuickPic</b>
-| Галерея
-</summary>
-
-- 4pda,
-- [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
-- [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-</details>
-
-
-
-
-<details><summary markdown="0">
-<b>QKSMS</b>
-| Сообщения
-</summary>
-
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=576815),
-- [fdroid](https://f-droid.org/en/packages/com.moez.QKSMS/)
-</details>
-
-
-
-
-
-<details><summary markdown="0">
-<b>Simple Contacts</b>
-| Тел. книга
-</summary>
-
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.simplemobiletools.contacts)
-- [**Тема на 4PDA**](https://4pda.to/forum/index.php?showtopic=1050350)
-- **Версия: 6.22.4** Paid [Catbox](https://files.catbox.moe/x7dkgo.apk)
-</details>
-
-
-
-
-<details><summary markdown="0">
-<b>Simple Keyboard</b>
-| Клава без Т9
-</summary>
-
-- [fdroid](https://f-droid.org/en/packages/rkr.simplekeyboard.inputmethod/#latest)
-</details>
-
-
-
-
-<details><summary markdown="0">
-<b>KISS Launcher</b>
-| легкий и необычный лаунчер
-</summary>
-
-- Google Play
-- 4pda
-</details>
-
-
-
-
-
+- <a href="/apps/?q=fr.neamar.kiss" target="_blank">
+  <img src="./img/apk24.png" alt=".">
+  **KISS Launcher**</a><br>
+  Легкий и необычный лаунчер
 
 - **Microsoft Launcher** - продвинутый лончер, есть папки и много настроек<rb>
 - **Launcher<3** - лаунчер как в Android 5<rb>
@@ -307,7 +157,7 @@ pin: 2
 - Скачивать через сомнительные [телеграм-боты](./telegram-bots.html#музыка)
 - [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)
 - [Веб-версия](https://open.spotify.com/)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=248440)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=248440)
 - Версия: 8.8.48.523 (5.0+) [4pda](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
 </details>
 
@@ -316,7 +166,7 @@ pin: 2
 <details><summary markdown="0"><b>Shazam</b></summary>
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.shazam.android)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
 - [Версия: 1.1.0 Android 2.3+ (Catbox)](https://files.catbox.moe/im2ljj.apk)
 - [Версия: 1.1.0 Android 2.3+ (telegram)](https://t.me/s/feelsoftan?q=shazam)
 </details>
@@ -329,7 +179,7 @@ pin: 2
 </summary>
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=210572)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=210572)
 - [v2.4.2](https://tlgur.com/d/4yq02Lb4),
 - [v2.9.0](https://tlgur.com/d/8l6jMXVg)
 </details>
