@@ -21,12 +21,10 @@ pin: 2
   [4PDA](https://4pda.to/forum/index.php?showtopic=224555).
   [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk).
   [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
-
 - <a href="/apps/?q=com.ghisler.tcplugins.wifitransfer" target="_blank">
   <img src="./img/apk24.png" alt=".">
   **TotalCmd WiFi Transfer**</a><br>
   Передача файлов через WiFi. [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
-
 - <a href="/apps/?q=com.opera.browser" target="_blank">
   <img src="./img/apk24.png" alt=".">
   **Браузер Opera**</a><br>
@@ -36,7 +34,6 @@ pin: 2
   [v72.7 (6.0+)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896).
   [v58.4 (4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317).
   [v50.8 (4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
-
 - <a href="/apps/?q=org.telegram.messenger" target="_blank">
   <img src="./img/apk24.png" alt=".">
   **Telegram**</a><br>
@@ -44,7 +41,6 @@ pin: 2
   [4PDA](https://4pda.to/forum/index.php?showtopic=948576).
   [Оф.сайт](https://telegram.org/android?setln=ru).
   [Оф.телега](https://t.me/TAndroidAPK)
-
 - <a href="/apps/?q=org.schabi.newpipe" target="_blank">
   <img src="./img/apk24.png" alt=".">
   **NewPipe**</a><br>
@@ -52,21 +48,17 @@ pin: 2
   [4PDA](https://4pda.to/forum/index.php?showtopic=694195).
   [Оф.сайт](https://newpipe.net/#download).
   [Github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
-
 - <a href="/apps/?q=uplayer.video.player" target="_blank">
   <img src="./img/apk24.png" alt=".">
   **UPlayer**</a><br>
   Мощный видеоплеер. Воспроизводит любые форматы, как видео, так и музыку. Есть резак.
   [4PDA](https://4pda.to/forum/index.php?showtopic=900750)
-
 - <a href="/apps/?q=de.audioattack.openlink" target="_blank">
   <img src="./img/de.audioattack.openlink.png" alt=".">
   **Easy Open Link**</a><br>
   Позволяет открыть ссылку через меню "поделиться".
   [4PDA](https://4pda.to/forum/index.php?showtopic=716031).
   [Codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases)
-
-
 - <a href="/apps/?q=nl.robwu.copylink" target="_blank">
   <img src="/assets/img/apk24.png" alt=".">
   **Copy Link to Clipboard**</a><br>
