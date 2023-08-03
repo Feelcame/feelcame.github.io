@@ -70,67 +70,47 @@ pin: 2
 ## Стандартные программы
 {: #default }
 
-- <a href="/apps/?q=com.aimp.player" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **AIMP**</a><br>
+- <a href="/apps/?q=com.aimp.player" target="_blank"><img src="./img/apk32.png" alt="."> **AIMP**</a><br>
   Музыкальный проигрыватель. Расширенный функционал в плане настройки. Играет по плейлистам. 
   [4PDA](https://4pda.to/forum/index.php?showtopic=442204).
   [Оф. сайт](http://www.aimp.ru/?do=download&os=android).
   [Прямая ссылка (оф.сайт)](http://www.aimp.ru/?do=download.file&id=13)
   v3.22 (5.0+), v3.10 (4.4+), v2.90 (4.0+).
-
-- <a href="/apps/?q=Aurora Store" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **Aurora Store**</a><br>
+- <a href="/apps/?q=Aurora Store" target="_blank"><img src="./img/apk32.png" alt="."> **Aurora Store**</a><br>
   Альтернативный клиент Google Play Store.
   [4PDA](https://4pda.to/forum/index.php?showtopic=887569).
   [Оф.сайт](https://auroraoss.com/#downloads).
-
-- <a href="/apps/?q=bromite" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **Bromite**</a><br>
+- <a href="/apps/?q=bromite" target="_blank"><img src="./img/apk32.png" alt="."> **Bromite**</a><br>
   Хром без рекламы. Android 6.0+.
   [4PDA](https://4pda.to/forum/index.php?showtopic=725481&st=100).
   [Оф.сайт](https://www.bromite.org/#download-bromite).
   [Github](https://github.com/bromite/bromite/releases)
-
-- <a href="/apps/?q=QuickPic" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **QuickPic**</a><br>
+- <a href="/apps/?q=QuickPic" target="_blank"><img src="./img/apk32.png" alt="."> **QuickPic**</a><br>
   Галерея. Легкая и удобная альтернатива для стандартной программы просмотра изображений
-
-- <a href="/apps/?q=com.moez.QKSMS" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **QKSMS**</a><br>
+- <a href="/apps/?q=com.moez.QKSMS" target="_blank"><img src="./img/apk32.png" alt="."> **QKSMS**</a><br>
   Сообщения. Опенсорсная альтернатива.
   [4PDA](https://4pda.to/forum/index.php?showtopic=576815)
-
-- <a href="/apps/?q=com.simplemobiletools.contacts" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **Simple Contacts**</a><br>
+- <a href="/apps/?q=com.simplemobiletools.contacts" target="_blank"><img src="./img/apk32.png" alt="."> **Simple Contacts**</a><br>
   Тел. книга. Легкое приложение. Открытый исходный код.
   [4PDA](https://4pda.to/forum/index.php?showtopic=1050350).
   [Версия: 6.22.4 Paid (Catbox)](https://files.catbox.moe/x7dkgo.apk)
-
-- <a href="/apps/?q=rkr.simplekeyboard.inputmethod" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **Simple Keyboard**</a><br>
+- <a href="/apps/?q=rkr.simplekeyboard.inputmethod" target="_blank"><img src="./img/apk32.png" alt="."> **Simple Keyboard**</a><br>
   Простая клавиатура без Т9, emoji и лишних разрешений.
   [4PDA](https://4pda.to/forum/index.php?showtopic=906364)
-
-- <a href="/apps/?q=fr.neamar.kiss" target="_blank">
-  <img src="./img/apk24.png" alt=".">
-  **KISS Launcher**</a><br>
+- <a href="/apps/?q=fr.neamar.kiss" target="_blank"><img src="./img/apk32.png" alt="."> **KISS Launcher**</a><br>
   Легкий и необычный лаунчер
-
-- **Microsoft Launcher** - продвинутый лончер, есть папки и много настроек<rb>
-- **Launcher<3** - лаунчер как в Android 5<rb>
-- Простой календарь Pro
-- Simple Gallery
-- Simple Dialer
-- Microsoft Swift Клавиатура
-- Карты. Organic Maps. Яндекс Карты
-- YouTube reVanced
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk32.png" alt="."> **Microsoft Launcher**</a><br>
+  Продвинутый лончер, есть папки и много настроек<rb>
+- <a href="/apps/?q=Launcher<3" target="_blank"><img src="./img/apk32.png" alt="."> **Launcher<3**</a><br>
+  Лаунчер как в Android 5
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk32.png" alt="."> **Простой календарь**</a><br>
+  Календарь
+- <a href="/apps/?q=Simple Gallery" target="_blank"><img src="./img/apk32.png" alt="."> **Simple Gallery**</a><br>
+  Альтернативная галерея
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk32.png" alt="."> **Simple Dialer**</a><br>
+  Альтернативная звонилка
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk32.png" alt="."> **Microsoft Swift Клавиатура**</a><br>
+  Норм клава с автоисправлением
 
 
 
@@ -139,87 +119,64 @@ pin: 2
 
 ## Расширенная коллекция
 
-### Мультимедиа
+### Медиа
 {: #media }
 
 
 
-<details><summary markdown="0"><b>Spotify</b></summary>
-
-- Скачивать через сомнительные [телеграм-боты](./telegram-bots.html#музыка)
-- [Google Play](https://play.google.com/store/apps/details?id=com.spotify.music)
-- [Веб-версия](https://open.spotify.com/)
-- [4PDA](https://4pda.to/forum/index.php?showtopic=248440)
-- Версия: 8.8.48.523 (5.0+) [4pda](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
-</details>
-
-
-
-<details><summary markdown="0"><b>Shazam</b></summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=com.shazam.android)
-- [4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
-- [Версия: 1.1.0 Android 2.3+ (Catbox)](https://files.catbox.moe/im2ljj.apk)
-- [Версия: 1.1.0 Android 2.3+ (telegram)](https://t.me/s/feelsoftan?q=shazam)
-</details>
-
-
-
-<details><summary markdown="0">
-<b>Hi-Q MP3 Recorder</b>
-| Диктофон
-</summary>
-
-- [Google Play](https://play.google.com/store/apps/details?id=com.hiqrecorder.full)
-- [4PDA](https://4pda.to/forum/index.php?showtopic=210572)
-- [v2.4.2](https://tlgur.com/d/4yq02Lb4),
-- [v2.9.0](https://tlgur.com/d/8l6jMXVg)
-</details>
-
-
-
-<details><summary markdown="0">
-<b>Youtube reVanced</b>
-| мод официального ютубе без рекламы
-</summary>
-<!-- ######### -->
-- [оф.сайт](https://revanced.io/#download-apk),
-- [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=1050118)
-</details>
-
-
-
-
-
-- **TotalCmd USB stick plugin by OperaFan** - открывает флешки подключенные через OTG на китайских телефонах с обрезанной прошивкой.<br>
-  [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
-  [v1.3.6(tlgur)](https://tlgur.com/d/GVqJmM68), 
+- <a href="/apps/?q=com.spotify.music" target="_blank"><img src="./img/apk24.png" alt=".">**Spotify**</a><br>
+  Слушать  музыку онлай легально и бесплатно. Скачивать можно только через [сторонние сервисы](./telegram-bots.html#музыка).
+  [4PDA](https://4pda.to/forum/index.php?showtopic=248440).
+  [Веб-версия](https://open.spotify.com/).
+  [v8.8.48.523 5.0+ Mod Lite by Balatan (4pda)](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
+- <a href="/apps/?q=com.shazam.android" target="_blank"><img src="./img/apk24.png" alt=".">**Shazam**</a><br>
+  Распознавание музыки.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214).
+  [v1.1.0 Android 2.3+ (Catbox)](https://files.catbox.moe/im2ljj.apk)
+- <a href="/apps/?q=com.hiqrecorder.full" target="_blank"><img src="./img/apk24.png" alt=".">**Hi-Q MP3 Recorder**</a><br>
+  Диктофон.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=210572).
+  v2.4.2 (2.3+), v2.9.0 (4.0+)
+- <a href="/apps/?q=reVanced" target="_blank"><img src="./img/apk24.png" alt=".">**Youtube reVanced**</a><br>
+  Мод официального ютуба без рекламы.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=1050118),
+  [оф.сайт](https://revanced.io/#download-apk)
+- <a href="/apps/?q=USB stick" target="_blank"><img src="./img/apk24.png" alt=".">**TotalCmd USB stick plugin by OperaFan**</a><br>
+  Открывает флешки с файловой системой NTFS подключенные через OTG.
+  [v1.3.6 (4PDA)](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
   [телега](https://t.me/FeelSoftAn/164)
-- **ES Проводник 3.2.5** - старенький, но рабочий файл менеджер. 
-- **X-plore** - файл менеджер
-- **RAR** - крутой архиватор
-- **Simple Gallery Pro** - опенсорсная галерея<br>
-  [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=785182),
-  [fdroid](https://f-droid.org/en/packages/com.simplemobiletools.gallery.pro/)
-- **PicSay Pro** – фоторедактор<br>
+- <a href="/apps/?q=ES Проводник" target="_blank"><img src="./img/apk24.png" alt=".">**ES Проводник 3.2.5**</a><br>
+  Старенький, но рабочий файл менеджер
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**X-plore**</a><br>
+  Файл менеджер. Порт с Symbian
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**RAR**</a><br>
+  Крутой архиватор
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**Simple Gallery Pro**</a><br>
+  Опенсорсная галерея.
+  [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=785182)
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**PicSay Pro**</a><br>
+  Фоторедактор.
   [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=131210),
   [v1.8.0.5](https://tlgur.com/d/GdX03zrG)
-- **PlayerPro**. [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=189092)
-- **Кино HD** - просмотр фильмов и сериалов из разных сервисов. реклама не убирается. 
-  [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=787648),
-  [github](https://github.com/publicfks/temp/blob/main/apk/app-release.apk)
-- **Lampa** - просмотр фильмов. 
-  [скачать](http://cub.watch/download/lampa.apk), 
-  [обновы](https://nemiroff.github.io/lampa/apk/info.json)
-- **QuickPic** - простая и шустрая галерея для стареньких устройств<br>
-  4pda,
-  [telegram](https://t.me/s/feelsoftan?q=com.alensw.PicFolder),
-  [v3.5.0(tlgur)](https://tlgur.com/d/8BOdll0G)
-- **LazyMedia Deluxe**. [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=848635)
-- **LazyIPTV Deluxe** - удобный просмотр IPTV <br>
-  [Google Play](https://play.google.com/store/apps/details?id=com.lcs.lazyiptvdeluxe),
-  [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
-  [плейлист](https://iptv.org.ua)
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**PlayerPro**</a><br>
+  Мощный плеер. Старенький.
+  [4PDA](https://4pda.to/forum/index.php?showtopic=189092)
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**Кино HD**</a><br>
+  Просмотр фильмов и сериалов из разных сервисов. За пару долларов можно убрать рекламу. 
+  [4PDA](https://4pda.to/forum/index.php?showtopic=787648),
+  [Прямая ссылка(github)](https://github.com/publicfks/temp/raw/main/apk/app-release.apk)
+- <a href="/apps/?q=" target="_blank"><img src="./img/apk24.png" alt=".">**Lampa**</a><br>
+  Просмотр фильмов. Прога изначально для смарт тв. Для онлайн просмотра добавьте плагин `http://lampa.stream/modss`
+  [Прямая ссылка (оф.сайт)](http://cub.watch/download/lampa.apk), 
+  [Обновы (json)](https://nemiroff.github.io/lampa/apk/info.json)
+- <a href="/apps/?q=com.alensw.PicFolder" target="_blank"><img src="./img/apk24.png" alt=".">**QuickPic**</a><br>
+  Простая и шустрая галерея для стареньких устройств. v3.5.0
+- <a href="/apps/?q=LazyMedia" target="_blank"><img src="./img/apk24.png" alt=".">**LazyMedia Deluxe**</a><br>
+  Просмотр фильмов. 
+  [4PDA](https://4pda.to/forum/index.php?showtopic=848635)
+- <a href="/apps/?q=com.lcs.lazyiptvdeluxe" target="_blank"><img src="./img/apk24.png" alt=".">**LazyIPTV Deluxe**</a><br>
+  Удобный просмотр IPTV. Использую [этот плейлист](https://iptv.org.ua).
+  [4PDA](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
 
 
 [Наверх↑](#top)
@@ -354,7 +311,7 @@ P2P синхронизация файлов между устройствами.
 - **GPS Fields Area Measure** - измерение площади по GPS<br>
   [Google Play](https://play.google.com/store/apps/details?id=lt.noframe.fieldsareameasure),
   [Тема на 4PDA](https://4pda.to/forum/index.php?showtopic=745108)
-
+- Яндекс карты. В пендостане работает лучше чем гмапс
 [Наверх↑](#top)
 
 ## Для профессионала
