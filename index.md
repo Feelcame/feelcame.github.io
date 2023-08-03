@@ -12,7 +12,9 @@ layout: home
 
 ---
 
+
 <br><br><br><br><br>
+
 <div style="text-align: center;"><h2><strong>Передаем лайки за проезд</strong></h2></div>
 
 
