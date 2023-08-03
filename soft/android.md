@@ -15,18 +15,18 @@ pin: 2
 ## Базовый набор
 
 - <a href="/apps/?q=com.ghisler.android.TotalCommander" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/com.ghisler.android.TotalCommander.png" alt=".">
   **Total Commander**</a><br>
   Мощный файловый меенеджер. 
   [4PDA](https://4pda.to/forum/index.php?showtopic=224555).
   [Оф. сайт (прямая ссылка)](https://www.ghisler.com/tcandroid3.apk).
   [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
 - <a href="/apps/?q=com.ghisler.tcplugins.wifitransfer" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/com.ghisler.tcplugins.wifitransfer.png" alt=".">
   **TotalCmd WiFi Transfer**</a><br>
   Передача файлов через WiFi. [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
 - <a href="/apps/?q=com.opera.browser" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/com.opera.browser.png" alt=".">
   **Браузер Opera**</a><br>
   Просмотр интернета. Встроенный VPN. Блокировка рекламы.
   [4PDA](https://4pda.to/forum/index.php?showtopic=438451).
@@ -35,21 +35,21 @@ pin: 2
   [v58.4 (4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317).
   [v50.8 (4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
 - <a href="/apps/?q=org.telegram.messenger" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/org.telegram.messenger.png" alt=".">
   **Telegram**</a><br>
   Удобный мессенджер. Онлайн звонки, групповые чаты, безлимитное файловое хранилище и т.д.
   [4PDA](https://4pda.to/forum/index.php?showtopic=948576).
   [Оф.сайт](https://telegram.org/android?setln=ru).
   [Оф.телега](https://t.me/TAndroidAPK)
 - <a href="/apps/?q=org.schabi.newpipe" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/org.schabi.newpipe.png" alt=".">
   **NewPipe**</a><br>
   Легкий и открытый клиент ютуб. Позволяет скачивать видео.
   [4PDA](https://4pda.to/forum/index.php?showtopic=694195).
   [Оф.сайт](https://newpipe.net/#download).
   [Github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
 - <a href="/apps/?q=uplayer.video.player" target="_blank">
-  <img src="./img/apk24.png" alt=".">
+  <img src="./img/uplayer.video.player.png" alt=".">
   **UPlayer**</a><br>
   Мощный видеоплеер. Воспроизводит любые форматы, как видео, так и музыку. Есть резак.
   [4PDA](https://4pda.to/forum/index.php?showtopic=900750)
@@ -60,7 +60,7 @@ pin: 2
   [4PDA](https://4pda.to/forum/index.php?showtopic=716031).
   [Codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases)
 - <a href="/apps/?q=nl.robwu.copylink" target="_blank">
-  <img src="/assets/img/apk24.png" alt=".">
+  <img src="./img/nl.robwu.copylink.png" alt=".">
   **Copy Link to Clipboard**</a><br>
   Добавляет в меню "поделиться" пункт "скопировать в буфер".
   [4PDA](https://4pda.to/forum/index.php?showtopic=1073592)
