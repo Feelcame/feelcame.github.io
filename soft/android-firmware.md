@@ -77,3 +77,13 @@ com.motorola.contextual.smartrules2-1
 com.motorola.setup
 ```
 </details>
+
+
+## xiaomi
+<https://4pda.to/forum/index.php?showtopic=921645#entry77962469>
+
+
+
+
+
+
