@@ -30,7 +30,8 @@ title: Радиооборудование
 {: #radiomodules }
 - Модуль на CC1101
 - JDY41
-
+- Bluetooth Electronics - приложение для телефона 
+JDY-23 - рекомендуемый модуль
 
 
 
