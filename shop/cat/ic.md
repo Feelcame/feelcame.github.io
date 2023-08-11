@@ -8,6 +8,7 @@ title: Микросхемы
 - LM7805
 - xc6206 - LDO с низким потреблением в режиме покоя 
 - rt9013 - LDO из платы wemos d1 mini
+- L200cv - ADJUSTABLE VOLTAGE AND CURRENT REGULATOR
 
 ## Микросхемы DCDC повышающие
 - 
