@@ -95,6 +95,8 @@ tags: server
   [letsupload.cc](https://letsupload.cc), 
   [share-online.is](https://share-online.is), 
   [megaupload.nz](https://megaupload.nz)
+- [pixeldrain](https://pixeldrain.com). 20гб/файл. 10гб в сутки скачивание. хранится 60 дней с момента последней загрузки. <br>
+  [Тест 23082](https://pixeldrain.com/api/file/tjMLDVKF?download)
 
 
 ## Времменное хранение   
