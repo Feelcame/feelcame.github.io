@@ -7,6 +7,11 @@ tags: native
 pin: 2
 ---
 
+[mega](https://mega.nz/folder/ojklVbbI#jXkMb7mUnFoT1SE8_0oZsQ), 
+[gdrive](https://drive.google.com/drive/folders/1CjNHjodfjA_oE-yFdIVAeHUENlYO1gWJ?usp=sharing), 
+[onedrive](https://1drv.ms/f/s!An7p8rERUur5jTYMUrWqRx5VReqS?e=JJiBsd), 
+[telegram](https://t.me/feelsoftan)
+
 - Навигатор  
 {: toc }
 
@@ -394,7 +399,7 @@ pin: 2
 
 [Наверх↑](#top)
 
-## Для профессионала
+## Для работы
 {: #profi }
 
 - <a href="/apps/?q=com.foxdebug.acodefree" target="_blank"><img src="./img/apk24.png" alt=".">
