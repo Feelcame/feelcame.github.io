@@ -5,6 +5,27 @@ modified: 2023-03-20T22:24:23+03:00
 layout: home
 ---
 
+
+
+<header class="page-header" role="banner" markdown="0">
+<h1 class="project-name">{{ page.title }}</h1>
+<!--<h2 class="project-tagline">Все статьи распределены по категориям. Для начала выбери интересующую</h2>-->
+	<div id="nav">
+		<a href="{{ '/index' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
+		<a href="{{ '/hard/' | relative_url }}" title="Хліб" class="btn">😎 Железки</a>
+		<a href="{{ '/code/'   | relative_url }}" title="Сіль" class="btn">🎮 Кодинг</a>
+		<a href="{{ '/soft/' | relative_url }}" title="Вода" class="btn">💾 Софт</a>
+		<a href="{{ '/life/' | relative_url}}" title="Козацька" class="btn">💙 Лайфстайл</a>
+		<a href="{{ '/projects/' | relative_url}}" title="Їда" class="btn">💛 Проекты</a>
+		<a href="{{ '/search'     | relative_url }}" title="Поиск" class="btn">🔍</a>
+	</div>
+</header>
+
+<main id="content" class="main-content" role="main" markdown="1">
+
+
+
+
 ## Популярные статьи
 - [Программы для Android](/soft/android.md)
 - [Программы для Windows](/soft/windows.md)
@@ -99,4 +120,44 @@ a.not_prefer{
 
 <br><br><br><br><br><br><br><br><br>
 
+
+
+
+<footer class="site-footer" markdown="0">
+	
+
+	<div>
+	<a href="https://forms.gle/UCfDCJHZsGKu5AHf7">Форма обратной связи</a>
+	</div>
+ 
+	<hr>
+ 
+	<span class="site-footer-owner">
+	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
+	</span>
+	<span>
+	Made with GitHub Pages
+	<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>-->
+	</span>
+	
+	<hr>
+	
+	<div>
+	<a href="./projects/site.html" style="color: #cccccc47;">[todo]</a>
+	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #cccccc47;">[edit]</a>
+	</div>
+	
+<br><br><br><br><br>
+</footer>
+
+
+</main>
+
+<script>
+// переопределение всех внешних ссылок на открытие в новой вкладке
+var links = document.links;
+for (var i = 0, linksLength = links.length; i < linksLength; i++) {
+	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
+}
+</script>
 
