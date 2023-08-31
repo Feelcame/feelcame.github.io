@@ -23,7 +23,8 @@ tags: server
   Тест (220819):
   [картинка 50кб (сайт)](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб (через бот)](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
-- <https://postimages.org/> - вроде бесплатно и без рекламы
+- [**postimages**](https://postimages.org/) - бесплатно и без рекламы. 24мб. работает с 2004 года. <br>
+  [Тест 230831 гиф 6мб](https://i.postimg.cc/WpXgMnjd/IDA-Njh-SVy-NQ3.gif), [на сайте](https://postimg.cc/Z0vWm6Wm)
 - [**Imgix.com**](https://imgix.com/pricing) - платный сервис. 1000шт бесплатно. Юзают для документации флипрпера
 - [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. До 15 МБ. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
 
@@ -65,7 +66,7 @@ tags: server
 
 ## Мейнстрим-сервисы  
 {: #dumb }
-- [**Telegram**](https://t.me). 2000Мб/файл. Создатпь приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
+- [**Telegram**](https://t.me). 2000Мб/файл. Создать приватный канал и загрузить туда что угодно. Нет прямых ссылок. Не абузоустойчиво. Раз в пять лет очищают неиспользуемые файлы<br>
   Тест (10901): 
   [программа 1800мб](http://t.me/joinchat/monHIC4FPMQ2YmRi)
 - [**Fex.net**](http://fex.net) - быстрые сервера. Платный: 1Тб стоит 60грн/мес. Глючит. Реклама. От создателей ex.ua
@@ -83,21 +84,13 @@ tags: server
 ## Доступ по прямой ссылке
 {: #files }
 
-- [**tlgurbot**](http://t.me/tlgurbot) - 20МБ, время не ограничено. Бот проксирует файл из телеги по URL<br>
-  Тест: [apk 10mb (211201)](https://tlgur.com/d/g306JW64)
 - [**catbox.moe**](https://catbox.moe/) - 200мб, время не ограничено. Прямая ссылка. Нет рекламы<br>
-  Тест: [архив .exe.zip 72Мб (220802)](https://files.catbox.moe/mufkwf.zip), 
+  Тест: [архив .exe.zip 72Мб (220802)](https://files.catbox.moe/mufkwf.zip), [то же самое с нормальным названием](/demo/dl/?file.zip#https://files.catbox.moe/mufkwf.zip),
   [картинка 60кб (220802)](https://files.catbox.moe/fk9c1e.jpg)
 - [**Zaix.ru**](https://zaix.ru/upload) - 20Мб, 3 месяца от посл. скачивания. Прямые ссылки. Рашка<br>
   Тест: [скриншот 300кб (221229)](http://d.zaix.ru/x5GN.png),
   [картинка 11мб (230325)](http://d.zaix.ru/yxYL.png)
-- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Реклама. Ограниченная скорость выгрузки<br>
-  Аналоги: 
-  [filechan.org](https://filechan.org), 
-  [letsupload.cc](https://letsupload.cc), 
-  [share-online.is](https://share-online.is), 
-  [megaupload.nz](https://megaupload.nz)
-- [pixeldrain](https://pixeldrain.com). 20гб/файл. 10гб в сутки скачивание. хранится 60 дней с момента последней загрузки. <br>
+- [**pixeldrain**](https://pixeldrain.com). 20гб/файл. 10гб в сутки скачивание. хранится 60 дней с момента последней загрузки. <br>
   [Тест 23082](https://pixeldrain.com/api/file/tjMLDVKF?download)
 
 
@@ -108,9 +101,18 @@ tags: server
 - [**Uguu.se**](https://uguu.se/) - 128мб, 2дня. От автора pomf.se.<br>
   [Исходники(github)](https://github.com/nokonoko/Uguu)
 - [**wetransfer**](https://wetransfer.com/) - 2гб, 7дней. Очень быстрые сервера. Встраивается в почтовик
-- [**zippyshare**](https://www.zippyshare.com/) - 500 Мб, 30 days after no activity. Скоро закрывается
 
 
+## Памятная доска
+- [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Реклама. Ограниченная скорость выгрузки. Пал смертью храбрых<br>
+  Аналоги: 
+  [filechan.org](https://filechan.org), 
+  [letsupload.cc](https://letsupload.cc), 
+  [share-online.is](https://share-online.is), 
+  [megaupload.nz](https://megaupload.nz)
+- [**zippyshare**](https://www.zippyshare.com/) - 500 Мб, 30 days after no activity. Закрылся
+- [**tlgurbot**](http://t.me/tlgurbot) - 20МБ, время не ограничено. Бот проксирует файл из телеги по URL. Закрылся из-за скама<br>
+  Тест: [apk 10mb (211201)](https://tlgur.com/d/g306JW64)
 
 
 ## Селфхост  
@@ -153,7 +155,8 @@ tags: server
   [картинка 500кб](https://etlgr.me/attachments/ccaa64e98ed57093cfcee59bba62f95173fad2816c0edcc378977c732e44d60e),
   [Аудио 9МБ](https://etlgr.me/attachments/ae1f38c7df5b190dbe611607ac59fbdd6c5fcb434413c1e209932a2cb4673f18)
 - [**4pda.to**](https://4pda.to/forum/) - 240мб/файл. Позволяет заливать любой формат файла. Нет проверки на вирусы. Форум про телефоны и программы, файлы должны соответствовать тематике. Нет прямых ссылок. Для **скачивания** нужна регистрация. Пример:
-  [Apk 6Mb](https://4pda.to/forum/index.php?showtopic=807699&st=100#entry113968170)
+  [Apk 6Mb](https://4pda.to/forum/index.php?showtopic=807699&st=100#entry113968170),
+  [почти прямая ссылка](https://4pda.to/forum/dl/post/25262479/GlassWire_v3.0.380r_b380_K.apk)
 - [**tinyurl.com**](http://tinyurl.com) - сервис позволяет сократить длинную ссылку, в которую встроен закодированный файл. Используется кодировка base64 и ([**этот скрипт**](/projects/base64-url-downloader.md)). Ограничение - максимум 10кб/файл<br>
   Тест: 
   [картинка 8кб](https://tinyurl.com/24ejarg4),
