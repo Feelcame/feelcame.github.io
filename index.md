@@ -28,60 +28,61 @@ layout: home
 
 
 
-- [**Каталог инструментов**](/hard/my-toolbox.html)
+- [**Каталог инструментов**](/hard/my-toolbox.md)
 - [**Жиза (блог, дневник)**](/life/)
 - [**Мои проекты**](/projects/)
 
 - **Каталог программ**
 	- [Программы для Android](/soft/android.md)
 	- [Программы для Windows](/soft/windows.md)
+	- [Мессенджеры](#), [Фильмы](#), [Smart-TV](#)
 - **Электроника. Железки**
 	- [Печатные платы](/hard/PCB.md), [Altium](/hard/altium-designer.md), [Eagle](/hard/eagle-cad.md)
 	- [Пайка](/hard/soldering.md)
 	- [Питание электроники](/hard/power.md), [Зарядка АКБ](/hard/charging.md)
 - **Схемотехника**
-	- [Транзисторы](http://127.0.0.1/hard/mosfet.html)
-	- [Логика](http://127.0.0.1/hard/opamp.md)
+	- [Транзисторы](/hard/mosfet.md)
+	- [Логика](/hard/opamp.md)
 	- [LED-освещение](/hard/led.md)
 - **Микроконтроллеры**
-	- [Arduino](http://127.0.0.1/hard/arduino.html)
-	- [Модули Wi-Fi ESP](/hard/modules-esp.md), [Модули GSM](http://127.0.0.1/hard/sim800.html)
+	- [Arduino](/hard/arduino.md)
+	- [Модули Wi-Fi ESP](/hard/modules-esp.md), [Модули GSM](/hard/sim800.md)
 	- [Одноплатники](/hard/mini-pc.md)
 - **Радиосвязь**
 	- [Общее](#)
-	- [Направленные антенны](http://127.0.0.1/hard/modem-ant.html)
-	- [Разработка ВЧ-устройств](http://127.0.0.1/hard/antenna.html)
-	- [Защита от статики](http://127.0.0.1/hard/protection.html)
+	- [Направленные антенны](/hard/modem-ant.md)
+	- [Разработка ВЧ-устройств](/hard/antenna.md)
+	- [Защита от статики](/hard/protection.md)
 - **Веб-сайты**
-	- [Фронт. HTML, css, js](http://127.0.0.1/code/web.html), 
-	  [Markdown](http://127.0.0.1/code/markdown.html)
-	- [CMS (бэк)](http://127.0.0.1/code/cms.html), [Django CMS](http://127.0.0.1/code/python-django.html)
-	- [Хостинг](http://127.0.0.1/code/hosting.html), 
-	  [Файлообменники](http://127.0.0.1/code/sendfile.html),
-	- [Статичные сайты](http://127.0.0.1/code/static-site.html), 
+	- [Фронт. HTML, css, js](/code/web.md), 
+	  [Markdown](/code/markdown.md)
+	- [CMS (бэк)](/code/cms.md), [Django CMS](/code/python-django.md)
+	- [Хостинг](/code/hosting.md), 
+	  [Файлообменники](/code/sendfile.md),
+	- [Статичные сайты](/code/static-site.md), 
 	  [Jekyll CMS](/code/jekyll.md)
-	- [Сервисы комментариев](http://127.0.0.1/code/comments.html), 
+	- [Сервисы комментариев](/code/comments.md), 
 	  [Аналитика](#)
 - **Сервера**
 	- [Выделенный сервер](#)
-	- [Консоль, SSH](http://127.0.0.1/code/cli.html)
+	- [Консоль, SSH](/code/cli.md)
 - **Локалка**
-	- [Роутеры. Ethernet. NAT](http://127.0.0.1/hard/wifirouter.html)
-	- [Удаленный доступ](http://127.0.0.1/soft/remote-control.html),
-	  [VPN](http://127.0.0.1/soft/vpn.html)
-	- [Wi-Fi мост](http://127.0.0.1/hard/network.html)
-	- [3G-модемы](http://127.0.0.1/hard/modem.html)
+	- [Роутеры. Ethernet. NAT](/hard/wifirouter.md)
+	- [Удаленный доступ](/soft/remote-control.md),
+	  [VPN](/soft/vpn.md)
+	- [Wi-Fi мост](/hard/network.md)
+	- [3G-модемы](/hard/modem.md)
 - **Программирование**
-	- [Книги. Языки и парадигмы](http://127.0.0.1/code/books.html)
-	- [IDE. Среда разработки](http://127.0.0.1/soft/profi-soft.html), [Кодим на телефоне](http://127.0.0.1/code/mobilecoding.html)
-	- [Организация рабочего процесса, CRM](http://127.0.0.1/soft/crm.html)
-	- [Тестирование](http://127.0.0.1/code/testing.html)
+	- [Книги. Языки и парадигмы](/code/books.md)
+	- [IDE. Среда разработки](/soft/profi-soft.md), [Кодим на телефоне](/code/mobilecoding.md)
+	- [Организация рабочего процесса, CRM](/soft/crm.md)
+	- [Тестирование](/code/testing.md)
 - **Нативные приложения**
-	- [Настройка Windows](http://127.0.0.1/soft/windows-install.html)
-	- [Прошивка Android-телефонов](http://127.0.0.1/soft/android-firmware.html)
-	- [Пишем для Android](http://127.0.0.1/code/android.html)
-	- [Пишем софт Desktop](http://127.0.0.1/code/desktop.html)
-	- [Создать инсталяшку (sfx)](http://127.0.0.1/code/installer.html)
+	- [Настройка Windows](/soft/windows-install.md)
+	- [Прошивка Android-телефонов](/soft/android-firmware.md)
+	- [Пишем для Android](/code/android.md)
+	- [Пишем софт Desktop](/code/desktop.md)
+	- [Создать инсталяшку (sfx)](/code/installer.md)
 
 
 ---
