@@ -24,8 +24,10 @@ tags: server
   [картинка 50кб (сайт)](https://telegra.ph/file/b98d7d26e0cc07c21aec5.jpg),
   [сисюняшки 40кб (через бот)](https://telegra.ph/file/e52aa7c9d0d0492fc254f.jpg)
 - [**postimages**](https://postimages.org/) - бесплатно и без рекламы. 24мб. работает с 2004 года. <br>
-  [Тест 230831 гиф 6мб](https://i.postimg.cc/WpXgMnjd/IDA-Njh-SVy-NQ3.gif), [на сайте](https://postimg.cc/Z0vWm6Wm)
-- [**Imgix.com**](https://imgix.com/pricing) - платный сервис. 1000шт бесплатно. Юзают для документации флипрпера
+  [Тест 230831 гиф 6мб](https://i.postimg.cc/WpXgMnjd/IDA-Njh-SVy-NQ3.gif), 
+  [на сайте](https://postimg.cc/Z0vWm6Wm), 
+  [архив ZIP 1.7mb](https://feelcame.github.io/demo/dl/?activator.zip#https://i.postimg.cc/x02Y0VKB/fokus.jpg?dl=1)
+- [**Imgix.com**](https://imgix.com/pricing) - 1000шт бесплатно, дальше за деньги. Юзают для документации флипрпера
 - [**vfl.ru**](http://vfl.ru/) - платный 199р/мес. Нет рекламы. До 15 МБ. Группировка по альбомам. Прямые ссылки. После истечения оплаты фото НЕ удаляются. Не проверял
 
 <details markdown="1">
@@ -104,6 +106,7 @@ tags: server
 
 
 ## Памятная доска
+{: .no_toc }
 - [**AnonFiles**](https://anonfiles.com/). 20ГБ, хранится менее полугода. Нет прямых ссылок. Реклама. Ограниченная скорость выгрузки. Пал смертью храбрых<br>
   Аналоги: 
   [filechan.org](https://filechan.org), 
