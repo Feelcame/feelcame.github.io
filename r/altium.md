@@ -3,6 +3,7 @@ title: Что не так с Altium Designer
 date: 2021-05-29T13:20:33+03:00
 modified: 2021-09-04T12:30:58+03:00
 tags: pcb
+redirect_from: /hard/altium-designer/
 ---
 
 ## О чем эта телега

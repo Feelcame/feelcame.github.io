@@ -72,3 +72,26 @@ tags: hf
 - <https://www.falstad.com/circuit/>
 - <https://books.google.com.ua/books/about/Microwave_and_RF_Engineering.html?id=LSAhywAACAAJ&source=kp_cover&redir_esc=y>
 - <http://www.platan.ru/shem/pdf/str10-14n.pdf>
+
+
+## Внешние антенны для 3G/4G модемов
+
+Как усилить сигнал сотовой сети. Антены направленные и обычные. Роутеры для модемов. Как выносить на улицу. Гермобоксы для уменьшения потерь на вч-кабеле. Питание модема. Как направить на базовую станцию. Через какие программы искать БС
+
+
+Индуктивный антенный переходник для 3G/4G модема и роутера 
+<Индуктивный антенный переходник для 3G/4G модема и роутера>
+
+- GlassWire - файервол с мониторингом сетевой активности
+- Network Cell Info - показывает на графике качество сигнала от разных базовых станций. 
+  [4pda](https://4pda.to/forum/index.php?showtopic=743366)
+- Cell Mapper - показывает расположение базовых станций на карте. Данные рассчитывает методом триангуляции
+  [оф.сайт](https://www.cellmapper.net),
+  [play](https://play.google.com/store/apps/details?id=cellmapper.net.cellmapper),
+  [4pda](https://4pda.to/forum/index.php?showtopic=743432)
+
+
+## Полезные ссылки
+- Выбор 4g-модема
+- Антенны. Проектирование
+- полезный сайт про самодельные антенны <https://3g-aerial.biz/chto-takoe-mimo-antenna>

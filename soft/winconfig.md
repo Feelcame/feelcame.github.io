@@ -183,6 +183,18 @@ Windows Registry Editor Version 5.00
 
 
 
+
+## Загрузчик ОС
+
+- Bootice
+- Easy bcd
+
+Загрузка старых маиеринок с nvme
+<https://m.habr.com/ru/post/472224/>
+
+
+
+
 ## Полезные ссылки
 - [Как предотвратить автоматическую установку Teams в Windows 11](https://www.outsidethebox.ms/21375/)
 - 

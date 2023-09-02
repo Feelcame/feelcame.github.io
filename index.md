@@ -28,7 +28,7 @@ layout: home
 
 
 
-- [**Каталог инструментов**](/hard/my-toolbox.md)
+- [**Каталог инструментов**](/r/my-toolbox.md)
 - [**Жиза (блог, дневник)**](/life/)
 - [**Мои проекты**](/projects/)
 
@@ -37,22 +37,26 @@ layout: home
 	- [Программы для Windows](/soft/windows.md)
 	- [Мессенджеры](#), [Фильмы](#), [Smart-TV](#)
 - **Электроника. Железки**
-	- [Печатные платы](/hard/PCB.md), [Altium](/hard/altium-designer.md), [Eagle](/hard/eagle-cad.md)
-	- [Пайка](/hard/soldering.md)
-	- [Питание электроники](/hard/power.md), [Зарядка АКБ](/hard/charging.md)
+	- [Печатные платы](/r/PCB.md), 
+	  [Altium](/r/altium.md), 
+	  [Eagle](/r/eagle-cad.md)
+	- [Пайка](/r/soldering.md)
+	- [Питание электроники](/r/power.md), 
+	  [Зарядка АКБ](/r/charging.md)
+	- [Усилители звука](/r/power.md)
 - **Схемотехника**
-	- [Транзисторы](/hard/mosfet.md)
-	- [Логика](/hard/opamp.md)
-	- [LED-освещение](/hard/led.md)
+	- [Транзисторы](/r/mosfet.md)
+	- [Логика](/r/opamp.md)
+	- [LED-освещение](/r/led.md)
 - **Микроконтроллеры**
-	- [Arduino](/hard/arduino.md)
-	- [Модули Wi-Fi ESP](/hard/modules-esp.md), [Модули GSM](/hard/sim800.md)
-	- [Одноплатники](/hard/mini-pc.md)
+	- [Arduino](/r/arduino.md)
+	- [Модули Wi-Fi ESP](/r/modules-esp.md), 
+	  [Модули GSM](/r/sim800.md)
+	- [Одноплатники](/r/mini-pc.md)
 - **Радиосвязь**
-	- [Общее](#)
-	- [Направленные антенны](/hard/modem-ant.md)
-	- [Разработка ВЧ-устройств](/hard/antenna.md)
-	- [Защита от статики](/hard/protection.md)
+	- [Направленные антенны](/r/modem-ant.md)
+	- [Разработка ВЧ-устройств](/r/antenna.md)
+	- [Защита от статики](/r/protection.md)
 - **Веб-сайты**
 	- [Фронт. HTML, css, js](/code/web.md), 
 	  [Markdown](/code/markdown.md)
@@ -67,11 +71,11 @@ layout: home
 	- [Выделенный сервер](#)
 	- [Консоль, SSH](/code/cli.md)
 - **Локалка**
-	- [Роутеры. Ethernet. NAT](/hard/wifirouter.md)
+	- [Роутеры. Ethernet. NAT](/r/wifirouter.md)
 	- [Удаленный доступ](/soft/remote-control.md),
 	  [VPN](/soft/vpn.md)
-	- [Wi-Fi мост](/hard/network.md)
-	- [3G-модемы](/hard/modem.md)
+	- [Wi-Fi мост](/r/network.md)
+	- [3G-модемы](/r/modem.md)
 - **Программирование**
 	- [Книги. Языки и парадигмы](/code/books.md)
 	- [IDE. Среда разработки](/soft/profi-soft.md), [Кодим на телефоне](/code/mobilecoding.md)
