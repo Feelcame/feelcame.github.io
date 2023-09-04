@@ -6,6 +6,8 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 
 этот магазин задуман как демо для [jekyll-shop](../projects/jekyll-shop.md)
 
+[Черновик списка компонентов](/drafts/my-toolbox.md)
+
 <div class="grid">
 {% include dir-ls.md date="no" dir="/shop/cat/" %}
 </div>

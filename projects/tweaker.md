@@ -42,4 +42,65 @@ comments: 104
 
 ![image](https://user-images.githubusercontent.com/17731587/162635263-7a770106-e150-43a7-a91a-84f59c00cea7.png)
 
+## Web-form version
+
+<form id="tweaks">
+**Отключить автообновление**
+<br>
+<label>
+<input type="radio" name="NoAutoUpdate" value="1" checked>
+Да
+</label>
+<br>
+<label>
+<input type="radio" name="NoAutoUpdate" value="0">
+Нет
+</label>
+
+
+**Выбери темную тему**
+<br>
+<label>
+<input type="radio" name="theme" value="" checked>
+Не менять
+</label>
+<br>
+<label>
+<input type="radio" name="theme" value="dark">
+Темная
+</label>
+<br>
+<label>
+<input type="radio" name="theme" value="light">
+Светлая
+</label>
+
+
+<div>
+<button type="submit">Submit</button>
+</div>
+</form>
+
+<pre id="log"></pre>
+
+
+
+<script>
+var form = document.querySelector("#tweaks");
+var log = document.querySelector("#log");
+
+form.addEventListener(
+  "submit",
+  function (event) {
+    var data = new FormData(form);
+    var output = "";
+    for (const entry of data) {
+      output = entry[0] + "=" + entry[1] + "\r";
+    }
+    log.innerText = output;
+    event.preventDefault();
+  },
+  false,
+);
+</script>
 

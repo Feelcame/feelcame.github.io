@@ -28,66 +28,68 @@ layout: home
 
 
 
-- [**Каталог инструментов**](/r/my-toolbox.md)
+- [**Каталог инструментов**](/shop/)
 - [**Жиза (блог, дневник)**](/life/)
 - [**Мои проекты**](/projects/)
 
 - **Каталог программ**
 	- [Программы для Android](/soft/android.md)
 	- [Программы для Windows](/soft/windows.md)
-	- [Мессенджеры](#), [Фильмы](#), [Smart-TV](#)
+	- [Настройка Windows](/soft/winconfig.md)
+	- [Прошивка Android-телефонов](/soft/adb.md)
+	- [Smart-TV](/r/smart-tv.md)
 - **Электроника. Железки**
 	- [Печатные платы](/r/PCB.md), 
 	  [Altium](/r/altium.md), 
-	  [Eagle](/r/eagle-cad.md)
+	  [Eagle](/r/eagle.md)
 	- [Пайка](/r/soldering.md)
+	- [Распиновка разъемов](/r/connectors.md)
 	- [Питание электроники](/r/power.md), 
 	  [Зарядка АКБ](/r/charging.md)
-	- [Усилители звука](/r/power.md)
 - **Схемотехника**
 	- [Транзисторы](/r/mosfet.md)
-	- [Логика](/r/opamp.md)
+	- [Логика](/r/logic.md)
+	- [Усилители звука](/r/audio.md)
 	- [LED-освещение](/r/led.md)
 - **Микроконтроллеры**
 	- [Arduino](/r/arduino.md)
-	- [Модули Wi-Fi ESP](/r/modules-esp.md), 
+	- [Модули Wi-Fi ESP](/r/esp.md), 
 	  [Модули GSM](/r/sim800.md)
 	- [Одноплатники](/r/mini-pc.md)
 - **Радиосвязь**
-	- [Направленные антенны](/r/modem-ant.md)
+	- [Направленные антенны](/r/antenna.md)
 	- [Разработка ВЧ-устройств](/r/antenna.md)
-	- [Защита от статики](/r/protection.md)
+	- [Защита от статики](#)
 - **Веб-сайты**
 	- [Фронт. HTML, css, js](/code/web.md), 
 	  [Markdown](/code/markdown.md)
-	- [CMS (бэк)](/code/cms.md), [Django CMS](/code/python-django.md)
-	- [Хостинг](/code/hosting.md), 
-	  [Файлообменники](/code/sendfile.md),
+	- [CMS (бэк)](/code/cms.md), 
+	  [Django CMS](/code/python-django.md)	
 	- [Статичные сайты](/code/static-site.md), 
 	  [Jekyll CMS](/code/jekyll.md)
+	- [Хостинг](/code/hosting.md), 
+	  [Файлообменники](/code/sendfile.md),
 	- [Сервисы комментариев](/code/comments.md), 
 	  [Аналитика](#)
 - **Сервера**
 	- [Выделенный сервер](#)
 	- [Консоль, SSH](/code/cli.md)
 - **Локалка**
-	- [Роутеры. Ethernet. NAT](/r/wifirouter.md)
+	- [Роутеры. Ethernet. NAT](/r/network.md)
 	- [Удаленный доступ](/soft/remote-control.md),
 	  [VPN](/soft/vpn.md)
-	- [Wi-Fi мост](/r/network.md)
 	- [3G-модемы](/r/modem.md)
 - **Программирование**
 	- [Книги. Языки и парадигмы](/code/books.md)
-	- [IDE. Среда разработки](/soft/profi-soft.md), [Кодим на телефоне](/code/mobilecoding.md)
+	- [IDE. Среда разработки](/soft/profi-soft.md), 
+	  [Кодим на телефоне](/code/mobilecoding.md)
 	- [Организация рабочего процесса, CRM](/soft/crm.md)
 	- [Тестирование](/code/testing.md)
 - **Нативные приложения**
-	- [Настройка Windows](/soft/windows-install.md)
-	- [Прошивка Android-телефонов](/soft/android-firmware.md)
 	- [Пишем для Android](/code/android.md)
 	- [Пишем софт Desktop](/code/desktop.md)
 	- [Создать инсталяшку (sfx)](/code/installer.md)
-
+- **[Черновики](/drafts/)**
 
 ---
 
@@ -137,29 +139,16 @@ a.not_prefer{
 <!--  FOOTER  -->
 
 <footer class="site-footer" markdown="0">
-	<div>
-	<a href="https://forms.gle/UCfDCJHZsGKu5AHf7">Форма обратной связи</a><br>
-	</div>
-	<hr>
 	<span class="site-footer-owner">
 	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
 	</span>
 	<span>Made with GitHub Pages<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>--></span>
-	<hr>
+	
 	<div>
-	<a href="./projects/site.html" style="color: #cccccc47;">[todo]</a>
 	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #cccccc47;">[edit]</a>
 	</div>
 	<br><br><br><br><br>
 	
 </footer>
 </main>
-
-<script>
-// переопределение всех внешних ссылок на открытие в новой вкладке
-var links = document.links;
-for (var i = 0, linksLength = links.length; i < linksLength; i++) {
-	if (links[i].hostname != window.location.hostname) { links[i].target = '_blank'; }
-}
-</script>
 
