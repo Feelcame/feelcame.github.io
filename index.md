@@ -38,7 +38,7 @@ layout: home
 	- [Настройка Windows](/soft/winconfig.md)
 	- [Прошивка Android-телефонов](/soft/adb.md)
 	- [Smart-TV](/r/smart-tv.md)
-- **Электроника. Железки**
+- **Разработка электроники**
 	- [Печатные платы](/r/PCB.md), 
 	  [Altium](/r/altium.md), 
 	  [Eagle](/r/eagle.md)
@@ -79,6 +79,7 @@ layout: home
 	- [Удаленный доступ](/soft/remote-control.md),
 	  [VPN](/soft/vpn.md)
 	- [3G-модемы](/r/modem.md)
+	- [Видеонаблюдение](/r/cctv.md)
 - **Программирование**
 	- [Книги. Языки и парадигмы](/code/books.md)
 	- [IDE. Среда разработки](/soft/profi-soft.md), 
