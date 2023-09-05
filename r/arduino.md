@@ -44,6 +44,11 @@ arduino - фреймворк для программирования любых 
 
 
 
+## Библиотеки Arduino 
+для ESP32 и не только
+- **ESP_WiFiManager** - легкий способ добавить в проект портал для конфигурации вайфая и других настроек
+<https://github.com/khoih-prog/ESP_WiFiManager>
+
 
 ## Полезные ссылки
 - <https://ichi.pro/ru/vvedenie-v-mqtt-i-nastrojka-brokera-mosquitto-264946456955848>

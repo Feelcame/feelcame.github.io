@@ -6,10 +6,6 @@ tags: железо
 pin: 0
 ---
 
-{% include dir-ls.md pinned="only" dir="/r/" %}
-
-
-
 ## Печатные платы
 {: #pcb }
 {% include dir-ls.md tag="pcb" dir="/r/" %}
@@ -52,5 +48,3 @@ pin: 0
 {% include dir-ls.md pinned="no" dir="/r/" %}
 </details>
 
-{% comment %}
-{% endcomment %}

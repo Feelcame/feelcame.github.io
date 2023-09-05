@@ -10,7 +10,7 @@ layout: home
 <header class="page-header" role="banner" markdown="0">
 <h1 class="project-name">{{ page.title }}</h1>
 <!--<h2 class="project-tagline">Все статьи распределены по категориям. Для начала выбери интересующую</h2>-->
-	<div id="nav">
+<!--	<div id="nav">
 		<a href="{{ '/index' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
 		<a href="{{ '/hard/' | relative_url }}" title="Хліб" class="btn">😎 Железки</a>
 		<a href="{{ '/code/'   | relative_url }}" title="Сіль" class="btn">🎮 Кодинг</a>
@@ -19,6 +19,18 @@ layout: home
 		<a href="{{ '/projects/' | relative_url}}" title="Їда" class="btn">💛 Проекты</a>
 		<a href="{{ '/search'     | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
+-->
+	<div id="nav">
+		<a href="{{ '/index' | relative_url }}" title="Домой" class="btn not-mobile">🏠 Статьи</a>
+		<a href="{{ '/projects/' | relative_url }}" title="Хліб" class="btn">😎 Проекты</a>
+		<a href="{{ '/life/' | relative_url }}" title="Сіль" class="btn">🎮 Блог</a>
+		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">💾 Магазин</a>
+		<a href="{{ '/search' | relative_url }}" title="Поиск" class="btn">🔍</a>
+	</div>
+
+
+
+
 </header>
 
 <main id="content" class="main-content" role="main" markdown="1">
@@ -32,11 +44,13 @@ layout: home
 - [**Жиза (блог, дневник)**](/life/)
 - [**Мои проекты**](/projects/)
 
+---
+
 - **Каталог программ**
-	- [Программы для Android](/soft/android.md)
-	- [Программы для Windows](/soft/windows.md)
-	- [Настройка Windows](/soft/winconfig.md)
-	- [Прошивка Android-телефонов](/soft/adb.md)
+	- [Программы для Android](/r/android.md)
+	- [Программы для Windows](/r/windows.md)
+	- [Настройка Windows](/r/winconfig.md)
+	- [Прошивка Android-телефонов](/r/adb.md)
 	- [Smart-TV](/r/smart-tv.md)
 - **Разработка электроники**
 	- [Печатные платы](/r/PCB.md), 
@@ -61,35 +75,35 @@ layout: home
 	- [Разработка ВЧ-устройств](/r/antenna.md)
 	- [Защита от статики](#)
 - **Веб-сайты**
-	- [Фронт. HTML, css, js](/code/web.md), 
-	  [Markdown](/code/markdown.md)
-	- [CMS (бэк)](/code/cms.md), 
-	  [Django CMS](/code/python-django.md)	
-	- [Статичные сайты](/code/static-site.md), 
-	  [Jekyll CMS](/code/jekyll.md)
-	- [Хостинг](/code/hosting.md), 
-	  [Файлообменники](/code/sendfile.md),
-	- [Сервисы комментариев](/code/comments.md), 
-	  [Аналитика](#)
+	- [Фронт. HTML, css, js](/r/web.md), 
+	  [Markdown](/r/markdown.md)
+	- [CMS (бэк)](/r/cms.md), 
+	  [Django CMS](/r/python-django.md)	
+	- [Статичные сайты](/r/static-site.md), 
+	  [Jekyll CMS](/r/jekyll.md)
+	- [Хостинг](/r/hosting.md), 
+	  [Файлообменники](/r/sendfile.md),
+	- [Сервисы комментариев](/r/comments.md), 
+	  [Аналитика](/r/analytics.md)
 - **Сервера**
 	- [Выделенный сервер](/r/server.md)
-	- [Консоль, SSH](/code/cli.md)
+	- [Консоль, SSH](/r/cli.md)
 - **Локалка**
 	- [Роутеры. Ethernet. NAT](/r/network.md)
-	- [Удаленный доступ](/soft/remote-control.md),
-	  [VPN](/soft/vpn.md)
+	- [Удаленный доступ](/r/remote-control.md),
+	  [VPN](/r/vpn.md)
 	- [3G-модемы](/r/modem.md)
 	- [Видеонаблюдение](/r/cctv.md)
 - **Программирование**
-	- [Книги. Языки и парадигмы](/code/books.md)
-	- [IDE. Среда разработки](/soft/profi-soft.md), 
-	  [Кодим на телефоне](/code/mobilecoding.md)
-	- [Организация рабочего процесса, CRM](/soft/crm.md)
-	- [Тестирование](/code/testing.md)
+	- [Книги. Языки и парадигмы](/r/books.md)
+	- [IDE. Среда разработки](/r/ide.md), 
+	  [Кодим на телефоне](/r/mobilecoding.md)
+	- [Организация рабочего процесса, CRM](/r/crm.md)
+	- [Тестирование](/r/testing.md)
 - **Нативные приложения**
-	- [Пишем для Android](/code/android.md)
-	- [Пишем софт Desktop](/code/desktop.md)
-	- [Создать инсталяшку (sfx)](/code/installer.md)
+	- [Пишем для Android](/r/android-dev.md)
+	- [Пишем софт Desktop](/r/desktop.md)
+	- [Создать инсталяшку (sfx)](/r/installer.md)
 - **[Черновики](/drafts/)**
 
 ---
