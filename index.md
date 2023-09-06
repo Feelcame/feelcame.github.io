@@ -60,6 +60,7 @@ layout: home
 	- [Распиновка разъемов](/r/connectors.md)
 	- [Питание электроники](/r/power.md), 
 	  [Зарядка АКБ](/r/charging.md)
+	- [3D-моделирование](/r/3d.md)
 - **Схемотехника**
 	- [Транзисторы](/r/mosfet.md)
 	- [Логика](/r/logic.md)
@@ -82,7 +83,7 @@ layout: home
 	- [Статичные сайты](/r/static-site.md), 
 	  [Jekyll CMS](/r/jekyll.md)
 	- [Хостинг](/r/hosting.md), 
-	  [Файлообменники](/r/sendfile.md),
+	  [Файлообменники](/r/sendfile.md)
 	- [Сервисы комментариев](/r/comments.md), 
 	  [Аналитика](/r/analytics.md)
 - **Сервера**
