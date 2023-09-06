@@ -9,7 +9,7 @@ layout: home
 
 <header class="page-header" role="banner" markdown="0">
 <h1 class="project-name">{{ page.title }}</h1>
-<!--<h2 class="project-tagline">Все статьи распределены по категориям. Для начала выбери интересующую</h2>-->
+<h2 class="project-tagline">Инфа об электронике и технике</h2>
 <!--	<div id="nav">
 		<a href="{{ '/index' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
 		<a href="{{ '/hard/' | relative_url }}" title="Хліб" class="btn">😎 Железки</a>
@@ -21,7 +21,7 @@ layout: home
 	</div>
 -->
 	<div id="nav">
-		<a href="{{ '/index' | relative_url }}" title="Домой" class="btn">🏠 Статьи</a>
+		<a href="{{ '/index.md' | relative_url }}" title="Домой" class="btn">🏠 Статьи</a>
 		<a href="{{ '/projects/' | relative_url }}" title="Хліб" class="btn">😎 Проекты</a>
 		<a href="{{ '/life/' | relative_url }}" title="Сіль" class="btn">🎮 Блог</a>
 		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">💾 Магазин</a>
