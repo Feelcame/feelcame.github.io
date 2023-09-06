@@ -15,8 +15,15 @@ layout: none
 "url"      : "{{ page.url | relative_url}}",
 "name"     : "{{ page.name }}{{ page.extname }}",
 "content"  : {{ page.content | strip_html | strip_newlines | remove_chars | escape | jsonify }}
-}{% unless forloop.last %},
-
-{% endunless -%}
+},
+{% comment %}{% unless forloop.last %}{% endunless -%}{% endcomment %}
 {% endfor %}
+
+{
+"title"    : "rabbit",
+"url"      : "https://tinyurl.com/4cd6kja5#",
+"name"     : "easter",
+"content"  : ""
+}
 ]
+
