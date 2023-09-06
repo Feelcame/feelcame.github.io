@@ -21,7 +21,7 @@ layout: home
 	</div>
 -->
 	<div id="nav">
-		<a href="{{ '/index.md' | relative_url }}" title="Домой" class="btn">🏠 Статьи</a>
+		<a href="{{ '/index.html' | relative_url }}" title="Домой" class="btn">🏠 Статьи</a>
 		<a href="{{ '/projects/' | relative_url }}" title="Хліб" class="btn">😎 Проекты</a>
 		<a href="{{ '/life/' | relative_url }}" title="Сіль" class="btn">🎮 Блог</a>
 		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">💾 Магазин</a>
