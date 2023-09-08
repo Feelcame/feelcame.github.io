@@ -21,10 +21,10 @@ layout: home
 	</div>
 -->
 	<div id="nav">
-		<a href="{{ '/index.html' | relative_url }}" title="Домой" class="btn">🏠 Статьи</a>
-		<a href="{{ '/projects/' | relative_url }}" title="Хліб" class="btn">😎 Проекты</a>
-		<a href="{{ '/life/' | relative_url }}" title="Сіль" class="btn">🎮 Блог</a>
-		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">💾 Магазин</a>
+		<a href="{{ '/index.html' | relative_url }}" title="Хліб" class="btn">🏠 Статьи</a>
+		<a href="{{ '/projects/' | relative_url }}" title="Сіль" class="btn">😎 Проекты</a>
+		<a href="{{ '/life/' | relative_url }}" title="Вода" class="btn">🎮 Жиза (блог)</a>
+		<a href="{{ '/shop/' | relative_url }}" title="Козацька їда" class="btn">💾 Магазин</a>
 		<a href="{{ '/search' | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
 
@@ -36,15 +36,6 @@ layout: home
 <main id="content" class="main-content" role="main" markdown="1">
 
 
-
-
-
-
-- [**Каталог инструментов**](/shop/)
-- [**Жиза (блог, дневник)**](/life/)
-- [**Мои проекты**](/projects/)
-
----
 
 - **Каталог программ**
 	- [Программы для Android](/r/android.md)
