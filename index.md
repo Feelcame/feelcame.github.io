@@ -155,15 +155,15 @@ a.not_prefer{
 <!--  FOOTER  -->
 
 <footer class="site-footer" markdown="0">
-	<span class="site-footer-owner">
-	{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
-	</span>
-	<span>Made with GitHub Pages<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>--></span>
-	
-	<div>
-	<a href="https://github.com/Feelcame/feelcame.github.io/edit/master/index.md" style="color: #cccccc47;">[edit]</a>
-	</div>
-	<br><br><br><br><br>
+<span class="site-footer-owner">
+{{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
+</span>
+<span>Made with GitHub Pages<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>--></span>
+
+<div>
+<a href="https://github.com/Feelcame/feelcame.github.io/tree/master" style="color: #cccccc47;">[edit]</a>
+</div>
+<br><br><br><br><br>
 	
 </footer>
 </main>
