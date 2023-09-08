@@ -100,3 +100,9 @@ tags: profi
 - <https://www.actitime.com/software-collections/14-best-desktop-time-trackers>
 - <https://softwarerecs.stackexchange.com/questions/10600/free-self-hosted-project-management-with-time-tracking>
 
+## ссылки
+- <https://vc.ru/services/69919-instrumenty-prodakt-menedzhera-pesn-softa-i-plameni>
+
+
+
+
