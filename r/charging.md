@@ -4,9 +4,17 @@ date: 2021-09-01T12:00:00
 tags: power
 ---
 
+- ToC  
+{:toc}
+
+---
+
 - Виды аккумуляторов Li-ion, Lead-Acid, LiFePo, NiCd
 - Зарядка, ток напряжение
-- Разрядка. Защита. Балансировка банок, восстановление
+- Микросхемы для зарядки / готовые решения
+- Паралельное/последовательное включение
+- Разрядка. Защита
+- Восстановление, Балансировка банок
 - Быстрая зарядка Quick Charge
 
 ## Разрядка и защита
@@ -26,6 +34,13 @@ tags: power
 ![image](https://user-images.githubusercontent.com/17731587/152176914-c8e71fcd-d440-48b3-bb1a-70b36329d6fe.png)
 
 
+## Восстановление батарей
+- батареи ноутбука 3S2P
+- батареи телефона
+
+**Свинцовые аккумуляторы**
+- [Китайские свинцовые аккумуляторы для фонарей. Обзор и эксплуатация](https://habr.com/ru/articles/551586/)
+- [Использование и восстановление свинцовых АКБ мой опыт](https://habr.com/ru/articles/428710/)
 
 
 
@@ -36,8 +51,7 @@ tags: power
 - <http://www.obddiag.net/usb-power.html>
 - <http://rones.su/techno/usb-type-c-anatomy.html>
 - <http://rones.su/techno/zaryadka-mobilynika-po-usb.html>
-- <>
+
 - 18650 <https://alexgyver.ru/18650/>
 - зарядка лития <https://alexgyver.ru/lithium_charging/>
 - [Про супервизоры питания](http://we.easyelectronics.ru/Celeron/shemotehnika-tipovaya-shema-supervizora-pitaniya-detektor-ponizhennogo-napryazheniya-metodika-rascheta-20150324.html)
-
