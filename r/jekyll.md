@@ -362,4 +362,4 @@ plugins:
 - <https://github.com/christian-fei/Simple-Jekyll-Search>
 - <https://github.com/picocms/Pico>
 
-
+- Подстветка синтаксиса <https://rouge.jneen.net/>

@@ -134,7 +134,7 @@ a.not_prefer{
 </style>
 
 <div style="text-align: center;">
-<a class="button7 not_prefer" href="/demo/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" title="мимо">купить&nbsp;гараж</a>
+<a class="button7 not_prefer" href="/tools/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" title="мимо">продам&nbsp;гараж</a>
 <a class="button7 not_prefer" href="https://memcdn.t.me" title="мяу">видео&nbsp;с&nbsp;котиками</a>
 <a class="button7" href="https://forms.gle/UCfDCJHZsGKu5AHf7" title="выбери меня">написать&nbsp;автору</a>
 </div>
