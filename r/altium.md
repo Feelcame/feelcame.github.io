@@ -74,7 +74,7 @@ redirect_from: /hard/altium-designer/
 * В самой программе есть встроенный поиск компонентов. Сам им не пользуюсь - не удобно
 * Скачать на сайте производителя. Это лучшее решение. Но не всегда они дают библиотеки
 * Для альтиума подходят [**универсальные библиотеки**](/hardware/PCB.html#библиотеки-компонентов)
-* [AX_Altium_v2.3](https://tqfp.org/forum/viewtopic.php?t=364#:~:text=AX_Altium)
+* [AX_Altium_v2.3](https://tqfp.org/forum/viewtopic.php?f=14&t=364&p=7612&hilit=AX_Altium_v2.3.IntLib#p7612)
 * [IntLib by Sandy](https://rutracker.org/forum/viewtopic.php?t=4864824) 2015 03.22
 * [IntegratedLibrary](https://rutracker.org/forum/viewtopic.php?t=5722123) Library(Sandy) 11.06.2020
 

@@ -5,6 +5,7 @@ modified: 2023-03-21T08:40:38+03:00
 comments: 96
 pin: 3
 tags: native
+redirect-from: /soft/windows/
 ---
 
 
