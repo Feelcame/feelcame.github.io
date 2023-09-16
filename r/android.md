@@ -5,6 +5,10 @@ modified: 2022-07-04T08:40:48+03:00
 comments: 105
 tags: native
 pin: 2
+redirect_from: 
+  - /soft/android/
+  - /soft/android
+
 ---
 
 [mega](https://mega.nz/folder/ojklVbbI#jXkMb7mUnFoT1SE8_0oZsQ), 
