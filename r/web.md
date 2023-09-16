@@ -100,6 +100,13 @@ JavaScript — язык программирования, широко испо�
 9. [gitpod](https://gitpod.io/?on=gitpod#https://github.com/withastro/astro/tree/latest/examples/basics) 
 10. [stackblitz](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics?file=README.md&on=stackblitz) 
 
+#### Совместное редактирование
+- <https://collabedit.com/>
+- <https://syncfiddle.net/>
+- <https://codeshare.io/OdrNz7>
+- <https://codesandbox.io/features>
+- <https://visualstudio.microsoft.com/ru/services/live-share/> <https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare>
+
 
 ### Бьютифаеры, форматтеры
 1. [FreeFormatter.com](https://www.freeformatter.com/html-formatter.html)
