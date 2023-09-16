@@ -103,9 +103,11 @@ JavaScript — язык программирования, широко испо�
 #### Совместное редактирование
 - <https://collabedit.com/>
 - <https://syncfiddle.net/>
-- <https://codeshare.io/OdrNz7>
-- <https://codesandbox.io/features>
-- <https://visualstudio.microsoft.com/ru/services/live-share/> <https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare>
+- <https://codeshare.io/>
+- <https://codesandbox.io/>
+- <https://visualstudio.microsoft.com/ru/services/live-share/> <https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare> <https://www.youtube.com/watch?v=7LQlzwbmxPg>
+- <https://codeshare.io/>
+- <https://techrocks.ru/2020/04/08/12-tools-and-services-for-group-coding/>
 
 
 ### Бьютифаеры, форматтеры
