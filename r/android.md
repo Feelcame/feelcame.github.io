@@ -8,7 +8,6 @@ pin: 2
 redirect_from: 
   - /soft/android/
   - /soft/android
-
 ---
 
 [mega](https://mega.nz/folder/ojklVbbI#jXkMb7mUnFoT1SE8_0oZsQ), 

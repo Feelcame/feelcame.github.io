@@ -7,7 +7,7 @@ tags: soft
 
 **Демо: [multisearch-demo](./multisearch-demo.md)**
 
-**Поиски: [/tools/search/](/tools/search/)**
+**Поиски: [/search/](/search/)**
 
 
 **Хороший пример реализации: [Feelsoft.pp.ua](https://Feelsoft.pp.ua/)**
