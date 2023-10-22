@@ -23,7 +23,7 @@ layout: home
 	<div id="nav">
 		<a href="{{ '/index.html' | relative_url }}" title="Хліб" class="btn">🏠 Статьи</a>
 		<a href="{{ '/projects/' | relative_url }}" title="Сіль" class="btn">😎 Проекты</a>
-		<a href="{{ '/life/' | relative_url }}" title="Вода" class="btn">🎮 Жиза (блог)</a>
+		<a href="{{ '/life/' | relative_url }}" title="Вода" class="btn">🎮 Жиза блог</a>
 		<a href="{{ '/shop/' | relative_url }}" title="Козацька їда" class="btn">💾 Магазин</a>
 		<a href="{{ '/search' | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
