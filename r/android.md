@@ -10,7 +10,7 @@ redirect_from:
   - /soft/android
 ---
 
-[mega](https://mega.nz/folder/ojklVbbI#jXkMb7mUnFoT1SE8_0oZsQ), 
+[mega](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
 [telegram](https://t.me/feelsoftan)
 
 - Навигатор  
