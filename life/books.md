@@ -52,6 +52,13 @@ comments: 125
 
 </style>
 
+<!-- 
+<center>
+<img src="/books/finansist.jpg" alt="финансист" title="финансист" style="max-width: 50%;min-width: 33%;">
+<img src="/books/finansist.jpg" alt="" style="max-width: 50%;min-width: 33%;">
+<img src="/books/finansist.jpg" alt="" style="max-width: 50%;min-width: 33%;">
+</center>
+-->
 
 ## Художка
 - Пелевин - Искусство легких касаний (сборник)

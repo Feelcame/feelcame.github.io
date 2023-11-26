@@ -119,9 +119,7 @@ redirect_from:
   [Обновы (json)](https://nemiroff.github.io/lampa/apk/info.json)
 - <a target="_blank" href="/apps/?q=com.lazycatsoftware.lmd">
   <img alt="." src="/d/apk/apk24.png">
-  **LazyMedia Deluxe**</a><br>
-
-  Просмотр фильмов. 
+  **LazyMedia Deluxe**</a><br>Просмотр фильмов. 
   [4PDA](https://4pda.to/forum/index.php?showtopic=848635)
 - <a target="_blank" href="/apps/?q=com.lcs.lazyiptvdeluxe">
   <img alt="." src="/d/apk/apk24.png">
@@ -212,7 +210,6 @@ redirect_from:
   <img alt="." src="/d/apk/com.ghisler.tcplugins.wifitransfer.png">
   **TotalCmd WiFi Transfer**</a><br>
   Передача файлов через WiFi. 
-  [Прямая ссылка (оф. сайт)](http://totalcommander.ch/aplg/tcandroidwifi35.apk)
 - <a target="_blank" href="/apps/?q=com.ghisler.tcplugins.wifitransfer">
   <img alt="." src="/d/apk/apk24.png">
   **TotalCmd USB stick plugin by OperaFan**</a><br>
@@ -421,7 +418,7 @@ redirect_from:
   <img alt="." src="/d/apk/apk24.png">
   **Binary Eye**</a><br>
   Удобный Сканер QR-кодов
-
+- **QuickShortcutMaker**(com.sika524.android.quickshortcut)
   
 
 
