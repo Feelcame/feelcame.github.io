@@ -1,20 +1,34 @@
 ---
-title: Домик
+no-title: Домик
 date: 2020-07-16T13:31:13+03:00
 modified: 2023-03-20T22:24:23+03:00
-layout: home
+#layout: home
+pin: 0
 ---
 
 
+- [Программы для Android](/r/android.md)
+- [Программы для Windows](/r/windows.md)
+- [Настройка Windows](/r/winconfig.md)
+- [Печатные платы](/r/PCB.md)
+- [Arduino](/r/arduino.md)
+- [Модули ESP](/r/esp.md)
+- [Верстка HTML](/r/web.md) 
+- [Jekyll CMS](/r/jekyll.md)
+- [CMS (бэк)](/r/cms.md)
 
+
+
+{% comment %}
+<!--
 <header class="page-header" role="banner" markdown="0">
 <h1 class="project-name">{{ page.title }}</h1>
 <h2 class="project-tagline">Инфа об электронике и технике</h2>
 	<div id="nav">
 		<a href="{{ '/index.html' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
 		<a href="{{ '/r/' | relative_url }}" title="Хліб" class="btn">💛 Статьи</a>
-		<a href="{{ '/projects/' | relative_url }}" title="Вода" class="btn">😎 Проекты</a>
-		<a href="{{ '/shop/' | relative_url }}" title="Сіль" class="btn">💾 Железки</a>
+		<a href="{{ '/projects/' | relative_url }}" title="Сіль" class="btn">💾 Проекты</a>
+		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">😎 Железки</a>
 		<a href="{{ '/blog/' | relative_url }}" title="Козацька їда" class="btn">🎮 Блог</a>
 		<a href="{{ '/search' | relative_url }}" title="Поиск" class="btn">🔍</a>
 	</div>
@@ -22,27 +36,16 @@ layout: home
 
 <main id="content" class="main-content" role="main" markdown="1">
 
-- [Программы для Android](/r/android.md)
-- [Программы для Windows](/r/windows.md)
-- [Настройка Windows](/r/winconfig.md)
-- [Печатные платы](/r/PCB.md), 
-  [Altium](/r/altium.md), 
-  [Eagle](/r/eagle.md)
-- [Arduino](/r/arduino.md)
-- [Модули Wi-Fi ESP](/r/esp.md), 
-- [Фронт. HTML, css, js](/r/web.md), 
-  [Markdown](/r/markdown.md)
-- [CMS (бэк)](/r/cms.md), 
 
 
-<br><br><br>
 
-{% comment %}
-<!--<br><br>
+
+<br><br>
 <div style="text-align: center;">
 <h2><strong>Передаем лайки за просмотр</strong></h2>
 </div>
-<br><br><br><br><br>-->
+<br><br><br><br><br>
+-->
 {% endcomment %}
 
 
@@ -72,7 +75,7 @@ a.not_prefer{
 
 
 
-
+<br><br><br>
 <div style="text-align: center;">
 <a class="button7 not_prefer" href="/tools/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" title="мимо">продам&nbsp;гараж</a>
 <a class="button7 not_prefer" href="https://memcdn.t.me" title="мяу">видео&nbsp;с&nbsp;котиками</a>
@@ -82,15 +85,17 @@ a.not_prefer{
 
 <br><br><br><br><br><br><br><br><br>
 
-
-<!--  FOOTER  -->
-
+{% comment %}
+<!--
 <footer class="site-footer" markdown="0">
 <span class="site-footer-owner">
 {{ site.copyright | default: "©" }}  <a href="/about">{{ site.github.owner_name }}</a>.
 </span>
-<span>Made with GitHub Pages<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>--></span>
-
+<span>Made with GitHub Pages
+-->
+<!-- <a href="{{ site.github.repository_url }}">GitHub Pages</a>-->
+<!--
+</span>
 <div>
 <a href="https://github.com/Feelcame/feelcame.github.io/tree/master" style="color: #cccccc47;">[edit]</a>
 </div>
@@ -98,4 +103,5 @@ a.not_prefer{
 	
 </footer>
 </main>
-
+-->
+{% endcomment %}

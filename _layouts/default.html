@@ -2,7 +2,10 @@
 <html lang="{{ site.lang | default: "ru-RU" }}">
 <head>
 	<meta charset="UTF-8">
-	<title>{{ page.title | default: page.no-title | default: page.name | append: " | " | append: site.title }}</title>
+	<title>
+	  {{- page.no-title | default:page.title | default: page.name -}}
+	  {% if page.no-title == nil %} | {{ site.title }} {% endif %}
+	</title>
 	{% seo title=false %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="theme-color" content="#157878">
@@ -21,8 +24,8 @@
 	<div id="nav">
 		<a href="{{ '/index.html' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
 		<a href="{{ '/r/' | relative_url }}" title="Хліб" class="btn">💛 Статьи</a>
-		<a href="{{ '/projects/' | relative_url }}" title="Вода" class="btn">😎 Проекты</a>
-		<a href="{{ '/shop/' | relative_url }}" title="Сіль" class="btn">💾 Железки</a>
+		<a href="{{ '/projects/' | relative_url }}" title="Сіль" class="btn">💾 Проекты</a>
+		<a href="{{ '/shop/' | relative_url }}" title="Вода" class="btn">😎 Железки</a>
 		<a href="{{ '/blog/' | relative_url }}" title="Козацька їда" class="btn">🎮 Блог</a>
 		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn not-mobile">🔍</a>
 	</div>
