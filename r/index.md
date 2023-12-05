@@ -7,63 +7,63 @@ pin: 0
 ---
 
 - **Каталог программ**
-	- [Программы для Android](/r/android.md)
-	- [Программы для Windows](/r/windows.md)
-	- [Настройка Windows](/r/winconfig.md)
-	- [Прошивка Android-телефонов](/r/adb.md)
-	- [Smart-TV](/r/smart-tv.md)
+	- [Программы для Android](android.md)
+	- [Программы для Windows](windows.md)
+	- [Настройка Windows](winconfig.md)
+	- [Прошивка Android-телефонов](adb.md)
+	- [Smart-TV](smart-tv.md)
 - **Разработка электроники**
-	- [Печатные платы](/r/PCB.md), 
-	  [Altium](/r/altium.md), 
-	  [Eagle](/r/eagle.md)
-	- [Пайка](/r/soldering.md)
-	- [Распиновка разъемов](/r/connectors.md)
-	- [Питание электроники](/r/power.md), 
-	  [Зарядка АКБ](/r/charging.md)
-	- [3D-моделирование](/r/3d.md)
+	- [Печатные платы](PCB.md), 
+	  [Altium](altium.md), 
+	  [Eagle](eagle.md)
+	- [Пайка](soldering.md)
+	- [Распиновка разъемов](connectors.md)
+	- [Питание электроники](power.md), 
+	  [Зарядка АКБ](charging.md)
+	- [3D-моделирование](3d.md)
 - **Схемотехника**
-	- [Транзисторы](/r/mosfet.md)
-	- [Логика](/r/logic.md)
-	- [Усилители звука](/r/audio.md)
-	- [LED-освещение](/r/led.md)
+	- [Транзисторы](mosfet.md)
+	- [Логика](logic.md)
+	- [Усилители звука](audio.md)
+	- [LED-освещение](led.md)
 - **Микроконтроллеры**
-	- [Arduino](/r/arduino.md)
-	- [Модули Wi-Fi ESP](/r/esp.md), 
-	  [Модули GSM](/r/sim800.md)
-	- [Одноплатники](/r/mini-pc.md)
+	- [Arduino](arduino.md)
+	- [Модули Wi-Fi ESP](esp.md), 
+	  [Модули GSM](sim800.md)
+	- [Одноплатники](mini-pc.md)
 - **Радиосвязь**
-	- [Направленные антенны](/r/antenna.md)
-	- [Разработка ВЧ-устройств](/r/antenna.md)
+	- [Направленные антенны](antenna.md)
+	- [Разработка ВЧ-устройств](antenna.md)
 	- [Защита от статики](#)
 - **Веб-сайты**
-	- [Фронт. HTML, css, js](/r/web.md), 
-	  [Markdown](/r/markdown.md)
-	- [CMS (бэк)](/r/cms.md), 
-	  [Django CMS](/r/python-django.md)	
-	- [Статичные сайты](/r/static-site.md), 
-	  [Jekyll CMS](/r/jekyll.md)
-	- [Хостинг](/r/hosting.md), 
-	  [Файлообменники](/r/sendfile.md)
-	- [Сервисы комментариев](/r/comments.md), 
-	  [Аналитика](/r/analytics.md)
+	- [Фронт. HTML, css, js](web.md), 
+	  [Markdown](markdown.md)
+	- [CMS (бэк)](cms.md), 
+	  [Django CMS](python-django.md)	
+	- [Статичные сайты](static-site.md), 
+	  [Jekyll CMS](jekyll.md)
+	- [Хостинг](hosting.md), 
+	  [Файлообменники](sendfile.md)
+	- [Сервисы комментариев](comments.md), 
+	  [Аналитика](analytics.md)
 - **Сервера**
-	- [Выделенный сервер](/r/server.md)
-	- [Консоль, SSH](/r/cli.md)
+	- [Выделенный сервер](server.md)
+	- [Консоль, SSH](cli.md)
 - **Локалка**
-	- [Роутеры. Ethernet. NAT](/r/network.md)
-	- [Удаленный доступ](/r/remote-control.md),
-	  [VPN](/r/vpn.md)
-	- [3G-модемы](/r/modem.md)
-	- [Видеонаблюдение](/r/cctv.md)
+	- [Роутеры. Ethernet. NAT](network.md)
+	- [Удаленный доступ](remote-control.md),
+	  [VPN](vpn.md)
+	- [3G-модемы](modem.md)
+	- [Видеонаблюдение](cctv.md)
 - **Программирование**
-	- [Книги. Языки и парадигмы](/r/books.md)
-	- [IDE. Среда разработки](/r/ide.md), 
-	  [Кодим на телефоне](/r/mobilecoding.md)
-	- [Организация рабочего процесса, CRM](/r/crm.md)
-	- [Тестирование](/r/testing.md)
+	- [Книги. Языки и парадигмы](books.md)
+	- [IDE. Среда разработки](ide.md), 
+	  [Кодим на телефоне](mobilecoding.md)
+	- [Организация рабочего процесса, CRM](crm.md)
+	- [Тестирование](testing.md)
 - **Нативные приложения**
-	- [Пишем для Android](/r/android-dev.md)
-	- [Пишем софт Desktop](/r/desktop.md)
-	- [Создать инсталяшку (sfx)](/r/installer.md)
+	- [Пишем для Android](android-dev.md)
+	- [Пишем софт Desktop](desktop.md)
+	- [Создать инсталяшку (sfx)](installer.md)
 - **[Черновики](/drafts/)**
 
