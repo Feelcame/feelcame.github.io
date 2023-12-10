@@ -9,6 +9,8 @@ arduino - фреймворк для программирования любых 
 
 ## Симуляторы
 - <https://wokwi.com/projects/322410731508073042>
+- <https://www.falstad.com/circuit/> для схем
+- multisim - схемы
 
 ## STM32
 
