@@ -640,8 +640,38 @@ redirect_from:
 
 [Наверх↑](#top)
 
+## На проверке
+{: .no_toc #todo }
+<details markdown="1">
+<summary markdown="0">TODO</summary>
 
- 
+- **Instander**. Инста без рекламы. перешел на honista
+- [**GitJournal**](/apps/?q=io.gitjournal.gitjournal). Заметки. Устарело.
+  [оф.сайт](https://gitjournal.io/)
+- Audio Recorder <https://github.com/Dimowner/AudioRecorder>
+- Automation - автоматизация действий, конкурент Tasker. <https://git.server47.de/jens/Automation> 
+- Bitwarden - менеджер паролей. Бесплатный
+- DAVx⁵ - CalDAV/CardDAV Synchronization and Client <https://github.com/bitfireAT/davx5-ose/>
+- Geometric Weather A lightweight, powerful, open-source Material Design weather app. <https://github.com/WangDaYeeeeee/GeometricWeather>
+- Insular Isolate your Big Brother apps in a separate work profile, fork of Island. <https://gitlab.com/secure-system/Insular>
+- Moon+ Reader (Closed source) - One of the best eBook readers on Android (FOSS alternative is [KOReader](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/))
+- Openreads Your private and open source books tracker, organizer and reading list. <https://github.com/mateusz-bak/openreads-android>
+- Quillpad Markdown notes, task lists, Nextcloud sync and more <https://github.com/quillpad/quillpad>
+- SkyView A beautiful and intuitive stargazing app that uses your camera to precisely spot and identify celestial objects in sky, day or night (a simple FOSS alternative is [Sky Map](https://f-droid.org/en/packages/com.google.android.stardroid/))
+- Trail Sense - Use your phone’s sensors to assist with (not just) wilderness treks (like App Manager, this will help you get rid of a lot of apps) <https://f-droid.org/en/packages/com.kylecorry.trail_sense/>
+- URLCheck Allows you to analyze (or share) urls before opening them (a very good app if I say so) <https://github.com/TrianguloY/UrlChecker>
+- Activity tracker Отображает название приложения, которое сейчас на экране
+
+- brave браузер для конфиденциальности. https://brave.com/ 
+- BitWarden менеджер паролей
+- Диктофон. https://f-droid.org/en/packages/com.dimowner.audiorecorder/
+- Aard2. Словарь. Изучение языков. https://f-droid.org/packages/itkach.aard2/
+- RethinkDNS - брандмауэр, мониторинг сетевой активности, блокировка вредоносных программ, изменение DNS
+- InviZible Pro - Комплексное приложение, состоящее из DNSCrypt, Tor и Purple I2P. Для безопасности серфинга
+</details>
+
+
+
 ## Архив
 {: .no_toc #old }
 <details markdown="1">
@@ -683,33 +713,18 @@ redirect_from:
   [4PDA](https://4pda.to/forum/index.php?showtopic=978817), 
 - **Flow** – клиент rutracker.org
 - **Advanced Download Manager** скачиватель
-- **Instander**. Инста без рекламы. перешел на honista
-- [**GitJournal**](/apps/?q=io.gitjournal.gitjournal). Заметки. Устарело.
-  [оф.сайт](https://gitjournal.io/)
+</details>
 
----
+[Наверх↑](#top)
+
+
+## Полезные ссылки  
+{: .no_toc #links }
+<details markdown="1">
+<summary markdown="0">Устаревшее</summary>
 
 - Болшьшой список FOSS программ <https://github.com/offa/android-foss>
-- Audio Recorder <https://github.com/Dimowner/AudioRecorder>
-- Automation <https://git.server47.de/jens/Automation>
-- Bitwarden 
-- DAVx⁵ - CalDAV/CardDAV Synchronization and Client <https://github.com/bitfireAT/davx5-ose/>
-- Geometric Weather A lightweight, powerful, open-source Material Design weather app. <https://github.com/WangDaYeeeeee/GeometricWeather>
-- Insular Isolate your Big Brother apps in a separate work profile, fork of Island. <https://gitlab.com/secure-system/Insular>
-- Moon+ Reader (Closed source) - One of the best eBook readers on Android (FOSS alternative is [KOReader](https://f-droid.org/en/packages/org.koreader.launcher.fdroid/))
-- Openreads Your private and open source books tracker, organizer and reading list. <https://github.com/mateusz-bak/openreads-android>
-- Quillpad Markdown notes, task lists, Nextcloud sync and more <https://github.com/quillpad/quillpad>
-- SkyView A beautiful and intuitive stargazing app that uses your camera to precisely spot and identify celestial objects in sky, day or night (a simple FOSS alternative is [Sky Map](https://f-droid.org/en/packages/com.google.android.stardroid/))
-- Trail Sense - Use your phone’s sensors to assist with (not just) wilderness treks (like App Manager, this will help you get rid of a lot of apps) <https://f-droid.org/en/packages/com.kylecorry.trail_sense/>
-- URLCheck Allows you to analyze (or share) urls before opening them (a very good app if I say so) <https://github.com/TrianguloY/UrlChecker>
-- Activity tracker Отображает название приложения, которое сейчас на экране
-
-- brave браузер для конфиденциальности. https://brave.com/ 
-- BitWarden менеджер паролей
-- Диктофон. https://f-droid.org/en/packages/com.dimowner.audiorecorder/
-- Aard2. Словарь. Изучение языков. https://f-droid.org/packages/itkach.aard2/
-
-
 </details>
+
 
 [Наверх↑](#top)
