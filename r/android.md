@@ -10,7 +10,7 @@ redirect_from:
   - /soft/android
 ---
 
-[mega](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
+[MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
 [telegram](https://t.me/feelsoftan)
 
 - Навигатор  
@@ -231,7 +231,7 @@ redirect_from:
 - <a target="_blank" href="/apps/?q=com.pzolee.sdcardtesterpro">
   <img alt="." src="/d/apk/apk24.png">
   **SD Card Test Pro**</a><br>
-  
+  - FX File Manager
 
 
 ## Стандартное
