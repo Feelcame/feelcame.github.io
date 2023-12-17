@@ -668,6 +668,8 @@ redirect_from:
 - Aard2. Словарь. Изучение языков. https://f-droid.org/packages/itkach.aard2/
 - RethinkDNS - брандмауэр, мониторинг сетевой активности, блокировка вредоносных программ, изменение DNS
 - InviZible Pro - Комплексное приложение, состоящее из DNSCrypt, Tor и Purple I2P. Для безопасности серфинга
+- **Hail** - Деактивация (отключение/заморозка) пользовательских и системных приложений <https://4pda.to/forum/index.php?showtopic=1060241>
+- Via browser
 </details>
 
 

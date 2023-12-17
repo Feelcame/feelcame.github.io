@@ -335,6 +335,7 @@ redirect_from:
 - Notable
 - Obsidian
 - Notion
+- Snagit
 
 
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
