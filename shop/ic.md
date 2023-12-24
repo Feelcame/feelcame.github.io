@@ -67,7 +67,7 @@ title: Микросхемы
 - MCP102/MCP103/MCP121/MCP131 Micropower Voltage Supervisors
 - MCP100/120, MCP111
 - kia7042 - voltage detector
-
+- MAX809 MAX810 - єкономный 5мка супервизор питания
 
 ## драйвер светодиода
 - CN5711 источник тока для светодиодов
