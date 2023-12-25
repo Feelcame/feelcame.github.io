@@ -155,7 +155,10 @@ redirect_from:
   **Opera Mini 7**</a><br>
   Старая версия для очень медленного интернета.
   [4PDA](https://4pda.to/forum/index.php?showtopic=100813)
-- Vivaldi браузер
+- <a target="_blank" href="/apps/?q=vivaldi">
+  <img alt="." src="/d/apk/apk24.png">
+  **Vivaldi браузер**</a><br>
+
 
 общение
 - <a target="_blank" href="/apps/?q=org.telegram.messenger">
@@ -231,7 +234,11 @@ redirect_from:
 - <a target="_blank" href="/apps/?q=com.pzolee.sdcardtesterpro">
   <img alt="." src="/d/apk/apk24.png">
   **SD Card Test Pro**</a><br>
-  - FX File Manager
+- <a target="_blank" href="/apps/?q=FX File Manager">
+  <img alt="." src="/d/apk/apk24.png">
+  **FX File Manager**</a><br>
+  Мощный файл менеджер
+
 
 
 ## Стандартное
@@ -289,7 +296,7 @@ redirect_from:
 - <a target="_blank" href="/apps/?q=com.simplemobiletools.calendar.pro">
   <img alt="." src="/d/apk/apk24.png">
   **Простой календарь**</a><br>
-  ОК замена гугловому календарю
+  замена гугловому календарю
 
 
 скачивание прог
@@ -418,8 +425,10 @@ redirect_from:
   <img alt="." src="/d/apk/apk24.png">
   **Binary Eye**</a><br>
   Удобный Сканер QR-кодов
-- **QuickShortcutMaker**(com.sika524.android.quickshortcut)
-  
+- <a target="_blank" href="/apps/?q=com.sika524.android.quickshortcut">
+  <img alt="." src="/d/apk/apk24.png">
+  **QuickShortcutMaker**</a><br>
+  Запуск активити приложений  
 
 
 [Наверх↑](#top)
@@ -566,6 +575,10 @@ redirect_from:
   <img alt="." src="/d/apk/apk24.png">
   **Windscribe**</a><br>
   Быстрый и безопасный VPN. Бесплатно 10гб
+- <a target="_blank" href="/apps/?q=warp">
+  <img alt="." src="/d/apk/apk24.png">
+  **Cloudflare WARP**</a><br>
+  Типа впн, но работает только для заблоканных сайтов
 
 
 [Наверх↑](#top)
