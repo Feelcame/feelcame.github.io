@@ -151,3 +151,12 @@ redirect_from: /hard/altium-designer/
 * Видеоуроки от BSVi - [youtube](https://www.youtube.com/playlist?list=PLgUwXvgNkHQJ3G5UoLGMfHJM2c-m4Afdx) + [телега](https://t.me/joinchat/SwRd2oF2DdCRhoam) + [торрент](https://rutracker.org/forum/viewtopic.php?t=3885433)
 * Видеоуроки от Сабунина - [youtube](https://www.youtube.com/channel/UCG7N5CqXpyK8nQjr1EmMgng) + [телега](https://t.me/joinchat/RVccqiNy9BfP1nQ9) + [торрент](https://rutracker.org/forum/viewtopic.php?t=4712666)
 * Видеоуроки от Altium Russia - [Ютуб канал](https://www.youtube.com/channel/UCvZ_kyV4ATrQfjmtVpuj0LQ)
+
+
+
+## Полезные ссылки
+Альтиум сетка
+<https://www.altium.com/ru/documentation/altium-designer/pcb-working-with-grids-guides/>
+
+Альтиум сетка 2
+<https://www.altium.com/ru/documentation/altium-designer/sch-cmd-togglevisiblegridtogglevisiblegrid-ad/?version=21>

@@ -144,6 +144,7 @@ redirect_from:
 
 <details markdown="1">
 <summary markdown="0">Показать еще</summary>
+
 - **DarkReader** - затемняет страницы<br>
   [оф.сайт](https://darkreader.org/)
 - **Sponsor Block** - вырезает нативную реклам в ютубе<br>
@@ -171,6 +172,10 @@ redirect_from:
   [chrome](https://chrome.google.com/webstore/detail/hls-player-m3u8-streaming/eakdijdofmnclopcffkkgmndadhbjgka)
 - **Adaptive Bitrate Manifest Viewer** - открывает плейлист m3u в виде текста<br>
   [chrome](https://chrome.google.com/webstore/detail/adaptive-bitrate-manifest/omjpjjekjefmdkidigpkhpjnojoadbih)
+- **Markdown Viewer** - просмотр файлов MD в браузере<br>
+  [github](https://github.com/simov/markdown-viewer#table-of-contents),
+  [chrome](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk),
+  [edge](https://microsoftedge.microsoft.com/addons/detail/markdown-viewer/cgfmehpekedojlmjepoimbfcafopimdg)
 </details>
 
 [Наверх↑](#top)
@@ -244,7 +249,7 @@ redirect_from:
 
 
 ### Безопасность 
-{: .no_toc #security }
+{: #security .no_toc }
 
 - **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню<br>
   [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
