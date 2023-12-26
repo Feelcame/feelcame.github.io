@@ -6,16 +6,12 @@ modified: 2023-03-20T22:24:23+03:00
 pin: 0
 ---
 
-
+**закреп**
 - [Программы для Android](/r/android.md)
 - [Программы для Windows](/r/windows.md)
-- [Настройка Windows](/r/winconfig.md)
 - [Печатные платы](/r/PCB.md)
 - [Arduino](/r/arduino.md)
-- [Модули ESP](/r/esp.md)
-- [Верстка HTML](/r/web.md) 
-- [Jekyll CMS](/r/jekyll.md)
-- [CMS (бэк)](/r/cms.md)
+
 
 
 
