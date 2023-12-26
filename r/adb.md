@@ -38,6 +38,8 @@ comments: 127
   [оф.сайт](https://androidp1.ru/adb-run-obzor-funktsiy/)
 - ApkShellext2. Показ иконок apk
 - adb
+- ADB Explorer <https://www.microsoft.com/store/productid/9PPGN2WM50QB?ocid=pdpshare>
+
 
 ## скачать APK
 

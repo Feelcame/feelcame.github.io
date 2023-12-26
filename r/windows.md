@@ -22,10 +22,9 @@ redirect_from:
 
 
 <div style="font-size: 13px;">
-[**MEGA**](https://mega.nz/folder/MvV32RgA#c4QjxbaA1_jal0KEnnfT8A)
-[**Telegram**](https://t.me/FeelSoftWin/105),
-[**Google Drive**](https://drive.google.com/drive/folders/1cGj7vn2WOUWIua2UW_5ZgH6gj1qhH29I?usp=sharing),
-[**FEX.NET**](https://fex.net/uk/s/vl6ftsa),
+
+[**MEGA**](https://mega.nz/folder/MvV32RgA#c4QjxbaA1_jal0KEnnfT8A),
+[**FEX**](https://fex.net/uk/s/vl6ftsa)
 </div>
 
 
@@ -310,6 +309,9 @@ redirect_from:
   [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
 - **Easy BCD** - редактор загрузчика с красивым GUI<br>
   [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
+- **Ventoy** - утилита создает загрузочный USB-накопитель, куда можно скопировать образы ISO/VHDX/WIM и загружаться с них напрямую выбором из меню, не задумываясь о размерах образов и ограничениях FAT32 
+  [оф.сайт](https://www.ventoy.net/en/index.html),
+  [sourceforge](https://sourceforge.net/projects/ventoy/files/latest/download)
 
 [Наверх↑](#top)
 
@@ -328,8 +330,6 @@ redirect_from:
 
 [Наверх↑](#top)
 
-## Управление Android
-- ADB Explorer <https://www.microsoft.com/store/productid/9PPGN2WM50QB?ocid=pdpshare>
 
 ## Не актуальное
 {: .no_toc }
