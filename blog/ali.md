@@ -29,7 +29,7 @@ date: 2023-12-24T11:11:11
 
 <a href="#" name="якорь для быстрого доступа к разделу" id="farm"></a>
 Ссылки на страницы где можно получить монеты. Для удобства перейди по этой [ссылке](#farm) и добавь страницу в закладки.
-- [coin-pc (desktop)(https://www.aliexpress.com/p/coin-pc-index/index.html)
+- [coin-pc (desktop)](https://www.aliexpress.com/p/coin-pc-index/index.html)
 - [Coins (mobile)](https://m.aliexpress.com/p/coin-index/index.html?_immersiveMode=true&from=checkinxx)
 - [Fantastic Farm (mobile)](https://campaign.aliexpress.com/wow/gcp/gold-coin-v3/index)
 - [gogo-match (mobile)](https://m.aliexpress.com/p/gogo-match-cc/index.html)
