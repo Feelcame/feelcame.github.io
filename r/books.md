@@ -5,14 +5,20 @@ title: Книги по программированию
 tags: proj
 ---
 
-Как быстро начать кодить? Краткий ответ: никак.
+- toc
+{: toc }
 
-## 
+## Алгоритны
 
 - Грокаем алгоритмы
 - Совершенный код
 
 ![image](https://user-images.githubusercontent.com/17731587/133764292-dd9713a8-b67a-4fc9-b68d-cc861da955e0.png)
+
+## Взлом и защита
+- Hacking the Xbox: An Introduction to Reverse Engineering
+
+## План обучения азам кодинга
 
 
 **Курсы программирования для самых маленьких**

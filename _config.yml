@@ -14,8 +14,8 @@ theme: jekyll-theme-cayman
 timezone: Europe/Kiev
 markdown: kramdown
 highlighter: rouge
-#url: ""
-#baseurl: ""
+baseurl: "/" # хардкодится перед каждой относительной ссылкой
+mybaseurl: "" # встраивается в шапку html
 
 kramdown:
   parse_span_html: true

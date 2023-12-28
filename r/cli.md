@@ -13,6 +13,8 @@ tags: server
 ## Windows. Командная строка, PowerShell
 Win+R > cmd > счастье
 
+А если через powershell? <https://windowsnotes.ru/powershell-2/zapusk-programmy-iz-powershell/>
+
 ## Полезные фишки
 ### Узнать почему комп не уходит в сон
 Скрипт ниже. Запускать от админа. Источник: <https://tinyurl.com/b43nh2mz>  
