@@ -15,7 +15,24 @@ tags: proj
 
 ![image](https://user-images.githubusercontent.com/17731587/133764292-dd9713a8-b67a-4fc9-b68d-cc861da955e0.png)
 
-## Взлом и защита
+- Кормен - Алгоритмы. Построение и анализ (2009)
+- Кнут - Исскусство программирования (2016)
+
+Столяров
+
+- Столяров - Оформление программного кода. Методическое пособие (2019)
+  http://stolyarov.info/books/codestyle
+- Столяров - Введение в язык Си++ (2020)
+  http://stolyarov.info/books/cppintro
+- Столяров - Программирование. введение в профессию. Трилогия (2021)
+  http://stolyarov.info/books/programming_intro/dmk
+- Столяров - Программирование. введение в профессию. Задачи и этюды (2022)
+  http://stolyarov.info/books/programming_intro/taskbook
+
+## Кибербезопасность
+
+Взлом и защита
+
 - Hacking the Xbox: An Introduction to Reverse Engineering
 
 ## План обучения азам кодинга
