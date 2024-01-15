@@ -1,6 +1,5 @@
 ---
 title: Компьютеры
-modified: 2021-11-15T23:13:19+02:00
 ---
 {% include breadcrumbs.html %}
 
@@ -11,7 +10,7 @@ modified: 2021-11-15T23:13:19+02:00
 
 
 ## Комплектуха
-- ssd goldenfif 360GB $30
+- ssd goldenfir
 
 
 
@@ -20,7 +19,23 @@ modified: 2021-11-15T23:13:19+02:00
 - Переходник IDE-SATA
 
 
-## Манипуляторы
+## пульты
 - Беспроводная клавиатура с тачпадом $10 
-- Эйр Маус
 - джойстики
+- Air Mouse 2016
+- Air Mouse G20s Pro
+- Air Mouse G50s
+- Air Mouse Ugoos UR-01
+
+
+
+## тв-приставки
+- x96 mini. маленькая
+- x96 max. мощная
+- x96q. дешевая
+- H96 Max
+- tox1
+- ugoos tox3
+- Ugoos X4Q Pro. дорогая
+- Tanix W2. интересная
+- Ugoos X4 Pro

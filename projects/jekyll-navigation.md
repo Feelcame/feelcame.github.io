@@ -3,7 +3,7 @@ title: dir-ls.md - Вывод навигации в Jekyll
 date: 2021-11-05T11:58:23+02:00
 modified: 2022-08-11T03:35:23+03:00
 comments: 108
-tags: web
+tags: web soft
 pin: 5
 ---
 

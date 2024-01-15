@@ -111,3 +111,7 @@ com.motorola.setup
 
 
 
+
+## Полезные ссылки
+- Android ADB - плагин для Total Commander, что бы копировать файлы с телефона на комп и обратно <https://4pda.to/forum/index.php?showtopic=998856>
+

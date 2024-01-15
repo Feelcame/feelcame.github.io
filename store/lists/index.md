@@ -5,6 +5,13 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 ---
 
 
+# All-lists
+
+{% include dir-ls.md %}
+
+---
+
+
 <div class="grid">
 {% include dir-ls.md date="no" dir="/shop/" %}
 </div>
