@@ -20,11 +20,11 @@ pin: 5
 ## Использование
 Простой пример:
 
-    {% raw %}{% include dir-ls.md %}{% endraw %}
+	{% raw %}{% include dir-ls.md %}{% endraw %}
 
 Передача параметров: 
 
-    {% raw %}{% include dir-ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles" %}{% endraw %}
+	{% raw %}{% include dir-ls.md dir="/projects/" tag="hardware" pinned="yes" date="no" spoiler="Articles" %}{% endraw %}
 
 
 
@@ -76,35 +76,39 @@ pin: 5
 {: #bugs }
 - Если выводить по тегам, то надо вручную проверять что все страницы вывелись. Идеально сделать отладочный вывод: сколько страниц в папке было, а сколько вывелось со всеми заданными тегами
 - Заменить `prepend: site.baseurl` на более правильный вариант фильтра `relative_url`. Он исключает случайное дублирование слешей
-
+- сортировка страниц без даты происходит в обратном порядке. по имени должно сортироваться в прямом порядке
+- убрать параметр spoiler. он не нужен
 
 
 ## Пояснение работы
 {: #work }
 
 Внутри цикла FOR перебираются все страницы и оставляются только нужные. Затем сортировка, группировка, украшение html-тегами и вывод
-    
-    {% raw %}
-    <ol>
-    {%- for pg in output_pages -%}
-      <li>
-        <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
-      </li>
-    </ol>
-    {% endraw %}
+	
+{% raw %}
+``` html
+<ol>
+{%- for pg in output_pages -%}
+  <li>
+    <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a>
+  </li>
+{% endfor %}
+</ol>
+```
+{% endraw %}
 
 Для сортировки и фильтрации используются встроенные в Jekyll так называемые Liquid-фильтры. В примере ниже (строка 1) также показан пример передачи параметра
 
-    {% raw %}
-    {%- assign directory = include.dir | default: page.dir -%}  
-    {%- 
-      assign output_pages = site.pages 
-      | where: "dir",  directory 
-      | where_exp: "item", "item.pin != 0"
-      | sort: "date" 
-      | reverse 
-    -%}  
-    {% endraw %}
+	{% raw %}
+	{%- assign directory = include.dir | default: page.dir -%}  
+	{%- 
+	  assign output_pages = site.pages 
+	  | where: "dir",  directory 
+	  | where_exp: "item", "item.pin != 0"
+	  | sort: "date" 
+	  | reverse 
+	-%}  
+	{% endraw %}
 
 ## Список изменений  
 {: #changelog }
@@ -142,7 +146,7 @@ v1.1.211106
 - Фильтрация роезультатов по параметру `tag`
 
 v1.0.0
-- скопипастил цикл FOR из интернеетов и попробовал внедрить у себя на сайте. Версию назвал "1" т.к оно уже в работе
+- скопипастил цикл FOR из интернеетов и попробовал внедрить у себя на сайте. Версию назвал "1.0.0" т.к оно уже в работе
 
 </details>
 
@@ -206,8 +210,8 @@ v1.0.0
 <ol reversed id="navigation">
 {%- for pg in finish_pages -%}
   <li>{%- if pg.index > 0 -%}:pushpin:{%- endif -%}
-    <a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a> 
-    <time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
+	<a href="{{ pg.url | prepend: site.baseurl }}">{{ pg.title | default: pg.name }}</a> 
+	<time class="shaded">{{ pg.date | date: "%Y-%m-%d" | default: "гггг-мм-дд" }}</time>
   </li>
 {%- endfor -%}
 </ol>
