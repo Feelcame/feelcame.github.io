@@ -1,5 +1,7 @@
 ---
 title: Компьютеры
+redirect-from:
+  - /store/computers
 ---
 {% include breadcrumbs.html %}
 

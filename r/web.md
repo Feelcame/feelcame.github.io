@@ -99,6 +99,7 @@ JavaScript — язык программирования, широко испо�
 8. [codesandbox](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics?on=codesandbox) 
 9. [gitpod](https://gitpod.io/?on=gitpod#https://github.com/withastro/astro/tree/latest/examples/basics) 
 10. [stackblitz](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics?file=README.md&on=stackblitz) 
+11. <https://developer.mozilla.org/ru/play>
 
 #### Совместное редактирование
 - <https://collabedit.com/>
