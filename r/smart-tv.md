@@ -113,6 +113,10 @@ http://lampatv.fun/freetv.js - плейлист с прямыми потокам
 ## Полезные ссылки
 - [обсуждение способов смотреть кино на 4пда](https://4pda.to/forum/index.php?showtopic=1060044)
 
+- Leanback on Fire - лончер
+- tvQuickActions - переназначение клавиш
+
+- [Каталог программ для Android медиа-приставок и телевизоров](https://4pda.to/forum/index.php?showtopic=740069#entry50826642)
 
 
 

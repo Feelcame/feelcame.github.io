@@ -234,11 +234,11 @@ redirect_from:
 - <a target="_blank" href="/apps/?q=com.pzolee.sdcardtesterpro">
   <img alt="." src="/d/apk/apk24.png">
   **SD Card Test Pro**</a><br>
-- <a target="_blank" href="/apps/?q=FX File Manager">
+- <a target="_blank" href="/apps/?q=nextapp.fx">
   <img alt="." src="/d/apk/apk24.png">
   **FX File Manager**</a><br>
-  Мощный файл менеджер
-
+  Мощный файл менеджер. 
+  [4PDA](https://4pda.to/forum/index.php?showtopic=268117)
 
 
 ## Стандартное
