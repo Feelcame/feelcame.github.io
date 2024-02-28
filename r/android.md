@@ -11,6 +11,7 @@ redirect_from:
 ---
 
 [MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
+[MEGA2](https://mega.nz/folder/gjlwWbJY#xpLfu5IHjzwoYykuM_ucvQ), 
 [telegram](https://t.me/feelsoftan)
 
 - Навигатор  
