@@ -165,9 +165,11 @@ plugins:
 ```
 
 
+**Конфигурация**
 
+<https://kramdown.gettalong.org/options.html>
 
-
+<https://www.jekyll.com.cn/docs/configuration/markdown/>
 
 
 ## Liquid-скрипты

@@ -20,6 +20,13 @@ baseurl: "" # хардкодится перед каждой относител�
 kramdown:
   parse_span_html: true
   parse_block_html: true
+  toc_levels             : 1..3
+#  input                  : GFM
+#  hard_wrap              : false
+#  auto_ids               : true
+#  entity_output          : as_char
+#  smart_quotes           : lsquo,rsquo,ldquo,rdquo
+#  enable_coderay         : false
 
 plugins:
   - jekyll-redirect-from

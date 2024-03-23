@@ -28,66 +28,163 @@ redirect_from:
 </div>
 
 
-### Музыка
-{: #music }
-- **AIMP** - удобный проигрыватель музыки, конвертер, редактор тегов<br>
-  [оф.сайт](http://www.aimp.ru/?do=download&os=windows), 
-  [biblprog](https://biblprog.org.ua/ua/aimp/download/),
-  [softportal](https://www.softportal.com/get-5099-aimp.html)
-- **Audacity** - запись и редактирование звука<br>
-  [оф.сайт](https://www.audacityteam.org/download/)
-- **VoiceMeeter Banana** - виртуальный микшер, для перенаправления звука.<br>
-  [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install%20Voicemeeter)
-- **Equalizer APO** - нативный эквалайзер на всю систему.<br>
-  [оф.сайт](https://equalizerapo.com/download.html),
-- **UV SoundRecorder** - записать звук одновременно c микрофона и колонок.<br>
-  [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать%20для%20Windows)
+### Музыка {#music}
+<details><summary markdown="0"><b>AIMP</b></summary>  
+Удобный проигрыватель музыки, конвертер, редактор тегов
+- [оф.сайт](http://www.aimp.ru/?do=download&os=windows)
+- [biblprog](https://biblprog.org.ua/ua/aimp/download/)
+- [softportal](https://www.softportal.com/get-5099-aimp.html)
+</details>
+
+
+<details><summary markdown="0"><b>Audacity</b></summary>  
+Запись и редактирование звука
+- [оф.сайт](https://www.audacityteam.org/download/)
+</details>
+
+
+<details><summary markdown="0"><b>VoiceMeeter Banana</b></summary>  
+Виртуальный микшер, для перенаправления и обработки звука на лету
+- [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install%20Voicemeeter)
+</details>
+
+
+<details><summary markdown="0"><b>Equalizer APO</b></summary>  
+Нативный эквалайзер на всю систему
+- [оф.сайт](https://equalizerapo.com/download.html)
+</details>
+
+
+<details><summary markdown="0"><b>UV SoundRecorder</b></summary>  
+Записать звук одновременно c микрофона и колонок
+- [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать%20для%20Windows)
+</details>
 
 
 [Наверх↑](#top)
 
 
 
-### Видео
-{: #video }
-- **PotPlayer** - видеоплеер<br>
-  [оф.сайт](https://potplayer.daum.net/), 
-  [сайт(ru)](https://potplayer.ru/download/), 
-  [softportal](https://www.softportal.com/get-21466-potplayer.html), 
-  [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/),
-  [codecpackи](https://codecpack.co/download/PotPlayer.html),
-  [vLatest64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe),
-  [кодеки64](https://get.daum.net/PotPlayer/Codec/OpenCodecSetup64.exe)
-- **Bandicam** - запись видео с экрана<br>
-  [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647),
-  [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam)
-- **FFQueue** - быстрый редактор видео на основе FFMpeg с графическим интерфейсом<br>
-  [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx),
-  [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
-- **Any Video Converter** - конвертер видео, старенький, шустро работает<br>
-  v3.2.1(telegram)
-- **MakeMKV** - упаковать DVD-Video в один файл MKV<br>
-  [оф.сайт](https://www.makemkv.com/download/)
+### Видео {#video}
+<details><summary markdown="0"><b>PotPlayer</b></summary>  
+Всеядный видеоплеер
+- [оф.сайт](https://potplayer.daum.net/)
+- [softportal](https://www.softportal.com/get-21466-potplayer.html)
+- [biblprog](https://biblprog.org.ua/ru/daum_potplayer/download/)
+- [codecpackи](https://codecpack.co/download/PotPlayer.html)
+- [vLatest64](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)
+- [кодеки64](https://get.daum.net/PotPlayer/Codec/OpenCodecSetup64.exe)
+</details>
+
+
+<details>
+<summary markdown="0"><b>Bandicam</b></summary>  
+Запись видео с экрана
+- [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647)
+- [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam)
+</details>
+
+
+<details>
+<summary markdown="0"><b>FFQueue</b></summary>  
+Быстрый редактор видео на основе FFMpeg с графическим интерфейсом
+- [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
+- [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
+</details>
+
+
+<details>
+<summary markdown="0"><b>Any Video Converter</b></summary>  
+Конвертер видео, старенький, шустро работает
+- v3.2.1(telegram)
+</details>
+
+
+<details>
+<summary markdown="0"><b>MakeMKV</b></summary>  
+Позволяет упаковать DVD-Video в один файл MKV
+- [оф.сайт](https://www.makemkv.com/download/)
+</details>
+  
 
 [Наверх↑](#top)
 
 
 
-### Графика
-{: #img }
-- **XnView MP** - Просмотр фото<br>
-  [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows)
-- **Paint.Net** - Редактор фото<br>
-  [оф.сайт](https://paintnet.ru/download/)
-- **Krita** - крутая рисовалка для графического планшета<br>
-  [оф.сайт](https://krita.org/en/download/krita-desktop/)
+### Графика {#img}
+<details>
+<summary markdown="0"><b>XnView MP</b></summary>  
+
+Просмотр фото. Встроен примитивный редактор
+- [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows)
+</details>
+
+---
+
+<details>
+<summary markdown="0"><b>Paint.Net</b></summary>  
+
+Редактор графики в стиле стандартного пейнта
+- [оф.сайт](https://paintnet.ru/download/)
+</details>
+
+---
+
+<details>
+<summary markdown="0"><b>Krita</b></summary>  
+
+Крутая рисовалка для графического планшета
+- [оф.сайт](https://krita.org/en/download/krita-desktop/)
+</details>
+
 
 [Наверх↑](#top)
 
 
+### Офис {#office}
 
-### Офис
-{: #office }
+<details><summary markdown="0"><b>Notepad++</b></summary>  
+Редактор текста с подсветкой синтаксиса
+- [оф.сайт](https://notepad-plus-plus.org/downloads/)
+</details>
+
+
+
+<details><summary markdown="0"><b>SumatraPDF</b></summary>
+Простая читалка с редактором аннотаций
+- [оф.сайт](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+</details>
+
+
+
+<details><summary markdown="0"><b>STDU Viewer</b></summary>
+Читалка PDF родом из нулевых
+- [оф.сайт](http://www.stdutility.com/stduviewer.html)
+</details>
+
+
+
+<details><summary markdown="0"><b>Microsoft Office</b></summary>
+Редактор офисных документов. Долго ставится. В комплекте Word, Excell, PowerPoint. 
+- [оф.сайт если есть лицензия](https://www.office.com/?auth=2)
+- [поиск (rutracker)](https://rutracker.org/forum/tracker.php?nm=Microsoft%20Office)
+- [2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841)
+- [2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069)
+- [2021(rtr)](https://rutracker.org/forum/viewtopic.php?t=6087671)
+</details>
+
+
+
+<details><summary markdown="0"><b>Scanner for Windows 10</b></summary>
+Программа сканер. Разработано специально для десятки
+- [Github](https://github.com/simon-knuth/scanner/releases/latest)
+- [Microsoft Store](https://apps.microsoft.com/detail/9n438mzhd3zf)
+</details>
+
+
+
+
+{% comment %}
 - **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
   [оф.сайт](https://notepad-plus-plus.org/downloads/) 
 - **SumatraPDF** - Простая читалка с редактором аннотаций<br>
@@ -100,6 +197,8 @@ redirect_from:
   [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
   [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
   [v2021(rtr)](https://rutracker.org/forum/viewtopic.php?t=6087671)
+{% endcomment %}
+
 
 [Наверх↑](#top)
 
@@ -331,6 +430,12 @@ redirect_from:
 [Наверх↑](#top)
 
 
+## На проверке
+{: #new .no_toc }
+
+
+
+
 ## Не актуальное
 {: .no_toc }
 
@@ -343,6 +448,8 @@ redirect_from:
 - Snagit
 
 
+- **Scanner for Windows 10**  
+  [github](https://github.com/simon-knuth/scanner/releases/latest)
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)
