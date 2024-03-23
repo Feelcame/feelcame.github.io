@@ -119,7 +119,6 @@ redirect_from:
 - [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows)
 </details>
 
----
 
 <details>
 <summary markdown="0"><b>Paint.Net</b></summary>  
@@ -128,7 +127,6 @@ redirect_from:
 - [оф.сайт](https://paintnet.ru/download/)
 </details>
 
----
 
 <details>
 <summary markdown="0"><b>Krita</b></summary>  
