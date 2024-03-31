@@ -8,6 +8,7 @@ tags: native
 redirect_from: 
   - /soft/windows/
   - /soft/windows
+style: 'details summary {font-weight: bold;}'
 ---
 
 
@@ -29,7 +30,8 @@ redirect_from:
 
 
 ### Музыка {#music}
-<details><summary markdown="0"><b>AIMP</b></summary>  
+
+<details><summary markdown="0">AIMP</summary>  
 Удобный проигрыватель музыки, конвертер, редактор тегов
 - [оф.сайт](http://www.aimp.ru/?do=download&os=windows)
 - [biblprog](https://biblprog.org.ua/ua/aimp/download/)
@@ -37,25 +39,25 @@ redirect_from:
 </details>
 
 
-<details><summary markdown="0"><b>Audacity</b></summary>  
+<details><summary markdown="0">Audacity</summary>  
 Запись и редактирование звука
 - [оф.сайт](https://www.audacityteam.org/download/)
 </details>
 
 
-<details><summary markdown="0"><b>VoiceMeeter Banana</b></summary>  
+<details><summary markdown="0">VoiceMeeter Banana</summary>  
 Виртуальный микшер, для перенаправления и обработки звука на лету
 - [оф.сайт](https://vb-audio.com/Voicemeeter/banana.htm#:~:text=Install%20Voicemeeter)
 </details>
 
 
-<details><summary markdown="0"><b>Equalizer APO</b></summary>  
+<details><summary markdown="0">Equalizer APO</summary>  
 Нативный эквалайзер на всю систему
 - [оф.сайт](https://equalizerapo.com/download.html)
 </details>
 
 
-<details><summary markdown="0"><b>UV SoundRecorder</b></summary>  
+<details><summary markdown="0">UV SoundRecorder</summary>  
 Записать звук одновременно c микрофона и колонок
 - [оф.сайт](https://uvsoftium.ru/products/uvsoundrecorder#:~:text=Скачать%20для%20Windows)
 </details>
@@ -66,7 +68,8 @@ redirect_from:
 
 
 ### Видео {#video}
-<details><summary markdown="0"><b>PotPlayer</b></summary>  
+
+<details><summary markdown="0">PotPlayer</summary>  
 Всеядный видеоплеер
 - [оф.сайт](https://potplayer.daum.net/)
 - [softportal](https://www.softportal.com/get-21466-potplayer.html)
@@ -77,31 +80,27 @@ redirect_from:
 </details>
 
 
-<details>
-<summary markdown="0"><b>Bandicam</b></summary>  
+<details><summary markdown="0">Bandicam</summary>  
 Запись видео с экрана
 - [v6.0.1 (rtr)](https://rutracker.org/forum/viewtopic.php?t=5965647)
 - [поиск по rutracker](https://rutracker.org/forum/tracker.php?nm=bandicam)
 </details>
 
 
-<details>
-<summary markdown="0"><b>FFQueue</b></summary>  
+<details><summary markdown="0">FFQueue</summary>  
 Быстрый редактор видео на основе FFMpeg с графическим интерфейсом
 - [оф.сайт](http://ffqueue.bruchhaus.dk/Download.aspx)
 - [ffmpeg](https://www.ffmpeg.org/download.html#:~:text=Get%20packages)
 </details>
 
 
-<details>
-<summary markdown="0"><b>Any Video Converter</b></summary>  
+<details><summary markdown="0">Any Video Converter</summary>  
 Конвертер видео, старенький, шустро работает
 - v3.2.1(telegram)
 </details>
 
 
-<details>
-<summary markdown="0"><b>MakeMKV</b></summary>  
+<details><summary markdown="0">MakeMKV</summary>  
 Позволяет упаковать DVD-Video в один файл MKV
 - [оф.сайт](https://www.makemkv.com/download/)
 </details>
@@ -112,25 +111,20 @@ redirect_from:
 
 
 ### Графика {#img}
-<details>
-<summary markdown="0"><b>XnView MP</b></summary>  
 
+<details><summary markdown="0">XnView MP</summary>  
 Просмотр фото. Встроен примитивный редактор
 - [оф.сайт](https://www.xnview.com/en/xnviewmp/#:~:text=Installer%20or%20ZIP%20archive%20for%20Windows)
 </details>
 
 
-<details>
-<summary markdown="0"><b>Paint.Net</b></summary>  
-
+<details><summary markdown="0">Paint.Net</summary>
 Редактор графики в стиле стандартного пейнта
 - [оф.сайт](https://paintnet.ru/download/)
 </details>
 
 
-<details>
-<summary markdown="0"><b>Krita</b></summary>  
-
+<details><summary markdown="0">Krita</summary>
 Крутая рисовалка для графического планшета
 - [оф.сайт](https://krita.org/en/download/krita-desktop/)
 </details>
@@ -141,28 +135,28 @@ redirect_from:
 
 ### Офис {#office}
 
-<details><summary markdown="0"><b>Notepad++</b></summary>  
+<details><summary markdown="0">Notepad++</summary>  
 Редактор текста с подсветкой синтаксиса
 - [оф.сайт](https://notepad-plus-plus.org/downloads/)
 </details>
 
 
 
-<details><summary markdown="0"><b>SumatraPDF</b></summary>
+<details><summary markdown="0">SumatraPDF</summary>
 Простая читалка с редактором аннотаций
 - [оф.сайт](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 </details>
 
 
 
-<details><summary markdown="0"><b>STDU Viewer</b></summary>
+<details><summary markdown="0">STDU Viewer</summary>
 Читалка PDF родом из нулевых
 - [оф.сайт](http://www.stdutility.com/stduviewer.html)
 </details>
 
 
 
-<details><summary markdown="0"><b>Microsoft Office</b></summary>
+<details><summary markdown="0">Microsoft Office</summary>
 Редактор офисных документов. Долго ставится. В комплекте Word, Excell, PowerPoint. 
 - [оф.сайт если есть лицензия](https://www.office.com/?auth=2)
 - [поиск (rutracker)](https://rutracker.org/forum/tracker.php?nm=Microsoft%20Office)
@@ -173,51 +167,53 @@ redirect_from:
 
 
 
-<details><summary markdown="0"><b>Scanner for Windows 10</b></summary>
+<details><summary markdown="0">Scanner for Windows 10</summary>
 Программа сканер. Разработано специально для десятки
 - [Github](https://github.com/simon-knuth/scanner/releases/latest)
 - [Microsoft Store](https://apps.microsoft.com/detail/9n438mzhd3zf)
 </details>
 
 
-
-
-{% comment %}
-- **Notepad++** - Редактор текста с подсветкой синтаксиса<br>
-  [оф.сайт](https://notepad-plus-plus.org/downloads/) 
-- **SumatraPDF** - Простая читалка с редактором аннотаций<br>
-  [оф.сайт](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
-- **STDU Viewer** - Читалка PDF родом из нулевых<br>
-  [оф.сайт](http://www.stdutility.com/stduviewer.html)
-- **Microsoft Office** - Word, Excell, PowerPoint. Долго ставится. Торренты<br>
-  [оф.сайт](https://www.office.com/?auth=2),
-  [поиск(rtr)](https://rutracker.org/forum/tracker.php?nm=Microsoft%20Office),
-  [v2007(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1282841), 
-  [v2010(nnm)](http://nnmclub.to/forum/viewtopic.php?t=1376069), 
-  [v2021(rtr)](https://rutracker.org/forum/viewtopic.php?t=6087671)
-{% endcomment %}
-
-
 [Наверх↑](#top)
 
 
 
-### Интернет
-{: #internet }
-- **Google Chrome** - слей свои данные<br>
-  [оф.сайт (standalone)](http://google.com/intl/ru/chrome/?standalone=1)
-- **Mozilla Firefox** - Браузер для людей<br>
-  [оф.сайт](https://www.mozilla.org/ru/firefox/all/), 
-  [portable](https://portableapps.com/apps/internet/firefox_portable#:~:text=Russian)
-- **Telegram** - удобный мессенджер<br>
-  [оф.сайт](https://desktop.telegram.org/)
-- **Kotatogram** - модификация телеги, быстрая выгрузка файлов<br>
-  [оф.сайт модификации](https://kotatogram.github.io/ru/download/#beta)
-- **qBitTorrent** - скачивание файлов, обмен файлами p2p<br>
-  [оф.сайт](https://www.qbittorrent.org/), 
-  [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows%20x64), 
-  [biblprog](http://biblprog.org.ua/ru/qbittorrent/download),
-  [v4.4.5old (для x86)](https://www.fosshub.com/qBittorrent-old.html#:~:text=[v4.4.5]%20qBittorrent%20Windows)
+### Интернет {#internet}
+
+<details><summary markdown="0">Google Chrome</summary>
+- [оф.сайт (standalone)](http://google.com/intl/ru/chrome/?standalone=1)
+</details>
+
+<details><summary markdown="0">Mozilla Firefox</summary>
+- [оф.сайт](https://www.mozilla.org/ru/firefox/all/)
+- [portable](https://portableapps.com/apps/internet/firefox_portable#:~:text=Russian)
+</details>
+
+<details><summary markdown="0">Telegram</summary>
+удобный мессенджер
+- [оф.сайт](https://desktop.telegram.org/)
+</details>
+
+<details><summary markdown="0">Kotatogram</summary>
+модификация телеги, быстрая выгрузка файлов
+- [оф.сайт](https://kotatogram.github.io/ru/download/#beta)
+</details>
+
+
+<details><summary markdown="0">qBitTorrent</summary>
+скачивание файлов, обмен файлами p2p
+- [оф.сайт](https://www.qbittorrent.org)
+- [fosshub](http://fosshub.com/qBittorrent.html#:~:text=Windows%20x64)
+- [biblprog](http://biblprog.org.ua/ru/qbittorrent/download)
+- [v4.4.5old (для x86)](https://www.fosshub.com/qBittorrent-old.html#:~:text=[v4.4.5]%20qBittorrent%20Windows)
+</details>
+
+<details><summary markdown="0">Cloudflare WARP VPN</summary>
+Программа для разблокировки сайтов. Бесплатная, без ограничений. Единственное что неудобно - нельзя отключить обновления. Есть версия для телефона
+- [оф.сайт](https://one.one.one.one/)
+- [App Center](https://install.appcenter.ms/orgs/cloudflare/apps/1.1.1.1-windows-1/distribution_groups/release)
+</details> 
+
 
 [Наверх↑](#top)
 
@@ -225,42 +221,51 @@ redirect_from:
 
 ### Расширения
 {: .no_toc #addons }
-- **AdBlock Plus** - скрывает рекламу, за щет этого ускоряет работу<br>
-  [оф.сайт](https://adblockplus.org/ru/download),
-  [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
-- **Blank New Tab Page** - заменяет стартовую страницу на пустую<br>
-  [оф.сайт](https://yuhaofe.com/blank-new-tab-page),
-  [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh),
-  [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm),
-  [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
-- **Переводчик SailorMax** - удобный, универсальный<br>
-  [opera](https://addons.opera.com/ru/extensions/details/translator/), 
-  [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/),
-  [edge](https://microsoftedge.microsoft.com/addons/detail/translator/cdkmohnpfdennnemmjekmmiibgfddako?hl=ru-RU)
 
-<details markdown="1">
-<summary markdown="0">Показать еще</summary>
+<details><summary markdown="0">AdBlock Plus</summary>
+скрывает рекламу, за щет этого ускоряет работу
+- [оф.сайт](https://adblockplus.org/ru/download)
+- [chrome](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
+</details>
 
-- **DarkReader** - затемняет страницы<br>
+<details><summary markdown="0">Blank New Tab Page</summary>
+заменяет стартовую страницу на пустую
+- [оф.сайт](https://yuhaofe.com/blank-new-tab-page)
+- [chrome](https://chrome.google.com/webstore/detail/blank-new-tab-page-white/jmbngnnlimnakiibacglaeflpghellfh)
+- [edge](https://microsoftedge.microsoft.com/addons/detail/kakgoomeaegcolfmaaogfmifnnmllpkm)
+- [github](https://github.com/yuhaofe/Blank-New-Tab-Page---White-Smoke)
+</details>
+
+<details><summary markdown="0">Переводчик SailorMax</summary>
+Удобный, универсальный. Не работает в хроме, ибо гугл нещадно банит конкурентов
+- [opera](https://addons.opera.com/ru/extensions/details/translator/)
+- [firefox](https://addons.mozilla.org/ru/firefox/addon/translator-2/)
+- [edge](https://microsoftedge.microsoft.com/addons/detail/translator/cdkmohnpfdennnemmjekmmiibgfddako?hl=ru-RU)
+</details>
+
+
+<details><summary markdown="0">Показать еще</summary>
+
+- **DarkReader** - затемняет страницы.
   [оф.сайт](https://darkreader.org/)
-- **Sponsor Block** - вырезает нативную реклам в ютубе<br>
+- **Sponsor Block** - вырезает нативную реклам в ютубе
   [оф.сайт](https://sponsor.ajay.app/)
-- **Quick Bookmarks Menu** - быстрый доступ к закладкам<br>
+- **Quick Bookmarks Menu** - быстрый доступ к закладкам.
   [оф.сайт](https://yuhaofe.com/quick-bookmarks-menu),
   [chrome](https://chrome.google.com/webstore/detail/quick-bookmarks-menu/fkemipdcgbeknabedhecepcebhlnlhbf)
-- **Steam Recorder** - Скачивание видео и трансляций<br>
+- **Steam Recorder** - Скачивание видео и трансляций.
   [оф.сайт](https://www.hlsloader.com/install.html), 
   [chrome](https://chrome.google.com/webstore/detail/stream-recorder-download/iogidnfllpdhagebkblkgbfijkbkjdmm)
-- **Yandex Acces** - доступ к вк, ок и афк. Разработчик яндекс<br>
+- **Yandex Acces** - доступ к вк, ок и афк. Разработчик яндекс.
   ссылки нет
-- **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность<br>
+- **Video Resume** - продолжает ютуб с места остановки. змечена фоновая активность.
   [chrome](https://chrome.google.com/webstore/detail/video-resumer/bongjkoajofkfpofginnhecihgaeldpe)
-- **Windscribe** - Платный VPN-сервис для разблокировки сайтов<br>
+- **Windscribe** - Платный VPN-сервис для разблокировки сайтов.
   [оф.сайт](https://rus.windscribe.com/download)
-- **Video Downloader Plus** - скачивает видео из фейсбука<br>
+- **Video Downloader Plus** - скачивает видео из фейсбука.
   [chrome](https://chrome.google.com/webstore/detail/video-downloader-plus/cfejhehdhaaeoiahaojjhmjaihjaodcf),
   [архив](https://extpose.com/ext/206921/ru)
-- **m3u8 sniffer** - вылавливает ссылки на поток для просмотра в отдельной вкладке<br>
+- **m3u8 sniffer** - вылавливает ссылки на поток для просмотра в отдельной вкладке.
   [оф.сайт](http://sigmafxdx.com/m3u8Sniffer/),
   [chrome](https://chrome.google.com/webstore/detail/video-m3u8-sniffer-find-h/akkncdpkjlfanomlnpmmolafofpnpjgn)
 - **HLS player** - воспроизведение ссылки на поток прямо в браузере. можно расшарить ссылку через оф.сайт<br>
@@ -278,67 +283,127 @@ redirect_from:
 
 
 
-### Сеть
-{: #network }
-- **NetTraffic** - плавающий график скорости интернета, статистика<br>
-  [оф.сайт(прямая ссылка)](https://www.venea.net/web/downloads_start/nettraffic)
-- **OpenVPN** - cоединение компов в локалку через интернет<br>
-  [оф.сайт](https://openvpn.net/community-downloads/)
-- **AnyDesk** - удаленное управление<br>
-  [оф.сайт](http://anydesk.com/ru/downloads)
-- **ChromeCacheView** - сохранение закешированных браузером файлов  
-  [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
-- **Softperfect Networx** - мониторинг скорости сети на панели задач, статистика<br>
-  [v5.5-free (biblprog)](http://biblprog.org.ua/ru/networx/download)
-- **Softperfect Netscan**<br>
-  [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
-- **Advanced IP Scanner**<br>
-  [оф.сайт](https://www.advanced-ip-scanner.com/ru/)
-  
+### Сеть {#network}
+
+<details><summary markdown="0">NetTraffic</summary>
+плавающий график скорости интернета, статистика
+- [оф.сайт(прямая ссылка)](https://www.venea.net/web/downloads_start/nettraffic)
+</details>
+
+<details><summary markdown="0">OpenVPN</summary>
+cоединение компов в локалку через интернет
+- [оф.сайт](https://openvpn.net/community-downloads/)
+</details>
+
+<details><summary markdown="0">AnyDesk</summary>
+удаленное управление
+- [оф.сайт](http://anydesk.com/ru/downloads)
+</details>
+
+<details><summary markdown="0">ChromeCacheView</summary>
+сохранение закешированных браузером файлов
+- [оф.сайт](https://www.nirsoft.net/utils/chrome_cache_view.html#:~:text=Download%20ChromeCacheView)
+</details>
+
+<details><summary markdown="0">Softperfect Networx</summary>
+мониторинг скорости сети на панели задач, статистика
+- [v5.5-free (biblprog)](http://biblprog.org.ua/ru/networx/download)
+</details>
+
+<details><summary markdown="0">Softperfect Netscan</summary>
+Сканер сети. Быстро работающий, но платный
+- [оф.сайт(trial)](https://www.softperfect.com/products/networkscanner/)
+</details>
+
+<details><summary markdown="0">Advanced IP Scanner</summary>
+Бесплатный сканер сети
+- [оф.сайт](https://www.advanced-ip-scanner.com/ru/)
+</details>
+
 
 [Наверх↑](#top)
 
 
 
-### Файлы
-{: #files }
-- **7-zip** - архиватор с открытым исходным кодом<br>
-  [оф.сайт](https://www.7-zip.org/download.html)
-- **WinRAR** - мощный архиватор с большой историей<br>
-  [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=winrar)
-- **Total Commander** - двухпанельный файл-менеджер<br>
-  [раздача(rtr)](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
-- **WinDirStat**<br>
-  [оф.сайт](https://windirstat.net/download.html),
-  [fosshub](https://www.fosshub.com/WinDirStat.html)
-- **WizTree** - анализ места на диске<br>
-  [оф.сайт](https://diskanalyzer.com/download)
-- **Duplicate File Detector** - поиск дубликатов файлов<br>
-  [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
-- **Uninstall Tool** - удаление программ с корнями<br>
-  v3.2.1(tlgur)
-- **Geek Uninstaller** - расширенное удаление программ<br>
-  [оф.сайт](https://geekuninstaller.com/ru/download)
+### Файлы {#files}
+
+<details><summary markdown="0">7-zip</summary>
+архиватор с открытым исходным кодом
+- [оф.сайт](https://www.7-zip.org/download.html)
+</details>
+
+
+<details><summary markdown="0">WinRAR</summary>
+мощный архиватор с большой историей
+- [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=winrar)
+</details>
+
+<details><summary markdown="0">Total Commander</summary>
+двухпанельный файл-менеджер
+- [раздача(rtr)](https://rutracker.org/forum/tracker.php?nm=Total+Commander+PowerPack)
+</details>
+
+<details><summary markdown="0">WinDirStat</summary>
+- [оф.сайт](https://windirstat.net/download.html)- [fosshub](https://www.fosshub.com/WinDirStat.html)
+</details>
+
+<details><summary markdown="0">WizTree</summary>
+анализ места на диске 
+- [оф.сайт](https://diskanalyzer.com/download)
+</details>
+
+<details><summary markdown="0">Duplicate File Detector</summary>
+поиск дубликатов файлов
+- [1drv](https://1drv.ms/u/s!An7p8rERUur5hGYV5MscshoeOfgs)
+</details>
+
+
+<details><summary markdown="0">Uninstall Tool</summary>
+удаление программ с корнями
+</details>
+
+
+<details><summary markdown="0">Geek Uninstaller</summary>
+расширенное удаление программ
+- [оф.сайт](https://geekuninstaller.com/ru/download)
+</details>
+
 
 [Наверх↑](#top)
 
 
 
-### Система
-{: #system }
-- **WinAero Tweaker** - тонккая настройка системы по инструкциям майкрософт<br>
-  [оф.сайт](https://winaero.com/),
-  [мой пресет](https://files.catbox.moe/bzor5u.ini)
-- **CPU-Z** - характеристики, бенчмарк процессора, сравнение<br>
-  [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download)
-- **HWinfo** - просмотр характеристик компа, датчиков температуры<br>
-  [оф.сайт](https://www.hwinfo.com/download/)
-- **AIDA64** - просмотр характеристик компа. платкая<br>
-  [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=aida64)
-- **Furmark** - нагружает видуху по полной для проверки стабильности<br>
-  [оф.сайт](https://geeks3d.com/furmark/downloads/), 
-- **OCCT** - максимально нагружает комп<br>
-  оф.сайт
+### Система {#system}
+
+<details><summary markdown="0">WinAero Tweaker</summary>
+тонккая настройка системы по инструкциям майкрософт
+- [оф.сайт](https://winaero.com/)- [мой пресет](https://files.catbox.moe/bzor5u.ini)
+</details>
+
+<details><summary markdown="0">CPU-Z</summary>
+характеристики, бенчмарк процессора, сравнение
+- [оф.сайт](https://www.cpuid.com/softwares/cpu-z.html#download)
+</details>
+
+<details><summary markdown="0">HWinfo</summary>
+просмотр характеристик компа, датчиков температуры
+- [оф.сайт](https://www.hwinfo.com/download/)
+</details>
+
+<details><summary markdown="0">AIDA64</summary>
+просмотр характеристик компа
+- [поиск(rtr)](http://rutracker.org/forum/tracker.php?nm=aida64)
+</details>
+
+<details><summary markdown="0">Furmark</summary>
+нагружает видуху по полной для проверки стабильности
+- [оф.сайт](https://geeks3d.com/furmark/downloads/)
+</details>
+
+<details><summary markdown="0">OCCT</summary>
+максимально нагружает комп для проверки стабильности системы
+</details>
+
 
 [Наверх↑](#top)
 
@@ -347,83 +412,152 @@ redirect_from:
 ### Безопасность 
 {: #security .no_toc }
 
-- **VirusTotal Uploader** - проверка на вирустотал прямо из контекстного меню<br>
-  [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
-- **SmartFix** - восстановление слетевших настроек системы после вирусов, встраивание средств восстановление системы в загрузчик<br>
-  [оф.сайт](https://smartfix.pro/)
-- **AdwCleaner** - пытается чистить комп от малвари<br>
-  [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
-- **Unchecky** - снимает галочки при установке софта<br>
-  [оф.сайт](https://unchecky.com/)
-- **Cureit** - бесплатный одноразовой антивирус родом из рф<br>
-  [biblprog](http://biblprog.org.ua/ru/dr_web_cureit)
+<details><summary markdown="0">VirusTotal Uploader</summary>
+проверка на вирустотал прямо из контекстного меню
+- [оф.сайт](http://virustotal.com/ru/documentation/desktop-applications/windows-uploader)
+</details>
 
-[Наверх↑](#top)
+<details><summary markdown="0">SmartFix</summary>
+восстановление слетевших настроек системы после вирусов, встраивание средств восстановление системы в загрузчик
+- [оф.сайт](https://smartfix.pro/)
+</details>
 
+<details><summary markdown="0">AdwCleaner</summary>
+пытается чистить комп от малвари
+- [оф.сайт](https://ru.malwarebytes.com/adwcleaner/)
+</details>
 
+<details><summary markdown="0">Unchecky</summary>
+снимает галочки при установке софта
+- [оф.сайт](https://unchecky.com/)
+</details>
 
-### Драйвера
-{: #drivers }
-- **Snappy Driver Installer** - драйверпак без рекламы<br>
-  [оф.сайт](https://sdi-tool.org/download/), 
-  [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
-- **Microsoft Visual C++ Runtime** - набор библиотек для стабильной работы програм<br>
-  [поиск(rtr)](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B), 
-  [раздача(rtr)](https://rutracker.org/forum/viewtopic.php?t=5953213)
-- **NetFramework** - актуально для старых систем, в десятку уже встроен<br>
-  [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework), 
-  [тема rutracker](https://rutracker.org/forum/viewtopic.php?t=3808372)
-- **DirectX** - для работы игр и графических приложений<br>
-  [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35), 
-  [автономный](http://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
-- Драйвер видеокарты - качать на оф.сайте производителя<br>
-  [Nvidia](https://www.nvidia.com/download/index.aspx?lang=ru), 
-  [AMD Radeon](https://www.amd.com/en/support)
-- **Необходимый софт для запуска любых игр**<br>
-  [раздача(rutracker)](https://rutracker.org/forum/viewtopic.php?t=5985015)
-- **Набор обновлений Windows 7** - лучше ставить винду с уже интегрированными обновами<br>
-  [simplix](https://blog.simplix.info/updatepack7r2/)
+<details><summary markdown="0">Cureit</summary>
+бесплатный одноразовой антивирус родом из рф
+- [biblprog](http://biblprog.org.ua/ru/dr_web_cureit)
+</details>
 
 
 [Наверх↑](#top)
 
 
 
-### Диски
-{: #diski }
-- **UltraISO** - редактор .iso. Запись дисков и флешкек. Монтирование<br>
-  [раздача(rtr)](http://rutracker.org/forum/tracker.php?nm=ultraiso)
-- **Rufus** - запись винды на флешку<br>
-  [оф.сайт](https://rufus.ie/ru/#download)
-- **CrystalDiskMark** - проверка скорости накопителя<br>
-  [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark)
-- **Victoria** - проверка диска на битые сектора<br>
-  [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version)
-- **BOOTICE** - редактор загрузчика<br>
-  [softportal](https://www.softportal.com/get-32168-bootice.html)
-- **WinNTSetup** - установка новой винды без заходов в биос<br>
-  [оф.сайт(без либ)](http://wntsetup.ru/),
-  [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
-- **Easy BCD** - редактор загрузчика с красивым GUI<br>
-  [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
-- **Ventoy** - утилита создает загрузочный USB-накопитель, куда можно скопировать образы ISO/VHDX/WIM и загружаться с них напрямую выбором из меню, не задумываясь о размерах образов и ограничениях FAT32 
-  [оф.сайт](https://www.ventoy.net/en/index.html),
-  [sourceforge](https://sourceforge.net/projects/ventoy/files/latest/download)
+### Драйвера {#drivers}
+
+<details><summary markdown="0">Snappy Driver Installer</summary>
+драйверпак без рекламы
+- [оф.сайт](https://sdi-tool.org/download/)
+- [torrent(26Gb)](https://sdi-tool.org/SDI_Update.torrent)
+</details>
+
+
+<details><summary markdown="0">Microsoft Visual C++ Runtime</summary>
+набор библиотек для стабильной работы програм
+- [поиск(rtr)](https://rutracker.org/forum/tracker.php?f=1042&nm=Microsoft+Visual+C%2B%2B)
+- [раздача(rtr)](https://rutracker.org/forum/viewtopic.php?t=5953213)
+</details>
+
+<details><summary markdown="0">NetFramework</summary>
+актуально для старых систем, в десятку уже встроен
+- [оф.сайт](https://dotnet.microsoft.com/download/dotnet-framework)
+- [тема rutracker](https://rutracker.org/forum/viewtopic.php?t=3808372)
+</details>
+
+<details><summary markdown="0">DirectX</summary>
+для работы игр и графических приложений
+- [оф.сайт(web)](https://www.microsoft.com/ru-ru/download/details.aspx?id=35)
+- [автономный](http://www.microsoft.com/en-us/download/confirmation.aspx?id=8109)
+</details>
+
+
+<details><summary markdown="0">Драйвер видеокарты - качать на оф.сайте производителя</summary>
+- [Nvidia](https://www.nvidia.com/download/index.aspx?lang=ru)
+- [AMD Radeon](https://www.amd.com/en/support)
+</details>
+
+<details><summary markdown="0">Необходимый софт для запуска любых игр</summary>
+- [раздача(rutracker)](https://rutracker.org/forum/viewtopic.php?t=5985015)
+</details>
+
+<details><summary markdown="0">Набор обновлений Windows 7</summary>
+лучше ставить винду с уже интегрированными обновами
+- [simplix](https://blog.simplix.info/updatepack7r2/)
+</details>
+
+
+
+[Наверх↑](#top)
+
+
+
+### Диски {#diski}
+<details><summary markdown="0">UltraISO</summary>
+редактор .iso. Запись дисков и флешкек. Монтирование
+- [раздача(rtr)](http://rutracker.org/forum/tracker.php?nm=ultraiso)
+</details>
+
+<details><summary markdown="0">Rufus</summary>
+запись винды на флешку
+- [оф.сайт](https://rufus.ie/ru/#download)
+</details>
+
+<details><summary markdown="0">CrystalDiskMark</summary>
+проверка скорости накопителя
+- [оф.сайт](https://crystalmark.info/en/download/#CrystalDiskMark)
+</details>
+
+<details><summary markdown="0">Victoria</summary>
+проверка диска на битые сектора
+- [оф.сайт](https://hdd.by/victoria/#:~:text=Download%20the%20latest%20version)
+</details>
+
+<details><summary markdown="0">BOOTICE</summary>
+редактор загрузчика
+- [softportal](https://www.softportal.com/get-32168-bootice.html)
+</details>
+
+<details><summary markdown="0">WinNTSetup</summary>
+установка новой винды без заходов в биос
+- [оф.сайт(без либ)](http://wntsetup.ru/)
+- [v4.2sfx(telegram)](https://t.me/s/FeelSoftWin/238)
+</details>
+
+<details><summary markdown="0">Easy BCD</summary>
+редактор загрузчика с красивым GUI
+- [v4.2(tlgur)](https://tlgur.com/d/4rqo5v7g)
+</details>
+
+<details><summary markdown="0">Ventoy</summary>
+утилита создает загрузочный USB-накопитель, куда можно скопировать образы ISO/VHDX/WIM и загружаться с них напрямую выбором из меню, не задумываясь о размерах образов и ограничениях FAT32 
+- [оф.сайт](https://www.ventoy.net/en/index.html)
+- [sourceforge](https://sourceforge.net/projects/ventoy/files/latest/download)
+</details>
+
 
 [Наверх↑](#top)
 
 ### LiveCD
 {: .no_toc #livecd }
-- **Windows 10** - операционная система. Нужно дотюнивать через WinAero<br>
+
+<details><summary markdown="0">Windows 10</summary>
+операционная система. Нужно дотюнивать через WinAero, иначе будет лагать
   [Поиск(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
   [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
-- **Windows 7** - для старых компов<br>
+</details>
+
+<details><summary markdown="0">Windows 7</summary>
+Операционка для старых компов
   [v21.01.13(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
   [Поиск(nnm)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
   [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
   [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
-- **WinPE Sergei Strelec** - сборка программ для аварийного восстановления системы<br>
-  [Поиск(nnm)](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+</details>
+
+<details><summary markdown="0">WinPE Sergei Strelec</summary>
+сборка программ для аварийного восстановления системы
+- [Поиск(nnm)](https://nnmclub.to/forum/tracker.php?f=764&nm=Strelec)
+</details>
+
 
 [Наверх↑](#top)
 
@@ -446,8 +580,6 @@ redirect_from:
 - Snagit
 
 
-- **Scanner for Windows 10**  
-  [github](https://github.com/simon-knuth/scanner/releases/latest)
 - [2k10 Live 7.37 (обновляемая авторская раздача)](https://nnmclub.to/forum/viewtopic.php?t=806125). Много всего ненужного
 - [RusLive](https://usbtor.ru/viewtopic.php?t=1367&start=555) (более не обновляется)
 - [AdminPE](https://rutracker.org/forum/viewtopic.php?t=4684460)

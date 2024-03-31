@@ -53,6 +53,7 @@ details[open] summary {
   border-left: 1px dotted #ffffff00;
   border-right: 0;
   border-top: 0;
+  margin-bottom: 0.5rem;
 }
 
 /* Убираем стандартный маркер Chrome */
@@ -82,7 +83,7 @@ border: 1px dotted black;
 }
 
 details[open] p {
-  margin-top: 0.5rem;
+  margin-top: 0;
   margin-bottom: 0;
   margin-left: 0.5rem;
 }
