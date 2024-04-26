@@ -5,7 +5,9 @@ modified: 2022-07-04T08:47:44+03:00
 pin: 0
 ---
 
+{% include dir-ls.md tag="" %}
 
+{% comment %}
 ## Программы  
 {: #soft }
 
@@ -21,3 +23,4 @@ pin: 0
 
 {% include dir-ls.md tag="empty" %}
 
+{% endcomment %}

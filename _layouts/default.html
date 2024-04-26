@@ -22,20 +22,7 @@
 	<header class="page-header" role="banner">
 	<a href="#top" id="vverh"></a>
 <!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
-	<div id="nav">
-		<a href="{{ '/index.html' | relative_url }}" title="Домой" class="btn not-mobile">🏠</a>
-		<a href="{{ '/r/' | relative_url }}" title="Хліб" class="btn">💛 Статьи</a>
-		<a href="{{ '/projects/' | relative_url }}" title="Сіль" class="btn">💾 Проекты</a>
-		<a href="{{ '/store/promo' | relative_url }}" title="Вода" class="btn">😎 Инструмент</a>
-		<a href="{{ '/blog/' | relative_url }}" title="Козацька їда" class="btn">🎮 Блог</a>
-		<a href="{{ '/search' | relative_url}}" title="Поиск" class="btn not-mobile">🔍</a>
-	</div>
-	<span id="mob">
-		<a href="{{ '/index.html' | relative_url }}" title="Домашня" class="btn">🏠</a>
-		<a href="/search" id="searchBtn" onclick="return showSearch();" title="Поиск" class="btn">🔍</a>
-		<a href="#trigger" id="navBtn" onclick="return showNav();" title="Меню" class="btn">🍔</a>
-	</span>
-
+	{% include header.md %}
 	{%- if page.description %}
 	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
 	{% endif -%}
@@ -64,9 +51,10 @@
 		</time>
 		{%- endif -%}
 {%- if page.comments %}{% include comments.md %}{% endif -%}
-<footer class="site-footer">
+<footer class="site-footer" style="background-color: #9bbf271a;">
 {%- include footer.md -%}
 </footer>
+<br><br>
 
 	</main>
 <script>

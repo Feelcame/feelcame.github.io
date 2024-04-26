@@ -4,39 +4,31 @@ no-title: Домик
 #modified: 2024-01-15T22:24:23+03:00
 #layout: home
 pin: 0
+style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}}'
 ---
 
-**закреп**
 - [Программы для Android](/r/android.md)
 - [Программы для Windows](/r/windows.md)
 - [Печатные платы](/r/PCB.md)
-- [Arduino](/r/arduino.md)
 
 <div style="text-align: center;">
-
----
-
 <br>
-
-**категории сайта**
-
-[статьи (пре технологии и разработку)](/r/index.md)
-
-[каталог инструментов (для электронщика)](/store/index.md)
-
-[мои проекты (хвастаюсь)](/projects/index.md)
-
-[блоог](/blog/index.md)
-
-<br>
-
 <hr>
-
-<br><br><br>
-
-**топ-секрет**  (на правах рекламы)
-
-
+[Компы и софт](/r/index.md)
+<hr>
+[Разработка электроники](/r/index.md#hard)
+<hr>
+[Полезные заметки](/notes/index.md)
+<hr>
+[Мои проекты](/projects/index.md)
+<hr>
+[Каталог оборудки](/store/index.md)
+<hr>
+[Обзоры, фотогалерея](/gallery/index.md)
+<hr>
+<br>
+<br>
+<br>
 </div>
 
 
@@ -98,9 +90,7 @@ a.not_prefer{
 
 <br><br><br>
 <div style="text-align: center;">
-<a class="button7 not_prefer" href="/tools/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw" title="мимо">продам&nbsp;гараж</a>
-<a class="button7 not_prefer" href="https://memcdn.t.me" title="мяу">видео&nbsp;с&nbsp;котиками</a>
-<a class="button7" href="https://forms.gle/UCfDCJHZsGKu5AHf7" title="выбери меня">написать&nbsp;автору</a>
+<a class="button7" href="https://memcdn.t.me" title="мяу">видео&nbsp;с&nbsp;котиками</a>
 </div>
 
 

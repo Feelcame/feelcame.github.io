@@ -188,3 +188,17 @@ JavaScript — язык программирования, широко испо�
 
 #wp
 <https://themeansar.com/free-themes/>
+
+
+## Полезные ссылки
+- Отличие DNS-записей <https://developers.cloudflare.com/dns/manage-dns-records/reference/dns-record-types/>
+
+
+- PicoCSS минималистичный CSS-фреймворк / шаблон для построения сайта
+  - оф. сайт <https://picocss.com/examples>
+  - сорцы <https://github.com/picocss/examples/blob/master/v2-html/index.html>
+  - демо <https://4mrnhq.csb.app/>
+- SakurфCSS - современная и красивая замена дефолтных браузерных стилей. Удобно для построения сайта с нуля
+  - оф. сайт <https://oxal.org/projects/sakura/demo/?checkbox=on>
+  - сорцы <https://github.com/oxalorg/sakura>
+  - <https://blog.logrocket.com/styling-webpages-with-sakura-css/>
