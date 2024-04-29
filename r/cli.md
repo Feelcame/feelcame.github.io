@@ -62,16 +62,29 @@ cmd /k powercfg /requests
 
 
 ## Linux Bash
-
-
-### Популярные команды
+Популярные команды
 - cd
 - ls
 - pwd
 
 
-## Консольные программы Linux
-[soft](../soft/profi-soft.md#cli)
+## Программы Linux
+- emacs - текстовый редактор
+- midnight commander - файл менеджер Linux
+- Terraform - позволяет автоматизировать развертывание приложений в облака и тд
+- Docker - делает портабл версии целых програмных комплексов
+- Flask — фреймворк для создания веб-приложений на языке программирования Python
+- Task warior - задачи
+- Calcourse - календарь
+- Fantastico календарь
+- Abooks - контакты, др
+- Metermose - планирование работы
+- Rocket chat - корпоративные чаты
+- Reaper - диктофон
+- Audio hijacking - программа микшерский пульт
+- Neo4j графовая бд
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp) - является форком знаменитого youtube-dl. Он умный, хитрый, умеет загружать видео и, при помощи всем известного ffmpeg, доставать из него звук.
+
 
 ### Полезные ссылки 2
 - [Bash для начинающих: 21 полезная команда](https://habr.com/ru/company/ruvds/blog/445270/)

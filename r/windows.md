@@ -377,7 +377,11 @@ cоединение компов в локалку через интернет
 
 <details><summary markdown="0">WinAero Tweaker</summary>
 тонккая настройка системы по инструкциям майкрософт
-- [оф.сайт](https://winaero.com/)- [мой пресет](https://files.catbox.moe/bzor5u.ini)
+- [оф.сайт](https://winaero.com/winaero-tweaker/#download)
+- [оф.сайт (прямая ссылка)](https://winaero.com/downloads/winaerotweaker.zip)
+- [оф.зеркало (прямая ссылка)](https://winaerotweaker.com/download/winaerotweaker.zip)
+- [мой пресет](https://files.catbox.moe/bzor5u.ini)
+
 </details>
 
 <details><summary markdown="0">CPU-Z</summary>
@@ -541,16 +545,16 @@ cоединение компов в локалку через интернет
 
 <details><summary markdown="0">Windows 10</summary>
 операционная система. Нужно дотюнивать через WinAero, иначе будет лагать
-  [Поиск(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
-  [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
+- [Поиск(nnm)](http://nnmclub.to/forum/tracker.php?f=504&nm=windows),
+- [Активатор KMS Auto Lite](http://nnmclub.to/forum/tracker.php?nm=KMSAuto)
 </details>
 
 <details><summary markdown="0">Windows 7</summary>
 Операционка для старых компов
-  [v21.01.13(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
-  [Поиск(nnm)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
-  [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
-  [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
+- [v21.01.13(nnm)](https://rutracker.org/forum/viewtopic.php?t=5996235),
+- [Поиск(nnm)](https://rutracker.org/forum/tracker.php?f=2153&o=1&s=2&sd=1&nm=+Windows+7+adguard),
+- [Активатор by Daz](https://nnmclub.to/forum/tracker.php?nm=Windows+Loader+Daz),
+- [Win8.1(тоже норм)](https://nnmclub.to/forum/viewtopic.php?t=1524993)
 </details>
 
 <details><summary markdown="0">WinPE Sergei Strelec</summary>
