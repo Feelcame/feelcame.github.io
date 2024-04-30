@@ -8,7 +8,7 @@ tags: native
 redirect_from: 
   - /soft/windows/
   - /soft/windows
-style: 'details summary {font-weight: bold;}'
+style: ''
 ---
 
 

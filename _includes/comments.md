@@ -41,7 +41,7 @@ text-decoration: none;
 или <a href="tg://resolve?domain={{ comments_channel }}&post={{ post_id }}" target="_self">открыть в telegram</a><br>
 
 {%- else -%}  
-<strong>Комментарии закрыты.</strong>
+<strong>Обсуждение завершено.</strong>
 {%- endif -%}
 </div>
 
