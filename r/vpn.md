@@ -1,11 +1,30 @@
 ---
-title: Настройка VPN-соединения
+title: Настройка VPN. А также удаленное управление
 date: 2023-01-15T12:00:00
 comments: 103
 tags: profi
 ---
 
 Где скачать впн без регистраци и смс. Хорошие платные vpn сервисы. Как поднять свой сервер vpn. OpenVPN, Shadowsocks
+
+## Удаленное управление
+- AnyDesk
+- teamviewer (испоганился)
+
+**Удаленка для компа**
+- vpn + vnc
+- vpn + rdp
+
+**Удаленка для android**
+- <https://softdroid.net/luchshie-prilozheniya-dlya-udalyonnogo-upravleniya-android>
+- logmein rescue $100 <https://www.logmein.com/ru/products>
+- anydesk
+- beyondtrust
+- <https://www.splashtop.com/>
+
+**Локальные управляторы**
+- unified remote
+- aimp remote control plugin
 
 ## Обойти влокировку сайта
 - GoodbyeDPI

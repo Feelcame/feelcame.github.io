@@ -30,3 +30,4 @@ _site
 
 .zettel-notes
 TODO.md
+/drafts/**

@@ -10,9 +10,6 @@ tags: components
 - ToC
 {: toc }
 
-
-<https://feelcame.github.io/tools/search/components.html>
-
 ## Магазины в украине
 * <http://www.kosmodrom.com.ua/> - норм. харьков. плохой поиск. дешевые цены
 * <https://www.rcscomponents.kiev.ua/> - норм. харьков. хороший поиск
@@ -82,3 +79,8 @@ tags: components
 - <https://npshopping.com/ru/>
 - <https://ua.meest.com/ru>
 - DHL. Дорого
+
+
+## даташиты datasheet
+
+- https://www.datasheet5.com/search/xr2681 китайские компоненты

@@ -1,5 +1,5 @@
 ---
-title: Feelsoft Tweaker
+title: Твикер для Windows 10
 date: 2022-04-10T20:00:59+02:00
 modified: 2024-05-02T00:20:00+02:00
 tags: soft

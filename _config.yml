@@ -53,7 +53,7 @@ defaults:
     layout: default
 
 
-exclude: [node_modules, README.md]
+exclude: [node_modules, README.md, drafts]
 
 
 #markdown: GFM
