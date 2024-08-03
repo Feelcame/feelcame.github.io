@@ -9,8 +9,8 @@ permalink: /:basename
 ---
 
 # Promo
-- [Программы для Android](/d/android.md)
-- [Программы для Windows](/d/windows.md)
+- [Программы для Android](/d/android)
+- [Программы для Windows](/d/windows)
 
 {% comment %}
 
