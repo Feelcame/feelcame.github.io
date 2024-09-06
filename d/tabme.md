@@ -92,11 +92,15 @@ title: Расширение "Tabme"
 
 #### **Всплывашка**
 При наведении на закладку во всплывающем окне вылазит адрес. Но не выводится название. В превью длинные названия обрезаются. Ожидается что при наведении обрезанная часть появится во всплывашке, но так не происходит
-<details><summary markdown="0">Спойлер</summary>![image](https://github.com/user-attachments/assets/8e539651-5541-45e6-89a5-8d143c9a2191)</details>
+<details><summary markdown="0">Скриншот</summary>
+
+![image](https://github.com/user-attachments/assets/8e539651-5541-45e6-89a5-8d143c9a2191)
+</details>
 
 #### **Длина имени**
 Надо ограничить максимальную длину имени ссылки. Сейчас туда можно поместить хоть повесть, а это может негативно сказаться на производительности 
 <details><summary markdown="0">Скриншот</summary>
+
 ![image](https://github.com/user-attachments/assets/a4d51c5e-c369-4858-821d-321d4dca145c)
 </details>
 
@@ -104,9 +108,11 @@ title: Расширение "Tabme"
 #### **Контекстное меню теряется**
 Контекстное меню не видно, так как оно уезжает за пределы экрана. Также при клике правой кнопкой мыши по вкладке - контекстное меню появляется сбоку слева, вне зависимости от места клика
 <details><summary markdown="0">Скриншот</summary>
-  ![image](https://github.com/user-attachments/assets/b545b4a6-dcb7-4cea-9ecf-dc32eee3e2b5)
+
+![image](https://github.com/user-attachments/assets/b545b4a6-dcb7-4cea-9ecf-dc32eee3e2b5)
 </details>
 <details><summary markdown="0">Видео. Менюшка сбоку</summary>
+
 <video controls="" autoplay="" name="media"><source src="https://github.com/user-attachments/assets/6bb2db1c-49af-490a-b3a5-c43de3dd7ba2" type="video/mp4"></video>
 </details>
 
@@ -117,6 +123,7 @@ title: Расширение "Tabme"
 #### **Перетягивание пустоты**
 При попытке вделить текст при переименовывании, если начать выделять за пустую область, то вместо выделения происходит пееретягивание закладки
 <details><summary markdown="0">Видосик</summary>
+  
 <video controls="" autoplay="" name="media"><source src="https://github.com/user-attachments/assets/91e2f210-d4b7-4a61-a65e-c293d19e6771" type="video/mp4"></video>
 </details>
 
