@@ -1,8 +1,7 @@
 ---
 title: Установка Windows
 date: 2021-08-24T20:22:49+03:00
-modified: 2023-03-28T00:03:34+02:00
-tags: native
+pin: 0
 ---
 
 

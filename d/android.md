@@ -1,13 +1,7 @@
 ---
 title: Софт для Android
 date: 2021-07-24T00:00:00+03:00
-modified: 2022-07-04T08:40:48+03:00
-comments: 105
-tags: native
-pin: 2
-redirect_from: 
-  - /soft/android/
-  - /soft/android
+pin: 0
 ---
 
 [MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 

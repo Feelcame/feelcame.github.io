@@ -2,7 +2,7 @@
 title: Алисекспрес. Скидки и Кидки
 date: 2023-12-24T11:11:11
 desсription: Рассказываю как экономить, покупая на алике
-redirect_from: /r/ali
+;redirect_from: /r/ali
 ---
 
 

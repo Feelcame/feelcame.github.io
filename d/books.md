@@ -1,7 +1,6 @@
 ---
-title: Книжковий клуб
-modified: 2021-08-24T21:22:59+03:00
-comments: 125
+title: Книжный клуб
+date: 2021-08-24T21:22:59+03:00
 ---
 {% comment %}
 {% endcomment %}
