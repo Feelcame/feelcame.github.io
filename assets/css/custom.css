@@ -47,7 +47,7 @@ header #nav .btn {
 
 
 
-img, video {
+main img, video {
 	margin: auto;
 	display: block; 
 	max-height: 300px;
@@ -55,7 +55,10 @@ img, video {
 
 details img, video {
 	max-height: 100%;
+}
 
+img.emoji {
+	display: inline; 
 }
 
 

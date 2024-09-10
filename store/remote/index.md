@@ -19,7 +19,6 @@ ul li img {
 {: toc }
 
 
-Все что находил на алике добавил в [список избранного](https://www.aliexpress.com/p/wishlist/shareReflux.html?groupId=xet8nB20ye162%2Bx176OYvyKcbz8H075XEjM%2FVz60i08%3D). Если решишь покупать там - используй [скидки для покупки](../r/ali.md)
 
 ## Аэромышки
 - **T2 Air Mouse**  
