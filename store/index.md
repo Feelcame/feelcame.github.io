@@ -1,111 +1,54 @@
 ---
 title: Обзоры
 pin: 0
-style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} .grid ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px} .grid ul li a{padding: 0.75rem 0rem;} .grid ul :first-child {margin-top: 4px;}'
----
-
-- Источники бесперебойного питания
-- Телефоны
-- DCDC преобразователи
-- BMS защита батареи
-- 
-
-
-
----
-
-## Все страницы
-
-{% include dir-ls.md %}
-
+;style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-wrap:wrap*/;display:flex;flex-flow:row wrap;padding:0} .grid ul li{text-align:center;float:left;box-sizing:border-box;width:calc(50% - 8px);padding:7px 10px;background:#eee;margin:4px;list-style-type:none;min-height:50px;/*height:5em;*/padding-left:15px;padding-right:15px;border-radius:10px} .grid ul li a{padding: 0.75rem 0rem;} .grid ul :first-child {margin-top: 4px;}'
 ---
 
 
+## Питание
+- [Источники бесперебойного питания](./ups/)
+- [DCDC преобразователи](./dcdc/)
+- [BMS защита батареи, зарядки](./bms/)
+- [Аккумуляторы и повербанки](./battery/)
+- [Блоки питания 220](./acdc/)
 
-[Все категории](./index.md)
-- Сетевое оборудование/network
-	- Маршрутизаторы
-	- Модемы 4g
-	- Точки доступа
-- Радиооборудование/radio
-	- Антенны
-	- Усилители
-	- Повторители
-	- Анализаторы
-	- Радиомодули
-- Безопасность/security
-	- Камеры
-	- Регистраторы
-	- Датчики
-	- Сигнализации
-	- Умный дом
-- [Компьютеры](./minipc.md)
-	- Собранные
-	- Комплектуха
-	- Аксессуары-переходники
-	- [Манипуляторы](remote.md)
-- Телефоны/phones
-	- Чехлы, держатели, подставки, 
-	- Перходники
-- Аудиотехника/audio
-	- Усилители/amplifiers
-	- Колонки
-	- Наушники/earphones
-	- Беспроводная передача
-	- Микрофоны
-	- Аудиокарты
-- Модули ардуино/modules
-	- Отладочные платы
-	- Датчики
-	- Дисплеи
-	- Программаторы
-- Электронные компоненты/components
-	- Пассивные
-	- Транзисторы
-	- Микроконтроллеры
-	- Микросхемы DCDC
-	- Светодиоды
-	- Диоды
-	- Логика
-	- Кнопки
-	- Микросхемы
-- Разъемы/connectors
-	- USB
-	- pinhead
-	- крокодилы
-	- DC на плату
-- Силовая электроника/power
-	- Аккумуляторы
-	- Разъемы силовые
-	- Блоки питания
-	- Модули DCDC
-	- Модули зарядки
-- Все для пайки/soldering
-	- Паяльники и печи
-	- Комплектуха и доп.инструмент
-	- Расходники олово флюс паста  
+## Разработка электроники
+- [Arduino и микроконтроллеры](./arduino/)
+- [Рассыпуха (компоненты)](./rcl/)
+- [Кабели разъемы коннекторы](./cables/)
+- [Аудиосистемы](./audio/)
+- [LED освещение](./led/)
+- [Антенны и радиомодули](./radio/)
+- [Микросхемы](./ic/)
+
+## Оборудка
+- [Инструмент ручной](./tools/)
+- [Инструмент для пайки](./soldering/)
+- [Мультиметры и USB-тестеры](./tester/)
+
+
+## Компы
+- [Пульты](./remote/)
+- [Телефоны и аксессуары](./phones/)
+- [Модемы и роутеры](./modem/)
+- [Медиаприставки](./tvbox/)
+
+
+
+---
+
+- [Промо-страница (тест)](promo)
+
+
+- Инструменты/tools
 	- Химия для пайки маска глицерин персульфат растворители спирт
 	- Термоусадка
-	- Готовые наборы
-- Провода/cables
-	- USB
-	- Питание
-	- На метр. мгтф и другие
-	- щупы оба с крокодилами и бананами
-- Инструменты/tools
 	- Отвертки, кусачки, узкогубцы
 	- Метизы-расходники
 	- Пинцеты
 	- Скальпели
 	- Щетки для чистки
 	- Дрель
-- Лабораторное/lab-tools
-	- Лабораторный блок питания
-	- Микроскопы
-	- Осцилографы
-	- Анализаторы спектра
-	- Генератор
-	- Мультиметры
 - Канцелярия/kancelyaria
 	- Маркер
 	- скотч
@@ -114,11 +57,7 @@ style: '.grid ul{overflow:hidden;flex-wrap:wrap} .grid ul{/*display:table;flex-w
 	- Упаковка, коробки
 	- Шприцы 2мл + иголки
 	- Клея
-- Бытовая техника/equipment
-	- Органайзеры 
-	- Стойки-кассетницы
-	- Светильники
-	- Вытяжка
+
 
 
 

@@ -1,6 +1,9 @@
 ---
-title: Провода
+title: Кабели разъемы коннекторы
 ---
+
+- [Разъемы](connectors.md)
+
 
 ## USB
 - Кабель USB-MicroUSB
@@ -21,7 +24,7 @@ title: Провода
 - Провод МГТФ потолще
 - Провод в силиконовой изоляции "южкабель" 0.25мм
 
-## Радиочастотные ВЧ
+## Радиочастотные
 - Low loss RG-58. <https://www.gsmsota.ua/kabel-5d-fb-black/>
 - RG316 (номинально). RG174; RG178. <http://www.kosmodrom.com.ua/el.php?name=CAB-RF-RP-SMA-J-MCX-JW>
 

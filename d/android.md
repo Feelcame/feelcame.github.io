@@ -2,6 +2,7 @@
 title: Софт для Android
 date: 2021-07-24T00:00:00+03:00
 pin: 0
+style: 
 ---
 
 [MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 

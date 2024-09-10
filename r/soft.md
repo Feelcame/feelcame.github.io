@@ -22,5 +22,5 @@ pin: 0
 	- [Пишем для Android](android-dev.md)
 	- [Пишем под винду](desktop.md)
 	- [Создать инсталяшку (sfx)](installer.md)
-	- [Книги. Языки и парадигмы](books.md)
+	- [Книги по программированию](books.md)
 

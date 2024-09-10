@@ -4,13 +4,25 @@ no-title: Домик
 ;modified: 2024-01-15T22:24:23+03:00
 ;layout: home
 pin: 0
-style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}} h2.title {display: none}'
+;style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}} h2.title {display: none}'
 permalink: /:basename
+script: document.querySelector('#search-input').focus();
 ---
+
+
+<form id="search-input-form" name="search" method="get" action="/search">
+<input id="search-input" type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
+<button type="submit">Найти</button> 
+</form>
+
 
 # Promo
 - [Программы для Android](/d/android)
 - [Программы для Windows](/d/windows)
+
+
+
+
 
 {% comment %}
 
@@ -60,6 +72,8 @@ permalink: /:basename
 -->
 {% endcomment %}
 
+{% comment %}
+
 ---
 
 # News
@@ -104,6 +118,10 @@ a.not_prefer{
 # Feedback
 
 Если у вас есть предложения или дополнения, пожалуйста, свяжитесь со мной через [форму](https://forms.gle/UCfDCJHZsGKu5AHf7)
+
+{% endcomment %}
+
+
 
 {% comment %}
 <!--

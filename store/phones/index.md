@@ -4,7 +4,9 @@ modified: 2021-09-17T19:07:56+03:00
 title: Выбор кнопочного телефона
 tags: home
 ---
-смотри также: [2G TurboPhone](../projects/turbophone.md)
+
+- [аксессуары](accesory.md)
+- [штативы, подставки, держатели](tripod.md)
 
 ### Характеристики 
 

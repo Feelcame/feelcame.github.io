@@ -1,7 +1,6 @@
 ---
 title: Пульты
 ---
-{% include breadcrumbs.html %}
 
 
 <style>

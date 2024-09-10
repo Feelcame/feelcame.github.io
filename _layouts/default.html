@@ -12,39 +12,34 @@
 	<meta name="theme-color" content="#157878">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 	<link rel="shortcut icon" href="/assets/img/favicon.png" type="image/png">
-	<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-	<link rel="stylesheet" href="{{ '/assets/css/custom.css?v=' | append: site.github.build_revision | relative_url }}">
-	{% include google-analytics.html %}
-	<style>
-	{% include style.css %}
-	{{ page.style }}
-	</style>
+	<link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+	<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+	<style>{%- include hardcoded_style.css -%}</style>
+	<style>{{ page.style }}</style>
+	{% include analytics.html %}
 </head>
 <body>
 
 	<header class="page-header" role="banner">
+	<!-- <h1 class="project-name">{{ page.title }}</h1> -->
 	<a href="#top" id="vverh"></a>
-<!-- <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1> -->
 	{% include header.md %}
 	{%- if page.description %}
 	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
 	{% endif -%}
-	
 
 	</header>
 	<main id="content" class="main-content" role="main">
-<form id="search-input-form" name="search" method="get" action="/search" style="display:none;">
-<input id="search-input" type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
-<button type="submit">Найти</button> 
-</form>
-{%- if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
-		{%- if page.pin !=0 and page.permalink ==nil and page.date or page.modified -%}
+		{% if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
+		{% assign dir = page.path | split: "/" | first %}
+		{% if dir == "store" %}{% include breadcrumbs.html %}{% endif %}
+		{%- if page.pin !=0 and page.permalink == nil and page.date or page.modified %}
 		<time class="shaded">
-		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" }}
-		{%- if page.modified %}. 
-		Изменено: {{ page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
+		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" -}}
+		{%- if page.modified -%}
+		, Изменено: {{- page.modified | date: "%Y-%m-%d %H:%M"}}{% endif %}
 		</time>
-		{%- endif -%}
+		{%- endif %}
 {{ content }}
 		{%- if page.date or page.modified -%}
 		<time class="shaded">
@@ -60,12 +55,11 @@
 {%- include footer.md -%}
 </footer>
 <br><br>
-<script>
-{% include hardcoded_scripts.js %}
-</script>
+<script>{% include hardcoded_scripts.js %}</script>
 <script src="{{ '/assets/js/custom.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/anchor.min.js' | relative_url }}"></script>
 <script>anchors.add('h2:not(.no_anchor), h3, h4');</script>
+<script>{{ page.script }}</script>
 
 </body>
 </html>

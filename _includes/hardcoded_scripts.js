@@ -1,3 +1,4 @@
+{% comment %}/*
 // переключатель кнопки навигации
 function showNav() {
 document.getElementById('nav').style.display='block'; 
@@ -5,6 +6,7 @@ return false;
 }
 
 // переключатель кнопки поиска
+
 function showSearch(){
 	let inputForm = document.querySelector('#search-input-form');
 	let input = document.querySelector('#search-input');
@@ -13,3 +15,5 @@ function showSearch(){
 	//input.scrollIntoView();
 	return false;
 }
+*/
+{% endcomment %}

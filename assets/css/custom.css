@@ -6,13 +6,28 @@ a#vverh {
 	content: url(/assets/img/up.png);
 }
 
-header #mob {
-	display: none;
-}
+
+
+
+
 
 @media all and (max-width: 672px) {
+
+
+header #nav {
+	display: inline;
+}
+
+header #nav .btn {
+	display: inline-block;
+	width: 29%;
+	/*width: auto;*/
+    margin: 0 5px 14px;
+}
+
+/*
 	header #nav {
-		display: none;
+		display: inline;
 	}
         header a.not-mobile{
 		display: none;
@@ -26,14 +41,26 @@ header #mob {
     width: 28%;
     margin: 0 2% 16px;
 	}
+*/
 }
 
 
-a {
-/*	text-decoration: underline;*/
+
+
+img, video {
+	margin: auto;
+	display: block; 
+	max-height: 300px;
 }
 
-/* КАСТОМНЫЙ СПОЙЛЕР */
+details img, video {
+	max-height: 100%;
+
+}
+
+
+
+/* СПОЙЛЕРЫ */
 
 
 /* 

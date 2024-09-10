@@ -1,9 +1,9 @@
 ---
 title: Компьютеры
-redirect_from:
-  - /store/computers
 ---
-{% include breadcrumbs.html %}
+
+
+- [Переходники](./adapters.md)
 
 ## Одноплатники
 - OrangePi Zero. H3 512Mb
