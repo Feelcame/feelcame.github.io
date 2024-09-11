@@ -20,8 +20,8 @@ header #nav {
 
 header #nav .btn {
 	display: inline-block;
-	width: 29%;
-	/*width: auto;*/
+	width: auto;
+	/*width: 29%;*/
     margin: 0 5px 14px;
 }
 
