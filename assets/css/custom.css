@@ -73,6 +73,8 @@ https://habr.com/ru/post/477520/
 
 details {
   margin-bottom: 0.5rem;
+  border: 1px dotted black;
+
 }
 
 details ul {
@@ -81,21 +83,22 @@ details ul {
 
 details summary {
   cursor: pointer;
-  border: 1px dotted;
+  //border: 1px dotted;
   background-color: #eeeeee7a;
   font-weight: bold;
 }
 
 details[open] summary {
   border-left: 1px dotted #ffffff00;
+  border-bottom: 1px dotted;
   border-right: 0;
   border-top: 0;
   margin-bottom: 0.5rem;
 }
 
 details[open] {
-  border: 1px dotted black;
-  padding-bottom: 0.5rem;
+  //border: 1px dotted black;
+  //padding-bottom: 0.5rem;
 
 }
 
