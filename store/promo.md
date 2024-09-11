@@ -12,14 +12,14 @@ pin: 0
 <ul>
 {% for product in site.data.products %}
 <li>
-{% assign namemask = "/store/photos/" | append: product.vendorcode %}
+{% assign namemask = "/store/phones/" | append: product.vendorcode %}
 {% assign photos = site.static_files | where_exp: "item", "item.path contains namemask" %}
 {% if photos.size > 0 %}
 {% assign mainphoto = photos | first %}
 {% else %}
 {% assign mainphoto = "/assets/img/nophoto.jpg" %}
 {% endif %}
-<img src="{{ mainphoto.path }}" alt="фотография" width="300px" height="300px"><br>
+<img src="{{ mainphoto.path }}" alt="фотография" height="300px"><br>
 <b>{{ product.name }}</b><br> 
 Цена: <b>${{ product.price }}</b>.<br>  
 {% if photos.size > 1 %}Фото({{ photos.size }}): 
