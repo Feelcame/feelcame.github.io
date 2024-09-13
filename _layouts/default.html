@@ -23,7 +23,15 @@
 	<header class="page-header" role="banner">
 	<!-- <h1 class="project-name">{{ page.title }}</h1> -->
 	<a href="#top" id="vverh"></a>
-	{% include header.md %}
+<div id="nav">
+	<a href="{{ '/index.html' | relative_url }}" class="btn">🏠</a>
+	<a href="{{ '/search' | relative_url}}" class="btn">🔍</a>
+	<a href="{{ '/r/soft' | relative_url }}" class="btn">💾&nbsp;Кодинг</a>
+	<a href="{{ '/r/hard' | relative_url }}" class="btn">🔧&nbsp;Железки</a>
+	<a href="{{ '/d/' | relative_url }}" class="btn">📸&nbsp;Загрузки</a>
+	<a href="{{ '/store/' | relative_url }}" class="btn">💬&nbsp;Обзоры</a>
+	<a href="{{ '/projects/' | relative_url }}" class="btn">📚&nbsp;Проекты</a>
+</div>
 	{%- if page.description %}
 	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
 	{% endif -%}
