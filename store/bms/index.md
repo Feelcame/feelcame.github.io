@@ -10,6 +10,8 @@ title: BMS модули
 - TP5100 на 1s или 2s. Импульсный (не греется), питается от 12в
 - Модуль зарядки лития 2S на IP2326 с функцией балансировки <https://item.szlcsc.com/datasheet/IP2326/2988389.html>
 - CN3163 Mini Solar Lipo Charger 
+- CN3761 - Lithium Battery Charger Protection Board Module for 4.2V Solar Panel Regulated Charging
+
 
 
 ## BMS Защита аккумуляторов
@@ -19,10 +21,10 @@ title: BMS модули
 - S-8241 есть на разные напряжения <https://www.ablic.com/en/doc/material/old_product/S8241_E_NRND.pdf>
 
 ## BMS для 2s 3s
-- 1
+- Плата защиты 2S liion или lifepo4 <https://www.aliexpress.com/item/1005005825959959.html>
 
 
-## Контроль питания
+## Супервизоры питания
 - PL5111 Nano-Power System Timer for Power Gating
 - MCP3021 Low-Power 10-Bit A/D Converter with I2C Interface
 - STWD100 Watchdog timer circuit
