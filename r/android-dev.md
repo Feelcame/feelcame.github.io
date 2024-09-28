@@ -24,5 +24,11 @@ tags: native
 - aCode IDE - текстовый редактор
 - вот и весь список
 
+## Модификация 
+- [APK Tool M](https://4pda.to/forum/index.php?showtopic=1002506)
+- [APK Tool M FAQ](https://4pda.to/forum/index.php?showtopic=1002506&st=2160#entry116526321)
+- LuckyPatcher
+- [TranslatorApk](https://4pda.to/forum/index.php?showtopic=456798)
+
 ### Полезные ссылки
 - <http://developer.alexanderklimov.ru/android/studio/androidstudio.php>
