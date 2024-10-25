@@ -11,6 +11,7 @@ title: BMS модули
 - Модуль зарядки лития 2S на IP2326 с функцией балансировки <https://item.szlcsc.com/datasheet/IP2326/2988389.html>
 - CN3163 Mini Solar Lipo Charger 
 - CN3761 - Lithium Battery Charger Protection Board Module for 4.2V Solar Panel Regulated Charging
+- bq25896 - 3A single cell
 
 
 

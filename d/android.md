@@ -19,14 +19,13 @@ style:
 
 
 
-## Медиа
+## Фото
 {: #media }
 
 фото
 
 
-<details><summary markdown="0">Simple Gallery Pro</summary>  
-![](/d/apk/apk24.png)
+<details><summary markdown="0">Simple Gallery Pro</summary>
 Опенсорсная галерея.
 - [Скочать](/apps/?q=com.simplemobiletools.gallery.pro)
 - [4PDA](https://4pda.to/forum/index.php?showtopic=785182)
@@ -34,10 +33,9 @@ style:
 
 
 <details><summary markdown="0">QuickPic</summary>  
-![](/d/apk/apk24.png)
 Простая и шустрая галерея для стареньких устройств. 
 - v3.5.0
-- [Скочать](/apps/?q=com.alensw.PicFolder)
+- [Другие версии (поиск)](/apps/?q=com.alensw.PicFolder)
 </details>
 
 - <a target="_blank" href="/apps/?q=com.shinycore.picsaypro">
@@ -404,6 +402,9 @@ style:
   **Copy Link to Clipboard**</a>
   Добавляет в меню "поделиться" пункт "скопировать в буфер".
   [4PDA](https://4pda.to/forum/index.php?showtopic=1073592)
+- **URLCheck** Allows you to analyze (or share) urls before opening them (a very good app if I say so)
+	- <https://github.com/TrianguloY/UrlChecker>
+	- <https://github.com/TrianguloY/UrlChecker/releases>
 - <a target="_blank" href="/apps/?q=com.weberdo.apps.copy">
   <img alt="." src="/d/apk/apk24.png">
   **Copy**</a>
@@ -681,7 +682,6 @@ style:
 - Quillpad Markdown notes, task lists, Nextcloud sync and more <https://github.com/quillpad/quillpad>
 - SkyView A beautiful and intuitive stargazing app that uses your camera to precisely spot and identify celestial objects in sky, day or night (a simple FOSS alternative is [Sky Map](https://f-droid.org/en/packages/com.google.android.stardroid/))
 - Trail Sense - Use your phone’s sensors to assist with (not just) wilderness treks (like App Manager, this will help you get rid of a lot of apps) <https://f-droid.org/en/packages/com.kylecorry.trail_sense/>
-- URLCheck Allows you to analyze (or share) urls before opening them (a very good app if I say so) <https://github.com/TrianguloY/UrlChecker>
 - Activity tracker Отображает название приложения, которое сейчас на экране
 
 - brave браузер для конфиденциальности. https://brave.com/ 

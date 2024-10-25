@@ -56,7 +56,7 @@ comments:
 **SaaS для python или golang**
 - [**heroku**](https://www.heroku.com/)
 - [**Netlify**](https://www.netlify.com/)
-
+- <https://www.pythonanywhere.com/>
 **для vps**
 - **ho.ua** дешевые сервера в украине
 - **aws**. самая большая доля рынка виртуальных серверов

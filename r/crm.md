@@ -33,11 +33,18 @@ tags: profi
 - <https://tmetric.com/> $7/month
 
 
+
+---
+
+
+
+
 ## Управление проектами CRM  
 {: #crm }
 
 **freeselfhosted**
 - [Openproject](https://www.openproject.org/download-and-installation/) - Open source project management software. Web based
+- <https://tasks.org/> Open-source To-Do Lists & Reminders
 - [SugarCRM](https://github.com/salesagility/SuiteCRM)
 - [OpenCRX](https://github.com/opencrx)
 - [SplendidCRM](https://sourceforge.net/projects/splendidcrm/)

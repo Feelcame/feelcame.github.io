@@ -10,6 +10,7 @@ title: Сетевое оборудование
 ## Модемы 4g
 - модем 4g huawei e8372h-153
 - модем 3g zte mh-65
+- Китайский модем за три бакса с раздачей вайфай UZ801 <https://github.com/AlienWolfX/UZ801-USB_MODEM>
 
 ## Точки доступа
 - ubiquti nanostation

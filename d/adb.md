@@ -164,10 +164,19 @@ com.motorola.setup
 ```
 </details>
 
+## Ремонт железа
+АКБ для телефрнів GSM комплект, all spares, vseplus, gsm forsage
+
 
 
 ## Полезные ссылки
 - [Полезные андроид приложения без найденных трекеров и логеров и в лучшем случае - с отсутствием разрешения доступа в интернет | Платные и бесплатные полезные андроид приложения (и их лучшие альтернативы) без явно обнаруживаемой слежки за пользователем
-](https://4pda.to/forum/index.php?showtopic=10051080
+](https://4pda.to/forum/index.php?showtopic=10051080)
 - Android ADB - плагин для Total Commander, что бы копировать файлы с телефона на комп и обратно <https://4pda.to/forum/index.php?showtopic=998856>
+- Нюансы установки сторонних прошивок на Android-смартфоны. Устанавливаем сustom ROM <https://habr.com/ru/articles/673722/>
+- Погружаемся в opensource-экосистему Android <https://habr.com/ru/articles/440110/>
+- [Debloat-list Tecno](https://4pda.to/forum/index.php?showtopic=1072205&st=3580#entry126336103)
+- [NekoBox](https://4pda.to/forum/index.php?showtopic=1065786) - Универсальный набор инструментов прокси на андроид.
 
+- [Разблокировка загрузчика Xiaomi на MediaTek](https://4pda.to/forum/index.php?showtopic=721838&st=51940#entry114068420)
+- [Разблокировка загрузчика через программу TFTUnlock 2023](https://4pda.to/forum/index.php?showtopic=1057795&st=120#entry121715721)
