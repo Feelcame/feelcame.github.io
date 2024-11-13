@@ -7,8 +7,7 @@ pin: 0
 - Оглавление
 {:toc}
 
-план-капкан
----
+**план-капкан**
 
 + зачем прошивать и вообще что это
 + сток/кастом прошивки
@@ -180,3 +179,7 @@ com.motorola.setup
 
 - [Разблокировка загрузчика Xiaomi на MediaTek](https://4pda.to/forum/index.php?showtopic=721838&st=51940#entry114068420)
 - [Разблокировка загрузчика через программу TFTUnlock 2023](https://4pda.to/forum/index.php?showtopic=1057795&st=120#entry121715721)
+
+
+- [Прошивка смартфонов Xiaomi на базе Qualcomm с помощью Qualcomm Flash Image Loader (QFIL)](https://4pda.to/forum/index.php?showtopic=783994&st=20#entry56233186)
+- [Общие принципы восстановления загрузчиков на Qualcomm](https://4pda.to/forum/index.php?showtopic=643084&st=9760)
