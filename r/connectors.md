@@ -13,7 +13,7 @@ tags: components
 Интернето-кабель RJ-45 обжиика по стандарта 948A
 ![image](https://user-images.githubusercontent.com/17731587/125691757-c1f2a2f7-24ae-4e91-84f3-a301284ec51f.png)
 
-![img](img/connectors-rj-45.jpg)
+![img](/img/connectors/rj-45.jpg)
 
 
 
