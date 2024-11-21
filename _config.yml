@@ -4,18 +4,19 @@ description: Домик. Заметки о важном
 show_downloads: true
 #google_analytics: G-5KGG8GDK54
 #copyright: © 2018+
+#mybaseurl: "" # встраивается в шапку html <base>
+baseurl: "" # хардкодится перед каждой относительной ссылкой
 comments: true
-chtg: profi_soft
 comments_channel: profi_soft
 
 # Конфигурация
 encoding: UTF-8
-theme: jekyll-theme-cayman
 timezone: Europe/Kiev
 markdown: kramdown
 highlighter: rouge
-#mybaseurl: "" # встраивается в шапку html
-baseurl: "" # хардкодится перед каждой относительной ссылкой
+# Тема уже скомпилирована /assets/css/style.css
+# На всякий случай репо: https://github.com/pages-themes/cayman
+# theme: jekyll-theme-cayman
 
 kramdown:
   parse_span_html: true
