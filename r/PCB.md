@@ -2,9 +2,6 @@
 title: Печатные платы PCB
 date: 2020-12-21T00:00:00+02:00
 modified: 2021-05-30T10:33:32+03:00
-comments: true
-pin: 3
-tags: pcb
 ---
 
 Полезное по теме: [Altium](./altium.md)
