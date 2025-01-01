@@ -59,6 +59,7 @@ main img, video {
 }
 
 details img, video {
+	display: inline; 
 	max-height: 100%;
 }
 

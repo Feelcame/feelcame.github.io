@@ -2,7 +2,9 @@
 title: Софт для Android
 date: 2021-07-24T00:00:00+03:00
 pin: 0
-style: 
+style: 'img[alt="icon"]{max-width: 180px; border-radius: 20%; box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);}'
+    
+    
 ---
 
 [MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
@@ -19,426 +21,660 @@ style:
 
 
 
-## Фото
-{: #media }
-
-фото
-
+## Фото {#foto}
 
 <details><summary markdown="0">Simple Gallery Pro</summary>
-Опенсорсная галерея.
-- [Скочать](/apps/?q=com.simplemobiletools.gallery.pro)
+<img alt="icon" src="apk.png"><br>
+Опенсорсная галерея
+- [Скачать](/apps/?q=com.simplemobiletools.gallery.pro)
 - [4PDA](https://4pda.to/forum/index.php?showtopic=785182)
 </details>
 
 
-<details><summary markdown="0">QuickPic</summary>  
-Простая и шустрая галерея для стареньких устройств. 
+<details><summary markdown="0">QuickPic</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Простая и шустрая галерея для стареньких устройств. Android 2.3-13
+- [Скачать](/apps/?q=com.alensw.PicFolder)
 - v3.5.0
-- [Другие версии (поиск)](/apps/?q=com.alensw.PicFolder)
+- [4PDA](#)
 </details>
 
-- <a target="_blank" href="/apps/?q=com.shinycore.picsaypro">
-  <img alt="." src="/d/apk/apk24.png">
-  **PicSay Pro**</a>
-  Фоторедактор.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=131210)
-- <a target="_blank" href="/apps/?q=app.grapheneos.camera">
-  <img alt="." src="/d/apk/apk24.png">
-  **GrapheneOS Camera**</a>
-  
-  
 
-музыка
-- <a target="_blank" href="/apps/?q=com.aimp.player">
-  <img alt="." src="/d/apk/apk24.png">
-  **AIMP**</a>
-  Музыкальный проигрыватель. Расширенный функционал в плане настройки. Играет по плейлистам. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=442204).
-  [Оф. сайт](http://www.aimp.ru/?do=download&os=android).
-  [Прямая ссылка (оф.сайт)](http://www.aimp.ru/?do=download.file&id=13)
-  v3.22 (5.0+), v3.10 (4.4+), v2.90 (4.0+).
-- <a target="_blank" href="/apps/?q=com.tbig.playerpro">
-  <img alt="." src="/d/apk/apk24.png">
-  **PlayerPro**</a>
-  Мощный плеер. Старенький.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=189092)
-- <a target="_blank" href="/apps/?q=com.maxmpz.audioplayer">
-  <img alt="." src="/d/apk/apk24.png">
-  **Poweramp**</a>
-  Плеер с красивыми эффектами
-- <a target="_blank" href="/apps/?q=com.iven.musicplayergo">
-  <img alt="." src="/d/apk/apk24.png">
-  **Music Player GO**</a>
-  Опенсорс плеер с папками.
-  [github](https://github.com/enricocid/Music-Player-GO/releases/latest)
-- <a target="_blank" href="/apps/?q=com.spotify.music">
-  <img alt="." src="/d/apk/apk24.png">
-  **Spotify**</a>
-  Слушать  музыку онлай легально и бесплатно. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=248440).
-  [Как скачивать MP3](./telegram-bots.html#музыка).
-  [Веб-версия](https://open.spotify.com/).
-  [v8.8.48.523 Mod (4pda)](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
-- <a target="_blank" href="/apps/?q=com.shazam.android">
-  <img alt="." src="/d/apk/apk24.png">
-  **Shazam**</a>
-  Распознавание музыки.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214).
-  [v1.1.0 Android 2.3+ (Catbox)](https://files.catbox.moe/im2ljj.apk)
-- <a target="_blank" href="/apps/?q=com.hiqrecorder.full">
-  <img alt="." src="/d/apk/apk24.png">
-  **Hi-Q MP3 Recorder**</a>
-  Диктофон.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=210572).
-  v2.4.2 (2.3+), v2.9.0 (4.0+)
+<details><summary markdown="0">PicSay Pro</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Фоторедактор
+- [Скачать](/apps/?q=com.shinycore.picsaypro)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=131210)
+</details>
 
-видео
-- <a target="_blank" href="/apps/?q=org.schabi.newpipe">
-  <img alt="." src="/d/apk/org.schabi.newpipe.png">
-  **NewPipe**</a>
-  Легкий и открытый клиент ютуб. Позволяет скачивать видео.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=694195).
-  [Оф.сайт](https://newpipe.net/#download).
-  [Github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
-- <a target="_blank" href="/apps/?q=app.rvx.android.youtube">
-  <img alt="." src="/d/apk/apk24.png">
-  **Youtube reVanced**</a>
-  Мод официального ютуба без рекламы.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1050118),
-  [оф.сайт](https://revanced.io/#download-apk)
-- <a target="_blank" href="/apps/?q=uplayer.video.player">
-  <img alt="." src="/d/apk/uplayer.video.player.png">
-  **UPlayer**</a>
-  Мощный видеоплеер. Воспроизводит любые форматы, как видео, так и музыку. Есть резак.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=900750)
-- <a target="_blank" href="/apps/?q=ru.full.khd.app">
-  <img alt="." src="/d/apk/apk24.png">
-  **Кино HD**</a>
-  Просмотр фильмов и сериалов из разных сервисов. За пару долларов можно убрать рекламу. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=787648),
-  [Прямая ссылка(github)](https://github.com/publicfks/temp/raw/main/apk/app-release.apk)
-- <a target="_blank" href="/apps/?q=ru.twicker.lampa">
-  <img alt="." src="/d/apk/apk24.png">
-  **Lampa TV**</a>
-  Просмотр фильмов и сериалов. Добавь онлайн-плагин `http://lampa.stream/modss`
-  [Прямая ссылка (оф.сайт)](http://cub.watch/download/lampa.apk), 
-  [Обновы (json)](https://nemiroff.github.io/lampa/apk/info.json)
-- <a target="_blank" href="/apps/?q=com.lazycatsoftware.lmd">
-  <img alt="." src="/d/apk/apk24.png">
-  **LazyMedia Deluxe**</a>Просмотр фильмов. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=848635)
-- <a target="_blank" href="/apps/?q=com.lcs.lazyiptvdeluxe">
-  <img alt="." src="/d/apk/apk24.png">
-  **LazyIPTV Deluxe**</a>
-  Удобный просмотр IPTV. [Использую этот плейлист](https://iptv.org.ua).
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
+
+<details><summary markdown="0">GrapheneOS Camera</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Приложение для камеры, ориентированное на конфиденциальность
+- [Скачать](/apps/?q=app.grapheneos.camera)
+</details>
+
+
+## Музыка
+<details><summary markdown="0">Simple Music Player</summary>  
+<img alt="icon" src="/d/apk/com.github.anrimian.musicplayer.png"><br>
+Удобный музыкальный плеер без лишних наворотов
+- [4PDA]()
+- [Скачать](/apps/?q=com.github.anrimian.musicplayer)
+</details>
+
+
+<details><summary markdown="0">AIMP</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Музыкальный проигрыватель. Расширенный функционал в плане настройки. Играет по плейлистам. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=442204)
+- [Оф. сайт](http://www.aimp.ru/?do=download&os=android)
+- [Прямая ссылка (оф.сайт)](http://www.aimp.ru/?do=download.file&id=13)
+- v3.22 (5.0+), v3.10 (4.4+), v2.90 (4.0+)
+- [Скачать](/apps/?q=com.aimp.player)
+</details>
+
+
+<details><summary markdown="0">PlayerPro</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мощный плеер. Старенький.
+- [Скачать](/apps/?q=com.tbig.playerpro)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=189092)
+</details>
+
+<details><summary markdown="0">Poweramp</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Плеер с красивыми эффектами
+- [Скачать](/apps/?q=com.maxmpz.audioplayer)
+</details>
+
+<details><summary markdown="0">Music Player GO</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Опенсорс плеер с папками.
+- [Скачать](/apps/?q=com.iven.musicplayergo)
+- [github](https://github.com/enricocid/Music-Player-GO/releases/latest)
+</details>
+
+
+<details><summary markdown="0">Spotify</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Слушать  музыку онлай легально и бесплатно. 
+- [Скачать](/apps/?q=com.spotify.music)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=248440)
+- [Как скачивать MP3](./telegram-bots.html#музыка)
+- [Веб-версия](https://open.spotify.com/)
+- [v8.8.48.523 Mod (4pda)](https://4pda.to/forum/index.php?showtopic=248440&st=62000#entry123753511)
+</details>
+
+
+<details><summary markdown="0">RiMusic</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Очень удобный клиент для Youtube Music
+- [Скачать](/apps/?q=RiMusic)
+</details>
+
+
+<details><summary markdown="0">Shazam</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Распознавание музыки.
+- [Скачать](/apps/?q=com.shazam.android)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=128657&st=3200#entry107887214)
+- [v1.1.0 Android 2.3+ (Catbox)](https://files.catbox.moe/im2ljj.apk)
+</details>
+
+<details><summary markdown="0">Hi-Q MP3 Recorder</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Диктофон
+- [Скачать](/apps/?q=com.hiqrecorder.full)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=210572)
+- v2.4.2 (2.3+)
+- v2.9.0 (4.0+)
+</details>
+
+
+## Видео
+<details><summary markdown="0">NewPipe</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Легкий и открытый клиент ютуб. Позволяет скачивать видео.
+- [Скачать](/apps/?q=org.schabi.newpipe)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=694195)
+- [Оф.сайт](https://newpipe.net/#download)
+- [Github](https://github.com/TeamNewPipe/NewPipe/releases/latest)
+</details>
+
+
+<details><summary markdown="0">Youtube ReVanced</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мод официального ютуба без рекламы.
+- [Скачать](/apps/?q=app.rvx.android.youtube)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1050118),
+- [оф.сайт](https://revanced.io/#download-apk)
+</details>
+
+
+<details><summary markdown="0">UPlayer</summary>  
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мощный видеоплеер. Воспроизводит любые форматы, как видео, так и музыку. Есть резак.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=900750)
+- [Скачать](/apps/?q=uplayer.video.player)
+</details>
+
 
 [Наверх↑](#top)
 
+
+## SmartTV
+
+<details><summary markdown="0">SmartTube</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Ютуб клиент для просмотра видео без рекламы
+- [Скачать](/apps/?q=SmartTube)
+</details>
+
+<details><summary markdown="0">Lampa TV</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр фильмов и сериалов. Добавь онлайн-плагин `http://lampa.stream/modss`
+- [Скачать](/apps/?q=ru.twicker.lampa)
+- [Оф.сайт](http://cub.watch/download/lampa.apk)
+- [Обновы (json)](https://nemiroff.github.io/lampa/apk/info.json)
+</details>
+
+<details><summary markdown="0">Lamp!she</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр фильмов и сериалов. Онлайн работает из коробки
+- [Скачать](/apps/?q=Lampishe)
+- [Оф.сайт](https://lampishe.cc/)
+- [Обновы (json)](https://nemiroff.github.io/lampa/apk/info.json)
+</details>
+
+<details><summary markdown="0">Кино HD</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр фильмов и сериалов из разных сервисов. За пару долларов можно убрать рекламу
+- [Скачать](/apps/?q=ru.full.khd.app)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=787648)
+- [Прямая ссылка(github)](https://github.com/publicfks/temp/raw/main/apk/app-release.apk)
+</details>
+
+<details><summary markdown="0">LazyMedia Deluxe</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр фильмов. Парсер свтроен в программу
+- [Скачать](/apps/?q=com.lazycatsoftware.lmd)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=848635)
+</details>
+
+<details><summary markdown="0">LazyIPTV Deluxe</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удобный просмотр IPTV. [Использую этот плейлист](https://iptv.org.ua)
+- [Скачать](/apps/?q=com.lcs.lazyiptvdeluxe)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1020211&st=20),
+</details>
 
 
 ## Интернет
 {: #inet }
 
-- <a target="_blank" href="/apps/?q=com.opera.browser">
-  <img alt="." src="/d/apk/com.opera.browser.png">
-  **Браузер Opera**</a>
-  Просмотр интернета. Встроенный VPN. Блокировка рекламы.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=438451).
-  [Оф. FTP-сервер](https://get.geo.opera.com/pub/opera/android/).
-  [v72.7 (6.0+)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896).
-  [v58.4 (4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317).
-  [v50.8 (4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
-- <a target="_blank" href="/apps/?q=org.bromite.bromite">
-  <img alt="." src="/d/apk/apk24.png">
-  **Bromite**</a>
-  Хром без рекламы. Android 6.0+.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=725481&st=100).
-  [Оф.сайт](https://www.bromite.org/#download-bromite).
-  [Github](https://github.com/bromite/bromite/releases)
-- <a target="_blank" href="/apps/?q=com.opera.mini.native">
-  <img alt="." src="/d/apk/apk24.png">
-  **Opera Mini 7**</a>
-  Старая версия для очень медленного интернета.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=100813)
-- <a target="_blank" href="/apps/?q=vivaldi">
-  <img alt="." src="/d/apk/apk24.png">
-  **Vivaldi браузер**</a>
+<details><summary markdown="0">Браузер Opera</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр интернета. Встроенный VPN. Блокировка рекламы.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=438451)
+- [Оф. FTP-сервер](https://get.geo.opera.com/pub/opera/android/)
+- [v72.7 (6.0+)](https://4pda.to/forum/index.php?showtopic=438451&st=22300#entry121145896)
+- [v58.4 (4.4+)](https://4pda.to/forum/index.php?showtopic=438451&st=16780#entry106755317)
+- [v50.8 (4.1+)](https://4pda.to/forum/index.php?showtopic=438451&st=20960#entry117969754)
+- [Скачать](/apps/?q=com.opera.browser)
+</details>
 
 
-общение
-- <a target="_blank" href="/apps/?q=org.telegram.messenger">
-  <img alt="." src="/d/apk/org.telegram.messenger.png">
-  **Telegram**</a>
-  Удобный мессенджер. Онлайн звонки, групповые чаты, безлимитное файловое хранилище и т.д.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=948576).
-  [Прямая ссылка(оф.сайт)](https://telegram.org/dl/android/apk).
-  [Тг-канал с обновами](https://t.me/TAndroidAPK)
-- <a target="_blank" href="/apps/?q=cc.honista.app">
-  <img alt="." src="/d/apk/apk24.png">
-  **Honista**</a>
-  Инста без рекламы. Прямая ссылка (оф.сайт)
-- <a target="_blank" href="/apps/?q=com.viber.voip">
-  <img alt="." src="/d/apk/apk24.png">
-  **Viber**</a>
-  Мессенджер для стариков. Голосовые звонки, видеосвязь. Много спама. [Прямая ссылка(оф.сайт)](https://download.cdn.viber.com/android/android_32_64/viber-lst.apk)
-
-скачивание
-- <a target="_blank" href="/apps/?q=com.delphicoder.flud">
-  <img alt="." src="/d/apk/apk24.png">
-  **Flud**</a>
-  Торрент клиент
-- <a target="_blank" href="/apps/?q=com.nutomic.syncthingandroid">
-  <img alt="." src="/d/apk/apk24.png">
-  **Syncthing**</a>
-  P2P синхронизация файлов между устройствами. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=625297)
-- <a target="_blank" href="/apps/?q=com.resilio.sync">
-  <img alt="." src="/d/apk/apk24.png">
-  **Resillio Sync**</a>
-  Синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
-- <a target="_blank" href="/apps/?q=org.zloy.android.downloader">
-  <img alt="." src="/d/apk/apk24.png">
-  **Loader Droid менеджер загрузок**</a>
-  
-
-[Наверх↑](#top)
+<details><summary markdown="0">Bromite</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Хром без рекламы. Android 6.0+.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=725481&st=100)
+- [Оф.сайт](https://www.bromite.org/#download-bromite)
+- [Github](https://github.com/bromite/bromite/releases)
+- [Скачать](/apps/?q=org.bromite.bromite)
+</details>
 
 
+<details><summary markdown="0">Opera Mini 7</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Старая версия для очень медленного интернета.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=100813)
+- [Скачать](/apps/?q=com.opera.mini.native)
+</details>
+
+
+<details><summary markdown="0">Vivaldi браузер</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+ывыв
+- [Скачать](/apps/?q=vivaldi)
+</details>
+
+
+### общение
+<details><summary markdown="0">Telegram</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удобный мессенджер. Онлайн звонки, групповые чаты, безлимитное файловое хранилище и т.д.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=948576)
+- [Прямая ссылка(оф.сайт)](https://telegram.org/dl/android/apk)
+- [Тг-канал с обновами](https://t.me/TAndroidAPK)
+- [Скачать](/apps/?q=org.telegram.messenger)
+</details>
+
+
+<details><summary markdown="0">Honista</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Инста без рекламы. Прямая ссылка (оф.сайт)
+- [Скачать](/apps/?q=cc.honista.app)
+</details>
+
+
+<details><summary markdown="0">Viber</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мессенджер для стариков. Голосовые звонки, видеосвязь. Много спама. [Прямая ссылка(оф.сайт)](https://download.cdn.viber.com/android/android_32_64/viber-lst.apk)
+- [Скачать](/apps/?q=com.viber.voip)
+</details>
+
+
+### скачивание
+<details><summary markdown="0">Flud</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Торрент клиент
+- [Скачать](/apps/?q=com.delphicoder.flud)
+</details>
+
+
+<details><summary markdown="0">Syncthing</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+P2P синхронизация файлов между устройствами. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=625297)
+- [Скачать](/apps/?q=com.nutomic.syncthingandroid)
+</details>
+
+
+<details><summary markdown="0">Resillio Sync</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Синхронизация файлов p2p. Можно передавать огромные файлы на расстоянии ваще без усилий. 
+- [Скачать](/apps/?q=com.resilio.sync)
+</details>
+
+
+<details><summary markdown="0">Loader Droid менеджер загрузок</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
 ## Файлы
 {: #files }
 
-- <a target="_blank" href="/apps/?q=com.ghisler.android.TotalCommander">
-  <img alt="." src="/d/apk/com.ghisler.android.TotalCommander.png">
-  **Total Commander**</a>
-  Мощный файловый меенеджер. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=224555).
-  [Прямая ссылка (оф. сайт)](https://www.ghisler.com/tcandroid3.apk).
-  [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
-- <a target="_blank" href="/apps/?q=com.ghisler.tcplugins.wifitransfer">
-  <img alt="." src="/d/apk/com.ghisler.tcplugins.wifitransfer.png">
-  **TotalCmd WiFi Transfer**</a>
-  Передача файлов через WiFi. 
-- <a target="_blank" href="/apps/?q=com.ghisler.tcplugins.wifitransfer">
-  <img alt="." src="/d/apk/apk24.png">
-  **TotalCmd USB stick plugin by OperaFan**</a>
-  Открывает флешки с файловой системой NTFS подключенные через OTG.
-  [v1.3.6 (4PDA)](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
-  [телега](https://t.me/FeelSoftAn/164)
-- <a target="_blank" href="/apps/?q=com.estrongs.android.pop">
-  <img alt="." src="/d/apk/apk24.png">
-  **ES Проводник 3.2.5**</a>
-  Старенький, но рабочий файл менеджер. На маркете удален
-- <a target="_blank" href="/apps/?q=com.lonelycatgames.Xplore">
-  <img alt="." src="/d/apk/apk24.png">
-  **X-plore**</a>
-  Файл менеджер. Порт с Symbian
-- <a target="_blank" href="/apps/?q=com.rarlab.rar">
-  <img alt="." src="/d/apk/apk24.png">
-  **RAR**</a>
-  Крутой архиватор
-- <a target="_blank" href="/apps/?q=com.pzolee.sdcardtesterpro">
-  <img alt="." src="/d/apk/apk24.png">
-  **SD Card Test Pro**</a>
-- <a target="_blank" href="/apps/?q=nextapp.fx">
-  <img alt="." src="/d/apk/apk24.png">
-  **FX File Manager**</a>
-  Мощный файл менеджер. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=268117)
+- [Скачать](/apps/?q=org.zloy.android.downloader)
+</details>
+
+
+<details><summary markdown="0">Total Commander</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мощный файловый меенеджер. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=224555)
+- [Прямая ссылка (оф. сайт)](https://www.ghisler.com/tcandroid3.apk)
+- [Версия 3.42d (Catbox)](https://files.catbox.moe/m50bnj.apk)
+- [Скачать](/apps/?q=com.ghisler.android.TotalCommander)
+</details>
+
+
+<details><summary markdown="0">TotalCmd WiFi Transfer</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Передача файлов через WiFi. 
+- [Скачать](/apps/?q=com.ghisler.tcplugins.wifitransfer)
+</details>
+
+
+<details><summary markdown="0">TotalCmd USB stick plugin by OperaFan</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Открывает флешки с файловой системой NTFS подключенные через OTG.
+- [v1.3.6 (4PDA)](https://4pda.to/forum/index.php?showtopic=224555&st=3300#entry22427381), 
+- [телега](https://t.me/FeelSoftAn/164)
+- [Скачать](/apps/?q=com.ghisler.tcplugins.wifitransfer)
+</details>
+
+
+<details><summary markdown="0">ES Проводник 3.2.5</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Старенький, но рабочий файл менеджер. На маркете удален
+- [Скачать](/apps/?q=com.estrongs.android.pop)
+</details>
+
+
+<details><summary markdown="0">X-plore</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Файл менеджер. Порт с Symbian
+- [Скачать](/apps/?q=com.lonelycatgames.Xplore)
+</details>
+
+
+<details><summary markdown="0">RAR</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Крутой архиватор
+- [Скачать](/apps/?q=com.rarlab.rar)
+</details>
+
+
+<details><summary markdown="0">SD Card Test Pro</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+qwqw
+- [Скачать](/apps/?q=com.pzolee.sdcardtesterpro)
+</details>
+
+<details><summary markdown="0">FX File Manager</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мощный файл менеджер. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=268117)
+- [Скачать](/apps/?q=nextapp.fx)
+</details>
+
 
 
 ## Стандартное
 {: #default }
 
-клавиатуры
-- <a target="_blank" href="/apps/?q=rkr.simplekeyboard.inputmethod">
-  <img alt="." src="/d/apk/apk24.png">
-  **Simple Keyboard**</a>
-  Простая клавиатура без Т9, emoji и лишних разрешений.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=906364)
-- <a target="_blank" href="/apps/?q=com.touchtype.swiftkey">
-  <img alt="." src="/d/apk/apk24.png">
-  **Клавиатура Microsoft Swift**</a>
-  Норм клава с автоисправлением
-- <a target="_blank" href="/apps/?q=com.google.android.inputmethod.latin">
-  <img alt="." src="/d/apk/apk24.png">
-  **Gboard – Google Клавиатура**</a>
-  Дает хорошее предугадывание. Стоит по умолчанию на многих устройствах
-
-лончеры
-- <a target="_blank" href="/apps/?q=fr.neamar.kiss">
-  <img alt="." src="/d/apk/apk24.png">
-  **KISS Launcher**</a>
-  Легкий и необычный лаунчер
-- <a target="_blank" href="/apps/?q=com.microsoft.launcher">
-  <img alt="." src="/d/apk/apk24.png">
-  **Microsoft Launcher**</a>
-  Продвинутый лончер, есть папки и много настроек<rb>
-- <a target="_blank" href="/apps/?q=com.jasonkung.launcher3">
-  <img alt="." src="/d/apk/apk24.png">
-  **Launcher<3**</a>
-  Лаунчер как в Android 5
-- <a target="_blank" href="/apps/?q=com.ss.squarehome2">
-  <img alt="." src="/d/apk/apk24.png">
-  **Square Home**</a>
-  Минималистичный лончер в квадратными плитками в стиле Windows Phone
-
-остальное
-- <a target="_blank" href="/apps/?q=com.simplemobiletools.contacts">
-  <img alt="." src="/d/apk/apk24.png">
-  **Simple Contacts**</a>
-  Контакты. Легкое и открытое приложение.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1050350).
-  [Версия: 6.22.4 Paid (Catbox)](https://files.catbox.moe/x7dkgo.apk)
-- <a target="_blank" href="/apps/?q=com.simplemobiletools.dialer">
-  <img alt="." src="/d/apk/apk24.png">
-  **Simple Dialer**</a>
-  Альтернативная звонилка
-- <a target="_blank" href="/apps/?q=com.moez.QKSMS">
-  <img alt="." src="/d/apk/apk24.png">
-  **QKSMS**</a>
-  Сообщения. Опенсорсная альтернатива.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=576815)
-- <a target="_blank" href="/apps/?q=com.simplemobiletools.calendar.pro">
-  <img alt="." src="/d/apk/apk24.png">
-  **Простой календарь**</a>
-  замена гугловому календарю
+### клавиатуры
+<details><summary markdown="0">Simple Keyboard</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Простая клавиатура без Т9, emoji и лишних разрешений.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=906364)
+- [Скачать](/apps/?q=rkr.simplekeyboard.inputmethod)
+</details>
 
 
-скачивание прог
-- <a target="_blank" href="/apps/?q=com.aurora.store">
-  <img alt="." src="/d/apk/apk24.png">
-  **Aurora Store**</a>
-  Альтернативный клиент Google Play.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=887569).
-  [Оф.сайт](https://auroraoss.com/#downloads).
-- <a target="_blank" href="/apps/?q=ru.freeman42.app4pda">
-  <img alt="." src="/d/apk/apk24.png">
-  **App&Game 4PDA**</a>
-  клиент для удобного обновления программ с форума 4pda.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=275433),
-- <a target="_blank" href="/apps/?q=ru.yourok.technozon">
-  <img alt="." src="/d/apk/apk24.png">
-  **Tinstaller**</a>
-  Скачивает и устанавливает приложения пачками. Нужен URL файла конфигурации
-- <a target="_blank" href="/apps/?q=com.looker.droidify">
-  <img alt="." src="/d/apk/apk24.png">
-  **Droid-ify**</a>
-  Клиент F-Droid с чистым интерфейсом
+<details><summary markdown="0">Клавиатура Microsoft Swift</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Норм клава с автоисправлением
+- [Скачать](/apps/?q=com.touchtype.swiftkey)
+</details>
+
+
+<details><summary markdown="0">Gboard – Google Клавиатура</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Дает хорошее предугадывание. Стоит по умолчанию на многих устройствах
+
+- [Скачать](/apps/?q=com.google.android.inputmethod.latin)
+</details>
+
+
+### лончеры
+<details><summary markdown="0">KISS Launcher</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Легкий и необычный лаунчер
+- [Скачать](/apps/?q=fr.neamar.kiss)
+</details>
+
+
+<details><summary markdown="0">Microsoft Launcher</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Продвинутый лончер, есть папки и много настроек<rb>
+- [Скачать](/apps/?q=com.microsoft.launcher)
+</details>
+
+
+<details><summary markdown="0">Launcher<3</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Лаунчер как в Android 5
+- [Скачать](/apps/?q=com.jasonkung.launcher3)
+</details>
+
+
+<details><summary markdown="0">Square Home</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Минималистичный лончер в квадратными плитками в стиле Windows Phone
+- [Скачать](/apps/?q=com.ss.squarehome2)
+</details>
+
+
+
+### остальное
+<details><summary markdown="0">Simple Contacts</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Контакты. Легкое и открытое приложение.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1050350)
+- [Версия: 6.22.4 Paid (Catbox)](https://files.catbox.moe/x7dkgo.apk)
+- [Скачать](/apps/?q=com.simplemobiletools.contacts)
+</details>
+
+
+<details><summary markdown="0">Simple Dialer</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Альтернативная звонилка
+- [Скачать](/apps/?q=com.simplemobiletools.dialer)
+</details>
+
+
+<details><summary markdown="0">QKSMS</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Сообщения. Опенсорсная альтернатива.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=576815)
+- [Скачать](/apps/?q=com.moez.QKSMS)
+</details>
+
+
+<details><summary markdown="0">Простой календарь</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+замена гугловому календарю
+- [Скачать](/apps/?q=com.simplemobiletools.calendar.pro)
+</details>
+
+
+
+
+### скачивание прог
+<details><summary markdown="0">Aurora Store</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Альтернативный клиент Google Play.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=887569)
+- [Оф.сайт](https://auroraoss.com/#downloads)
+- [Скачать](/apps/?q=com.aurora.store)
+</details>
+
+
+<details><summary markdown="0">App&Game 4PDA</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+клиент для удобного обновления программ с форума 4pda.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=275433),
+- [Скачать](/apps/?q=ru.freeman42.app4pda)
+</details>
+
+
+<details><summary markdown="0">Tinstaller</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Скачивает и устанавливает приложения пачками. Нужен URL файла конфигурации
+- [Скачать](/apps/?q=ru.yourok.technozon)
+</details>
+
+
+<details><summary markdown="0">Droid-ify</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Клиент F-Droid с чистым интерфейсом
+- [Скачать](/apps/?q=com.looker.droidify)
+</details>
+
+
 
 ## Система
 {: #system }
 
-управление приложениями
-- <a target="_blank" href="/apps/?q=io.github.muntashirakon.AppManager">
-  <img alt="." src="/d/apk/apk24.png">
-  **App Manager**</a>
-  менеджер разрешений, удалялка, запуск активити и другое
-  [4PDA](https://4pda.to/forum/index.php?showtopic=998293),
-  [github](https://github.com/MuntashirAkon/AppManager/releases/latest),
-  [оф.сайт(инструкция)](https://muntashirakon.github.io/AppManager/ru/)
-- <a target="_blank" href="/apps/?q=LuckyPatcher">
-  <img alt="." src="/d/apk/apk24.png">
-  **LuckyPatcher**</a>
-  удаление рекламы и другие операции над приложениями
-  [4PDA](https://4pda.to/forum/index.php?showtopic=298302), 
-  [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/),
-- <a target="_blank" href="/apps/?q=mobi.infolife.appbackup">
-  <img alt="." src="/d/apk/apk24.png">
-  **App Backup&Restore**</a>
-  Удобный бекап установленных приложений.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=246407),
-  v3.11.old
-- <a target="_blank" href="/apps/?q=cn.wq.myandroidtools">
-  <img alt="." src="/d/apk/apk24.png">
-  **My android tools**</a>
-  отключение активити у приложений, редактор баз данных
-  [4PDA](https://4pda.to/forum/index.php?showtopic=587771)
-- <a target="_blank" href="/apps/?q=org.adaway">
-  <img alt="." src="/d/apk/apk24.png">
-  **AdAway**</a>
-  редактирует файл hosts что бы заблокировать рекламу<br>
-- <a target="_blank" href="/apps/?q=om.adguard.android">
-  <img alt="." src="/d/apk/apk24.png">
-  **Adguard**</a>
-  фильтрует рекламу через локальный впн<br>
-- <a target="_blank" href="/apps/?q=com.keramidas.TitaniumBackup">
-  <img alt="." src="/d/apk/apk24.png">
-  **Titanium Backup**</a>
-  Резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут<br>
-- <a target="_blank" href="/apps/?q=com.by_syk.apkchecker">
-  <img alt="." src="/d/apk/apk24.png">
-  **APK Checker**</a>
-  Просмотр информации о программе перед ее установкой
-- <a target="_blank" href="/apps/?q=moe.shizuku.privileged.api">
-  <img alt="." src="/d/apk/apk24.png">
-  **Shizuku**</a>
-  Управление разрешениями приложений в режиме ADB
+### управление приложениями
+<details><summary markdown="0">App Manager</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+менеджер разрешений, удалялка, запуск активити и другое
+- [4PDA](https://4pda.to/forum/index.php?showtopic=998293),
+- [github](https://github.com/MuntashirAkon/AppManager/releases/latest),
+- [оф.сайт(инструкция)](https://muntashirakon.github.io/AppManager/ru/)
+- [Скачать](/apps/?q=io.github.muntashirakon.AppManager)
+</details>
 
-железо
-- <a target="_blank" href="/apps/?q=com.finalwire.aida64">
-  <img alt="." src="/d/apk/apk24.png">
-  **AIDA64**</a>
-  Показывает параметры железа
-- <a target="_blank" href="/apps/?q=com.bvalosek.cpuspy">
-  <img alt="." src="/d/apk/apk24.png">
-  **CPU Spy**</a>
-  Показывает статистику активости процессора 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=247838), 
+
+<details><summary markdown="0">LuckyPatcher</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+удаление рекламы и другие операции над приложениями
+- [4PDA](https://4pda.to/forum/index.php?showtopic=298302), 
+- [оф.сайт](https://www.luckypatchers.com/lucky-patcher-all-versions/),
+- [Скачать](/apps/?q=LuckyPatcher)
+</details>
+
+
+<details><summary markdown="0">App Backup&Restore</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удобный бекап установленных приложений.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=246407),
+  v3.11.old
+- [Скачать](/apps/?q=mobi.infolife.appbackup)
+</details>
+
+
+<details><summary markdown="0">My android tools</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+отключение активити у приложений, редактор баз данных
+- [4PDA](https://4pda.to/forum/index.php?showtopic=587771)
+- [Скачать](/apps/?q=cn.wq.myandroidtools)
+</details>
+
+
+<details><summary markdown="0">AdAway</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+редактирует файл hosts что бы заблокировать рекламу<br>
+- [Скачать](/apps/?q=org.adaway)
+</details>
+
+
+<details><summary markdown="0">Adguard</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+фильтрует рекламу через локальный впн<br>
+- [Скачать](/apps/?q=om.adguard.android)
+</details>
+
+
+<details><summary markdown="0">Titanium Backup</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Резервное копирорвание приложений с настройками. может удалять и замораживать системные приложения. нужен рут<br>
+- [Скачать](/apps/?q=com.keramidas.TitaniumBackup)
+</details>
+
+
+<details><summary markdown="0">APK Checker</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Просмотр информации о программе перед ее установкой
+- [Скачать](/apps/?q=com.by_syk.apkchecker)
+</details>
+
+
+<details><summary markdown="0">Shizuku</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Управление разрешениями приложений в режиме ADB
+- [Скачать](/apps/?q=moe.shizuku.privileged.api)
+</details>
+
+
+
+### железо
+<details><summary markdown="0">AIDA64</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Показывает параметры железа
+- [Скачать](/apps/?q=com.finalwire.aida64)
+</details>
+
+
+<details><summary markdown="0">CPU Spy</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Показывает статистику активости процессора 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=247838), 
   v0.4.0
+- [Скачать](/apps/?q=com.bvalosek.cpuspy)
+</details>
+
+
 
 ## Утилиты
 {: #tools }
 
-- <a target="_blank" href="/apps/?q=de.audioattack.openlink">
-  <img alt="." src="/d/apk/de.audioattack.openlink.png">
-  **Easy Open Link**</a>
-  Позволяет открыть ссылку через меню "поделиться".
-  [4PDA](https://4pda.to/forum/index.php?showtopic=716031).
-  [Codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases)
-- <a target="_blank" href="/apps/?q=nl.robwu.copylink">
-  <img alt="." src="/d/apk/nl.robwu.copylink.png">
-  **Copy Link to Clipboard**</a>
-  Добавляет в меню "поделиться" пункт "скопировать в буфер".
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1073592)
-- **URLCheck** Allows you to analyze (or share) urls before opening them (a very good app if I say so)
-	- <https://github.com/TrianguloY/UrlChecker>
-	- <https://github.com/TrianguloY/UrlChecker/releases>
-- <a target="_blank" href="/apps/?q=com.weberdo.apps.copy">
-  <img alt="." src="/d/apk/apk24.png">
-  **Copy**</a>
-  Копирование любого текст с экрана, даже если его невозможно выделить курсором. Запускается длинным нажатием кнопки "домой".
-  [v1.3 Android 6.0+ (catbox)](https://files.catbox.moe/6u88vg.apk)
-- <a target="_blank" href="/apps/?q=app.rikka.savecopy">
-  <img alt="." src="/d/apk/apk24.png">
-  **Save a copy**</a>
-  Сделать копию открываемого файла
-- <a target="_blank" href="/apps/?q=com.kliksob.forgswitch">
-  <img alt="." src="/d/apk/apk24.png">
-  **4G LTE Switcher**</a>
-  Открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки).
-  [4PDA](https://4pda.to/forum/index.php?showtopic=974135)
-- <a target="_blank" href="/apps/?q=com.farproc.powerfulcontrol.free">
-  <img alt="." src="/d/apk/apk24.png">
-  **Powerful Control**</a>
-  Кнопки управления в штороке Android 4.3
-- <a target="_blank" href="/apps/?q=com.mlhg.screenfilter">
-  <img alt="." src="/d/apk/apk24.png">
-  **Darker Pro**</a>
-  Затемнение экрана ниже системного уровня. Андроид 4 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=538357)
-- <a target="_blank" href="/apps/?q=">
-  <img alt="." src="/d/apk/apk24.png">
-  **Виджет громкости**</a>
-- <a target="_blank" href="/apps/?q=de.markusfisch.android.binaryeye">
-  <img alt="." src="/d/apk/apk24.png">
-  **Binary Eye**</a>
-  Удобный Сканер QR-кодов
-- <a target="_blank" href="/apps/?q=com.sika524.android.quickshortcut">
-  <img alt="." src="/d/apk/apk24.png">
-  **QuickShortcutMaker**</a>
-  Запуск активити приложений  
+<details><summary markdown="0">Easy Open Link</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Позволяет открыть ссылку через меню "поделиться".
+- [4PDA](https://4pda.to/forum/index.php?showtopic=716031)
+- [Codeberg-релизы](https://codeberg.org/marc.nause/easyopenlink/releases)
+- [Скачать](/apps/?q=de.audioattack.openlink)
+</details>
+
+
+<details><summary markdown="0">Copy Link to Clipboard</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Добавляет в меню "поделиться" пункт "скопировать в буфер".
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1073592)
+- [Скачать](/apps/?q=nl.robwu.copylink)
+</details>
+
+
+<details><summary markdown="0">URLCheck</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Анализатор URL перед его открытием. Позволяет автоматизировать некоторые процессы связанные с модификацтей URL-адреса. Например можно "удлиннить ссылку" или проверить ее на вирустотал
+- [Скачать](/apps/?q=)
+- <https://github.com/TrianguloY/UrlChecker>
+- <https://github.com/TrianguloY/UrlChecker/releases> [4PDA]()
+</details>
+
+
+<details><summary markdown="0">Copy</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Копирование любого текст с экрана, даже если его невозможно выделить курсором. Запускается длинным нажатием кнопки "домой".
+- [v1.3 Android 6.0+ (catbox)](https://files.catbox.moe/6u88vg.apk)
+- [Скачать](/apps/?q=com.weberdo.apps.copy)
+</details>
+
+
+<details><summary markdown="0">Save a copy</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Сделать копию открываемого файла
+- [Скачать](/apps/?q=app.rikka.savecopy)
+</details>
+
+
+<details><summary markdown="0">4G LTE Switcher</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Открывает системное меню переключения сети в режим "Только 4G" (если оно не вырезано из прошивки)
+- [4PDA](https://4pda.to/forum/index.php?showtopic=974135)
+- [Скачать](/apps/?q=com.kliksob.forgswitch)
+</details>
+
+
+<details><summary markdown="0">Powerful Control</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Кнопки управления в штороке Android 4.3
+- [Скачать](/apps/?q=com.farproc.powerfulcontrol.free)
+</details>
+
+
+<details><summary markdown="0">Darker Pro</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Затемнение экрана ниже системного уровня. Андроид 4 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=538357)
+- [Скачать](/apps/?q=com.mlhg.screenfilter)
+</details>
+
+
+<details><summary markdown="0">Виджет громкости</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+- [Скачать](/apps/?q=)
+</details>
+
+
+
+<details><summary markdown="0">Binary Eye</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удобный Сканер QR-кодов
+- [Скачать](/apps/?q=de.markusfisch.android.binaryeye)
+</details>
+
+
+<details><summary markdown="0">QuickShortcutMaker</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Запуск активити приложений  
+- [Скачать](/apps/?q=com.sika524.android.quickshortcut)
+</details>
+
+
 
 
 [Наверх↑](#top)
@@ -447,66 +683,118 @@ style:
 ## Офис
 {: #office }
 
-- <a target="_blank" href="/apps/?q=org.solovyev.android.calculator">
-  <img alt="." src="/d/apk/apk24.png">
-  **Калькулятор++**</a>
-  Инженерный калькулятор
-- <a target="_blank" href="/apps/?q=org.readera">
-  <img alt="." src="/d/apk/apk24.png">
-  **ReadEra**</a>
-  Удобная читалка PDF и электронных книг
-- <a target="_blank" href="/apps/?q=om.microsoft.office.officehubrow">
-  <img alt="." src="/d/apk/apk24.png">
-  **Microsoft Office**</a>
-  Редактор документов word, excell, powerpoint. нужна регистрация. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=486245)
-- <a target="_blank" href="/apps/?q=com.simplemobiletools.calendar">
-  <img alt="." src="/d/apk/apk24.png">
-  **Простой календарь**</a>
-  Опенсорс-календарь.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=931531)
-- <a target="_blank" href="/apps/?q=co.easy4u.writer">
-  <img alt="." src="/d/apk/apk24.png">
-  **Writer Plus**</a>
-  записная книжка, редактор текстовых файлов с подсветкой Markdown.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1007018)
-- <a target="_blank" href="/apps/?q=org.eu.thedoc.zettelnotes">
-  <img alt="." src="/d/apk/apk24.png">
-  **Zettel Notes**</a>
-  заметки
-- <a target="_blank" href="/apps/?q=com.google.android.apps.translate">
-  <img alt="." src="/d/apk/apk24.png">
-  **Google Переводчик**</a>
-- <a target="_blank" href="/apps/?q=gss.Simplest.Stopwatch">
-  <img alt="." src="/d/apk/apk24.png">
-  **The Simplest Stopwatch**</a>
-  Секундомер
-- <a target="_blank" href="/apps/?q=com.fsck.k9">
-  <img alt="." src="/d/apk/apk24.png">
-  **K-9 Mail**</a>
-  Опенсорс почтовик. Простой интерфейс. [Github](https://github.com/thundernest/k-9/releases/latest)
-- <a target="_blank" href="/apps/?q=eu.faircode.email">
-  <img alt="." src="/d/apk/apk24.png">
-  **FairMail**</a>
-- <a target="_blank" href="/apps/?q=org.kman.AquaMail">
-  <img alt="." src="/d/apk/apk24.png">
-  **Aqua Mail**</a>
-- <a target="_blank" href="/apps/?q=com.todoist">
-  <img alt="." src="/d/apk/apk24.png">
-  **Todoist**</a>
-  
-- <a target="_blank" href="/apps/?q=com.compelson.optimizer">
-  <img alt="." src="/d/apk/apk24.png">
-  **Contacts Optimizer**</a>
-- <a target="_blank" href="/apps/?q=net.gsantner.markor">
-  <img alt="." src="/d/apk/apk24.png">
-  **Markor**</a>
-- <a target="_blank" href="/apps/?q=net.ia.iawriter.x">
-  <img alt="." src="/d/apk/apk24.png">
-  **iA Writer**</a>
-- <a target="_blank" href="/apps/?q=com.drakeet.purewriter">
-  <img alt="." src="/d/apk/apk24.png">
-  **Pure Writer**</a>
+<details><summary markdown="0">Калькулятор++</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Инженерный калькулятор
+- [Скачать](/apps/?q=org.solovyev.android.calculator)
+</details>
+
+
+<details><summary markdown="0">ReadEra</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удобная читалка PDF и электронных книг
+- [Скачать](/apps/?q=org.readera)
+</details>
+
+
+<details><summary markdown="0">Microsoft Office</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Редактор документов word, excell, powerpoint. нужна регистрация. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=486245)
+- [Скачать](/apps/?q=om.microsoft.office.officehubrow)
+</details>
+
+
+<details><summary markdown="0">Простой календарь</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Опенсорс-календарь.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=931531)
+- [Скачать](/apps/?q=com.simplemobiletools.calendar)
+</details>
+
+
+<details><summary markdown="0">Writer Plus</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+записная книжка, редактор текстовых файлов с подсветкой Markdown.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1007018)
+- [Скачать](/apps/?q=co.easy4u.writer)
+</details>
+
+
+<details><summary markdown="0">Zettel Notes</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+заметки
+- [Скачать](/apps/?q=org.eu.thedoc.zettelnotes)
+</details>
+
+
+<details><summary markdown="0">Google Переводчик</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+- [Скачать](/apps/?q=com.google.android.apps.translate)
+</details>
+
+<details><summary markdown="0">The Simplest Stopwatch</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Секундомер
+- [Скачать](/apps/?q=gss.Simplest.Stopwatch)
+</details>
+
+
+
+<details><summary markdown="0">K-9 Mail</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Опенсорс почтовик. Простой интерфейс. [Github](https://github.com/thundernest/k-9/releases/latest)
+- [Скачать](/apps/?q=com.fsck.k9)
+</details>
+
+
+<details><summary markdown="0">FairMail</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+qwqw
+- [Скачать](/apps/?q=eu.faircode.email)
+</details>
+
+<details><summary markdown="0">Aqua Mail</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+wqwq
+- [Скачать](/apps/?q=org.kman.AquaMail)
+</details>
+
+
+<details><summary markdown="0">Todoist</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+- [Скачать](/apps/?q=com.todoist)
+</details>
+
+<details><summary markdown="0">Contacts Optimizer</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+qwqw
+- [Скачать](/apps/?q=com.compelson.optimizer)
+</details>
+
+
+
+<details><summary markdown="0">Markor</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+qwqw
+- [Скачать](/apps/?q=net.gsantner.markor)
+</details>
+
+<details><summary markdown="0">iA Writer</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+qwqw
+- [Скачать](/apps/?q=net.ia.iawriter.x)
+</details>
+
+
+
+<details><summary markdown="0">Pure Writer</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+sdsdsd
+- [Скачать](/apps/?q=com.drakeet.purewriter)
+</details>
+
+
 
 [Наверх↑](#top)
 
@@ -515,80 +803,131 @@ style:
 ## Сеть
 {: #net }
 
-удаленное управление
-- <a target="_blank" href="/apps/?q=com.anydesk.anydeskandroid">
-  <img alt="." src="/d/apk/apk24.png">
-  **AnyDesk**</a>
-  Удаленное управление через интернет.
-  [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить%20файл%20APK)
-- <a target="_blank" href="/apps/?q=com.Relmtech.Remote">
-  <img alt="." src="/d/apk/apk24.png">
-  **Unified Remote**</a>
-  Преврати телефон в пульт ДУ для компа
-- <a target="_blank" href="/apps/?q=com.glavsoft.rrviewerpro">
-  <img alt="." src="/d/apk/apk24.png">
-  **Remote Ripple**</a>
-  VNC-удаленное управление компом
-- <a target="_blank" href="/apps/?q=net.openvpn.openvpn">
-  <img alt="." src="/d/apk/apk24.png">
-  **OpenVPN**</a>
-  Клиент для своих серваков VPN
+### удаленное управление
+<details><summary markdown="0">AnyDesk</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Удаленное управление через интернет.
+- [оф.сайт](https://anydesk.com/ru/downloads/android#:~:text=Загрузить%20файл%20APK)
+- [Скачать](/apps/?q=com.anydesk.anydeskandroid)
+</details>
 
-анализ сети
-- <a target="_blank" href="/apps/?q=com.internet.speed.meter">
-  <img alt="." src="/d/apk/apk24.png">
-  **Internet Speed Meter**</a>
-  Показывает скорость инета в шторке. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=453821), 
+
+<details><summary markdown="0">Unified Remote</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Преврати телефон в пульт ДУ для компа
+- [Скачать](/apps/?q=com.Relmtech.Remote)
+</details>
+
+
+<details><summary markdown="0">Remote Ripple</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+VNC-удаленное управление компом
+- [Скачать](/apps/?q=com.glavsoft.rrviewerpro)
+</details>
+
+
+<details><summary markdown="0">OpenVPN</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Клиент для своих серваков VPN
+- [Скачать](/apps/?q=net.openvpn.openvpn)
+</details>
+
+
+
+### анализ сети
+<details><summary markdown="0">Internet Speed Meter</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Показывает скорость инета в шторке. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=453821), 
   v1.5.9 (8+), 
   v1.4.8 (2.3+), 
-- <a target="_blank" href="/apps/?q=info.kfsoft.android.TrafficIndicatorPro">
-  <img alt="." src="/d/apk/apk24.png">
-  **Network Monitor Mini Pro**</a>
-  Мониторинг скорости инета в плавающем окошке.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=317393)
-- <a target="_blank" href="/apps/?q=ua.com.streamsoft.pingtools">
-  <img alt="." src="/d/apk/apk24.png">
-  **PingTools**</a>
-  Пакет утилит для анализа сети в удобном интерфейсе. [4PDA](https://4pda.to/forum/index.php?showtopic=398433)
-- <a target="_blank" href="/apps/?q=com.myprog.netutils">
-  <img alt="." src="/d/apk/apk24.png">
-  **Network Utilities**</a>
-  Сканер сети. Android 4.1+. [4PDA](https://4pda.to/forum/index.php?showtopic=608346)
-- <a target="_blank" href="/apps/?q=com.myprog.netscan">
-  <img alt="." src="/d/apk/apk24.png">
-  **Network scanner**</a>
-- <a target="_blank" href="/apps/?q=com.emanuelef.remote_capture">
-  <img alt="." src="/d/apk/apk24.png">
-  **PCAPdroid**</a>
-  Покажет список активных подключений<br>
+- [Скачать](/apps/?q=com.internet.speed.meter)
+</details>
 
-сервер
-- <a target="_blank" href="/apps/?q=org.xeustechnologies.android.kws">
-  <img alt="." src="/d/apk/apk24.png">
-  **kWS**</a>
-  Простой веб-сервер. 
-  [4PDA](https://4pda.to/forum/index.php?showtopic=532923)
-- <a target="_blank" href="/apps/?q=org.primftpd">
-  <img alt="." src="/d/apk/apk24.png">
-  **primitive ftpd**</a>
-  Управление файлами в телефоне по протоколу FTP
-  [GitHub](https://github.com/wolpi/prim-ftpd/releases)
-- <a target="_blank" href="/apps/?q=com.pas.webcam">
-  <img alt="." src="/d/apk/apk24.png">
-  **IP Webcam**</a>
-  Превратит телефон в сетевую веб-камеру
-- <a target="_blank" href="/apps/?q=dev.ukanth.ufirewall">
-  <img alt="." src="/d/apk/apk24.png">
-  **AFWall+**</a>
-- <a target="_blank" href="/apps/?q=com.windscribe.vpn">
-  <img alt="." src="/d/apk/apk24.png">
-  **Windscribe**</a>
-  Быстрый и безопасный VPN. Бесплатно 10гб
-- <a target="_blank" href="/apps/?q=warp">
-  <img alt="." src="/d/apk/apk24.png">
-  **Cloudflare WARP**</a>
-  Типа впн, но работает только для заблоканных сайтов
+
+<details><summary markdown="0">Network Monitor Mini Pro</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Мониторинг скорости инета в плавающем окошке.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=317393)
+- [Скачать](/apps/?q=info.kfsoft.android.TrafficIndicatorPro)
+</details>
+
+
+<details><summary markdown="0">PingTools</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Пакет утилит для анализа сети в удобном интерфейсе. [4PDA](https://4pda.to/forum/index.php?showtopic=398433)
+- [Скачать](/apps/?q=ua.com.streamsoft.pingtools)
+</details>
+
+
+<details><summary markdown="0">Network Utilities</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Сканер сети. Android 4.1+. [4PDA](https://4pda.to/forum/index.php?showtopic=608346)
+- [Скачать](/apps/?q=com.myprog.netutils)
+</details>
+
+
+<details><summary markdown="0">Network scanner</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+- [Скачать](/apps/?q=com.myprog.netscan)
+</details>
+
+<details><summary markdown="0">PCAPdroid</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Покажет список активных подключений<br>
+- [Скачать](/apps/?q=com.emanuelef.remote_capture)
+</details>
+
+
+
+
+
+### сервер
+<details><summary markdown="0">kWS</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Простой веб-сервер. 
+- [4PDA](https://4pda.to/forum/index.php?showtopic=532923)
+- [Скачать](/apps/?q=org.xeustechnologies.android.kws)
+</details>
+
+
+<details><summary markdown="0">primitive ftpd</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Управление файлами в телефоне по протоколу FTP
+- [GitHub](https://github.com/wolpi/prim-ftpd/releases)
+- [Скачать](/apps/?q=org.primftpd)
+</details>
+
+
+<details><summary markdown="0">IP Webcam</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Превратит телефон в сетевую веб-камеру
+- [Скачать](/apps/?q=com.pas.webcam)
+</details>
+
+
+<details><summary markdown="0">AFWall+</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+- [Скачать](/apps/?q=dev.ukanth.ufirewall)
+</details>
+
+
+<details><summary markdown="0">Windscribe</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Быстрый и безопасный VPN. Бесплатно 10гб
+- [Скачать](/apps/?q=com.windscribe.vpn)
+</details>
+
+
+
+
+<details><summary markdown="0">Cloudflare WARP</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Типа впн, но работает только для заблоканных сайтов
+- [Скачать](/apps/?q=warp)
+</details>
+
+
 
 
 [Наверх↑](#top)
@@ -596,26 +935,38 @@ style:
 
 ## Карты
 {: #maps }
-- <a target="_blank" href="/apps/?q=com.bodunov.galileo">
-  <img alt="." src="/d/apk/apk24.png">
-  **Guru Maps**</a>
-  Оффлайн карты
-- <a target="_blank" href="/apps/?q=app.organicmaps">
-  <img alt="." src="/d/apk/apk24.png">
-  **Organic Maps**</a>
-  OpenStreetMap без регистрации и смс.
-  [fdroid](https://f-droid.org/en/packages/app.organicmaps/#latest),
-  [4PDA](https://4pda.to/forum/index.php?showtopic=1027194),
-  [оф.сайт](https://organicmaps.app/)
-- <a target="_blank" href="/apps/?q=lt.noframe.fieldsareameasure">
-  <img alt="." src="/d/apk/apk24.png">
-  **GPS Fields Area Measure**</a>
-  Измерение площади по GPS.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=745108)
-- <a target="_blank" href="/apps/?q=com.waze">
-  <img alt="." src="/d/apk/apk24.png">
-  **Waze maps**</a>
-  
+<details><summary markdown="0">Guru Maps</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Оффлайн карты
+- [Скачать](/apps/?q=com.bodunov.galileo)
+</details>
+
+
+<details><summary markdown="0">Organic Maps</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+OpenStreetMap без регистрации и смс.
+- [fdroid](https://f-droid.org/en/packages/app.organicmaps/#latest),
+- [4PDA](https://4pda.to/forum/index.php?showtopic=1027194),
+- [оф.сайт](https://organicmaps.app/)
+- [Скачать](/apps/?q=app.organicmaps)
+</details>
+
+
+<details><summary markdown="0">GPS Fields Area Measure</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Измерение площади по GPS.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=745108)
+- [Скачать](/apps/?q=lt.noframe.fieldsareameasure)
+</details>
+
+
+<details><summary markdown="0">Waze maps</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+wqwq
+- [Скачать](/apps/?q=com.waze)
+</details>
+
+
 
 
 [Наверх↑](#top)
@@ -623,45 +974,71 @@ style:
 ## Кодинг
 {: #profi }
 
-- <a target="_blank" href="/apps/?q=com.foxdebug.acodefree">
-  <img alt="." src="/d/apk/apk24.png">
-  **Acode**</a>
-  Редактор кода. 
-- <a target="_blank" href="/apps/?q=it.android.demi.electronica">
-  <img alt="." src="/d/apk/apk24.png">
-  **ElectroDoc**</a>
-  Справочник электронщика.
-  [4PDA](https://4pda.to/forum/index.php?showtopic=221412&st=60)
-- <a target="_blank" href="/apps/?q=com.manichord.mgit">
-  <img alt="." src="/d/apk/apk24.png">
-  **MGit**</a>
-  GUI-клиент Git для синхронизации кода
-  [f-droid](https://f-droid.org/packages/com.manichord.mgit/#latest)
-- <a target="_blank" href="/apps/?q=com.termux">
-  <img alt="." src="/d/apk/apk24.png">
-  **Termux**</a>
-  Эмулятор терминала со своим репозиторием программ
-- <a target="_blank" href="/apps/?q=org.connectbot">
-  <img alt="." src="/d/apk/apk24.png">
-  **ConnectBot**</a>
-  Консоль для управления устройствами по SSH
-- <a target="_blank" href="/apps/?q=org.sufficientlysecure.keychain">
-  <img alt="." src="/d/apk/apk24.png">
-  **OpenKeyChain**</a>
-  PGP-шифрование
-- <a target="_blank" href="/apps/?q=com.kunzisoft.keepass.free">
-  <img alt="." src="/d/apk/apk24.png">
-  **KeePassDX**</a>
-  Менеджер паролей. 
-  [оф.сайт](https://www.keepassdx.com/),
-  [github](https://github.com/Kunzisoft/KeePassDX/releases/latest)
-- <a target="_blank" href="/apps/?q=com.beemdevelopment.aegis">
-  <img alt="." src="/d/apk/apk24.png">
-  **Aegis**</a>
-   Аутентификатор, для генерации одноразовых паролей
+<details><summary markdown="0">Acode</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Редактор кода. 
+- [Скачать](/apps/?q=com.foxdebug.acodefree)
+</details>
+
+
+<details><summary markdown="0">ElectroDoc</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Справочник электронщика.
+- [4PDA](https://4pda.to/forum/index.php?showtopic=221412&st=60)
+- [Скачать](/apps/?q=it.android.demi.electronica)
+</details>
+
+
+<details><summary markdown="0">MGit</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+GUI-клиент Git для синхронизации кода
+- [f-droid](https://f-droid.org/packages/com.manichord.mgit/#latest)
+- [Скачать](/apps/?q=com.manichord.mgit)
+</details>
+
+
+<details><summary markdown="0">Termux</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Эмулятор терминала со своим репозиторием программ
+- [Скачать](/apps/?q=com.termux)
+</details>
+
+
+<details><summary markdown="0">ConnectBot</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Консоль для управления устройствами по SSH
+- [Скачать](/apps/?q=org.connectbot)
+</details>
+
+
+<details><summary markdown="0">OpenKeyChain</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+PGP-шифрование
+- [Скачать](/apps/?q=org.sufficientlysecure.keychain)
+</details>
+
+
+<details><summary markdown="0">KeePassDX</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Менеджер паролей. 
+- [оф.сайт](https://www.keepassdx.com/),
+- [github](https://github.com/Kunzisoft/KeePassDX/releases/latest)
+- [Скачать](/apps/?q=com.kunzisoft.keepass.free)
+</details>
+
+
+<details><summary markdown="0">Aegis</summary>
+<img alt="icon" src="/d/apk/apk.png"><br>
+Аутентификатор, для генерации одноразовых паролей
    [github](https://github.com/beemdevelopment/Aegis)
+- [Скачать](/apps/?q=com.beemdevelopment.aegis)
+</details>
+
+
 
 [Наверх↑](#top)
+
+
 
 ## На проверке
 {: .no_toc #todo }
@@ -732,7 +1109,6 @@ style:
   [4PDA](https://4pda.to/forum/index.php?showtopic=905252)
 - **MX Player** - продвинутый видеоплеер. норм, но стал очень тяжелым и глючит.
   [4PDA](https://4pda.to/forum/index.php?showtopic=253883)
-- **SmartTube** - ютуб для телевизоров. нет телевизора
 - [**XRecorder**](/apps/?q=videoeditor.videorecorder.screenrecorder) – запись экрана. устарел
   [4PDA](https://4pda.to/forum/index.php?showtopic=978817), 
 - **Flow** – клиент rutracker.org
@@ -744,11 +1120,8 @@ style:
 
 ## Полезные ссылки  
 {: .no_toc #links }
-<details markdown="1">
-<summary markdown="0">Устаревшее</summary>
 
 - Болшьшой список FOSS программ <https://github.com/offa/android-foss>
-</details>
 
 
 [Наверх↑](#top)
