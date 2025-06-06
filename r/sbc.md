@@ -146,10 +146,16 @@ Dell Wyse 3040 можно превратить в портативный NAS, п
 
 Пароль bios по умолчанию - Fireport
 
-===
+***
 
 Dell Wyse 3040 является отличной заменой Raspberry pi, Odroid, Atomic Pi, Banana Pi, NanoPi, Rock Pi 4, Orange Pi, BeagleBone Black, Pinebook Pro, Cubieboard, UDOO Neo, NanoPC-T4, FriendlyELEC, ASUS Tinker Board, Libre Computer Board, большое его преимущество - архитектура x86!
 
+
+****
+
+- https://milkv.io/ru/duo#buy самая дешевая платка
+- Radxa X4 на проце x86
+- 
 
 ## Полезные ссылки
 - [Официальный сайт](http://www.orangepi.org/)

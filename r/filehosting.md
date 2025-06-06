@@ -128,7 +128,7 @@ tags: server
 {: .no_toc #server-soft }
 
 - [**Nginx**](http://nginx.org/ru/docs/beginners_guide.html) - самый навороченный веб-сервер. Часто используется для раздачи статики
-- **owncloud**, **nextcloud** - собственное полноценное облако
+- **owncloud**, **nextcloud** - собственное полноценное облако. Заодно можно организовать приватный мессенджер nextcloud talk <https://habr.com/ru/articles/349556/>
 - [**transfer.sh**](https://transfer.sh/) - выгрузка файлов в gdrive, storj и другие сервисы через командную строку. 
   [Исходники](https://github.com/dutchcoders/transfer.sh/). 
 - [**youtransfer**](http://www.youtransfer.io/) - selfhosted клон сайта wetransfer. Вроде неплохой

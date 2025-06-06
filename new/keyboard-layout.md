@@ -23,7 +23,9 @@ https://ilyabirman.ru/projects/typography-layout/
 
 
 
-
+## Шрифты
+- https://rubjo.github.io/victor-mono/
+- 
 
 
 

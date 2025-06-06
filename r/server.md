@@ -25,6 +25,15 @@ date: 2023-09-05T15:20:00+03:00
 - QNAP
 - Synology - операционка на основе дебиан. Модифицирована компанией синолоджи для нужд своих серваков
 - FreeNAS - сетевой диск. Ставится как отдельная ос
+- <https://4te.me/post/silent-home-nas/>
+- <https://habr.com/ru/articles/692008/>
+- <https://filebrowser.org/>
+- <https://4pda.to/forum/index.php?showtopic=1065136&st=60>
+
+- Архив документов и фото в домашних условиях <https://vas3k.club/post/2193574/>
+
+
+
 
 ## Медиа сервер
 - BubbleUpnP
@@ -43,6 +52,11 @@ date: 2023-09-05T15:20:00+03:00
 
 ## Полезное
 Ansible — система управления конфигурациями
+
+- https://opnsense.org/ серверный фаерволл. Возможно это что то похожее на pihole
+- https://github.com/calcom/cal.com календарь, планировщик дел
+- https://mintlify.com/ цмс для документации
+- https://github.com/jgm/pandoc парсер markdown
 
 
 
@@ -119,7 +133,19 @@ cmd /k powercfg /requests
 - Reaper - диктофон
 - Audio hijacking - программа микшерский пульт
 - Neo4j графовая бд
+
+### скачиваниеивидео из youtube
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) - является форком знаменитого youtube-dl. Он умный, хитрый, умеет загружать видео и, при помощи всем известного ffmpeg, доставать из него звук.
+- <https://github.com/kannagi0303/yt-dlp-gui>
+- <https://github.com/BKSalman/ytdlp-gui>
+- https://docs.rs/crate/ytdlp-gui/0.2.0
+- https://forum.ixbt.com/topic.cgi?id=23:47435
+- https://habr.com/ru/articles/857964/
+- https://newpipe-ev.de/
+- https://habr.com/ru/articles/783036/
+- https://habr.com/ru/articles/656069/
+- https://github.com/Tyrrrz/YoutubeExplode
+- 
 
 
 ### Полезные ссылки 2

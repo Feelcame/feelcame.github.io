@@ -199,7 +199,30 @@ JavaScript — язык программирования, широко испо�
   - оф. сайт <https://picocss.com/examples>
   - сорцы <https://github.com/picocss/examples/blob/master/v2-html/index.html>
   - демо <https://4mrnhq.csb.app/>
-- SakurфCSS - современная и красивая замена дефолтных браузерных стилей. Удобно для построения сайта с нуля
+  - <https://yohn.github.io/PicoCSS/#ghost-btn>
+- SakuraCSS - современная и красивая замена дефолтных браузерных стилей. Удобно для построения сайта с нуля
   - оф. сайт <https://oxal.org/projects/sakura/demo/?checkbox=on>
   - сорцы <https://github.com/oxalorg/sakura>
   - <https://blog.logrocket.com/styling-webpages-with-sakura-css/>
+  
+### фреймворки
+- https://svelte.dev/ минималистичный фреймворк для быстрой интеграции переменных в html-код
+- https://htmx.org/ еще более крутой фреймворк и опять же без излишеств
+- https://vuejs.org/  чуть менее скромный фреймворк для создания реактивных веб-приложений, зато больше функций. Но попроще чем react
+- solidjs https://www.solidjs.com/ 
+- https://habr.com/ru/articles/794903/ Первое приложение на SolidJS
+- https://fastify.dev/ фреймворк на nodejs
+
+
+- https://ru.m.wikipedia.org/wiki/Replit IDE с интегрированными функциями ИИ
+-  https://cline.bot/ ии помощник по типу copilot
+- https://habr.com/ru/companies/bothub/articles/881248/ и его описание
+
+- https://github.com/AIG-Livny/mapyr система сборки
+
+- https://github.com/rdbende/Sun-Valley-ttk-theme тема оформления
+
+
+- https://brander.ua/ru/blog/uiux-dizayn-sozdanie-intuitivnykh-interfeysov-i-otlichnogo-polzovatelskogo-opyta-v-it UI UX дизайн
+- https://foxminded.ua/ru/instrumenti-dlya-ui-ux-dizainera/ ещё про дизайн
+- 

@@ -183,3 +183,20 @@ com.motorola.setup
 
 - [Прошивка смартфонов Xiaomi на базе Qualcomm с помощью Qualcomm Flash Image Loader (QFIL)](https://4pda.to/forum/index.php?showtopic=783994&st=20#entry56233186)
 - [Общие принципы восстановления загрузчиков на Qualcomm](https://4pda.to/forum/index.php?showtopic=643084&st=9760)
+
+*****
+
+- Лучшие кастомные прошивки для Android устройств https://piratecpa.net/2024/08/kastomnye-proshivki-kotorym-nestrashny-ogranicheniya-ili-kak-spryatat-svoj-android-ot-vseh/
+
+- https://divestos.org/pages/recommended_apps
+
+- https://github.com/drmfinlay/tts-util-app?tab=readme-ov-file
+
+- туториал по командам адб https://github.com/jarhot1992/Remote-ADB/blob/main/md/tutorials.md
+
+- https://calyxos.org/features/
+- https://github.com/CalyxOS-for-vayu/releases
+
+- https://habr.com/ru/news/864932/  винда на телефоне
+
+- <https://grapheneos.org/features#sandboxed-google-play>

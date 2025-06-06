@@ -126,6 +126,7 @@ Jimdo и Wix являются подходящими решениями, есл�
 * [Официальная документация](https://docs.djangoproject.com/en/2.2/)
 * [Доки от Mozilla](https://developer.mozilla.org/ru/docs/Learn/Server-side/Django)
 * [Неофициальная документация](https://djbook.ru/rel3.0/index.html)
+* <https://django-ninja.dev/> стартер на базе джанги
 
 
 ### Уроки

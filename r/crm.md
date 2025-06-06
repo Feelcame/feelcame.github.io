@@ -112,5 +112,9 @@ tags: profi
 - <https://vc.ru/services/69919-instrumenty-prodakt-menedzhera-pesn-softa-i-plameni>
 
 
+<https://linear.app/pricing>
 
 
+
+## прием платежей
+- https://wayforpay.com

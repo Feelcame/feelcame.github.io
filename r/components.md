@@ -44,4 +44,9 @@ modified: 2021-06-01T01:20:21+03:00
 - Схемы защиты от короткого замыкания и перегрузок в блоке питания <https://tokzamer.ru/novosti/zashhita-po-toku-na-polevom-tranzistore>
 - Защита устройств от неправильной подачи полярности питания <https://habr.com/ru/post/254035/>
 
+
+## Полезные ссылки
  
+ - https://remont-aud.net/ic_power/ опознать микросхему шим по маркировке
+ 
+- http://detaluhi.ho.ua/sub/36_0.php?user=none магазин компонентов
