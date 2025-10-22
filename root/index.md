@@ -7,6 +7,9 @@ pin: 0
 ;style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}} h2.title {display: none}'
 permalink: /:basename
 script: document.querySelector('#search-input').focus();
+redirect_from: 
+  - /nav/index
+  - /nav/
 ---
 
 
@@ -17,8 +20,8 @@ script: document.querySelector('#search-input').focus();
 
 
 # Promo
-- [Программы для Android](/d/android)
-- [Программы для Windows](/d/windows)
+- [Программы для Android](/r/android)
+- [Программы для Windows](/r/windows)
 
 
 

@@ -1,10 +1,11 @@
 ---
 layout: none
+pin: 0
 ---
 
 <script>
 document.write('<a id="a" download="'+decodeURIComponent(window.location.search.substring(1,100))+'" href="data:n/a;base64,'+decodeURIComponent(window.location.hash.substring(1))+'">download</a>'+
-'<br><br><a href="/projects/base64-url-downloader.html">wtf?</a>');
+'<br><br><a href="/projects/b64decoder.html">wtf?</a>');
 a.click();
 history.back();
 </script>

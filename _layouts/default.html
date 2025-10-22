@@ -6,6 +6,7 @@
 	  {{- page.no-title | default:page.title | default: page.name -}}
 	  {% if page.no-title == nil %} | {{ site.title }} {% endif %}
 	</title>
+	{% if page.base %} <base href="{{ page.base }}" target="_blank">{% endif %}
 	{% seo title=false %}
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<base href="{{ site.mybaseurl | default: '' }}">
@@ -26,9 +27,9 @@
 <div id="nav">
 	<a href="{{ '/index.html' | relative_url }}" class="btn">🏠</a>
 	<a href="{{ '/search' | relative_url}}" class="btn">🔍</a>
-	<a href="{{ '/r/soft' | relative_url }}" class="btn">💾&nbsp;Кодинг</a>
-	<a href="{{ '/r/hard' | relative_url }}" class="btn">🔧&nbsp;Железки</a>
-	<a href="{{ '/d/' | relative_url }}" class="btn">📸&nbsp;Софт</a>
+	<a href="{{ '/nav/soft' | relative_url }}" class="btn">💾&nbsp;Кодинг</a>
+	<a href="{{ '/nav/hard' | relative_url }}" class="btn">🔧&nbsp;Железки</a>
+	<a href="{{ '/nav/downloads.html' | relative_url }}" class="btn">📸&nbsp;Софт</a>
 	<a href="{{ '/store/' | relative_url }}" class="btn">💬&nbsp;Обзоры</a>
 	<a href="{{ '/projects/' | relative_url }}" class="btn">📚&nbsp;Проекты</a>
 </div>

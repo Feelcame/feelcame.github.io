@@ -391,6 +391,7 @@ redirect_to: https://google.com
 
 - Подстветка синтаксиса <https://rouge.jneen.net/>
 
+- переменные (наглядно) <https://it.knightnet.org.uk/kb/ghjekyll/standard-attributes/>
 
 
 **Сторонние темы**

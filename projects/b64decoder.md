@@ -1,5 +1,5 @@
 ---
-title: base64-url-downloader. Хостим файлы в урл адресе
+title: b64decoder. Хостим файлы в урл адресе
 tags: soft
 date: 2022-09-01T01:00:00
 updated: 2023-09-13T01:00:00
@@ -12,7 +12,7 @@ updated: 2023-09-13T01:00:00
 
 
 ## Как это работает
-Скрипт в дикой природе: [github](https://github.com/Feelcame/feelcame.github.io/blob/master/demo/64/index.md?plain=1)
+Скрипт в дикой природе: [github](https://github.com/Feelcame/feelcame.github.io/blob/master/projects/b64decode/index.md?plain=1)
 
 **Листинг кода:**
 
@@ -66,7 +66,7 @@ timeout /t 5
 
 ## Пример работы
 - [Продам гараж](/tools/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw)
-- [Скачать скрипт для кодировки файлов в baser64 (enc64.bat)](/tools/64/?enc64.bat#QGVjaG8gb2ZmDQpjaGNwIDEyNTEgPiBudWwNCmlmICIlfjEiPT0iIiAoDQplY2hvIHVzYWdlOiBlbmM2NCBmaWxlbmFtZS5wZGYgJiYgcGF1c2UgJiYgZXhpdA0KKQ0KY2VydHV0aWwgLWVuY29kZWhleCAtZiAlMSAlMS5CNjQudHh0IDB4NDAwMDAwMDENCnR5cGUgJTEuQjY0LnR4dHwgY2xpcA0KdGltZW91dCAvdCA1)
+- [Скачать скрипт для кодировки файлов в baser64 (enc64.bat)](/projects/b64decode/?enc64.bat#QGVjaG8gb2ZmDQpjaGNwIDEyNTEgPiBudWwNCmlmICIlfjEiPT0iIiAoDQplY2hvIHVzYWdlOiBlbmM2NCBmaWxlbmFtZS5wZGYgJiYgcGF1c2UgJiYgZXhpdA0KKQ0KY2VydHV0aWwgLWVuY29kZWhleCAtZiAlMSAlMS5CNjQudHh0IDB4NDAwMDAwMDENCnR5cGUgJTEuQjY0LnR4dHwgY2xpcA0KdGltZW91dCAvdCA1)
 
 ## Что дальше?
 - попробовать использовать blob

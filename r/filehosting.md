@@ -160,10 +160,10 @@ tags: server
 - [**4pda.to**](https://4pda.to/forum/) - 240мб/файл. Позволяет заливать любой формат файла. Нет проверки на вирусы. Форум про телефоны и программы, файлы должны соответствовать тематике. Нет прямых ссылок. Для **скачивания** нужна регистрация. Пример:
   [Apk 6Mb](https://4pda.to/forum/index.php?showtopic=807699&st=100#entry113968170),
   [почти прямая ссылка](https://4pda.to/forum/dl/post/25262479/GlassWire_v3.0.380r_b380_K.apk)
-- [**tinyurl.com**](http://tinyurl.com) - сервис позволяет сократить длинную ссылку, в которую встроен закодированный файл. Используется кодировка base64 и ([**этот скрипт**](/projects/base64-url-downloader.md)). Ограничение - максимум 10кб/файл<br>
+- [**tinyurl.com**](http://tinyurl.com) - сервис позволяет сократить длинную ссылку, в которую встроен закодированный файл. Используется кодировка base64 и ([**этот скрипт**](/projects/b64decoder.md)). Ограничение - максимум 10кб/файл<br>
   Тест: 
   [картинка 8кб](https://tinyurl.com/24ejarg4),
-  [текстовый файл 1кб](https://feelcame.github.io/demo/64/?тест.txt#0LPQvtCy0L3Qvg==)
+  [текстовый файл 1кб](https://feelcame.github.io/projects/b64decode/?тест.txt#0LPQvtCy0L3Qvg==)
 - [**androidfilehost.com**](https://androidfilehost.com/) - хостинг для прошивок. Тест [архив прошивки, 300мб](https://androidfilehost.com/?fid=24269982086998189) (файл загружен в 2015, проверен в 2022)
 - **YouTube video file storage** - файл кодируется в картинки, из них делается видео.
 
