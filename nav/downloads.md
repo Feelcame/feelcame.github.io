@@ -4,7 +4,7 @@ pin: 0
 ---
 
 - **Программы**
-	- [Программы для Android](./r/android.md)
+	- [Программы для Android](../r/android.md)
 	- [Программы для Windows](/r/windows.md)
 	- [Настройка Windows, что бы не лагала](/r/winconfig.md)
 	- [Прошивка Android-телефонов](/r/adb.md)
