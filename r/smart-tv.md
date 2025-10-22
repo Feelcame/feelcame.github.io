@@ -120,5 +120,6 @@ http://lampatv.fun/freetv.js - плейлист с прямыми потокам
 
 
 
+- каталог плагинов для лампы https://pikabu.ru/story/katalog_osnovnyikh_plaginov_dlya_lampa_12350672
 
-
+- отправить ссылку в лампу <https://candle-six.vercel.app/>
