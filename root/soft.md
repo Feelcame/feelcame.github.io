@@ -12,6 +12,8 @@ redirect_from:
 	- [Язык разметки текста Markdown](../r/markdown.md)
 	- [Системы управления сайтом CMS](../r/cms.md)
 	- [Jekyll CMS для хостинга сайта на Github Pages](../r/jekyll.md)
+	- [Навигатор для Jekyll](../r/jekyll-navigation.md)
+	- [Интернет магазин на статике](../r/jekyll-shop.md)
 	- [Файлообменники](../r/filehosting.md)
 	- [Сервисы для сайта (аналитика, комментарии)](../r/services.md)
 - **Сервера, сеть**

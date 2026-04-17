@@ -153,3 +153,27 @@ cmd /k powercfg /requests
 - [КАК СОЗДАТЬ ФАЙЛ В ТЕРМИНАЛЕ](https://losst.ru/kak-sozdat-fajl-v-terminale)
 - [Быстрое изучение Bash: 30 легких команд для новичков](https://proglib.io/p/bash-commands-for-beginners)
 - [Оболочка Bash — шпаргалка для начинающих](https://tproger.ru/translations/bash-cheatsheet/)
+
+
+## Юзаем Linux легко
+Линух более открытая система, чем винда или макось. Но и более сложная. И разновидностей больше, т.к каждый может сделать свой дистрибутив. В статье попробую резюмировать свои не столь обширные знания про работу с этой операционкой. Цель - систематизировать и сохранить своим знания для себя же, на будущее. Считай публичная записная книжка
+
+## Наброски
+Как управлять (ssh, uart, hid)
+Какой софт ставить (десктопный и серверный)
+Какие сценарии использования
+
+Какие есть операционки. ubuntu, debian, armbian...
+Какаое есть железо. Облака, виртуалки, выделенные сернверы, домашний комп, малинка, телефон с postmarketos, телефон с termux
+Как рулить железом. IPMI и сервер удаленного управления
+
+## Полезные ссылки 
+- Bash скрипты
+https://habr.com/ru/articles/726316/
+- Командна оболонка Bash – поняття, команди та використання
+ https://freehost.com.ua/ukr/faq/articles/komandnaja-obolochka-bash--ponjatie-komandi-i-ispolzovanie/
+- [в закладки] Bash для начинающих: 21 полезная команда
+https://habr.com/ru/companies/ruvds/articles/445270/
+- Основы работы с утилитой screen
+https://zomro.com/rus/blog/faq/295-rabota-s-utilitoj-screen
+
