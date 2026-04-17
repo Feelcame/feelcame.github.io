@@ -1,6 +1,10 @@
 ---
 title: Кодинг
 pin: 0
+permalink: /:basename
+redirect_from: 
+  - /nav/soft/
+  - /nav/soft
 ---
 
 - **Веб-сайты**

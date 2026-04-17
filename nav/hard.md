@@ -1,6 +1,10 @@
 ---
 title: Железки
 pin: 0
+permalink: /:basename
+redirect_from: 
+  - /nav/hard/
+  - /nav/hard
 ---
 
 - **Проектирование устройств**

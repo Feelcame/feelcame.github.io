@@ -1,6 +1,10 @@
 ---
 title: Загрузки
 pin: 0
+permalink: /:basename
+redirect_from: 
+  - /nav/downloads/
+  - /nav/downloads
 ---
 
 - **Программы**
