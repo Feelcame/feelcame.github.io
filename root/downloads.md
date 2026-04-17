@@ -10,7 +10,8 @@ redirect_from:
 - **Программы**
 	- [Программы для Android](../r/android.md)
 	- [Программы для Windows](../r/windows.md)
-	- [Настройка Windows, что бы не лагала](../r/winconfig.md)
+	- [Настраиваю Windows 10 часов](../r/winconfig.md)
+	- [Твикаем винду](../r/tweaker.md)
 	- [Прошивка Android-телефонов](../r/adb.md)
 	- [Программы для Smart-TV](../r/smart-tv.md)
 	- [Расширения для браузера](../r/addons.md)
@@ -27,6 +28,8 @@ redirect_from:
 	- [Книги](../r/books.md)
 - **Прочее**
 	- [Полезные номера телефонов](../r/phonebook.md)
+	- [Настройка биосов, прошивка](../r/bios.md)
+	- [Выбор клавиатуры, настройка раскладки](../r/keyboard.md)
 
 	
 	

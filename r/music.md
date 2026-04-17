@@ -1,10 +1,15 @@
-## Музыка и радио
+## Музычка
 
-Где скачивать музычку
-
+## Где скачивать музычку
 **spotDL**
 Прожка для скачивания аудио из спотифая. На самом деле скачивается с youtube music, а со спотифая берется только метаданные и плейлисты. Это связано с DRM-шифрованием треков на спотифае
 https://github.com/spotDL/spotify-downloader
+
+- https://github.com/SathyaBhat/spotify-dl
+- https://github.com/BobbyESP/Spowlo
+- https://exportify.net/
+- http://www.spotmybackup.com/
+- <https://github.com/spotDL/spotify-downloader>
 
 
 ## Радейка
