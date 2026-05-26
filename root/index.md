@@ -23,7 +23,7 @@ redirect_from:
 - [Программы для Windows](/r/windows)
 
 
-### Все статьи {:articles}
+### Все статьи {#articles}
 
 <!--soft mobile web server coding arduino hard components media-->
 
