@@ -17,13 +17,10 @@
   | sort: "name"
   | sort: "date"
 -%}  
-{%- assign dir_size = dir_pages.size -%}  
+
 
 {%- assign toshow_pages = dir_pages | where_exp: "item", "item.pin != 0" -%}  
 {%- assign result_pages = toshow_pages -%} 
-
-{%- assign toshow_size = toshow_pages.size -%}  
-{%- assign hidden_size = dir_size | minus: toshow_size -%}  
 
 
 {%- assign ntag_pages = toshow_pages -%}
@@ -46,7 +43,6 @@
   {%- assign ntag_pages = temp_pages -%}
   {%- assign result_pages = ntag_pages -%}
 {%- endif -%}
-{%- assign ntag_size = ntag_pages.size | default: 0 -%}
 
  
 {%- if tag and tag != "empty" %}  
@@ -56,16 +52,19 @@
 
 {%- assign wo_tag_pages = dir_pages | where_exp: "item", "item.tags == nil" -%}  
 {%- if tag == "empty" %}{%- assign result_pages = wo_tag_pages -%}{%- endif %}
+
 {%- assign wo_tag_size = wo_tag_pages.size -%}  
-
+{%- assign dir_size = dir_pages.size -%}  
+{%- assign toshow_size = toshow_pages.size -%}  
+{%- assign hidden_size = dir_size | minus: toshow_size -%}  
+{%- assign ntag_size = ntag_pages.size | default: 0 -%}
 {%- assign result_size = result_pages.size -%}  
-
 
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
 {%- if result_size == 0 -%}<p>((пустой список))</p>{%- endif %}
 <!-- tag:{{ tag }} total:{{ dir_size }} hidden:{{ hidden_size }} wo_tags:{{ wo_tag_size }} result:{{ result_size }}-->
-<ol tag="" count="{{ result_size }}">
+<ol id="{{ tag }}" count="{{ result_size }}" style="scroll-margin-top: 40px;">
 {%- for pg in result_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | relative_url }}">{{ pg.title | default: pg.name }}</a>
@@ -76,15 +75,12 @@
 </time>
 {%- endunless -%}</li>
 
-{%- comment -%}ПЕРЕНОСЫ{%- endcomment -%}  
 {%- assign modul = forloop.index | modulo: 10 -%}
 {%- if modul == 0 and forloop.index != forloop.length -%}<br>{%- endif %}
 {% endfor -%}
 </ol>
 {%- endcapture -%}
 
-
-{%- comment -%}ВЫВОДИМ РЕЗУЛЬТАТ{%- endcomment -%}  
 {%- if spoiler -%}
 <details markdown="0"><summary markdown="0">{{ spoiler }} ({{ result_size }})</summary>
 {{ result }}
@@ -92,5 +88,4 @@
 {%- else -%}
 {{ result }}
 {%- endif -%}
-
 
