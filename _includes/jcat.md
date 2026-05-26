@@ -1,7 +1,7 @@
 {%- comment -%}  
 Скрипт выводит список страниц в директории. Можно передать опциональные параметры. 
 Пример:
-{% include jcat.md dir="/r/" tag="soft" date="true|false" spoiler="Мои статьи" %}
+{% include jcat.md dir="/r/" tag="soft" ntag="hard" date="true|false" spoiler="Мои статьи" %}
 {%- endcomment -%}  
 
 {%- assign directory = include.dir | default: page.dir -%}  
@@ -52,6 +52,10 @@
 
 {%- assign wo_tag_pages = dir_pages | where_exp: "item", "item.tags == nil" -%}  
 {%- if tag == "empty" %}{%- assign result_pages = wo_tag_pages -%}{%- endif %}
+
+{%- if tag == false and ntag == "" %}{%- assign tag = "all"  | append: directory -%}{%- endif %}
+
+{%- if tag == false and ntag != "" %}{%- assign tag = "not_"  | append: ntag | replace: " ", "," -%}{%- endif %}
 
 {%- assign wo_tag_size = wo_tag_pages.size -%}  
 {%- assign dir_size = dir_pages.size -%}  
