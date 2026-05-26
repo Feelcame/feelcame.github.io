@@ -67,8 +67,8 @@
 {%- comment -%}ФОРМИРУЕМ ВЫВОД{%- endcomment -%}  
 {%- capture result -%}
 {%- if result_size == 0 -%}<p>((пустой список))</p>{%- endif %}
-<!-- tag:{{ tag }} total:{{ dir_size }} hidden:{{ hidden_size }} wo_tags:{{ wo_tag_size }} result:{{ result_size }}-->
-<ol id="{{ tag | default: "" }}" count="{{ result_size }}" style="scroll-margin-top: 40px;">
+<!-- tag:{{ tag }} total:{{ dir_size }} hidden:{{ hidden_size }} wo_tags:{{ wo_tag_size }} result:{{ result_size }} -->
+<ol id="{{ tag | default: "" }}" count="{{ result_size }}" style="scroll-margin-top: 80px;">
 {%- for pg in result_pages -%}
 <li>{%- if pg.pin > 0 -%}:pushpin:{%- endif %}
 <a href="{{ pg.url | relative_url }}">{{ pg.title | default: pg.name }}</a>
