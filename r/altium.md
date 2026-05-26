@@ -3,6 +3,7 @@ title: Что не так с Altium Designer
 date: 2021-05-29T13:20:33+03:00
 modified: 2021-09-04T12:30:58+03:00
 tags: hard
+pin: 50
 ---
 
 ## О чем эта телега

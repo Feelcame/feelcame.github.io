@@ -5,6 +5,7 @@ tags: mobile
 style: 'img[alt="icon"]{max-width: 180px; border-radius: 20%; box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);}'
 redirect_from:
   - /d/android
+pin: 10
 ---
 
 [MEGA](https://mega.nz/folder/wyEGDZST#jXkMb7mUnFoT1SE8_0oZsQ), 
