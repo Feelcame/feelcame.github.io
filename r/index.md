@@ -1,5 +1,5 @@
 ---
-title: Статьи
+title: Все статьи (ручная сортировка)
 pin: 0
 ---
  
@@ -92,3 +92,22 @@ pin: 0
 	- [Программы для ведения заметок](notes.md)
 	- [Менеджеры закладок](tabme.md)
 
+### Тэги
+
+<!--soft mobile web server coding arduino hard components media-->
+
+{% include jcat.md dir="/r/" tag="soft" spoiler="soft" %}
+{% include jcat.md dir="/r/" tag="mobile" spoiler="mobile" %}
+{% include jcat.md dir="/r/" tag="web" spoiler="web" %}
+{% include jcat.md dir="/r/" tag="server" spoiler="server" %}
+{% include jcat.md dir="/r/" tag="coding" spoiler="coding" %}
+{% include jcat.md dir="/r/" tag="arduino" spoiler="arduino" %}
+{% include jcat.md dir="/r/" tag="hard" spoiler="hard" %}
+{% include jcat.md dir="/r/" tag="components" spoiler="components" %}
+{% include jcat.md dir="/r/" tag="media" spoiler="media" %}
+
+## отладка
+
+{% include jcat.md dir="/r/" spoiler="все страницы, кроме скрытых" %}
+{% include jcat.md dir="/r/" ntag="soft mobile web server coding arduino hard components media" spoiler="опечатка или неизвестный тег" %}
+{% include jcat.md dir="/r/" tag="empty" spoiler="без тэгов" %}
