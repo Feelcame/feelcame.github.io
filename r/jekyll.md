@@ -170,6 +170,8 @@ plugins:
 
 <https://www.jekyll.com.cn/docs/configuration/markdown/>
 
+<https://kramdown.gettalong.org/syntax.html#attribute-list-definitions>
+
 
 ## Liquid-скрипты
 **Liquid** - язык написания шаблонов. Синтаксис очень похож на TPL-шаблоны в OpenCart, возможно, это одно и то же. 
