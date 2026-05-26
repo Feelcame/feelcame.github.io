@@ -18,12 +18,16 @@ redirect_from:
 <button type="submit">Найти</button> 
 </form>
 
-
+<div style="height:15px;"></div>
 - [Программы для Android](/r/android)
 - [Программы для Windows](/r/windows)
 
 
 ### Все статьи {#articles}
+
+<div style="font-size:0.7em;">
+Сортировка: [по категориям](#articles), [по дате](#sort-by-date), [произвольная](/r/index.md)
+</div>
 
 <!--soft mobile web server coding arduino hard components media-->
 
@@ -39,11 +43,15 @@ redirect_from:
 
 ### отладка
 
+<details markdown="0"><summary markdown="0">Все страницы<a class="anchorjs-link " href="#all" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></summary>
+<a id="sort-by-date" style="scroll-margin-top: 40px;"></a>
+{% include jcat.md dir="/r/" %}
+</details>
+
 {% include jcat.md dir="/r/" ntag="soft mobile web server coding arduino hard components media" spoiler="без тэгов" %}
 {% include jcat.md dir="/r/" tag="empty" spoiler="скрытые" %}
 
 {%- comment -%}
-{% include jcat.md dir="/r/" spoiler="все страницы, кроме скрытых" %}
 {%- endcomment -%}  
 
 
