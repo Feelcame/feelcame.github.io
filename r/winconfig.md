@@ -1,7 +1,7 @@
 ---
 title: Установка Windows
 date: 2021-08-24T20:22:49+03:00
-pin: 0
+tags: soft
 ---
 
 

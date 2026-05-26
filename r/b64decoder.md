@@ -1,8 +1,8 @@
 ---
 title: b64decoder. Хостим файлы в урл адресе
-tags: soft
 date: 2022-09-01T01:00:00
 updated: 2023-09-13T01:00:00
+tags: web
 ---
 
 Скрипт позволяет скачивать как файл, текст записанный в URL после решетки #. Фишка в том, что перед передачей на скачивание этот текст перекодируется из формата base64. Это позволяет запихнуть прямо в URL небольшой файл - файлообменники больше не нужны!
@@ -65,8 +65,8 @@ timeout /t 5
 - в браузере?
 
 ## Пример работы
-- [Продам гараж](/tools/64/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw)
-- [Скачать скрипт для кодировки файлов в baser64 (enc64.bat)](/projects/b64decode/?enc64.bat#QGVjaG8gb2ZmDQpjaGNwIDEyNTEgPiBudWwNCmlmICIlfjEiPT0iIiAoDQplY2hvIHVzYWdlOiBlbmM2NCBmaWxlbmFtZS5wZGYgJiYgcGF1c2UgJiYgZXhpdA0KKQ0KY2VydHV0aWwgLWVuY29kZWhleCAtZiAlMSAlMS5CNjQudHh0IDB4NDAwMDAwMDENCnR5cGUgJTEuQjY0LnR4dHwgY2xpcA0KdGltZW91dCAvdCA1)
+- [Продам гараж](/tools/b64decode/?гараж.txt#0J/RgNC+0YHRgtC40YLQtSwg0LPQsNGA0LDQtiDRg9C20LUg0LrRgtC+LdGC0L4g0LrRg9C/0LjQuw)
+- [Скачать скрипт для кодировки файлов в baser64 (enc64.bat)](/tools/b64decode/?enc64.bat#QGVjaG8gb2ZmDQpjaGNwIDEyNTEgPiBudWwNCmlmICIlfjEiPT0iIiAoDQplY2hvIHVzYWdlOiBlbmM2NCBmaWxlbmFtZS5wZGYgJiYgcGF1c2UgJiYgZXhpdA0KKQ0KY2VydHV0aWwgLWVuY29kZWhleCAtZiAlMSAlMS5CNjQudHh0IDB4NDAwMDAwMDENCnR5cGUgJTEuQjY0LnR4dHwgY2xpcA0KdGltZW91dCAvdCA1)
 
 ## Что дальше?
 - попробовать использовать blob

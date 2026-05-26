@@ -23,7 +23,6 @@ main {
 
 
 /* НАВИГАТОР ДЛЯ ТЕЛЕФОНА */
-
 @media all and (max-width: 672px) {
 	header #nav {
 		display: inline;
@@ -35,10 +34,20 @@ main {
 		padding: 0.5rem;
 	}
 	ul {
-		padding: 20px;
+		padding-right: 0px;
+		padding-top: 3px;
+		padding-left: 20px;
+		padding-bottom: 5px;
 	}
 }
 
+.main-content h4 {
+	margin-bottom: 0;
+}
+
+.main-content ul :first-child {
+    margin-top: 0.75rem;
+}
 
 /* КНОПКА ВВЕРХ */
 

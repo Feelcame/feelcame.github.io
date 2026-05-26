@@ -1,3 +1,9 @@
+---
+title: Клавиатуры и раскладки
+date: 2026-01-01T01:00:00
+tags: soft
+---
+
 ## Универсальная русско-украинская раскладка
 Версия от Tonsky (для Mac)
 https://github.com/tonsky/Universal-Layout

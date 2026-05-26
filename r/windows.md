@@ -1,9 +1,9 @@
 ---
 title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
+tags: soft
 redirect_from:
   - /d/windows
-pin: 0
 ---
 
 
@@ -20,7 +20,6 @@ pin: 0
 <div style="font-size: 13px;">
 
 [**MEGA**](https://mega.nz/folder/MvV32RgA#c4QjxbaA1_jal0KEnnfT8A),
-[**FEX**](https://fex.net/uk/s/vl6ftsa)
 </div>
 
 

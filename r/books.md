@@ -1,7 +1,9 @@
 ---
 title: Книжный клуб
 date: 2021-08-24T21:22:59+03:00
+tags: media
 ---
+
 {% comment %}
 {% endcomment %}
 <style>

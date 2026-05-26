@@ -1,7 +1,7 @@
 ---
-title: Как заряжать аккумуляторы
+title: Аккумуляторное питание. Зарядники, BMS
 date: 2021-09-01T12:00:00
-tags: power
+tags: components
 ---
 
 - ToC  

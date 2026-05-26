@@ -1,7 +1,7 @@
 ---
 title: Где хранить комментарии
-tags: server
 date: 2021-01-01T12:00:00
+tags: server
 ---
 
 ## Аналитика {#analytics}

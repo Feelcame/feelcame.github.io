@@ -1,7 +1,7 @@
 ---
 title: Софт для Android
 date: 2021-07-24T00:00:00+03:00
-pin: 0
+tags: mobile
 style: 'img[alt="icon"]{max-width: 180px; border-radius: 20%; box-shadow: 0 1px 2px 0 rgba(60, 64, 67, .3), 0 1px 3px 1px rgba(60, 64, 67, .15);}'
 redirect_from:
   - /d/android

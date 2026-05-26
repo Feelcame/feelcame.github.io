@@ -4,7 +4,6 @@ date: 2021-01-17T00:34:10+02:00
 modified: 2022-06-12T21:33:45+03:00
 comments: 101
 tags: web
-pin: 6
 ---
 
 - Table of Content  

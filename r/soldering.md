@@ -2,7 +2,7 @@
 title: Домашний набор для пайки и ремонта
 date: 2021-09-20T15:20:00+03:00
 comments: 1
-tags: soldering
+tags: hard
 ---
 
 ## Паяльники

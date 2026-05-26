@@ -1,6 +1,7 @@
 ---
 title: Bluetooth модули и усилители звука
-no-date: 2021-05-30T13:25:02+03:00
+date: 2021-05-30T13:25:02+03:00
+tags: components
 ---
 
 ## Bluetooth модули

@@ -1,8 +1,8 @@
 ---
 title: Приложения для заметок
-;date: 2022-11-15T14:58:42+02:00
+date: 2022-11-15T14:58:42+02:00
 comments: 114
-tags: native
+tags: media
 ---
 
 - toc

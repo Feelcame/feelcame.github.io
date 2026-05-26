@@ -1,7 +1,7 @@
 ---
 title: Что вы знаете про Smart TV?
 date: 2023-04-24T16:30:00
-pin: 0
+tags: mobile
 ---
 
 - toc

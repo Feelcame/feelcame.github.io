@@ -1,7 +1,12 @@
 ---
-title: Фильмы
-date:
+title: Сервисы для просмотра фильмов
+date: 2026-05-01T01:00:00
+tags: media
 ---
+
+## Список торрент трекеров
+- <https://rutracker.org>
+- <https://nnmclub.me>
 
 **Фильмецы**
 
