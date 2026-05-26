@@ -82,7 +82,7 @@
 {%- endcapture -%}
 
 {%- if spoiler -%}
-<details markdown="0"><summary markdown="0">{{ spoiler }} ({{ result_size }})<a class="anchorjs-link " href="#{{ tag }}" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></summary>
+<details markdown="0"><summary markdown="0">{{ spoiler }} ({{ result_size }})<a class="anchorjs-link " href="#{{ tag | default: ""}}" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></summary>
 {{ result }}
 </details>
 {%- else -%}
