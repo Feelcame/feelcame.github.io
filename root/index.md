@@ -26,7 +26,7 @@ redirect_from:
 ### Все статьи {#articles}
 
 <div style="font-size:0.7em;">
-Сортировка: [по категориям](#articles), [по дате](#sort-by-date), [произвольная](/r/index.md)
+Сортировка: [по категориям](#articles), [по дате](#all/r/), [произвольная](/r/index.md)
 </div>
 
 <!--soft mobile web server coding arduino hard components media-->
@@ -41,18 +41,13 @@ redirect_from:
 {% include jcat.md dir="/r/" tag="components" spoiler="Компонентная база - components" %}
 {% include jcat.md dir="/r/" tag="media" spoiler="Медиа - media" %}
 
-### отладка
+### Больше
 
-<details markdown="0"><summary markdown="0">Все страницы<a class="anchorjs-link " href="#all" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></summary>
-<a id="sort-by-date" style="scroll-margin-top: 40px;"></a>
-{% include jcat.md dir="/r/" %}
-</details>
+{% include jcat.md dir="/r/" tag="" spoiler="Все страницы" %}
+{% include jcat.md dir="/r/" ntag="soft mobile web server coding arduino hard components media" spoiler="исключить тэги выше" %}
+{% include jcat.md dir="/r/" tag="empty" spoiler="все страницы без тэгов" %}
 
-{% include jcat.md dir="/r/" ntag="soft mobile web server coding arduino hard components media" spoiler="без тэгов" %}
-{% include jcat.md dir="/r/" tag="empty" spoiler="скрытые" %}
 
-{%- comment -%}
-{%- endcomment -%}  
 
 
 
