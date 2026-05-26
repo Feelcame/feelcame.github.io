@@ -29,7 +29,7 @@ redirect_from:
 {: #articles style="margin-top:0;"}
 
 <div style="font-size:0.7em;">
-Сортировка: [по категориям](#articles), [по дате](#all/r/), [произвольная](./r/index.md)
+Сортировка: [по категориям](#articles), [по дате](#all/r/), [произвольная](/r/)
 </div>
 <a id="articles" href=""></a>
 
