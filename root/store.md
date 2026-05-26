@@ -7,7 +7,7 @@ permalink: /:basename
 
 
 - **Источники питания**
-	- [ИБП для роутера](/store/ups.md)
+	- [ИБП для роутера](../store/ups.md)
 	- [DC ИБП How To](/store/ups2.md)
 	- [UPS Источники бесперебойного питания](/store/ups.md)
 	- [DCDC преобразователи](/store/dcdc.md)
