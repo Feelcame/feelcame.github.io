@@ -166,7 +166,7 @@ details[open] summary:before {
 }
 
 
-/*
+/* плавающая кнопка "еще", активна при поиске */
 .float-btn{
 	position:fixed;
 	//width:60px;
@@ -185,4 +185,4 @@ details[open] summary:before {
 	font-size:18px;
 	font-family:Verdana, Geneva, sans-serif;
 }
-*/
+
