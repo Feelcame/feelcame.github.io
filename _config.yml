@@ -54,7 +54,7 @@ defaults:
     layout: default
 
 
-exclude: [node_modules, README.md, drafts]
+exclude: [node_modules, drafts, README.md, TODO.md, Gemfile, Gemfile.lock, rundebug.cmd, runedit.py]
 
 
 #markdown: GFM
