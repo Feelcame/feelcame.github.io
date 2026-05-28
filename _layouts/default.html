@@ -25,23 +25,22 @@
 	<!-- <h1 class="project-name">{{ page.title }}</h1> -->
 	<a href="#top" id="vverh"></a>
 <div id="nav">
-	<a href="{{ '/' | relative_url }}" class="btn">🏠</a>
+	<a href="{{ '/' | relative_url }}" class="btn">🏠&nbsp;Домик</a>
+	<a href="{{ '/r/' | relative_url }}" class="btn">💾&nbsp;Статьи</a>
+	<a href="{{ '/store' | relative_url }}" class="btn">🔧&nbsp;Магазин</a>
 	<a href="{{ '/search' | relative_url}}" class="btn">🔍</a>
-	<a href="{{ '/code' | relative_url }}" class="btn">💾&nbsp;Кодинг</a>
-	<a href="{{ '/hard' | relative_url }}" class="btn">🔧&nbsp;Железки</a>
-	<a href="{{ '/soft' | relative_url }}" class="btn">📸&nbsp;Софт</a>
+{%- comment -%} 
+	<!--
 	<a href="{{ '/store' | relative_url }}" class="btn">💬&nbsp;Запчасти</a>
-	<!--<a href="{{ '/projects/' | relative_url }}" class="btn">📚&nbsp;Проекты</a>-->
+	<a href="{{ '/projects/' | relative_url }}" class="btn">📚&nbsp;Проекты</a>
+	-->
+{%- endcomment -%} 
 </div>
-	{%- if page.description %}
-	<h2 class="project-tagline" id="top">{{ page.description | default: "" }}</h2>
-	{% endif -%}
-
 	</header>
 	<main id="content" class="main-content" role="main">
-		{% if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
 		{% assign dir = page.path | split: "/" | first %}
-		{% if dir == "_store" %}{% include breadcrumbs.html %}{% endif %}
+		{% if dir == "store" %}{% include breadcrumbs.html %}{% endif %}
+		{% if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
 		{%- if page.pin !=0 and page.permalink == nil and page.date or page.modified %}
 		<time class="shaded">
 		Опубликовано: {{ page.date | date: "%Y-%m-%d" | default: "недавно" -}}
