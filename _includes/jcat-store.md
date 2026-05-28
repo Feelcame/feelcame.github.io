@@ -1,6 +1,6 @@
 
 {% comment %} Задаем базовую директорию, содержимое которой хотим вывести {% endcomment %}
-{% assign base_dir = "/store/" | default: include.dir | default: page.dir %}
+{% assign base_dir = include.dir | default: page.dir %}
 
 <ul>
   {% comment %} Создаем пустой массив для хранения списка найденных подпапок {% endcomment %}
