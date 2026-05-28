@@ -1,7 +1,7 @@
 ---
 title: Софт маководам
 date: 2025-05-01T01:00:00
-tags: soft
+;tags: soft
 
 ---
 
