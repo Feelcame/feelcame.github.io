@@ -12,11 +12,12 @@ redirect_from:
   - /nav/
 ---
 
-
+<!--
 <form id="search-input-form" name="search" method="get" action="/search">
 <input id="search-input" type="search" name="q" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">
 <span style="display: block; text-align: center;">
 </form>
+-->
 
 <div style="font-family: cursive;">
 #### Рекомендации
