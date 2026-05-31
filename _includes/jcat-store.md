@@ -1,101 +1,83 @@
-
 {% comment %} Задаем базовую директорию, содержимое которой хотим вывести {% endcomment %}
 {% assign base_dir = include.dir | default: page.dir %}
 
 <ul>
-  {% comment %} Создаем пустой массив для хранения списка найденных подпапок {% endcomment %}
+  {% comment %} --- ШАГ 1: ПОИСК ВСЕХ ВЛОЖЕННЫХ ПОДПАПОК --- {% endcomment %}
   {% assign subdirs = "" | split: "" %}
-  
-  {% comment %} --- ШАГ 1: ПОИСК ВСЕХ ПОДПАПОК --- {% endcomment %}
+
   {% for p in site.pages %}
-    {% comment %} Берем начало пути текущей страницы, равное длине базовой директории {% endcomment %}
+    {% comment %} Берем начало пути текущей страницы {% endcomment %}
     {% assign starts_with = p.dir | slice: 0, base_dir.size %}
-    
-    {% comment %} Проверяем: находится ли страница внутри /store/, но при этом не в самом корне /store/ {% endcomment %}
+
+    {% comment %} Проверяем: находится ли страница внутри base_dir, но не в самом корне {% endcomment %}
     {% if starts_with == base_dir and p.dir != base_dir %}
-      {% comment %} Разбиваем путь страницы на части по слешу ("/") {% endcomment %}
-      {% assign dir_parts = p.dir | split: "/" %}
-      {% comment %} Извлекаем название первой подпапки (индекс 2, так как 0 — пустота до первого слеша, 1 — "store") {% endcomment %}
-      {% assign folder_name = dir_parts[2] %}
       
-      {% if folder_name %}
-        {% comment %} Формируем полный путь к найденной подпапке {% endcomment %}
+      {% comment %} Динамически получаем имя первой подпапки, отрезая базовый путь {% endcomment %}
+      {% assign relative_path = p.dir | remove_first: base_dir %}
+      {% assign folder_name = relative_path | split: "/" | first %}
+
+      {% if folder_name and folder_name != "" %}
         {% assign folder_path = base_dir | append: folder_name | append: "/" %}
-        
-        {% comment %} Если этой подпапки еще нет в нашем массиве subdirs, добавляем (push) ее {% endcomment %}
+
+        {% comment %} Добавляем папку в массив, если ее там еще нет {% endcomment %}
         {% unless subdirs contains folder_path %}
           {% assign subdirs = subdirs | push: folder_path %}
         {% endunless %}
       {% endif %}
+
     {% endif %}
   {% endfor %}
 
   {% comment %} Сортируем собранные пути подпапок по алфавиту {% endcomment %}
   {% assign sorted_subdirs = subdirs | sort %} 
-  
-  {% comment %} --- ШАГ 2: ВЫВОД СПИСКА ПАПОК И ПОДСЧЕТ ФАЙЛОВ В НИХ --- {% endcomment %}
+
+  {% comment %} --- ШАГ 2: ВЫВОД СПИСКА ПАПОК И ПОДСЧЕТ ЭЛЕМЕНТОВ В НИХ --- {% endcomment %}
   {% for folder_path in sorted_subdirs %}
-    {% comment %} Получаем название папки для вывода (если у нее не задан заголовок) {% endcomment %}
     {% assign folder_parts = folder_path | split: "/" %}
     {% assign fallback_name = folder_parts | last | capitalize %}
-    
-    {% comment %} Ищем файл index.md внутри этой папки, чтобы взять его title (заголовок) {% endcomment %}
+
+    {% comment %} Ищем файл index.md внутри этой папки для заголовка {% endcomment %}
     {% assign folder_index = site.pages | where: "dir", folder_path | where: "name", "index.md" | first %}
     {% assign folder_title = folder_index.title | default: fallback_name %}
-    
-	{% comment %} Считаем количество страниц внутри этой папки {% endcomment %}
+
     {% assign page_count = 0 %}
-    {% for p in site.pages %}
-      {% assign p_starts = p.dir | slice: 0, folder_path.size %}
-      {% comment %} Если страница лежит в этой папке и это не index.md — увеличиваем счетчик {% endcomment %}
-      {% if p_starts == folder_path and p.name != "index.md" %}
-        {% assign page_count = page_count | plus: 1 %}
-      {% endif %}
-    {% endfor %}
-	
-	{% comment %} Считаем количество вложенных папок внутри этой папки {% endcomment %}
     {% assign nested_folders = "" | split: "" %}
-    {% comment %} Определяем уровень вложенности текущей папки, чтобы правильно вырезать имя подпапки {% endcomment %}
-    {% assign folder_depth = folder_path | split: "/" | size %}
 
     {% for p in site.pages %}
       {% assign p_starts = p.dir | slice: 0, folder_path.size %}
-      
-      {% comment %} Если страница лежит глубже текущей папки (путь начинается так же, но он длиннее) {% endcomment %}
-      {% if p_starts == folder_path and p.dir != folder_path %}
-        {% assign p_dir_parts = p.dir | split: "/" %}
-        {% comment %} Извлекаем имя следующей папки по уровню глубины {% endcomment %}
-        {% assign subfolder_name = p_dir_parts[folder_depth] %}
-        
-        {% if subfolder_name %}
-          {% comment %} Добавляем папку в массив, только если ее там еще нет (считаем уникальные) {% endcomment %}
-          {% unless nested_folders contains subfolder_name %}
-            {% assign nested_folders = nested_folders | push: subfolder_name %}
-          {% endunless %}
+
+      {% if p_starts == folder_path %}
+        {% if p.dir == folder_path %}
+          {% comment %} Считаем страницы, лежащие непосредственно в этой папке {% endcomment %}
+          {% if p.name != "index.md" %}
+            {% assign page_count = page_count | plus: 1 %}
+          {% endif %}
+        {% else %}
+          {% comment %} Считаем уникальные вложенные подпапки СЛЕДУЮЩЕГО уровня {% endcomment %}
+          {% assign sub_relative_path = p.dir | remove_first: folder_path %}
+          {% assign subfolder_name = sub_relative_path | split: "/" | first %}
+
+          {% if subfolder_name and subfolder_name != "" %}
+            {% unless nested_folders contains subfolder_name %}
+              {% assign nested_folders = nested_folders | push: subfolder_name %}
+            {% endunless %}
+          {% endif %}
         {% endif %}
       {% endif %}
     {% endfor %}
-    
-    {% comment %} Итоговое количество уникальных вложенных папок {% endcomment %}
-    {% assign folder_count = nested_folders | size %}
-	
-	{% comment %} Суммируем количество вложенных элементов (папки и страницы) {% endcomment %}
-	{% assign page_count = page_count | plus: folder_count %}
 
-	
-    {% comment %} Выводим ссылку на папку, её название и количество страниц в скобках {% endcomment %}
-    <li>📁 <a href="{{ folder_path | relative_url }}">{{ folder_title }}</a> ({{ page_count }})</li>
+    {% comment %} Суммируем количество вложенных файлов и папок {% endcomment %}
+    {% assign folder_count = nested_folders | size %}
+    {% assign total_items_count = page_count | plus: folder_count %}
+
+    <li>📁 <a href="{{ folder_path | relative_url }}">{{ folder_title }}</a> ({{ total_items_count }})</li>
   {% endfor %}
 
   {% comment %} --- ШАГ 3: ВЫВОД ФАЙЛОВ В БАЗОВОЙ ДИРЕКТОРИИ --- {% endcomment %}
-  {% comment %} Находим все страницы, которые лежат ровно в базовой директории (/store/) {% endcomment %}
   {% assign current_pages = site.pages | where: "dir", base_dir | where_exp: "item", "item.pin != 0" %}  
 
-  
   {% for page in current_pages %}
-    {% comment %} Исключаем из вывода главный индексный файл раздела {% endcomment %}
     {% if page.name != "index.md" %}
-      {% comment %} Выводим ссылку на файл и его заголовок (или "Без названия", если заголовка нет) {% endcomment %}
       <li>📄 <a href="{{ page.url | relative_url }}">{{ page.title | default: "Без названия" }}</a></li>
     {% endif %}
   {% endfor %}
