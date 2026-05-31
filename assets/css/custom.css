@@ -101,6 +101,10 @@ main .title {
     border-top: solid 2px #eff0f1;
 }
 
+.breadcrumbs {
+	font-size: 0.8rem;
+}
+
 
 
 /* КАСТОМНЫЕ СПОЙЛЕРЫ
