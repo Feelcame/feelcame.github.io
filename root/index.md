@@ -29,7 +29,7 @@ permalink: /:basename
 {: #articles style="margin-top:0;font-family:cursive;"}
 
 <div style="font-size:0.7em;font-family: cursive;">
-Сортировка: [по категориям](#articles), [по дате](#all/r/), [произвольная](/r/)
+Сортировка: [по категориям](/r/index), [по дате](/r/all), [произвольная](/r/articles)
 </div>
 <a id="articles" href=""></a>
 
