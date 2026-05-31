@@ -98,7 +98,8 @@ main .title {
 
 .site-footer {
 	background-color: #27bf3a1a;
-    border-top: solid 2px #eff0f1;
+	margin-top: 10rem;
+    /* border-top: solid 2px #eff0f1; */
 }
 
 .breadcrumbs {
