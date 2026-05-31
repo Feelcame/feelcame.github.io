@@ -1,7 +1,7 @@
 ---
-no-title: Поиск
+# title: Поиск
 permalink: /search
-no-permalink: /:basename
+# permalink: /:basename
 ---
 <div markdown="0">
 <input type="text" id="search-input2" placeholder="Введи поисковой запрос.." style="width: 100%; padding: 12px 20px; margin: 8px 0; box-sizing: border-box;">

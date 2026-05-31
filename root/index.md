@@ -1,15 +1,15 @@
 ---
-no-title: Домик
-;date: 2020-07-16T13:31:13+03:00
-;modified: 2024-01-15T22:24:23+03:00
-;layout: home
 pin: 0
-;style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}} h2.title {display: none}'
 permalink: /:basename
-script: document.querySelector('#search-input').focus();
-redirect_from: 
-  - /nav/index
-  - /nav/
+# title: Домик
+# date: 2020-07-16T13:31:13+03:00
+# modified: 2024-01-15T22:24:23+03:00
+# layout: home
+# style: '@media all and (max-width: 672px) {header a.not-mobile{display: none;}} h2.title {display: none}'
+# script: document.querySelector('#search-input').focus();
+# redirect_from: 
+#  - /nav/index
+#  - /nav/
 ---
 
 <!--

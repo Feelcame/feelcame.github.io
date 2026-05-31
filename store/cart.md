@@ -1,7 +1,7 @@
 ---
 title: Корзина
 pin: 0
-;permalink: /:basename
+# permalink: /:basename
 ---
 
 Инфа хранится в [LocalStorage](https://learn.javascript.ru/localstorage)

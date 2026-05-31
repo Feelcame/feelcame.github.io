@@ -2,8 +2,6 @@
 title: Программы на Windows
 date: 2021-09-09T12:19:30+03:00
 tags: soft
-redirect_from:
-  - /d/windows
 pin: 20
 ---
 
