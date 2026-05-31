@@ -52,6 +52,8 @@
 		</time>
 		{%- endif %}
 {{ content }}
+{% assign content_size = content | strip | size -%}
+{% if content_size == 0 %}:thinking:{% endif %}
 		{%- if page.date or page.modified -%}
 		<time class="shaded">
 		Дата: {{ page.date | date: "%Y-%m-%d" | default: "не указана" }}
