@@ -2,21 +2,7 @@
 title: Модули Arduino
 ---
 
-## Отладочные платы
-- arduino nano
-- wemos d1 mini
-- mhetesp32minikit
-- stm32 blue pill
-- stm32 black pill
-- Отладочная плата stm32h743 
-
-## Датчики
-- Датчики температуры ds18b20
-- Датчик влажности
-
-
-## Дисплеи
-- Модуль дисплея для wemos d1 mini
+{% include jcat-store.md %}
 
 
 ## Программаторы
@@ -25,7 +11,4 @@ title: Модули Arduino
 - Программатор ST-LINK для STM32 по SWD
 
 
-## Микроконтроллеры
-- attiny 13. 10грн
-- atmega 328p, как в ардуинах
-- esp8266
+
