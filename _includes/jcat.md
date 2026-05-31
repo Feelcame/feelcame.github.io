@@ -30,10 +30,13 @@
   {%- for item in ntag_pages -%}
     {%- assign exclude = false -%}
     {%- if item.tags -%}
+      {%- comment -%} Принудительно делаем из тегов массив для точного совпадения {%- endcomment -%}
+      {%- assign normalized_tags = item.tags | join: " " | split: " " -%}
       {%- for t in ntags -%}
-        {%- if t != "" and item.tags contains t -%}
+        {%- if t != "" and normalized_tags contains t -%}
           {%- assign exclude = true -%}
-          {%- break -%} {%- endif -%}
+          {%- break -%}
+        {%- endif -%}
       {%- endfor -%}
     {%- endif -%}
     {%- unless exclude -%}
@@ -46,9 +49,15 @@
 
  
 {%- if tag and tag != "empty" %}  
-{%- assign tag_pages = toshow_pages | where_exp: "item", "item.tags contains tag" -%}  
+{%- assign tag_pages = "" | split: "" -%}
+{%- for item in toshow_pages -%}
+  {%- assign normalized_tags = item.tags | join: " " | split: " " -%}
+  {%- if normalized_tags contains tag -%}
+    {%- assign tag_pages = tag_pages | push: item -%}
+  {%- endif -%}
+{%- endfor -%}
 {%- assign result_pages = tag_pages -%} 
-{%- endif %}  
+{%- endif %} 
 
 {%- assign wo_tag_pages = dir_pages | where_exp: "item", "item.tags == nil" -%}  
 {%- if tag == "empty" %}{%- assign result_pages = wo_tag_pages -%}{%- endif %}
