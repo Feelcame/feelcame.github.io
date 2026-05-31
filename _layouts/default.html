@@ -40,7 +40,9 @@
 	</header>
 	<main id="content" class="main-content" role="main">
 		{% assign dir = page.path | split: "/" | first %}
-		{% if dir == "store" %}{% include breadcrumbs.html %}{% endif %}
+		{% if dir == "store" %}
+		  {% include breadcrumbs.md %}{% if page.title == nil %}<div style="height:1em;"></div>{% endif %}
+		{% endif %}
 		{% if page.title %}<h2 class="title no_anchor"><strong>{{ page.title }}</strong></h2>{% endif -%}
 		{%- if page.pin !=0 and page.permalink == nil and page.date or page.modified %}
 		<time class="shaded">
