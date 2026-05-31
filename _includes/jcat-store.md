@@ -78,7 +78,8 @@
 
   {% for page in current_pages %}
     {% if page.name != "index.md" %}
-      <li>📄 <a href="{{ page.url | relative_url }}">{{ page.title | default: "Без названия" }}</a></li>
+      {% assign fallback_filename = page.name | remove: ".md" %}
+      <li>📄 <a href="{{ page.url | relative_url }}">{{ page.title | default: fallback_filename }}</a></li>
     {% endif %}
   {% endfor %}
 </ul>
