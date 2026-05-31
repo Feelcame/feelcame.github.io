@@ -1,7 +1,7 @@
 ---
+no-title: Домик
 pin: 0
 permalink: /:basename
-# title: Домик
 # date: 2020-07-16T13:31:13+03:00
 # modified: 2024-01-15T22:24:23+03:00
 # layout: home
